@@ -1,0 +1,423 @@
+{
+ "niche": "cartoon_comedy",
+ "keywords": [
+  "funny animation",
+  "cartoon animation",
+  "animated meme",
+  "comedy animation",
+  "cartoon funny"
+ ],
+ "relevance": "animat|cartoon|toon|\\b[23]d\\b|stick ?(man|figure)|comic",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:17 UTC",
+ "fresh_uploads": 219,
+ "fresh_uploaders": 188,
+ "new_uploaders": 74,
+ "new_share_of_uploaders": 0.394,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 35,
+ "shorts": 948,
+ "median_views": 34322,
+ "p75_views": 179006,
+ "p90_views": 1320940,
+ "share_10k": 0.673,
+ "share_100k": 0.3133,
+ "share_1m": 0.1203,
+ "ci95_100k": [
+  0.2846,
+  0.3435
+ ],
+ "hits_100k": 297,
+ "hits_1m": 114,
+ "channels_any_100k": 0.657,
+ "channels_any_1m": 0.514,
+ "median_channel_median": 28842,
+ "top": [
+  {
+   "views": 24670694,
+   "title": "She Wanted Me To Hit And Run... 💀  #roblox #animation #funny",
+   "channel": "PurpleHat",
+   "ch": "UCdifZWvFfOCVhrLSJuT0RkA",
+   "url": "https://youtube.com/shorts/_T5LhbrR-yo",
+   "age_d": 29
+  },
+  {
+   "views": 22957999,
+   "title": "Nothing Makes Sense After Waking Up 😂 #talkingtom #funny #animation",
+   "channel": "Wat Thanna",
+   "ch": "UChIMCY9evfbzPLTrYsr86gw",
+   "url": "https://youtube.com/shorts/7d0dVN0CJHQ",
+   "age_d": 34
+  },
+  {
+   "views": 18056876,
+   "title": "He Sent Our Teacher To The Ceiling... 💀🎈 #roblox #funny #animation",
+   "channel": "PurpleHat",
+   "ch": "UCdifZWvFfOCVhrLSJuT0RkA",
+   "url": "https://youtube.com/shorts/QV3Je0-hIA0",
+   "age_d": 16
+  },
+  {
+   "views": 17799686,
+   "title": "She Wanted Me To Help Her Son Cheat... 💀 #roblox #funny #animation",
+   "channel": "PurpleHat",
+   "ch": "UCdifZWvFfOCVhrLSJuT0RkA",
+   "url": "https://youtube.com/shorts/Fh2t8RdXpGY",
+   "age_d": 33
+  },
+  {
+   "views": 17660474,
+   "title": "She Called Me a Creep... 💀  #roblox  #funny #animation",
+   "channel": "PurpleHat",
+   "ch": "UCdifZWvFfOCVhrLSJuT0RkA",
+   "url": "https://youtube.com/shorts/7Pru92SD-G4",
+   "age_d": 70
+  },
+  {
+   "views": 17471603,
+   "title": "He Tried To Steal My Wife... 💀💪 #roblox #funny #animation",
+   "channel": "PurpleHat",
+   "ch": "UCdifZWvFfOCVhrLSJuT0RkA",
+   "url": "https://youtube.com/shorts/5Xqc8iQiKdo",
+   "age_d": 55
+  },
+  {
+   "views": 15724958,
+   "title": "Cat Gets One Tiny Scoop of Food… Mouse Saves the Day! 😂🍽️ #Animation #Funny",
+   "channel": "Colt & Monty",
+   "ch": "UC80NIww2S3K0-yT0oNkb6Uw",
+   "url": "https://youtube.com/shorts/hxiIDka7eZQ",
+   "age_d": 44
+  },
+  {
+   "views": 15527422,
+   "title": "She Wanted A Seat For Her Unborn Baby... 💀👶",
+   "channel": "PurpleHat",
+   "ch": "UCdifZWvFfOCVhrLSJuT0RkA",
+   "url": "https://youtube.com/shorts/nqsJ1Ph3M94",
+   "age_d": 22
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCtlLLIfebd9HD4JbyCKl90g",
+   "title": "NoobNation 3D",
+   "created": "2026-10-09",
+   "subs": 25,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCQx3aCYq1GK2rbX9Kicm0fQ",
+   "title": "Random Cartoons",
+   "created": "2026-10-20",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCFB0v0z9NMSxGAGIB7buSxQ",
+   "title": "Mmc0013",
+   "created": "2025-11-21",
+   "subs": 50100,
+   "shorts_aged": 44,
+   "max": 10851336
+  },
+  {
+   "ch": "UCt1DdT6MQzlp8qQ4IGvS25Q",
+   "title": "ItsWolfMan",
+   "created": "2025-12-09",
+   "subs": 53400,
+   "shorts_aged": 43,
+   "max": 2199412
+  },
+  {
+   "ch": "UCPdj7_SAC16JF3PCBQbu69Q",
+   "title": "Toonbox TV",
+   "created": "2026-10-03",
+   "subs": 4,
+   "shorts_aged": 9,
+   "max": 56
+  },
+  {
+   "ch": "UCgnHmtV18xyuFsT2CEFAyOg",
+   "title": "Ghibli art and stories",
+   "created": "2026-10-19",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCv4MYIpomiF23kipYC5PgvA",
+   "title": "PagalPanti Toons",
+   "created": "2026-10-13",
+   "subs": 40,
+   "shorts_aged": 11,
+   "max": 36619
+  },
+  {
+   "ch": "UCxAGPq2sSU1JM76UA4ORdOA",
+   "title": "𝗚𝘂𝗻𝘇𝗼𝗼𝗸𝗶𝗲",
+   "created": "2026-08-25",
+   "subs": 850,
+   "shorts_aged": 48,
+   "max": 92950
+  },
+  {
+   "ch": "UC5L-qK44-aamd1DU_QiCmLQ",
+   "title": "Goofy Gulch",
+   "created": "2026-10-12",
+   "subs": 1600,
+   "shorts_aged": 3,
+   "max": 522262
+  },
+  {
+   "ch": "UCHt-AIe78p8yyRPMKDOaXXw",
+   "title": "Mindflat Films",
+   "created": "2026-10-13",
+   "subs": 8,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCBQDMKl3qNft_6zLwUWxurw",
+   "title": "StickVerse",
+   "created": "2026-10-13",
+   "subs": 70,
+   "shorts_aged": 14,
+   "max": 1990
+  },
+  {
+   "ch": "UC85ZxoDxjqBgssXmDDe95jg",
+   "title": "cyrazula",
+   "created": "2026-09-25",
+   "subs": 24700,
+   "shorts_aged": 23,
+   "max": 196849
+  },
+  {
+   "ch": "UCmTbGi6V1YdW0gPEQsXuSjQ",
+   "title": "erwerw",
+   "created": "2026-07-13",
+   "subs": 7560,
+   "shorts_aged": 43,
+   "max": 1545477
+  },
+  {
+   "ch": "UCFjPse3q2_2suLqTKwauCEg",
+   "title": "Sphere Fernandinho",
+   "created": "2026-04-09",
+   "subs": 6950,
+   "shorts_aged": 40,
+   "max": 1298649
+  },
+  {
+   "ch": "UC1sYuEJGVSyFa5FhkHHvtTw",
+   "title": "Amino Fun",
+   "created": "2026-10-13",
+   "subs": 23,
+   "shorts_aged": 7,
+   "max": 26157
+  },
+  {
+   "ch": "UC5ZFzdzRPKL5lITYFv-CMDg",
+   "title": "MaizCr",
+   "created": "2026-05-25",
+   "subs": 31500,
+   "shorts_aged": 32,
+   "max": 5305241
+  },
+  {
+   "ch": "UCdifZWvFfOCVhrLSJuT0RkA",
+   "title": "PurpleHat",
+   "created": "2026-06-26",
+   "subs": 544000,
+   "shorts_aged": 43,
+   "max": 24670694
+  },
+  {
+   "ch": "UCt7u1z5ZvYxveyirtzntpNw",
+   "title": "NN Vines Animation",
+   "created": "2026-09-11",
+   "subs": 1250,
+   "shorts_aged": 34,
+   "max": 312608
+  },
+  {
+   "ch": "UC92WqpbUrFGepaz4jetqLgA",
+   "title": "Animemecore",
+   "created": "2026-05-27",
+   "subs": 5800,
+   "shorts_aged": 35,
+   "max": 1926543
+  },
+  {
+   "ch": "UCH6smrx8L2ciTv0P5iPNYoQ",
+   "title": "Tokari",
+   "created": "2026-06-19",
+   "subs": 3580,
+   "shorts_aged": 23,
+   "max": 6775566
+  },
+  {
+   "ch": "UCAn1Idjw1UzPQol0iJNXPAA",
+   "title": "OddBall Animation",
+   "created": "2025-10-27",
+   "subs": 2110,
+   "shorts_aged": 41,
+   "max": 2457
+  },
+  {
+   "ch": "UCvzIFmiAgd7VoLXARAnYuoA",
+   "title": "Felony Verse",
+   "created": "2026-10-22",
+   "subs": 22,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCYQgDs3pNjHFv6zDrFE4Yjw",
+   "title": "Gummik",
+   "created": "2025-10-31",
+   "subs": 35800,
+   "shorts_aged": 38,
+   "max": 1798977
+  },
+  {
+   "ch": "UChIMCY9evfbzPLTrYsr86gw",
+   "title": "Wat Thanna",
+   "created": "2026-07-22",
+   "subs": 35700,
+   "shorts_aged": 43,
+   "max": 22957999
+  },
+  {
+   "ch": "UC3fKuS0TJ1kI6xeG-FEZDCA",
+   "title": "Negative Grass Studio",
+   "created": "2025-12-28",
+   "subs": 105,
+   "shorts_aged": 8,
+   "max": 65687
+  },
+  {
+   "ch": "UCkllGXGPw02wLTqtVOl85_Q",
+   "title": "nnanimation18",
+   "created": "2026-10-10",
+   "subs": 525,
+   "shorts_aged": 12,
+   "max": 352433
+  },
+  {
+   "ch": "UCr3cos46GErkovnM_qd7SGw",
+   "title": "Learn To Talk Cartoon —",
+   "created": "2026-07-04",
+   "subs": 7,
+   "shorts_aged": 16,
+   "max": 1354
+  },
+  {
+   "ch": "UCNNpSydCP6LFWO3mI8WyG-w",
+   "title": "Sierra Art",
+   "created": "2026-01-23",
+   "subs": 60000,
+   "shorts_aged": 33,
+   "max": 3221476
+  },
+  {
+   "ch": "UC80NIww2S3K0-yT0oNkb6Uw",
+   "title": "Colt & Monty",
+   "created": "2026-04-15",
+   "subs": 115000,
+   "shorts_aged": 42,
+   "max": 15724958
+  },
+  {
+   "ch": "UClJyWamVRyIzxbTWyaLHG8A",
+   "title": "CubicToon",
+   "created": "2026-03-04",
+   "subs": 873000,
+   "shorts_aged": 43,
+   "max": 4882141
+  },
+  {
+   "ch": "UCU33Z5Lo7dthzHg5jevLzfw",
+   "title": "Motu Rhymes",
+   "created": "2025-10-31",
+   "subs": 643,
+   "shorts_aged": 12,
+   "max": 172665
+  },
+  {
+   "ch": "UCy85HiWYCVV2X4u3Fpenl3w",
+   "title": "Sticky Animation",
+   "created": "2026-10-17",
+   "subs": 10,
+   "shorts_aged": 9,
+   "max": 2175
+  },
+  {
+   "ch": "UCqX6Avb_R2xtbWNNIx2bWlg",
+   "title": "ROBLOX ME",
+   "created": "2026-09-10",
+   "subs": 44600,
+   "shorts_aged": 7,
+   "max": 9363081
+  },
+  {
+   "ch": "UCrG4VoPIq4IIQVWIOLAKXrw",
+   "title": "MoviMations",
+   "created": "2026-08-09",
+   "subs": 287,
+   "shorts_aged": 42,
+   "max": 1877
+  },
+  {
+   "ch": "UCIvh4dFLkCpAIJpH3KOtjlQ",
+   "title": "Giflee",
+   "created": "2026-08-17",
+   "subs": 9740,
+   "shorts_aged": 26,
+   "max": 8955569
+  },
+  {
+   "ch": "UCEmx85hqzW0OkNHaxgiR3lA",
+   "title": "SAMMY (FILMS)",
+   "created": "2026-10-14",
+   "subs": 13000,
+   "shorts_aged": 1,
+   "max": 32710
+  },
+  {
+   "ch": "UCgGCaH-9KaLl_a-xLo0AQYw",
+   "title": "Highly Unprofessional",
+   "created": "2026-09-23",
+   "subs": 29,
+   "shorts_aged": 26,
+   "max": 3955
+  },
+  {
+   "ch": "UC6S__fZ3vToJPhhc8htEzcA",
+   "title": "Big xuperman",
+   "created": "2026-02-06",
+   "subs": 39200,
+   "shorts_aged": 39,
+   "max": 7614133
+  },
+  {
+   "ch": "UC08YkZgy14JhVROWHJFi2Ew",
+   "title": "Cm.movie666",
+   "created": "2025-11-04",
+   "subs": 31900,
+   "shorts_aged": 44,
+   "max": 1121936
+  },
+  {
+   "ch": "UCslxfWQaDUn1o3isQiQZhtA",
+   "title": "FrameReaper",
+   "created": "2026-05-29",
+   "subs": 32800,
+   "shorts_aged": 14,
+   "max": 15252461
+  }
+ ]
+}

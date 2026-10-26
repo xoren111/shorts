@@ -1,0 +1,423 @@
+{
+ "niche": "sports_other",
+ "keywords": [
+  "nba",
+  "basketball",
+  "ufc",
+  "sports facts",
+  "sports moments"
+ ],
+ "relevance": "^(?!.*(soccer|messi|ronaldo|neymar|mbapp|yamal|haaland|premier league|fifa|futbol)).*(nba|wnba|basketball|ufc|\\bmma\\b|boxing|boxer|nfl|lebron|curry|jordan|kobe|wemby|wembanyama|dunk|knockout|\\bko\\b|fight|wrestl|wwe|\\bf1\\b|formula 1|tennis|golf|baseball|\\bmlb\\b|hockey|\\bnhl\\b|olympic|sport|athlete|super ?bowl|touchdown|quarterback|referee|buzzer|three.?pointer|\\bhoops?\\b|jon jones|mcgregor|tyson|ngannou|chimaev|pereira|world series|ohtani)",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:17 UTC",
+ "fresh_uploads": 308,
+ "fresh_uploaders": 209,
+ "new_uploaders": 67,
+ "new_share_of_uploaders": 0.321,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 36,
+ "shorts": 1161,
+ "median_views": 23610,
+ "p75_views": 68218,
+ "p90_views": 349545,
+ "share_10k": 0.6236,
+ "share_100k": 0.1998,
+ "share_1m": 0.0517,
+ "ci95_100k": [
+  0.1778,
+  0.2238
+ ],
+ "hits_100k": 232,
+ "hits_1m": 60,
+ "channels_any_100k": 0.528,
+ "channels_any_1m": 0.333,
+ "median_channel_median": 14105,
+ "top": [
+  {
+   "views": 15783215,
+   "title": "When Nerd Tries Basketball 😱 #basketball #streetball #professor #nba #shorts",
+   "channel": "BKT Stash",
+   "ch": "UCkJ_x7Rbudn1QJndhgiv2Vg",
+   "url": "https://youtube.com/shorts/6SlCKZL3cOQ",
+   "age_d": 92
+  },
+  {
+   "views": 13702347,
+   "title": "The \"Home Bun\" Challenge...😂💀",
+   "channel": "Dugout Daze",
+   "ch": "UCb2FJN0bH2DQuLQyB0Wxfow",
+   "url": "https://youtube.com/shorts/bxyFnsqYMzM",
+   "age_d": 46
+  },
+  {
+   "views": 11753793,
+   "title": "Baseball's Build-A-Dog Challenge...😂💀",
+   "channel": "Dugout Daze",
+   "ch": "UCb2FJN0bH2DQuLQyB0Wxfow",
+   "url": "https://youtube.com/shorts/2ZCgfl5op8s",
+   "age_d": 36
+  },
+  {
+   "views": 10207420,
+   "title": "When Kid Tries Zion Williamson in Basketball 😱 #basketball #nba #dunk #baskball #basketballball",
+   "channel": "BKT Stash",
+   "ch": "UCkJ_x7Rbudn1QJndhgiv2Vg",
+   "url": "https://youtube.com/shorts/nn8MYLPSnbM",
+   "age_d": 102
+  },
+  {
+   "views": 9836577,
+   "title": "Women vs Men's Dunk. Pt 3. #nba #nbaedits #basketball #basketballball #respect",
+   "channel": "BKT Stash",
+   "ch": "UCkJ_x7Rbudn1QJndhgiv2Vg",
+   "url": "https://youtube.com/shorts/CzXxUKacmu0",
+   "age_d": 43
+  },
+  {
+   "views": 6469808,
+   "title": "Best comeback OAT 😭🔥 #basketball #basketballmemes",
+   "channel": "hoopgoblin",
+   "ch": "UCDeSe5UI_tzA0hK4g-8Xazg",
+   "url": "https://youtube.com/shorts/AAs4s0A3rcw",
+   "age_d": 11
+  },
+  {
+   "views": 6195561,
+   "title": "Travel Places That Don’t Look Real#Facts",
+   "channel": "RudraUnseen",
+   "ch": "UCsbtEMK_JQguvcrjtzSLJ8g",
+   "url": "https://youtube.com/shorts/wqrk5Hbx1i0",
+   "age_d": 12
+  },
+  {
+   "views": 5897254,
+   "title": "He Rigs Game For Fantasy Football...😭💀",
+   "channel": "Dugout Daze",
+   "ch": "UCb2FJN0bH2DQuLQyB0Wxfow",
+   "url": "https://youtube.com/shorts/7wRUcKkGXMQ",
+   "age_d": 26
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCV3NhETJAs6gwomj53PRoIw",
+   "title": "CombatBang",
+   "created": "2026-02-07",
+   "subs": 123000,
+   "shorts_aged": 47,
+   "max": 5289590
+  },
+  {
+   "ch": "UCsbtEMK_JQguvcrjtzSLJ8g",
+   "title": "RudraUnseen",
+   "created": "2026-07-10",
+   "subs": 33400,
+   "shorts_aged": 26,
+   "max": 6195561
+  },
+  {
+   "ch": "UCJzmqRlSTjt5NthTS4BndtQ",
+   "title": "UFCplus",
+   "created": "2026-01-31",
+   "subs": 20500,
+   "shorts_aged": 43,
+   "max": 2896118
+  },
+  {
+   "ch": "UCg-WaReMQamHkthqjXR4eDg",
+   "title": "WNBA Hoops",
+   "created": "2026-06-09",
+   "subs": 1640,
+   "shorts_aged": 28,
+   "max": 27412
+  },
+  {
+   "ch": "UCyc3cmLnkOQI0OTTPDCJMug",
+   "title": "Rankify ROFL",
+   "created": "2026-10-12",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCkdsOkDzw4nr7enOyWrr8Yg",
+   "title": "Hoop Chronicles",
+   "created": "2026-02-26",
+   "subs": 9110,
+   "shorts_aged": 15,
+   "max": 282817
+  },
+  {
+   "ch": "UCzvJQ25vLFKthtmowXjVZiw",
+   "title": "Hands Up Gym",
+   "created": "2026-03-21",
+   "subs": 26,
+   "shorts_aged": 30,
+   "max": 1237
+  },
+  {
+   "ch": "UCqRayfOemq4lMcLL7YjX8mw",
+   "title": "Spidey Reels",
+   "created": "2026-06-20",
+   "subs": 619,
+   "shorts_aged": 47,
+   "max": 33225
+  },
+  {
+   "ch": "UCo3SlriXJgFCyYQ0y0LsxUA",
+   "title": "The Fight Breakdowns",
+   "created": "2026-08-09",
+   "subs": 1280,
+   "shorts_aged": 38,
+   "max": 741907
+  },
+  {
+   "ch": "UCrKAdl8gx4HcEd_rnRXhLoQ",
+   "title": "Facto Robert’s ",
+   "created": "2026-04-26",
+   "subs": 107000,
+   "shorts_aged": 36,
+   "max": 27385
+  },
+  {
+   "ch": "UCrpncvs-jvkRPv3uuPiCY3g",
+   "title": "Ruella Insight",
+   "created": "2026-05-26",
+   "subs": 42400,
+   "shorts_aged": 43,
+   "max": 918678
+  },
+  {
+   "ch": "UCmUaA5r8lFTa3CvPxR0fe1A",
+   "title": "Entirety Ball Central",
+   "created": "2026-05-20",
+   "subs": 3770,
+   "shorts_aged": 33,
+   "max": 2878
+  },
+  {
+   "ch": "UC4UzBuPJA78KZoL4lziQpiw",
+   "title": "mrfact",
+   "created": "2025-11-26",
+   "subs": 139000,
+   "shorts_aged": 42,
+   "max": 4284008
+  },
+  {
+   "ch": "UC9d7tk9yNwbaZ1o-AtZ0K4w",
+   "title": "ZELINE",
+   "created": "2025-12-19",
+   "subs": 28700,
+   "shorts_aged": 41,
+   "max": 600588
+  },
+  {
+   "ch": "UCgNl6VpIAoukj1Q71H-CSDw",
+   "title": "PeakFacts",
+   "created": "2026-03-01",
+   "subs": 653,
+   "shorts_aged": 37,
+   "max": 118640
+  },
+  {
+   "ch": "UCqXMVYpfdOe5SmBe6rY1Lyg",
+   "title": "Clutch Ranks",
+   "created": "2026-10-11",
+   "subs": 34,
+   "shorts_aged": 2,
+   "max": 5298
+  },
+  {
+   "ch": "UCXv3PrtZlD_N9dktDtxP0hA",
+   "title": "Diptzy",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCHMjp3aZapJMpFppnbAYjbg",
+   "title": "Grid Glory",
+   "created": "2026-06-18",
+   "subs": 2480,
+   "shorts_aged": 32,
+   "max": 90613
+  },
+  {
+   "ch": "UCHp-LTm8MRsvj1kudu1OZrg",
+   "title": "Footy Hist",
+   "created": "2026-08-21",
+   "subs": 101000,
+   "shorts_aged": 27,
+   "max": 2912495
+  },
+  {
+   "ch": "UCfkzrESJCUz3JqjNa1fD3-A",
+   "title": "Right Rank",
+   "created": "2026-09-19",
+   "subs": 412,
+   "shorts_aged": 10,
+   "max": 32847
+  },
+  {
+   "ch": "UCKBYdScWTrcHq6xqohmrZNQ",
+   "title": "Stoic Spartan",
+   "created": "2026-07-28",
+   "subs": 407,
+   "shorts_aged": 39,
+   "max": 156931
+  },
+  {
+   "ch": "UCFTmkIXWL1tE-5p-mWStczw",
+   "title": "Rankalift",
+   "created": "2026-09-11",
+   "subs": 1700,
+   "shorts_aged": 29,
+   "max": 51032
+  },
+  {
+   "ch": "UCC9uFJ_GwYx0KDOvavSK4ng",
+   "title": "Broni",
+   "created": "2026-07-15",
+   "subs": 1260,
+   "shorts_aged": 45,
+   "max": 70519
+  },
+  {
+   "ch": "UCkJ_x7Rbudn1QJndhgiv2Vg",
+   "title": "BKT Stash",
+   "created": "2026-04-02",
+   "subs": 99100,
+   "shorts_aged": 46,
+   "max": 15783215
+  },
+  {
+   "ch": "UCVqn56fa_Or9ZFdNXss5PkA",
+   "title": "FlightWrld",
+   "created": "2026-02-10",
+   "subs": 117,
+   "shorts_aged": 7,
+   "max": 16906
+  },
+  {
+   "ch": "UC6wlKrvX0sZPQJiA1VgYl5Q",
+   "title": "Second Glace",
+   "created": "2026-06-30",
+   "subs": 1890,
+   "shorts_aged": 24,
+   "max": 2194939
+  },
+  {
+   "ch": "UC5lc8gDSuFbQYiCSQeH-uhg",
+   "title": "Wildcard Channel",
+   "created": "2026-09-24",
+   "subs": 49,
+   "shorts_aged": 21,
+   "max": 1653
+  },
+  {
+   "ch": "UCDeSe5UI_tzA0hK4g-8Xazg",
+   "title": "hoopgoblin",
+   "created": "2026-06-26",
+   "subs": 65100,
+   "shorts_aged": 29,
+   "max": 6469808
+  },
+  {
+   "ch": "UC3g2CTXBj3rfJAOuE8jzvAQ",
+   "title": "YourFavAlgo",
+   "created": "2026-09-15",
+   "subs": 49,
+   "shorts_aged": 23,
+   "max": 4804
+  },
+  {
+   "ch": "UC30Tq-ndhezTBPbx8r6dqAA",
+   "title": "NizzBack",
+   "created": "2026-02-16",
+   "subs": 54200,
+   "shorts_aged": 44,
+   "max": 4912811
+  },
+  {
+   "ch": "UCj4rH2pJ8LSxBFdoNg_lUSw",
+   "title": "Pavel Haganu",
+   "created": "2026-09-29",
+   "subs": 1470,
+   "shorts_aged": 5,
+   "max": 1588801
+  },
+  {
+   "ch": "UCstyxciEwSsSE1iJ-10ORXw",
+   "title": "factone",
+   "created": "2026-08-14",
+   "subs": 58,
+   "shorts_aged": 46,
+   "max": 3874
+  },
+  {
+   "ch": "UCOs0uWDY1fDo6gWB10PKzfQ",
+   "title": "HoopPulse",
+   "created": "2026-07-06",
+   "subs": 1750,
+   "shorts_aged": 14,
+   "max": 23675
+  },
+  {
+   "ch": "UC-Mm1G3DSK6PlwZZmM1CTyw",
+   "title": "YES GOKIL",
+   "created": "2026-06-29",
+   "subs": 134000,
+   "shorts_aged": 43,
+   "max": 924269
+  },
+  {
+   "ch": "UCb2FJN0bH2DQuLQyB0Wxfow",
+   "title": "Dugout Daze",
+   "created": "2026-05-28",
+   "subs": 53500,
+   "shorts_aged": 42,
+   "max": 13702347
+  },
+  {
+   "ch": "UCmwgSu-1PRGX8WgehBETHkQ",
+   "title": "Fact Sniper",
+   "created": "2026-03-18",
+   "subs": 548,
+   "shorts_aged": 39,
+   "max": 34802
+  },
+  {
+   "ch": "UCuP-n-xTlTUNsAaM7LfLgUQ",
+   "title": "HatrickX",
+   "created": "2025-10-27",
+   "subs": 106000,
+   "shorts_aged": 40,
+   "max": 1496181
+  },
+  {
+   "ch": "UCkfNSnc7oQj8yZJ_hYBz6dQ",
+   "title": "Sports Craze",
+   "created": "2026-07-19",
+   "subs": 161,
+   "shorts_aged": 48,
+   "max": 8631
+  },
+  {
+   "ch": "UCscceMLuKEBU7aSltba7QCQ",
+   "title": "Sound Fake Facts",
+   "created": "2026-10-23",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCMzKu-nkbI0W66WBFRoZUpA",
+   "title": "SportsIQ",
+   "created": "2026-10-18",
+   "subs": 20,
+   "shorts_aged": 0,
+   "max": 0
+  }
+ ]
+}

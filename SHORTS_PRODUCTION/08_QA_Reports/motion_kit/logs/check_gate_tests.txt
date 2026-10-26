@@ -1,0 +1,90 @@
+=== s12
+✗ scenes.tsx: «BarGrow data: 7» shows 7, not in FACTS.md
+✗ src/scenes.tsx:37: <BarGrow> counter rolls 2.73–3.33 s over words 10–12 «gets its own» whose subtitle is shown — R6 / T10: add [10, 12] (or the whole phrase) to project.json hide_subs
+✗ src/scenes.tsx:52: words 15–20 «Big text never repeats the voice» are shown big but not in project.hide_subs — the subtitle would show them again (T6); run node tools/kinetic_check.mjs --fix or add [15, 20]
+  data/maps/demo_lisbon_rio.json: test map of Gallery.tsx, MapsDemo.tsx, MotionDemo.tsx (borders modern) — not checked as part of the Short
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+=== s12b
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+  data/maps/demo_lisbon_rio.json: test map of Gallery.tsx, MapsDemo.tsx, MotionDemo.tsx (borders modern) — not checked as part of the Short
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+=== s3a
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+✗ R4: beat hook (Hook) puts a map on screen at 0.00 s — a map is never the main shot of 0–3 s; move it after 3 s, or (hook only) put live action on it (MovingToken / AdvanceArrow / footage) and mark the beat `live: true` in src/data/beats.ts
+! data/maps/demo_lisbon_rio.json: MODERN political borders (Natural Earth admin-0, modern) in a historical project (years 1941 in FACTS.md (set project.json "map_period" to confirm: a year or "modern")) — WW2 / pre-1992 maps need period borders: make_map.py --geojson <period borders> (or --borders none for land and coast only); owner rule, memory historical-borders
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+=== s3b
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+! data/maps/demo_lisbon_rio.json: MODERN political borders (Natural Earth admin-0, modern) in a historical project (years 1941 in FACTS.md (set project.json "map_period" to confirm: a year or "modern")) — WW2 / pre-1992 maps need period borders: make_map.py --geojson <period borders> (or --borders none for land and coast only); owner rule, memory historical-borders
+! R4: beat hook (Hook) is marked live: true, but the scene has no MovingToken / AdvanceArrow / TrackedVideo / OffthreadVideo — the live action on the map is not visible in code
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+=== s3c
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+! data/maps/demo_lisbon_rio.json: MODERN political borders (Natural Earth admin-0, modern) in a historical project (years 1941 in FACTS.md (set project.json "map_period" to confirm: a year or "modern")) — WW2 / pre-1992 maps need period borders: make_map.py --geojson <period borders> (or --borders none for land and coast only); owner rule, memory historical-borders
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+=== s3d
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+✓ data/maps/demo_lisbon_rio.json: modern borders, project is modern (project.json map_period = "modern")
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+=== s4a
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+✓ data/maps/demo_lisbon_rio.json: modern borders, project is modern (project.json map_period = "modern")
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✗ data/tracks/keaton_wind.json: its clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 is not in public/ — fetch it with its licence: python3 tools/fetch_asset.py lib 03_Assets/…/pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4
+=== s4b
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+✓ data/maps/demo_lisbon_rio.json: modern borders, project is modern (project.json map_period = "modern")
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✗ data/tracks/keaton_wind.json: its clip public/video/pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 has no CREDITS.md line
+=== s4c
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+✓ data/maps/demo_lisbon_rio.json: modern borders, project is modern (project.json map_period = "modern")
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ 1 track(s) used by the Short: files valid, clips in public/ and credited
+=== s4d
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✗ German channel: 1920s US silent-film inserts need a separate owner decision (L6): video/pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+✓ data/maps/demo_lisbon_rio.json: modern borders, project is modern (project.json map_period = "modern")
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ 1 track(s) used by the Short: files valid, clips in public/ and credited
+=== s5
+✓ 1 chart counter(s): roll ≤ 1.1 s (charts.tsx), subtitles hidden while rolling (R6)
+✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — stack 15–20 «Big text never repeats the voice» 4.34–6.50 s
+✗ data/maps/nope.json: imported by BrokenDemo.tsx but missing — python3 tools/make_map.py … (Root.tsx bundles every composition: a missing map breaks every render)
+! R4/H1: beat hook (Hook) opens the Short on a map — frame 0 must be a living being in action (H1), even with live action on the map
+✓ data/maps/demo_lisbon_rio.json: modern borders, project is modern (project.json map_period = "modern")
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✗ data/tracks/nope.json: imported by BrokenDemo.tsx but missing — tools/track.py <clip> --name nope …

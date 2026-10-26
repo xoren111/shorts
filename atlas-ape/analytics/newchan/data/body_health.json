@@ -1,0 +1,423 @@
+{
+ "niche": "body_health",
+ "keywords": [
+  "human body facts",
+  "health facts",
+  "what happens to your body",
+  "body facts",
+  "medical facts"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:22 UTC",
+ "fresh_uploads": 209,
+ "fresh_uploaders": 198,
+ "new_uploaders": 139,
+ "new_share_of_uploaders": 0.702,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 26,
+ "shorts": 492,
+ "median_views": 372,
+ "p75_views": 1314,
+ "p90_views": 21424,
+ "share_10k": 0.1118,
+ "share_100k": 0.0793,
+ "share_1m": 0.0325,
+ "ci95_100k": [
+  0.0585,
+  0.1065
+ ],
+ "hits_100k": 39,
+ "hits_1m": 16,
+ "channels_any_100k": 0.077,
+ "channels_any_1m": 0.038,
+ "median_channel_median": 272,
+ "top": [
+  {
+   "views": 22095082,
+   "title": "Orcas Can Perform Surgery",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/FtStLOxznXE",
+   "age_d": 42
+  },
+  {
+   "views": 16741960,
+   "title": "He Had 6 Hours To Live… So He Went To Bed",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/98yzK39YYBo",
+   "age_d": 50
+  },
+  {
+   "views": 13030974,
+   "title": "Black Panthers Don't Exist 🐈‍⬛",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/HVl-VeW9Vmk",
+   "age_d": 38
+  },
+  {
+   "views": 10445942,
+   "title": "He Swam With a Jaguar. Then It Turned on Him.",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/fAaXwe_5E0U",
+   "age_d": 16
+  },
+  {
+   "views": 5350767,
+   "title": "There's No Predator On Earth That Beats A Polar Bear",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/ObatrAaRrHQ",
+   "age_d": 57
+  },
+  {
+   "views": 4313603,
+   "title": "The Only Two Foods He'd Take To Mars",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/xxWZ3dgRv9c",
+   "age_d": 51
+  },
+  {
+   "views": 3918847,
+   "title": "Gorilla vs Grizzly: “Not Even Close” 🦍🐻",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/l7pEGqbaNbw",
+   "age_d": 40
+  },
+  {
+   "views": 3826644,
+   "title": "A Panda Will Trade Its Baby For An Apple",
+   "channel": "Faint Signals",
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "url": "https://youtube.com/shorts/V3S8qmzBqrs",
+   "age_d": 56
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UC8EwLjJ3cZvTOlbSr1c5v-g",
+   "title": "  I EXPLAIN SCIENCE ",
+   "created": "2026-10-12",
+   "subs": 327,
+   "shorts_aged": 5,
+   "max": 17693
+  },
+  {
+   "ch": "UC5FXG95l0hnfAsUoakfoB_g",
+   "title": "Fave Medics.",
+   "created": "2026-10-01",
+   "subs": 13,
+   "shorts_aged": 17,
+   "max": 1454
+  },
+  {
+   "ch": "UCTAW6Jdwj_1UVESX1mLHbYQ",
+   "title": "NonReal Animations",
+   "created": "2026-07-25",
+   "subs": 1370,
+   "shorts_aged": 7,
+   "max": 10866
+  },
+  {
+   "ch": "UCjU_5wpAhMgcknoGjdUqKzg",
+   "title": "InsideBody Lab",
+   "created": "2026-01-30",
+   "subs": 3260,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCwxgWdUzFMGw6NpMz1mZn5A",
+   "title": "The Rank Room",
+   "created": "2026-07-14",
+   "subs": 15,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCVjfRItlXH_r87px58J2DQw",
+   "title": "That is cool creations ",
+   "created": "2026-08-18",
+   "subs": 14,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCjmFnHQ5b_fsx5CWzAa1Ejw",
+   "title": "What Happens Inside",
+   "created": "2026-08-21",
+   "subs": 83,
+   "shorts_aged": 2,
+   "max": 46209
+  },
+  {
+   "ch": "UCRH1_QOQJo0ogqKJFiYHtVA",
+   "title": "Health Explained Lab",
+   "created": "2026-10-09",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCSDijcco2uNH_Jfz4taK4yw",
+   "title": "Fasih360",
+   "created": "2026-10-19",
+   "subs": 34,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCGg69eq-XvtFfVVGLqiifoQ",
+   "title": "Factologyy",
+   "created": "2026-08-02",
+   "subs": 135,
+   "shorts_aged": 35,
+   "max": 2606
+  },
+  {
+   "ch": "UCKZ5-gFN1IQvQ7WSWtBlFZg",
+   "title": "Organ Squad",
+   "created": "2026-10-16",
+   "subs": 19,
+   "shorts_aged": 1,
+   "max": 7
+  },
+  {
+   "ch": "UCFp3Zf0sdTcaqwJ-g6n0vxg",
+   "title": "WonderSpark TV",
+   "created": "2026-02-03",
+   "subs": 17,
+   "shorts_aged": 11,
+   "max": 1442
+  },
+  {
+   "ch": "UCyifta8YuD2Y173iNuQwxLw",
+   "title": "QuizHub",
+   "created": "2026-07-13",
+   "subs": 16,
+   "shorts_aged": 43,
+   "max": 1118
+  },
+  {
+   "ch": "UCXtY6d0Hzb-W56EUEdckM4A",
+   "title": "Body Uncovered ",
+   "created": "2026-09-16",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCIYzgvgDYxat8DMASsTBLqg",
+   "title": "Scientific Facts USA",
+   "created": "2026-10-03",
+   "subs": 7,
+   "shorts_aged": 8,
+   "max": 831
+  },
+  {
+   "ch": "UCESohLu4-HLjm4DjCkcJRLA",
+   "title": "Sami Bio. Films",
+   "created": "2026-10-03",
+   "subs": 16,
+   "shorts_aged": 11,
+   "max": 1641
+  },
+  {
+   "ch": "UCamLaq1pb5lwZi5ZfLNKbvg",
+   "title": "Hmm Lab",
+   "created": "2026-10-23",
+   "subs": 19,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCgCPot39x0a-m4c_itSO_0g",
+   "title": "Santosh Kumar",
+   "created": "2026-10-24",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCMt-uhwEcngrsI9KrMlQ65w",
+   "title": "factholics5 ",
+   "created": "2026-09-29",
+   "subs": 470,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCTCEsPdxdMHhWuejnUP6-vQ",
+   "title": "Wownatomy",
+   "created": "2026-10-24",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCzVRvw7lyNSkDAI2joPWPKQ",
+   "title": "FactNova USA",
+   "created": "2026-09-14",
+   "subs": 33,
+   "shorts_aged": 27,
+   "max": 1113
+  },
+  {
+   "ch": "UC5vs-D-0j1DV84qsv6Z2bow",
+   "title": "NibsHQ",
+   "created": "2026-10-01",
+   "subs": 10,
+   "shorts_aged": 9,
+   "max": 181
+  },
+  {
+   "ch": "UCWsvAKD8TnOOxGhY-W2ndYg",
+   "title": "BODY NOVA",
+   "created": "2026-08-22",
+   "subs": 429,
+   "shorts_aged": 33,
+   "max": 374103
+  },
+  {
+   "ch": "UCRn4GvM67PDbfF7JkBUtAPQ",
+   "title": "BodyCode",
+   "created": "2026-03-27",
+   "subs": 60,
+   "shorts_aged": 28,
+   "max": 1364
+  },
+  {
+   "ch": "UCoYkrfvd_E8dl2iHZoovl1g",
+   "title": "Did You Know World",
+   "created": "2026-09-02",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCxzFf37S-vObiJtG0hu7eiQ",
+   "title": "SportVerse Al",
+   "created": "2026-09-09",
+   "subs": 90,
+   "shorts_aged": 42,
+   "max": 42129
+  },
+  {
+   "ch": "UCqOHKgz7nX_02UfFG01VTgg",
+   "title": "MedMinute",
+   "created": "2026-05-12",
+   "subs": 12,
+   "shorts_aged": 13,
+   "max": 1286
+  },
+  {
+   "ch": "UCnUAhTIzbk-5iMMjd4scl6g",
+   "title": "IronRoots Fitness",
+   "created": "2026-10-07",
+   "subs": 14,
+   "shorts_aged": 12,
+   "max": 920
+  },
+  {
+   "ch": "UCPxLk2X02tPHykGHbAMwJzA",
+   "title": "Zappy Fable",
+   "created": "2026-03-11",
+   "subs": 70,
+   "shorts_aged": 3,
+   "max": 44
+  },
+  {
+   "ch": "UCQfFP3mjB6blb76e1cdO7-A",
+   "title": "RBWORLD",
+   "created": "2026-10-09",
+   "subs": 13,
+   "shorts_aged": 17,
+   "max": 2389
+  },
+  {
+   "ch": "UCwhHDNQo1RL7F9LpmMWaP2g",
+   "title": "Long Story Cell",
+   "created": "2026-10-11",
+   "subs": 14,
+   "shorts_aged": 3,
+   "max": 1735
+  },
+  {
+   "ch": "UCqsq3T0SK3Uqhw4iP4Ksjuw",
+   "title": "FactOtter",
+   "created": "2026-10-09",
+   "subs": 5,
+   "shorts_aged": 23,
+   "max": 625
+  },
+  {
+   "ch": "UCN3Kqdr-Dz6lIznn4MrMtRw",
+   "title": "The 3D Body",
+   "created": "2026-10-04",
+   "subs": 21,
+   "shorts_aged": 12,
+   "max": 2010
+  },
+  {
+   "ch": "UCmyxUcKDJcrlEFM_TqnnfTQ",
+   "title": "Breakdown Ledger",
+   "created": "2026-07-08",
+   "subs": 359,
+   "shorts_aged": 43,
+   "max": 8986
+  },
+  {
+   "ch": "UC1cMVd0tX7yiQsBVPT7XhWA",
+   "title": "asstickman",
+   "created": "2026-10-18",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCLRUTOv5RpoNpWzoLxOhaFw",
+   "title": "Faint Signals",
+   "created": "2026-01-26",
+   "subs": 27300,
+   "shorts_aged": 45,
+   "max": 22095082
+  },
+  {
+   "ch": "UCUyyqxcD6OFY0BpS7D6Ouuw",
+   "title": "Body Verse 🧬",
+   "created": "2026-06-24",
+   "subs": 6,
+   "shorts_aged": 1,
+   "max": 418
+  },
+  {
+   "ch": "UC9vyaDWbJjyZPpA29ITgM_w",
+   "title": "MINDZAP 3D",
+   "created": "2026-10-20",
+   "subs": 8,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCMxFsy29W4W_ULHme1O20JQ",
+   "title": "JJclipstosee",
+   "created": "2026-10-24",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC5hP_rJevD1ddo58cVPj8Mw",
+   "title": "Human Body Lab",
+   "created": "2026-06-27",
+   "subs": 639,
+   "shorts_aged": 41,
+   "max": 2536
+  }
+ ]
+}

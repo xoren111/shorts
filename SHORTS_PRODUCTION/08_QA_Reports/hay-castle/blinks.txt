@@ -1,0 +1,7 @@
+frame 114  t=1.900  score 11.11  (local 0.4)
+frame 611  t=10.183  score 1.08  (local 0.17)
+frame 823  t=13.717  score 8.28  (local 0.53)
+frame 1262  t=21.033  score 1.63  (local 0.28)
+frame 1365  t=22.750  score 7.73  (local 0.38)
+frame 1803  t=30.050  score 14.19  (local 0.78)
+6 glitch frames in 2305

@@ -1,0 +1,37 @@
+{
+ "region": "heimaey",
+ "bbox": {
+  "s": 63.395,
+  "n": 63.465,
+  "w": -20.345,
+  "e": -20.185
+ },
+ "nx": 1024,
+ "ny": 1002,
+ "width_m": 7966.8,
+ "height_m": 7792.4,
+ "h_min": -60.0,
+ "h_max": 280.5607604980469,
+ "dem_zoom": 14,
+ "sat_zoom": 15,
+ "sat_size": [
+  3728,
+  3647
+ ],
+ "mercator": {
+  "x0": 0.44348611111111114,
+  "y0": 0.27005152325104764,
+  "x1": 0.44393055555555555,
+  "y1": 0.27048623939587263
+ },
+ "credits": [
+  "Elevation: AWS Terrain Tiles (Mapzen terrarium; SRTM, GMTED, ETOPO1, ArcticDEM et al.)",
+  "Imagery: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0",
+  "Elevation: ÍslandsDEM v1.0 by Náttúrufræðistofnun / Veðurstofa Íslands / Polar Geospatial Center, CC BY 4.0"
+ ],
+ "coast_fix": "land mask from EOX imagery (tools/coast_fix.py)",
+ "normal_map": "normal.png",
+ "dem_source": "ÍslandsDEM v1.0 2 m (Náttúrufræðistofnun, CC BY 4.0)",
+ "imagery_source": "EOX Sentinel-2 cloudless 2016 (CC BY 4.0)",
+ "coast_source": "ÍslandsDEM coastline (data/hr/heimaey/REPORT.json)"
+}

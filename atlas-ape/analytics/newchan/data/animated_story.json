@@ -1,0 +1,383 @@
+{
+ "niche": "animated_story",
+ "keywords": [
+  "animated story",
+  "3d animation story",
+  "animated short",
+  "story animation",
+  "3d animation facts"
+ ],
+ "relevance": "^(?!.*\\b(gta|roblox|rblx|minecraft|fortnite|cs2|kids|kid|toddlers?|nursery|rhymes?|preschool|hindi|bedtime|moral story|islamic|dreamworks|disney|pixar|kungfupanda|movie|movies|edit|edits|amv|montagem|ghibli|asmr|cooking|recipe|village|country|countries|border|borders|map|maps|flag|flags|geography|capital)\\b).*(animat|\\b3d\\b|cartoon|toons?\\b|\\banime\\b|stickman|\\b2d\\b|claymation)",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:32 UTC",
+ "fresh_uploads": 122,
+ "fresh_uploaders": 110,
+ "new_uploaders": 35,
+ "new_share_of_uploaders": 0.318,
+ "sampled_channels": 35,
+ "channels_with_aged_shorts": 32,
+ "shorts": 755,
+ "median_views": 2319,
+ "p75_views": 35899,
+ "p90_views": 153493,
+ "share_10k": 0.3974,
+ "share_100k": 0.1338,
+ "share_1m": 0.0305,
+ "ci95_100k": [
+  0.1113,
+  0.1599
+ ],
+ "hits_100k": 101,
+ "hits_1m": 23,
+ "channels_any_100k": 0.312,
+ "channels_any_1m": 0.219,
+ "median_channel_median": 2265,
+ "top": [
+  {
+   "views": 15335103,
+   "title": "Who bothered Ronaldo ? #shorts #animation #kpopdemonhunters #cr7 #messi #worldcup",
+   "channel": "LV Animation",
+   "ch": "UCqLSt_CKF-D6UQF8Npu94ZA",
+   "url": "https://youtube.com/shorts/ESKM2Z6ADxg",
+   "age_d": 100
+  },
+  {
+   "views": 14211387,
+   "title": "Who bothered Messi ? #messi #ronaldo #mbappe #shorts #animation",
+   "channel": "LV Animation",
+   "ch": "UCqLSt_CKF-D6UQF8Npu94ZA",
+   "url": "https://youtube.com/shorts/wsPiYEnHS2U",
+   "age_d": 92
+  },
+  {
+   "views": 13905993,
+   "title": "Funny moments involving football players #shorts #animation #messi #haland #ronaldo",
+   "channel": "LV Animation",
+   "ch": "UCqLSt_CKF-D6UQF8Npu94ZA",
+   "url": "https://youtube.com/shorts/8wtQAI_ZZlQ",
+   "age_d": 60
+  },
+  {
+   "views": 12701160,
+   "title": "From Pond Moss to a Priceless Ceramic Tea Pot #3danimation #education #shorts",
+   "channel": "CoreMine 3D",
+   "ch": "UCFbPsPjAKiEgTbl11fDSiKQ",
+   "url": "https://youtube.com/shorts/vk36SYKseN0",
+   "age_d": 54
+  },
+  {
+   "views": 12481725,
+   "title": "Who Completely Dominated This Sync Round? 🤯💃 #shorts",
+   "channel": "Universal Creation",
+   "ch": "UCUeldI31bBD31D4qMs0tdTA",
+   "url": "https://youtube.com/shorts/w4_Hw5jgRQQ",
+   "age_d": 20
+  },
+  {
+   "views": 10615930,
+   "title": "How Saltpeter Helped People Freeze Water in Summer #3danimation #education #shorts",
+   "channel": "CoreMine 3D",
+   "ch": "UCFbPsPjAKiEgTbl11fDSiKQ",
+   "url": "https://youtube.com/shorts/HWhRzW5lp9Q",
+   "age_d": 49
+  },
+  {
+   "views": 9068706,
+   "title": "Where is her idol ? #shorts #animation #kpopdemonhunters",
+   "channel": "LV Animation",
+   "ch": "UCqLSt_CKF-D6UQF8Npu94ZA",
+   "url": "https://youtube.com/shorts/E0O7XTZy7go",
+   "age_d": 87
+  },
+  {
+   "views": 7940197,
+   "title": "How Ancient Wood Turns Black After Thousands of Years #3danimation #education #shorts",
+   "channel": "CoreMine 3D",
+   "ch": "UCFbPsPjAKiEgTbl11fDSiKQ",
+   "url": "https://youtube.com/shorts/bl3r05c5GnE",
+   "age_d": 64
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UC8czsRmU2GWp_mKRkbvOnGw",
+   "title": "Curious Science 3D",
+   "created": "2026-10-07",
+   "subs": 15,
+   "shorts_aged": 8,
+   "max": 2570
+  },
+  {
+   "ch": "UCPHNqPRQ_TXRuQpZeKjJlNQ",
+   "title": "Drizzle",
+   "created": "2025-12-31",
+   "subs": 18600,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCUiyrL6Uk9VNzIZAZqDNQKg",
+   "title": "Star Drama Animated",
+   "created": "2026-10-06",
+   "subs": 500,
+   "shorts_aged": 26,
+   "max": 82792
+  },
+  {
+   "ch": "UCFbPsPjAKiEgTbl11fDSiKQ",
+   "title": "CoreMine 3D",
+   "created": "2026-06-13",
+   "subs": 50700,
+   "shorts_aged": 43,
+   "max": 12701160
+  },
+  {
+   "ch": "UCqLSt_CKF-D6UQF8Npu94ZA",
+   "title": "LV Animation",
+   "created": "2026-02-17",
+   "subs": 18200,
+   "shorts_aged": 28,
+   "max": 15335103
+  },
+  {
+   "ch": "UCmnRvoNslOrAGFHWAHPn_5A",
+   "title": "MeoticR Films",
+   "created": "2026-10-11",
+   "subs": 109,
+   "shorts_aged": 3,
+   "max": 7646
+  },
+  {
+   "ch": "UCZo2xiWgl6lw5tWwuzGwasQ",
+   "title": "The Ghibli kahani",
+   "created": "2026-08-26",
+   "subs": 1790,
+   "shorts_aged": 35,
+   "max": 619242
+  },
+  {
+   "ch": "UCdlWAoTcGdTNgmBub6gszMQ",
+   "title": "SKY CLOTH ",
+   "created": "2026-10-03",
+   "subs": 14500,
+   "shorts_aged": 27,
+   "max": 2135201
+  },
+  {
+   "ch": "UCI549X4UCKQVvjWrQq8_LXw",
+   "title": "Zen D Studios",
+   "created": "2026-10-12",
+   "subs": 14,
+   "shorts_aged": 2,
+   "max": 2135
+  },
+  {
+   "ch": "UCm-Ah36l05L2fChyGgC_pFA",
+   "title": "factzmaina-man",
+   "created": "2026-10-18",
+   "subs": 2,
+   "shorts_aged": 2,
+   "max": 56
+  },
+  {
+   "ch": "UCwdLYuUTdwr19CsHMlHqASg",
+   "title": "​NextGen Anatomy 12",
+   "created": "2026-08-24",
+   "subs": 143,
+   "shorts_aged": 45,
+   "max": 2520
+  },
+  {
+   "ch": "UCuz4RL4QawjLA_B7_U9LciA",
+   "title": "Zippi",
+   "created": "2025-12-07",
+   "subs": 362,
+   "shorts_aged": 8,
+   "max": 34215
+  },
+  {
+   "ch": "UC4dfEonppWhPbQBS1eNIgHA",
+   "title": "KnowSciencebyAsiya ",
+   "created": "2026-10-11",
+   "subs": 8,
+   "shorts_aged": 16,
+   "max": 484
+  },
+  {
+   "ch": "UCCyPoZbc0Gttbona559kCMQ",
+   "title": "DontWorry",
+   "created": "2026-07-13",
+   "subs": 58,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC9TAR57Hxt7Jud9eO2MAcjg",
+   "title": "Trending_short_3337",
+   "created": "2026-10-04",
+   "subs": 9740,
+   "shorts_aged": 25,
+   "max": 33998
+  },
+  {
+   "ch": "UCXkWk_rJqL1uHn_nN6WkpZg",
+   "title": "Animated whispers",
+   "created": "2026-04-24",
+   "subs": 43,
+   "shorts_aged": 43,
+   "max": 2673
+  },
+  {
+   "ch": "UCSV_j3VzTsKji-q8nVvFCjA",
+   "title": "3DAnimationnss",
+   "created": "2026-05-16",
+   "subs": 168,
+   "shorts_aged": 43,
+   "max": 59901
+  },
+  {
+   "ch": "UCUeldI31bBD31D4qMs0tdTA",
+   "title": "Universal Creation",
+   "created": "2026-01-04",
+   "subs": 11400,
+   "shorts_aged": 37,
+   "max": 12481725
+  },
+  {
+   "ch": "UC2ONvKauPp177DFePLo7OIA",
+   "title": "LUCAS 3D",
+   "created": "2026-10-01",
+   "subs": 46,
+   "shorts_aged": 16,
+   "max": 2888
+  },
+  {
+   "ch": "UCyUgUB_26SuSlVno0V5YzyQ",
+   "title": "CHOWDHURY ABDULLAH ",
+   "created": "2026-10-12",
+   "subs": 952,
+   "shorts_aged": 7,
+   "max": 11648
+  },
+  {
+   "ch": "UCQM6P21IU3cwu61JcExkhEg",
+   "title": "ToonKiki",
+   "created": "2026-09-08",
+   "subs": 395,
+   "shorts_aged": 25,
+   "max": 41205
+  },
+  {
+   "ch": "UCtWN5HQ4QwO2ZjVTgzSz8tw",
+   "title": "WonderGraceAI",
+   "created": "2026-09-19",
+   "subs": 61,
+   "shorts_aged": 19,
+   "max": 2227
+  },
+  {
+   "ch": "UCFt8aJbSVBBM8uSaK7hvZ9Q",
+   "title": "Kids Mega Restiana",
+   "created": "2026-10-14",
+   "subs": 17,
+   "shorts_aged": 15,
+   "max": 1302
+  },
+  {
+   "ch": "UCZllQnP4k-8UODFUwrOZu6w",
+   "title": "Fruit & Veggie Facts",
+   "created": "2026-08-14",
+   "subs": 3,
+   "shorts_aged": 4,
+   "max": 953
+  },
+  {
+   "ch": "UCCtl8RiUtVYjcaOTOSngiVQ",
+   "title": "GAME FEVER X ",
+   "created": "2026-09-17",
+   "subs": 52100,
+   "shorts_aged": 36,
+   "max": 1782733
+  },
+  {
+   "ch": "UCUFRdA0-hRYP0QqQkcQ8Ngg",
+   "title": "Unforgettable Animated Stories",
+   "created": "2026-06-13",
+   "subs": 15,
+   "shorts_aged": 33,
+   "max": 432
+  },
+  {
+   "ch": "UCAnhnUV7Vj1hM0eKecm5wBA",
+   "title": "BurntPeanutAnimated",
+   "created": "2026-02-10",
+   "subs": 55100,
+   "shorts_aged": 27,
+   "max": 798313
+  },
+  {
+   "ch": "UCOTO8dk3u9PKrT---uqSFdQ",
+   "title": "Human_Anatomy_Hub",
+   "created": "2026-09-28",
+   "subs": 135,
+   "shorts_aged": 5,
+   "max": 2706
+  },
+  {
+   "ch": "UC1b5GwVOslEynn7trIpCc1Q",
+   "title": "Health Hub",
+   "created": "2026-01-21",
+   "subs": 1150,
+   "shorts_aged": 17,
+   "max": 1684
+  },
+  {
+   "ch": "UC-P2RObqvzVS4fTjBb98N6g",
+   "title": "GIBLI ART",
+   "created": "2026-08-24",
+   "subs": 9190,
+   "shorts_aged": 42,
+   "max": 1647083
+  },
+  {
+   "ch": "UCLuw_gKcBKpb5nEHY_8Gr6w",
+   "title": "Deltarune Clips",
+   "created": "2026-07-24",
+   "subs": 26400,
+   "shorts_aged": 31,
+   "max": 2071347
+  },
+  {
+   "ch": "UCTUczCmaXj2Lv40gpuZTG3w",
+   "title": "suyl",
+   "created": "2026-04-19",
+   "subs": 32800,
+   "shorts_aged": 38,
+   "max": 711203
+  },
+  {
+   "ch": "UCktEhBdHR8pHdxZLlrKTk2A",
+   "title": "officialfurtales",
+   "created": "2026-08-22",
+   "subs": 6,
+   "shorts_aged": 1,
+   "max": 68
+  },
+  {
+   "ch": "UCcyRK2BlrDb2hSXvVXCDp8w",
+   "title": "MR CHEW",
+   "created": "2025-11-05",
+   "subs": 70,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCAgmX3KA5FPML4rwp0OElZA",
+   "title": "Glow Mora",
+   "created": "2026-05-11",
+   "subs": 39,
+   "shorts_aged": 48,
+   "max": 1381
+  }
+ ]
+}

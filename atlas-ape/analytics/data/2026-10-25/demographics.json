@@ -1,0 +1,61 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "viewerPercentage",
+  "dimensions": "ageGroup,gender"
+ },
+ "rows": [
+  {
+   "ageGroup": "age13-17",
+   "gender": "female",
+   "viewerPercentage": 0.6
+  },
+  {
+   "ageGroup": "age13-17",
+   "gender": "male",
+   "viewerPercentage": 11.2
+  },
+  {
+   "ageGroup": "age18-24",
+   "gender": "female",
+   "viewerPercentage": 1.2
+  },
+  {
+   "ageGroup": "age18-24",
+   "gender": "male",
+   "viewerPercentage": 14.7
+  },
+  {
+   "ageGroup": "age25-34",
+   "gender": "female",
+   "viewerPercentage": 7.9
+  },
+  {
+   "ageGroup": "age25-34",
+   "gender": "male",
+   "viewerPercentage": 25.9
+  },
+  {
+   "ageGroup": "age35-44",
+   "gender": "female",
+   "viewerPercentage": 11.2
+  },
+  {
+   "ageGroup": "age35-44",
+   "gender": "male",
+   "viewerPercentage": 15.6
+  },
+  {
+   "ageGroup": "age45-54",
+   "gender": "female",
+   "viewerPercentage": 4
+  },
+  {
+   "ageGroup": "age45-54",
+   "gender": "male",
+   "viewerPercentage": 7.7
+  }
+ ]
+}

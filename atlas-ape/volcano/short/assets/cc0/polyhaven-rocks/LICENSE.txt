@@ -1,0 +1,11 @@
+Poly Haven models — licence: CC0 1.0 Universal (Public Domain Dedication)
+https://creativecommons.org/publicdomain/zero/1.0/
+Licence statement: https://polyhaven.com/license ("Our assets are all licensed as CC0")
+Credit is not required; suggested credit: "Poly Haven (polyhaven.com)".
+
+Downloaded 2026-10-18 from the official Poly Haven CDN (dl.polyhaven.org) via api.polyhaven.com/files/<id>, glTF 1k:
+  moon_rock_01  https://polyhaven.com/a/moon_rock_01
+  moon_rock_03  https://polyhaven.com/a/moon_rock_03
+  moon_rock_05  https://polyhaven.com/a/moon_rock_05
+  rock_07       https://polyhaven.com/a/rock_07
+  boulder_01    https://polyhaven.com/a/boulder_01

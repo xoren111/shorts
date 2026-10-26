@@ -1,0 +1,669 @@
+{
+ "duration": 43.85,
+ "events": [
+  {
+   "id": "hook",
+   "t": 0,
+   "what": "frame 0: the boar munching a potato between the US hill (flag, line, cannon) and the British frigate (Union Jack)",
+   "sfx": [
+    {
+     "name": "pig_chew",
+     "gain": -15,
+     "dur": 2.4
+    },
+    {
+     "name": "pig_grunt",
+     "gain": -19,
+     "at": 0.6,
+     "dur": 2
+    },
+    {
+     "name": "wind_meadow",
+     "gain": -25,
+     "dur": 4.6
+    },
+    {
+     "name": "seagulls",
+     "gain": -27
+    }
+   ]
+  },
+  {
+   "id": "flags",
+   "t": 0.938,
+   "what": "both flags flutter, the frigate rolls at anchor",
+   "sfx": [
+    {
+     "name": "sails_flap",
+     "gain": -24,
+     "dur": 1.6
+    }
+   ]
+  },
+  {
+   "id": "ports",
+   "t": 2.041,
+   "what": "the frigate opens her gun ports and runs out her guns",
+   "sfx": [
+    {
+     "name": "gunports",
+     "gain": -14
+    },
+    {
+     "name": "cannon_roll",
+     "gain": -19,
+     "at": 0.15
+    }
+   ]
+  },
+  {
+   "id": "war",
+   "t": 2.496,
+   "what": "a dull drum hit on «war»",
+   "sfx": [
+    {
+     "name": "hit_impact",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "push",
+   "t": 2.96,
+   "what": "push in on the boar",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -23
+    }
+   ]
+  },
+  {
+   "id": "look",
+   "t": 3.503,
+   "what": "the boar stops chewing and looks up at us",
+   "sfx": [
+    {
+     "name": "pig_oink",
+     "gain": -13
+    }
+   ]
+  },
+  {
+   "id": "drop",
+   "t": 4.112,
+   "what": "the potato drops out of its mouth and bounces",
+   "sfx": [
+    {
+     "name": "crate_thud",
+     "gain": -26
+    }
+   ]
+  },
+  {
+   "id": "caught",
+   "t": 4.56,
+   "what": "behind the munching boar: the log cabin",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -24
+    },
+    {
+     "name": "pig_chew",
+     "gain": -20,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "door",
+   "t": 4.639,
+   "what": "the cabin door bangs open, the farmer storms out (label Lyman Cutlar, June 1859)",
+   "sfx": [
+    {
+     "name": "door_bang",
+     "gain": -11
+    }
+   ]
+  },
+  {
+   "id": "eating",
+   "t": 5.744,
+   "what": "the boar keeps munching in the foreground",
+   "sfx": [
+    {
+     "name": "pig_grunt",
+     "gain": -17,
+     "dur": 1.4
+    },
+    {
+     "name": "pig_chew",
+     "gain": -17,
+     "at": 0.3,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "aim",
+   "t": 6.92,
+   "what": "side view: the farmer aims his rifle at the boar",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -22
+    },
+    {
+     "name": "ui_click",
+     "gain": -16,
+     "at": 0.45
+    }
+   ]
+  },
+  {
+   "id": "bang",
+   "t": 7.78,
+   "what": "BANG: flash + powder smoke rolls over the boar; birds burst out of a fir",
+   "sfx": [
+    {
+     "name": "musket_shot",
+     "gain": -6
+    },
+    {
+     "name": "birds_flutter",
+     "gain": -10,
+     "at": 0.06
+    }
+   ]
+  },
+  {
+   "id": "angel",
+   "t": 8.178,
+   "what": "the angel boar (halo, wings) rises out of the smoke",
+   "sfx": [
+    {
+     "name": "harp_gliss",
+     "gain": -17
+    },
+    {
+     "name": "angel_choir",
+     "gain": -23,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "problem",
+   "t": 8.28,
+   "what": "the farmer by his cabin, the flag folded at the foot of the pole",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "usflag",
+   "t": 9.65,
+   "what": "the Stars and Stripes runs up the pole",
+   "sfx": [
+    {
+     "name": "sails_flap",
+     "gain": -18,
+     "dur": 1
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -25,
+     "at": 0.45
+    }
+   ]
+  },
+  {
+   "id": "pan",
+   "t": 10.413,
+   "what": "pan up to the angel boar over the patch",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -23
+    }
+   ]
+  },
+  {
+   "id": "ukflag",
+   "t": 11.43,
+   "what": "a Union Jack pops out of the angel's mouth",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -15
+    },
+    {
+     "name": "sails_flap",
+     "gain": -22,
+     "at": 0.1,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "price",
+   "t": 12.42,
+   "what": "the farmer and the owner face each other, the angel referees above",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "ten",
+   "t": 13.062,
+   "what": "the farmer holds out a $10 note; KEYFACT $10",
+   "sfx": [
+    {
+     "name": "banknote",
+     "gain": -7
+    },
+    {
+     "name": "pop_in",
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "no",
+   "t": 14.25,
+   "what": "the owner shakes his head",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -25
+    }
+   ]
+  },
+  {
+   "id": "hundred",
+   "t": 14.971,
+   "what": "the owner slaps up a $100 note; KEYFACT $100",
+   "sfx": [
+    {
+     "name": "banknote",
+     "gain": -7
+    },
+    {
+     "name": "stamp",
+     "gain": -18,
+     "at": 0.12
+    }
+   ]
+  },
+  {
+   "id": "map",
+   "t": 15.81,
+   "what": "3D relief map of the islands between Vancouver Island and the US mainland",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -19
+    },
+    {
+     "name": "riser_short",
+     "gain": -25,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "flag1",
+   "t": 16.83,
+   "what": "flag poles pop up: Union Jack on Vancouver Island",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "flag2",
+   "t": 17.124,
+   "what": "Stars and Stripes on the mainland; both claim lines draw around the islands",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -17
+    },
+    {
+     "name": "swish_short",
+     "gain": -21,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "island",
+   "t": 17.923,
+   "what": "San Juan Island pulses red / blue; label San Juan Island",
+   "sfx": [
+    {
+     "name": "alarm_pulse",
+     "gain": -25,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "soldiers",
+   "t": 18.6,
+   "what": "a blue column marches towards us in step, colours + drum in front",
+   "sfx": [
+    {
+     "name": "fife_drum",
+     "gain": -13,
+     "dur": 3.2
+    },
+    {
+     "name": "marching",
+     "gain": -15,
+     "dur": 3.2
+    }
+   ]
+  },
+  {
+   "id": "cannons",
+   "t": 20.349,
+   "what": "field guns hauled alongside; label 14 cannons",
+   "sfx": [
+    {
+     "name": "cannon_roll",
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "warships",
+   "t": 21.56,
+   "what": "five frigates glide into the bay in line ahead",
+   "sfx": [
+    {
+     "name": "sea_waves",
+     "gain": -21,
+     "dur": 2.6
+    },
+    {
+     "name": "ship_creak",
+     "gain": -18,
+     "dur": 2.6
+    },
+    {
+     "name": "ship_bell",
+     "gain": -19,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "ports2",
+   "t": 22.47,
+   "what": "gun ports open down the line; label 70 guns · 2,140 men",
+   "sfx": [
+    {
+     "name": "gunports",
+     "gain": -15
+    }
+   ]
+  },
+  {
+   "id": "governor",
+   "t": 23.72,
+   "what": "quarterdeck: the governor (top hat) and the admiral; the US camp on the hill behind",
+   "sfx": [
+    {
+     "name": "ship_creak",
+     "gain": -23,
+     "dur": 2.2
+    },
+    {
+     "name": "seagulls",
+     "gain": -27
+    }
+   ]
+  },
+  {
+   "id": "jab",
+   "t": 24.28,
+   "what": "the governor jabs his order paper at the US camp",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "order",
+   "t": 24.985,
+   "what": "he turns and pushes the order at the admiral",
+   "sfx": [
+    {
+     "name": "banknote",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "admiral",
+   "t": 26.06,
+   "what": "over the governor's shoulder onto the admiral (bicorne, white whiskers)",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -23
+    }
+   ]
+  },
+  {
+   "id": "tear",
+   "t": 27.364,
+   "what": "the admiral shakes his head and tears the order in two",
+   "sfx": [
+    {
+     "name": "paper_tear",
+     "gain": -11
+    }
+   ]
+  },
+  {
+   "id": "notpig",
+   "t": 27.69,
+   "what": "the angel boar drifts in over the water and nods",
+   "sfx": [
+    {
+     "name": "harp_gliss",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "stayed",
+   "t": 29.42,
+   "what": "a redcoat and a bluecoat sentry between both camps; time-lapse begins",
+   "sfx": [
+    {
+     "name": "seasons_whoosh",
+     "gain": -14
+    },
+    {
+     "name": "clock_tick_fast",
+     "gain": -21,
+     "dur": 3.6
+    }
+   ]
+  },
+  {
+   "id": "years",
+   "t": 31.159,
+   "what": "seasons sweep, beards grow; year bar 1860 → 1872",
+   "sfx": [
+    {
+     "name": "seasons_whoosh",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "party",
+   "t": 33.23,
+   "what": "one table for both garrisons: tankards raised, cake with both flags, fireworks",
+   "sfx": [
+    {
+     "name": "party_laugh",
+     "gain": -20
+    },
+    {
+     "name": "mug_clink",
+     "gain": -14,
+     "at": 0.25
+    },
+    {
+     "name": "fireworks",
+     "gain": -19,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "kaiser",
+   "t": 34.5,
+   "what": "the Kaiser over the map in his study; label Kaiser Wilhelm I",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -20
+    },
+    {
+     "name": "fanfare_hit",
+     "gain": -22,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "seal",
+   "t": 36.14,
+   "what": "he slams the seal down on the map: a red seal",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -9
+    },
+    {
+     "name": "hit_impact",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "mapfinal",
+   "t": 36.74,
+   "what": "the map again: the red British line retracts, the Haro line turns solid",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -21
+    },
+    {
+     "name": "swish_short",
+     "gain": -21,
+     "at": 0.4
+    }
+   ]
+  },
+  {
+   "id": "usisland",
+   "t": 37.796,
+   "what": "the islands turn blue, a US flag pops onto San Juan Island; label Haro Strait border, 1872",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -14
+    },
+    {
+     "name": "fanfare_hit",
+     "gain": -19,
+     "at": 0.05
+    }
+   ]
+  },
+  {
+   "id": "finale",
+   "t": 38.54,
+   "what": "sunset: the angel boar on a cloud above the island; Atlas enters, looks up",
+   "sfx": [
+    {
+     "name": "angel_choir",
+     "gain": -22
+    },
+    {
+     "name": "harp_gliss",
+     "gain": -21,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "onepig",
+   "t": 40.467,
+   "what": "the angel waves a hoof at us; Atlas laughs",
+   "sfx": [
+    {
+     "name": "pig_oink",
+     "gain": -12
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -21,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "poll",
+   "t": 41.07,
+   "what": "poll card: farmer VS pig; Atlas thinks",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -15
+    },
+    {
+     "name": "notify_ding",
+     "gain": -19,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "t": 42.685,
+   "what": "dissolve back to the opening frame (loop)",
+   "sfx": [
+    {
+     "name": "pig_chew",
+     "gain": -24,
+     "at": 0.2
+    },
+    {
+     "name": "wind_meadow",
+     "gain": -27,
+     "dur": 1
+    }
+   ]
+  }
+ ]
+}

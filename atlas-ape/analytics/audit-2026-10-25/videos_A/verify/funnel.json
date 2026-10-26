@@ -1,0 +1,94 @@
+{
+ "Volcano": {
+  "len_s": 76.8,
+  "stayed_pct": 55.4,
+  "per100_views_at": {
+   "5s": 57.3,
+   "10s": 36.8,
+   "20s": 30.5,
+   "end": 14.8
+  },
+  "watch_s_per_view": 23.3,
+  "likes_per100_engaged_analytics": 3.54,
+  "loop_excess_at_1pct": 0.202,
+  "awr_at_99pct": 0.2888,
+  "loop_excess_per_finisher": 0.7,
+  "first_play_stayed_if_excess_are_restart_views_pct": 62.4,
+  "rel_ret_at": {
+   "1s": 0.465,
+   "3s": 0.337,
+   "5s": 0.264,
+   "10s": 0.258,
+   "20s": 0.349
+  }
+ },
+ "Rabbits": {
+  "len_s": 62.0,
+  "stayed_pct": 61.4,
+  "per100_views_at": {
+   "5s": 64.3,
+   "10s": 49.9,
+   "20s": 25.2,
+   "end": 9.4
+  },
+  "watch_s_per_view": 18.1,
+  "likes_per100_engaged_analytics": 1.7,
+  "loop_excess_at_1pct": 0.196,
+  "awr_at_99pct": 0.1955,
+  "loop_excess_per_finisher": 1.0,
+  "first_play_stayed_if_excess_are_restart_views_pct": 69.8,
+  "rel_ret_at": {
+   "1s": 0.491,
+   "3s": 0.365,
+   "5s": 0.303,
+   "10s": 0.248,
+   "20s": 0.272
+  }
+ },
+ "YellowFleet": {
+  "len_s": 32.13,
+  "stayed_pct": 39.8,
+  "per100_views_at": {
+   "5s": 44.3,
+   "10s": 36.0,
+   "20s": 30.5,
+   "end": 18.5
+  },
+  "watch_s_per_view": 11.4,
+  "likes_per100_engaged_analytics": 1.94,
+  "loop_excess_at_1pct": 0.43,
+  "awr_at_99pct": 0.4645,
+  "loop_excess_per_finisher": 0.93,
+  "first_play_stayed_if_excess_are_restart_views_pct": 48.0,
+  "rel_ret_at": {
+   "1s": 0.595,
+   "3s": 0.527,
+   "5s": 0.493,
+   "10s": 0.5,
+   "20s": 0.717
+  }
+ },
+ "PigWar": {
+  "len_s": 41.37,
+  "stayed_pct": 48.9,
+  "per100_views_at": {
+   "5s": 51.2,
+   "10s": 40.2,
+   "20s": 33.6,
+   "end": 18.5
+  },
+  "watch_s_per_view": 15.0,
+  "likes_per100_engaged_analytics": 5.97,
+  "loop_excess_at_1pct": 0.288,
+  "awr_at_99pct": 0.3818,
+  "loop_excess_per_finisher": 0.76,
+  "first_play_stayed_if_excess_are_restart_views_pct": 56.9,
+  "rel_ret_at": {
+   "1s": 0.575,
+   "3s": 0.493,
+   "5s": 0.438,
+   "10s": 0.409,
+   "20s": 0.412
+  }
+ }
+}

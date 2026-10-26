@@ -1,0 +1,1794 @@
+{
+ "Eoxim0DO2g4": {
+  "daily": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "engagedViews,views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,likes,shares,comments,subscribersGained",
+    "dimensions": "day",
+    "filters": "video==Eoxim0DO2g4",
+    "sort": "day"
+   },
+   "rows": [
+    {
+     "day": "2026-10-01",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-02",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-03",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-04",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-05",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-06",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-07",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-08",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-09",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-10",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-11",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-12",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-13",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-14",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-15",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-16",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-17",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-18",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-19",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-20",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-21",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-22",
+     "engagedViews": 385,
+     "views": 788,
+     "estimatedMinutesWatched": 197,
+     "averageViewDuration": 29,
+     "averageViewPercentage": 70.38,
+     "likes": 23,
+     "shares": 0,
+     "comments": 1,
+     "subscribersGained": 1
+    }
+   ]
+  },
+  "retention": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "audienceWatchRatio,relativeRetentionPerformance",
+    "dimensions": "elapsedVideoTimeRatio",
+    "filters": "video==Eoxim0DO2g4"
+   },
+   "rows": [
+    {
+     "elapsedVideoTimeRatio": 0.01,
+     "audienceWatchRatio": 1.2883000000000002,
+     "relativeRetentionPerformance": 0.6234
+    },
+    {
+     "elapsedVideoTimeRatio": 0.02,
+     "audienceWatchRatio": 1.2701,
+     "relativeRetentionPerformance": 0.5993999999999999
+    },
+    {
+     "elapsedVideoTimeRatio": 0.03,
+     "audienceWatchRatio": 1.2416,
+     "relativeRetentionPerformance": 0.5751999999999999
+    },
+    {
+     "elapsedVideoTimeRatio": 0.04,
+     "audienceWatchRatio": 1.2104000000000001,
+     "relativeRetentionPerformance": 0.5533
+    },
+    {
+     "elapsedVideoTimeRatio": 0.05,
+     "audienceWatchRatio": 1.1948,
+     "relativeRetentionPerformance": 0.53465
+    },
+    {
+     "elapsedVideoTimeRatio": 0.06,
+     "audienceWatchRatio": 1.187,
+     "relativeRetentionPerformance": 0.5189
+    },
+    {
+     "elapsedVideoTimeRatio": 0.07,
+     "audienceWatchRatio": 1.1740000000000002,
+     "relativeRetentionPerformance": 0.5052
+    },
+    {
+     "elapsedVideoTimeRatio": 0.08,
+     "audienceWatchRatio": 1.161,
+     "relativeRetentionPerformance": 0.4926
+    },
+    {
+     "elapsedVideoTimeRatio": 0.09,
+     "audienceWatchRatio": 1.1558,
+     "relativeRetentionPerformance": 0.4805
+    },
+    {
+     "elapsedVideoTimeRatio": 0.1,
+     "audienceWatchRatio": 1.1481000000000001,
+     "relativeRetentionPerformance": 0.46885
+    },
+    {
+     "elapsedVideoTimeRatio": 0.11,
+     "audienceWatchRatio": 1.1195,
+     "relativeRetentionPerformance": 0.45765
+    },
+    {
+     "elapsedVideoTimeRatio": 0.12,
+     "audienceWatchRatio": 1.0519,
+     "relativeRetentionPerformance": 0.4472
+    },
+    {
+     "elapsedVideoTimeRatio": 0.13,
+     "audienceWatchRatio": 1.0078,
+     "relativeRetentionPerformance": 0.4376
+    },
+    {
+     "elapsedVideoTimeRatio": 0.14,
+     "audienceWatchRatio": 0.9765999999999999,
+     "relativeRetentionPerformance": 0.42915000000000003
+    },
+    {
+     "elapsedVideoTimeRatio": 0.15,
+     "audienceWatchRatio": 0.9351,
+     "relativeRetentionPerformance": 0.42195
+    },
+    {
+     "elapsedVideoTimeRatio": 0.16,
+     "audienceWatchRatio": 0.9195,
+     "relativeRetentionPerformance": 0.4161
+    },
+    {
+     "elapsedVideoTimeRatio": 0.17,
+     "audienceWatchRatio": 0.8961,
+     "relativeRetentionPerformance": 0.4116
+    },
+    {
+     "elapsedVideoTimeRatio": 0.18,
+     "audienceWatchRatio": 0.8726999999999999,
+     "relativeRetentionPerformance": 0.4084
+    },
+    {
+     "elapsedVideoTimeRatio": 0.19,
+     "audienceWatchRatio": 0.8701000000000001,
+     "relativeRetentionPerformance": 0.4064
+    },
+    {
+     "elapsedVideoTimeRatio": 0.2,
+     "audienceWatchRatio": 0.8623000000000001,
+     "relativeRetentionPerformance": 0.40535
+    },
+    {
+     "elapsedVideoTimeRatio": 0.21,
+     "audienceWatchRatio": 0.8545,
+     "relativeRetentionPerformance": 0.4051
+    },
+    {
+     "elapsedVideoTimeRatio": 0.22,
+     "audienceWatchRatio": 0.8468000000000001,
+     "relativeRetentionPerformance": 0.4055
+    },
+    {
+     "elapsedVideoTimeRatio": 0.23,
+     "audienceWatchRatio": 0.8312,
+     "relativeRetentionPerformance": 0.40635
+    },
+    {
+     "elapsedVideoTimeRatio": 0.24,
+     "audienceWatchRatio": 0.826,
+     "relativeRetentionPerformance": 0.40755
+    },
+    {
+     "elapsedVideoTimeRatio": 0.25,
+     "audienceWatchRatio": 0.813,
+     "relativeRetentionPerformance": 0.40905
+    },
+    {
+     "elapsedVideoTimeRatio": 0.26,
+     "audienceWatchRatio": 0.8051999999999999,
+     "relativeRetentionPerformance": 0.4106
+    },
+    {
+     "elapsedVideoTimeRatio": 0.27,
+     "audienceWatchRatio": 0.7974,
+     "relativeRetentionPerformance": 0.4122
+    },
+    {
+     "elapsedVideoTimeRatio": 0.28,
+     "audienceWatchRatio": 0.7974,
+     "relativeRetentionPerformance": 0.41359999999999997
+    },
+    {
+     "elapsedVideoTimeRatio": 0.29,
+     "audienceWatchRatio": 0.7974,
+     "relativeRetentionPerformance": 0.4148
+    },
+    {
+     "elapsedVideoTimeRatio": 0.3,
+     "audienceWatchRatio": 0.7948000000000001,
+     "relativeRetentionPerformance": 0.41555
+    },
+    {
+     "elapsedVideoTimeRatio": 0.31,
+     "audienceWatchRatio": 0.7896,
+     "relativeRetentionPerformance": 0.41585
+    },
+    {
+     "elapsedVideoTimeRatio": 0.32,
+     "audienceWatchRatio": 0.7844,
+     "relativeRetentionPerformance": 0.4157
+    },
+    {
+     "elapsedVideoTimeRatio": 0.33,
+     "audienceWatchRatio": 0.774,
+     "relativeRetentionPerformance": 0.415
+    },
+    {
+     "elapsedVideoTimeRatio": 0.34,
+     "audienceWatchRatio": 0.7662,
+     "relativeRetentionPerformance": 0.41395
+    },
+    {
+     "elapsedVideoTimeRatio": 0.35,
+     "audienceWatchRatio": 0.7609999999999999,
+     "relativeRetentionPerformance": 0.41259999999999997
+    },
+    {
+     "elapsedVideoTimeRatio": 0.36,
+     "audienceWatchRatio": 0.7609999999999999,
+     "relativeRetentionPerformance": 0.4111
+    },
+    {
+     "elapsedVideoTimeRatio": 0.37,
+     "audienceWatchRatio": 0.7506,
+     "relativeRetentionPerformance": 0.40954999999999997
+    },
+    {
+     "elapsedVideoTimeRatio": 0.38,
+     "audienceWatchRatio": 0.7403,
+     "relativeRetentionPerformance": 0.40815
+    },
+    {
+     "elapsedVideoTimeRatio": 0.39,
+     "audienceWatchRatio": 0.7351000000000001,
+     "relativeRetentionPerformance": 0.4069
+    },
+    {
+     "elapsedVideoTimeRatio": 0.4,
+     "audienceWatchRatio": 0.7299,
+     "relativeRetentionPerformance": 0.40595000000000003
+    },
+    {
+     "elapsedVideoTimeRatio": 0.41,
+     "audienceWatchRatio": 0.7247,
+     "relativeRetentionPerformance": 0.40535
+    },
+    {
+     "elapsedVideoTimeRatio": 0.42,
+     "audienceWatchRatio": 0.7195,
+     "relativeRetentionPerformance": 0.4051
+    },
+    {
+     "elapsedVideoTimeRatio": 0.43,
+     "audienceWatchRatio": 0.7195,
+     "relativeRetentionPerformance": 0.40525
+    },
+    {
+     "elapsedVideoTimeRatio": 0.44,
+     "audienceWatchRatio": 0.7143,
+     "relativeRetentionPerformance": 0.4058
+    },
+    {
+     "elapsedVideoTimeRatio": 0.45,
+     "audienceWatchRatio": 0.7143,
+     "relativeRetentionPerformance": 0.40665
+    },
+    {
+     "elapsedVideoTimeRatio": 0.46,
+     "audienceWatchRatio": 0.7117,
+     "relativeRetentionPerformance": 0.4078
+    },
+    {
+     "elapsedVideoTimeRatio": 0.47,
+     "audienceWatchRatio": 0.6987000000000001,
+     "relativeRetentionPerformance": 0.40915
+    },
+    {
+     "elapsedVideoTimeRatio": 0.48,
+     "audienceWatchRatio": 0.6934999999999999,
+     "relativeRetentionPerformance": 0.4107
+    },
+    {
+     "elapsedVideoTimeRatio": 0.49,
+     "audienceWatchRatio": 0.6779000000000001,
+     "relativeRetentionPerformance": 0.4125
+    },
+    {
+     "elapsedVideoTimeRatio": 0.5,
+     "audienceWatchRatio": 0.6675,
+     "relativeRetentionPerformance": 0.41445
+    },
+    {
+     "elapsedVideoTimeRatio": 0.51,
+     "audienceWatchRatio": 0.6648999999999999,
+     "relativeRetentionPerformance": 0.41675
+    },
+    {
+     "elapsedVideoTimeRatio": 0.52,
+     "audienceWatchRatio": 0.6597,
+     "relativeRetentionPerformance": 0.41935
+    },
+    {
+     "elapsedVideoTimeRatio": 0.53,
+     "audienceWatchRatio": 0.6597,
+     "relativeRetentionPerformance": 0.4224
+    },
+    {
+     "elapsedVideoTimeRatio": 0.54,
+     "audienceWatchRatio": 0.6518999999999999,
+     "relativeRetentionPerformance": 0.426
+    },
+    {
+     "elapsedVideoTimeRatio": 0.55,
+     "audienceWatchRatio": 0.6494,
+     "relativeRetentionPerformance": 0.43025
+    },
+    {
+     "elapsedVideoTimeRatio": 0.56,
+     "audienceWatchRatio": 0.6468,
+     "relativeRetentionPerformance": 0.4353
+    },
+    {
+     "elapsedVideoTimeRatio": 0.57,
+     "audienceWatchRatio": 0.6364,
+     "relativeRetentionPerformance": 0.44125000000000003
+    },
+    {
+     "elapsedVideoTimeRatio": 0.58,
+     "audienceWatchRatio": 0.626,
+     "relativeRetentionPerformance": 0.4482
+    },
+    {
+     "elapsedVideoTimeRatio": 0.59,
+     "audienceWatchRatio": 0.6182,
+     "relativeRetentionPerformance": 0.45615
+    },
+    {
+     "elapsedVideoTimeRatio": 0.6,
+     "audienceWatchRatio": 0.6182,
+     "relativeRetentionPerformance": 0.46515
+    },
+    {
+     "elapsedVideoTimeRatio": 0.61,
+     "audienceWatchRatio": 0.6103999999999999,
+     "relativeRetentionPerformance": 0.475
+    },
+    {
+     "elapsedVideoTimeRatio": 0.62,
+     "audienceWatchRatio": 0.6078,
+     "relativeRetentionPerformance": 0.4856
+    },
+    {
+     "elapsedVideoTimeRatio": 0.63,
+     "audienceWatchRatio": 0.6052000000000001,
+     "relativeRetentionPerformance": 0.49675
+    },
+    {
+     "elapsedVideoTimeRatio": 0.64,
+     "audienceWatchRatio": 0.6052000000000001,
+     "relativeRetentionPerformance": 0.5081
+    },
+    {
+     "elapsedVideoTimeRatio": 0.65,
+     "audienceWatchRatio": 0.5948,
+     "relativeRetentionPerformance": 0.51955
+    },
+    {
+     "elapsedVideoTimeRatio": 0.66,
+     "audienceWatchRatio": 0.5922,
+     "relativeRetentionPerformance": 0.5308
+    },
+    {
+     "elapsedVideoTimeRatio": 0.67,
+     "audienceWatchRatio": 0.5870000000000001,
+     "relativeRetentionPerformance": 0.54175
+    },
+    {
+     "elapsedVideoTimeRatio": 0.68,
+     "audienceWatchRatio": 0.5766,
+     "relativeRetentionPerformance": 0.55225
+    },
+    {
+     "elapsedVideoTimeRatio": 0.69,
+     "audienceWatchRatio": 0.5714,
+     "relativeRetentionPerformance": 0.5621
+    },
+    {
+     "elapsedVideoTimeRatio": 0.7,
+     "audienceWatchRatio": 0.5714,
+     "relativeRetentionPerformance": 0.57125
+    },
+    {
+     "elapsedVideoTimeRatio": 0.71,
+     "audienceWatchRatio": 0.5661999999999999,
+     "relativeRetentionPerformance": 0.57955
+    },
+    {
+     "elapsedVideoTimeRatio": 0.72,
+     "audienceWatchRatio": 0.5584,
+     "relativeRetentionPerformance": 0.58695
+    },
+    {
+     "elapsedVideoTimeRatio": 0.73,
+     "audienceWatchRatio": 0.5584,
+     "relativeRetentionPerformance": 0.59345
+    },
+    {
+     "elapsedVideoTimeRatio": 0.74,
+     "audienceWatchRatio": 0.5532,
+     "relativeRetentionPerformance": 0.59905
+    },
+    {
+     "elapsedVideoTimeRatio": 0.75,
+     "audienceWatchRatio": 0.5506,
+     "relativeRetentionPerformance": 0.60385
+    },
+    {
+     "elapsedVideoTimeRatio": 0.76,
+     "audienceWatchRatio": 0.5455,
+     "relativeRetentionPerformance": 0.6079
+    },
+    {
+     "elapsedVideoTimeRatio": 0.77,
+     "audienceWatchRatio": 0.5455,
+     "relativeRetentionPerformance": 0.6112
+    },
+    {
+     "elapsedVideoTimeRatio": 0.78,
+     "audienceWatchRatio": 0.5428999999999999,
+     "relativeRetentionPerformance": 0.6139
+    },
+    {
+     "elapsedVideoTimeRatio": 0.79,
+     "audienceWatchRatio": 0.5377000000000001,
+     "relativeRetentionPerformance": 0.6159
+    },
+    {
+     "elapsedVideoTimeRatio": 0.8,
+     "audienceWatchRatio": 0.5351,
+     "relativeRetentionPerformance": 0.61735
+    },
+    {
+     "elapsedVideoTimeRatio": 0.81,
+     "audienceWatchRatio": 0.5325,
+     "relativeRetentionPerformance": 0.61825
+    },
+    {
+     "elapsedVideoTimeRatio": 0.82,
+     "audienceWatchRatio": 0.5325,
+     "relativeRetentionPerformance": 0.61865
+    },
+    {
+     "elapsedVideoTimeRatio": 0.83,
+     "audienceWatchRatio": 0.5325,
+     "relativeRetentionPerformance": 0.6186
+    },
+    {
+     "elapsedVideoTimeRatio": 0.84,
+     "audienceWatchRatio": 0.5325,
+     "relativeRetentionPerformance": 0.6181
+    },
+    {
+     "elapsedVideoTimeRatio": 0.85,
+     "audienceWatchRatio": 0.5299,
+     "relativeRetentionPerformance": 0.6171
+    },
+    {
+     "elapsedVideoTimeRatio": 0.86,
+     "audienceWatchRatio": 0.5299,
+     "relativeRetentionPerformance": 0.61565
+    },
+    {
+     "elapsedVideoTimeRatio": 0.87,
+     "audienceWatchRatio": 0.5246999999999999,
+     "relativeRetentionPerformance": 0.6137
+    },
+    {
+     "elapsedVideoTimeRatio": 0.88,
+     "audienceWatchRatio": 0.5246999999999999,
+     "relativeRetentionPerformance": 0.61125
+    },
+    {
+     "elapsedVideoTimeRatio": 0.89,
+     "audienceWatchRatio": 0.5195000000000001,
+     "relativeRetentionPerformance": 0.6085
+    },
+    {
+     "elapsedVideoTimeRatio": 0.9,
+     "audienceWatchRatio": 0.5169,
+     "relativeRetentionPerformance": 0.6055
+    },
+    {
+     "elapsedVideoTimeRatio": 0.91,
+     "audienceWatchRatio": 0.5117,
+     "relativeRetentionPerformance": 0.6025
+    },
+    {
+     "elapsedVideoTimeRatio": 0.92,
+     "audienceWatchRatio": 0.5065,
+     "relativeRetentionPerformance": 0.59975
+    },
+    {
+     "elapsedVideoTimeRatio": 0.93,
+     "audienceWatchRatio": 0.4987,
+     "relativeRetentionPerformance": 0.59755
+    },
+    {
+     "elapsedVideoTimeRatio": 0.94,
+     "audienceWatchRatio": 0.48829999999999996,
+     "relativeRetentionPerformance": 0.5962
+    },
+    {
+     "elapsedVideoTimeRatio": 0.95,
+     "audienceWatchRatio": 0.47009999999999996,
+     "relativeRetentionPerformance": 0.59595
+    },
+    {
+     "elapsedVideoTimeRatio": 0.96,
+     "audienceWatchRatio": 0.4623,
+     "relativeRetentionPerformance": 0.59695
+    },
+    {
+     "elapsedVideoTimeRatio": 0.97,
+     "audienceWatchRatio": 0.44939999999999997,
+     "relativeRetentionPerformance": 0.5991
+    },
+    {
+     "elapsedVideoTimeRatio": 0.98,
+     "audienceWatchRatio": 0.42340000000000005,
+     "relativeRetentionPerformance": 0.60215
+    },
+    {
+     "elapsedVideoTimeRatio": 0.99,
+     "audienceWatchRatio": 0.3818,
+     "relativeRetentionPerformance": 0.60555
+    },
+    {
+     "elapsedVideoTimeRatio": 1,
+     "audienceWatchRatio": 0.37920000000000004,
+     "relativeRetentionPerformance": 0.6088
+    }
+   ]
+  },
+  "traffic": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "views,averageViewPercentage",
+    "dimensions": "insightTrafficSourceType",
+    "filters": "video==Eoxim0DO2g4",
+    "sort": "-views"
+   },
+   "rows": [
+    {
+     "insightTrafficSourceType": "SHORTS",
+     "views": 759,
+     "averageViewPercentage": 69.89
+    },
+    {
+     "insightTrafficSourceType": "YT_SEARCH",
+     "views": 20,
+     "averageViewPercentage": 65.68
+    },
+    {
+     "insightTrafficSourceType": "YT_OTHER_PAGE",
+     "views": 6,
+     "averageViewPercentage": 98.8
+    },
+    {
+     "insightTrafficSourceType": "SUBSCRIBER",
+     "views": 3,
+     "averageViewPercentage": 140.98
+    },
+    {
+     "insightTrafficSourceType": "NO_LINK_OTHER",
+     "views": 0,
+     "averageViewPercentage": 0
+    }
+   ]
+  },
+  "country": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "views,averageViewPercentage",
+    "dimensions": "country",
+    "filters": "video==Eoxim0DO2g4",
+    "sort": "-views"
+   },
+   "rows": [
+    {
+     "country": "US",
+     "views": 199,
+     "averageViewPercentage": 66.88
+    },
+    {
+     "country": "PH",
+     "views": 78,
+     "averageViewPercentage": 79.73
+    },
+    {
+     "country": "ID",
+     "views": 49,
+     "averageViewPercentage": 53.54
+    },
+    {
+     "country": "IN",
+     "views": 45,
+     "averageViewPercentage": 74.57
+    },
+    {
+     "country": "MY",
+     "views": 37,
+     "averageViewPercentage": 64.11
+    },
+    {
+     "country": "CA",
+     "views": 34,
+     "averageViewPercentage": 107.1
+    },
+    {
+     "country": "GB",
+     "views": 24,
+     "averageViewPercentage": 75.13
+    },
+    {
+     "country": "KH",
+     "views": 22,
+     "averageViewPercentage": 69.91
+    },
+    {
+     "country": "AU",
+     "views": 17,
+     "averageViewPercentage": 69.28
+    }
+   ]
+  }
+ },
+ "06A_mm0ZkGw": {
+  "daily": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "engagedViews,views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,likes,shares,comments,subscribersGained",
+    "dimensions": "day",
+    "filters": "video==06A_mm0ZkGw",
+    "sort": "day"
+   },
+   "rows": [
+    {
+     "day": "2026-10-01",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-02",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-03",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-04",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-05",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-06",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-07",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-08",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-09",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-10",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-11",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-12",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-13",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-14",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-15",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-16",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-17",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-18",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-19",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-20",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-21",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-22",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    }
+   ]
+  },
+  "retention": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "audienceWatchRatio,relativeRetentionPerformance",
+    "dimensions": "elapsedVideoTimeRatio",
+    "filters": "video==06A_mm0ZkGw"
+   },
+   "rows": []
+  },
+  "traffic": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "views,averageViewPercentage",
+    "dimensions": "insightTrafficSourceType",
+    "filters": "video==06A_mm0ZkGw",
+    "sort": "-views"
+   },
+   "rows": []
+  },
+  "country": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "views,averageViewPercentage",
+    "dimensions": "country",
+    "filters": "video==06A_mm0ZkGw",
+    "sort": "-views"
+   },
+   "rows": []
+  }
+ },
+ "kP_YrKlOel8": {
+  "daily": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "engagedViews,views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,likes,shares,comments,subscribersGained",
+    "dimensions": "day",
+    "filters": "video==kP_YrKlOel8",
+    "sort": "day"
+   },
+   "rows": [
+    {
+     "day": "2026-10-01",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-02",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-03",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-04",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-05",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-06",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-07",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-08",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-09",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-10",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-11",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-12",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-13",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-14",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-15",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-16",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-17",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-18",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-19",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-20",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-21",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    },
+    {
+     "day": "2026-10-22",
+     "engagedViews": 0,
+     "views": 0,
+     "estimatedMinutesWatched": 0,
+     "averageViewDuration": 0,
+     "averageViewPercentage": 0,
+     "likes": 0,
+     "shares": 0,
+     "comments": 0,
+     "subscribersGained": 0
+    }
+   ]
+  },
+  "retention": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "audienceWatchRatio,relativeRetentionPerformance",
+    "dimensions": "elapsedVideoTimeRatio",
+    "filters": "video==kP_YrKlOel8"
+   },
+   "rows": []
+  },
+  "traffic": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "views,averageViewPercentage",
+    "dimensions": "insightTrafficSourceType",
+    "filters": "video==kP_YrKlOel8",
+    "sort": "-views"
+   },
+   "rows": []
+  },
+  "country": {
+   "query": {
+    "ids": "channel==MINE",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-25",
+    "metrics": "views,averageViewPercentage",
+    "dimensions": "country",
+    "filters": "video==kP_YrKlOel8",
+    "sort": "-views"
+   },
+   "rows": []
+  }
+ },
+ "channel_daily": {
+  "query": {
+   "ids": "channel==MINE",
+   "startDate": "2026-10-01",
+   "endDate": "2026-10-25",
+   "metrics": "engagedViews,views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,likes,shares,comments,subscribersGained",
+   "dimensions": "day",
+   "sort": "day"
+  },
+  "rows": [
+   {
+    "day": "2026-10-01",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-02",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-03",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-04",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-05",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-06",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-07",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-08",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-09",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-10",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-11",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-12",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-13",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-14",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-15",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-16",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-17",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-18",
+    "engagedViews": 0,
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "likes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-19",
+    "engagedViews": 31,
+    "views": 53,
+    "estimatedMinutesWatched": 20,
+    "averageViewDuration": 39,
+    "averageViewPercentage": 51.190000000000005,
+    "likes": 2,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-20",
+    "engagedViews": 316,
+    "views": 562,
+    "estimatedMinutesWatched": 192,
+    "averageViewDuration": 35,
+    "averageViewPercentage": 51.129999999999995,
+    "likes": 5,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0
+   },
+   {
+    "day": "2026-10-21",
+    "engagedViews": 878,
+    "views": 1834,
+    "estimatedMinutesWatched": 456,
+    "averageViewDuration": 29,
+    "averageViewPercentage": 58.14,
+    "likes": 20,
+    "shares": 0,
+    "comments": 2,
+    "subscribersGained": 1
+   },
+   {
+    "day": "2026-10-22",
+    "engagedViews": 698,
+    "views": 1319,
+    "estimatedMinutesWatched": 352,
+    "averageViewDuration": 29,
+    "averageViewPercentage": 58.43000000000001,
+    "likes": 30,
+    "shares": 0,
+    "comments": 1,
+    "subscribersGained": 1
+   }
+  ]
+ },
+ "pulled": "2026-10-25T11:48:49"
+}

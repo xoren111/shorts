@@ -1,0 +1,40 @@
+{
+  "name": "australia-vs-rabbits",
+  "version": "1.0.0",
+  "description": "Australia vs Rabbits — vertical Short (Remotion + Blender toon)",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "studio": "remotion studio",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "@react-three/postprocessing": "^3.2.0",
+    "@remotion/bundler": "^4.0.535",
+    "@remotion/cli": "^4.0.535",
+    "@remotion/google-fonts": "^4.0.535",
+    "@remotion/noise": "^4.0.535",
+    "@remotion/paths": "^4.0.535",
+    "@remotion/renderer": "^4.0.535",
+    "@remotion/shapes": "^4.0.535",
+    "@remotion/skia": "^4.0.535",
+    "@remotion/three": "^4.0.535",
+    "@shopify/react-native-skia": "^2.14.0",
+    "postprocessing": "^6.39.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-native-web": "^0.21.4",
+    "remotion": "^4.0.535",
+    "three": "^0.186.1",
+    "three-bvh-csg": "^0.0.18",
+    "three-mesh-bvh": "^0.9.16"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "esbuild": "^0.25.12",
+    "typescript": "^5.9.3"
+  }
+}

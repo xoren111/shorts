@@ -1,0 +1,158 @@
+{
+ "kP_YrKlOel8": {
+  "error": {
+   "code": 403,
+   "message": "Request had insufficient authentication scopes.",
+   "errors": [
+    {
+     "message": "Insufficient Permission",
+     "domain": "global",
+     "reason": "insufficientPermissions"
+    }
+   ],
+   "status": "PERMISSION_DENIED",
+   "details": [
+    {
+     "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+     "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+     "domain": "googleapis.com",
+     "metadata": {
+      "service": "youtube.googleapis.com",
+      "method": "youtube.api.v3.V3DataCommentThreadService.List"
+     }
+    }
+   ]
+  },
+  "http_status": 403
+ },
+ "06A_mm0ZkGw": {
+  "error": {
+   "code": 403,
+   "message": "Request had insufficient authentication scopes.",
+   "errors": [
+    {
+     "message": "Insufficient Permission",
+     "domain": "global",
+     "reason": "insufficientPermissions"
+    }
+   ],
+   "status": "PERMISSION_DENIED",
+   "details": [
+    {
+     "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+     "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+     "domain": "googleapis.com",
+     "metadata": {
+      "service": "youtube.googleapis.com",
+      "method": "youtube.api.v3.V3DataCommentThreadService.List"
+     }
+    }
+   ]
+  },
+  "http_status": 403
+ },
+ "Eoxim0DO2g4": {
+  "error": {
+   "code": 403,
+   "message": "Request had insufficient authentication scopes.",
+   "errors": [
+    {
+     "message": "Insufficient Permission",
+     "domain": "global",
+     "reason": "insufficientPermissions"
+    }
+   ],
+   "status": "PERMISSION_DENIED",
+   "details": [
+    {
+     "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+     "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+     "domain": "googleapis.com",
+     "metadata": {
+      "method": "youtube.api.v3.V3DataCommentThreadService.List",
+      "service": "youtube.googleapis.com"
+     }
+    }
+   ]
+  },
+  "http_status": 403
+ },
+ "TD53YW6dqoY": {
+  "error": {
+   "code": 403,
+   "message": "Request had insufficient authentication scopes.",
+   "errors": [
+    {
+     "message": "Insufficient Permission",
+     "domain": "global",
+     "reason": "insufficientPermissions"
+    }
+   ],
+   "status": "PERMISSION_DENIED",
+   "details": [
+    {
+     "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+     "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+     "domain": "googleapis.com",
+     "metadata": {
+      "service": "youtube.googleapis.com",
+      "method": "youtube.api.v3.V3DataCommentThreadService.List"
+     }
+    }
+   ]
+  },
+  "http_status": 403
+ },
+ "w52iSlkYlOg": {
+  "error": {
+   "code": 403,
+   "message": "Request had insufficient authentication scopes.",
+   "errors": [
+    {
+     "message": "Insufficient Permission",
+     "domain": "global",
+     "reason": "insufficientPermissions"
+    }
+   ],
+   "status": "PERMISSION_DENIED",
+   "details": [
+    {
+     "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+     "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+     "domain": "googleapis.com",
+     "metadata": {
+      "service": "youtube.googleapis.com",
+      "method": "youtube.api.v3.V3DataCommentThreadService.List"
+     }
+    }
+   ]
+  },
+  "http_status": 403
+ },
+ "yR42PjbnqEo": {
+  "error": {
+   "code": 403,
+   "message": "Request had insufficient authentication scopes.",
+   "errors": [
+    {
+     "message": "Insufficient Permission",
+     "domain": "global",
+     "reason": "insufficientPermissions"
+    }
+   ],
+   "status": "PERMISSION_DENIED",
+   "details": [
+    {
+     "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+     "reason": "ACCESS_TOKEN_SCOPE_INSUFFICIENT",
+     "domain": "googleapis.com",
+     "metadata": {
+      "service": "youtube.googleapis.com",
+      "method": "youtube.api.v3.V3DataCommentThreadService.List"
+     }
+    }
+   ]
+  },
+  "http_status": 403
+ }
+}

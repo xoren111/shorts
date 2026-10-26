@@ -1,0 +1,161 @@
+{
+ "findings": [
+  {
+   "id": "V-all-0",
+   "severity": "medium",
+   "confidence": "high",
+   "claim": "The API retention curve and AVP describe only viewers who did NOT swipe (engaged basis); they must be multiplied by stayed% to see the real funnel.",
+   "evidence": "mean audienceWatchRatio 0.540/0.468/0.851 = AVP 53.1/45.3/81.3 %; minutes*60/engagedViews 42.0/29.4/28.6 s = AVD 40/28/26 s (basis_check.json, summary.json). Per 100 feed views still playing at the end: Volcano 14.8, Rabbits 9.4, Yellow Fleet 18.5.",
+   "action": "Judge every Short on stayed% x curve, never on AVP alone (YF «81 %» is 81 % of the 40 % who stayed)."
+  },
+  {
+   "id": "V-volcano-1",
+   "severity": "critical",
+   "confidence": "high",
+   "claim": "Volcano loses a third of its non-swiping audience in 5.4–10 s, exactly on the meta line + «1935, Hawaii.» + globe dive + satellite map.",
+   "evidence": "per_video.json: awr 1.008 @5.4 s -> 0.877 @6.2 s (steepest 1 % bucket of the three videos, -0.131) -> 0.744 @7.7 s -> 0.665 @10 s (-34 %); relativeRetentionPerformance min 0.255 @6.9 s, 0.255–0.27 until ~17 s. VO (volcano/short/data/words.json): «…craziest way we fought lava.» ends 6.23, 0.71 s pause, «1935,» 6.94–8.22, «Hawaii.» 8.55–9.17 = 3 words in 6.2–9.7 s. Visual: 3-photo collage 4.5 s -> «Iceland 1973» photo card 5.8–6.5 s -> globe from space + «1935» 7.2 s -> satellite «Mauna Loa / HAWAII» 8.2–9.2 s (frames/yR42PjbnqEo_drop_5-12s.jpg).",
+   "action": "After line 1 go straight into action on the subject (bombers over lava heading for the town); no meta-teaser, no year, no globe/map in 3–12 s."
+  },
+  {
+   "id": "V-volcano-2",
+   "severity": "high",
+   "confidence": "high",
+   "claim": "Volcano's 8.4 s static scoreboard outro after the payoff sheds 40 % of the viewers who were still there.",
+   "evidence": "Payoff «…harbor even better.» ends 68.44 s; awr 0.444 @67 s -> 0.267 @76.8 s; motion 70–75 s = 0.91/0.56/0.29/0.65/0.52 (measure_yR42PjbnqEo.json); rel 0.640 @47.7 s -> 0.462 @75 s (per_video.json); frames/yR42PjbnqEo_end_66-76s.jpg (scoreboard + Atlas, «And Hawaii? We don't talk about Hawaii»).",
+   "action": "End within ~1–2 s of the payoff and loop into frame 0 (what YF does)."
+  },
+  {
+   "id": "V-volcano-3",
+   "severity": "medium",
+   "confidence": "high",
+   "claim": "Volcano is three stories with three dates/places in 77 s at 2.0 words/s; its feed test ended after ~2.5 days at 663 views.",
+   "evidence": "1935 Hawaii / 1992 Italy / 1973 Iceland (transcript in measure_yR42PjbnqEo.json); 2.01 w/s whisper, 2.0 w/s project words; daily PT views 53 (first ~11 h) / 276 / 324 / 9, Data API 663 at 10-25 07:53 UTC (dataapi_recheck.json).",
+   "action": "One story per Short; the Hawaii bombing alone is a complete 30 s arc."
+  },
+  {
+   "id": "V-volcano-4",
+   "severity": "positive",
+   "confidence": "medium",
+   "claim": "Volcano's line 1 + bomb/blast at 1–2 s is the one part that worked: best like rate of the three and a stable middle.",
+   "evidence": "likes 13 = 1.96/100 views, 3.54/100 engaged (best of 3, summary.json); stayed 55.4 %; awr flat 0.55 -> 0.455 from 20 s to 57 s, rel rises to 0.64 (Etna/Iceland section).",
+   "action": "Keep «The US Army once bombed a volcano» style lines; put the visual payoff on screen in second 1."
+  },
+  {
+   "id": "V-rabbits-1",
+   "severity": "critical",
+   "confidence": "high",
+   "claim": "Rabbits loses 60 % of its non-swiping audience between 5 s and 19.5 s while it explains rounds, a map, a statistic, a prize and Louis Pasteur.",
+   "evidence": "awr 1.047 @5 s -> 0.813 @10 s -> 0.615 @15 s -> 0.418 @19.5 s; rel min 0.242 @12.4 s, mean 0.257 over 10–30 % of the video. Steepest 2-s windows: 10–12 s -0.116 («millions. Australia fought back» over flat Australia map + «≈600 million by 1950 estimate (CSIRO)») and 17–19 s -0.111 («entered. With chicken cholera» over Pasteur photo + «He sent his team to Sydney» -> «Rodd Island lab Sydney»). Speech 1.6/1.8/1.4 w/s in 5–10/10–15/15–20 s (analysis.json pace_5s); 13 VO gaps >=0.5 s = 7.2 s (vo_gaps_project_words.txt). Per 100 feed views only 25.3 still playing at 20 s (basis_check.json). frames/w52iSlkYlOg_drop_4-20s.jpg.",
+   "action": "One arc, no «Round one/two/three», no names/prize/lab labels; cut from the twist straight to the visual consequence (rabbits everywhere)."
+  },
+  {
+   "id": "V-rabbits-2",
+   "severity": "positive",
+   "confidence": "medium",
+   "claim": "Rabbits had the best opening of the three: the story's living beings are acting at frame 0 and line 1 is a riddle.",
+   "evidence": "stayed 61.4 % (Studio 62.6 %); frame 0 = 13 rabbits walking down the gangplank (frames/w52iSlkYlOg_sheet_0-3s.jpg); «Thirteen rabbits got on a ship, family records say. Twenty-four got off.» twist at 3.83–5.39 s; 286 views in the first ~11 h vs Volcano 53 — despite motion 0–1 s of only 1.9.",
+   "action": "Keep «subject doing the absurd thing at frame 0» + riddle line; add real motion/close framing (1.9 is still 5x below flop median)."
+  },
+  {
+   "id": "V-rabbits-3",
+   "severity": "high",
+   "confidence": "high",
+   "claim": "Rabbits' 10 s scoreboard outro loses half of the viewers who survived to it; AVP 45 % is the worst of the three.",
+   "evidence": "awr 0.296 @51.7 s -> 0.153 @62 s (-48 %); motion 52–57 s = 0.11/0.92/0.84/0.87/0.45/1.17; rel 0.722 @44 s -> 0.498 @59.8 s (per_video.json, measure_w52iSlkYlOg.json, frames/w52iSlkYlOg_end_50-62s.jpg).",
+   "action": "Same as Volcano: no scoreboard recap; land the last line and loop."
+  },
+  {
+   "id": "V-rabbits-4",
+   "severity": "medium",
+   "confidence": "high",
+   "claim": "Rabbits reached mostly Philippine viewers, had a weak like rate and got no further push after day 3.",
+   "evidence": "country rows: PH 347 (30 % of views) vs US 193 (17 %), AU 37 at 37 % AVP; likes 1.04/100 views, 0 shares/subs/comments; PT days 286/409/455, then Data API 1154 vs Analytics 1150 -> +4 views Oct 23–25 (summary.json, per_video.json, dataapi_recheck.json).",
+   "action": ""
+  },
+  {
+   "id": "V-yf-1",
+   "severity": "critical",
+   "confidence": "high",
+   "claim": "Yellow Fleet's first 5 seconds are a near-still image with no living being; 60 % of feed viewers swiped — worst of the three.",
+   "evidence": "motion 0.72/0.73/0.56/0.85/0.87 in seconds 0–4 (measure_TD53YW6dqoY.json) = 14x below the flop median 10.3, 33x below viral 23.6; frame 0 = calm canal + ships + static «1-DAY TRIP» card (frames/TD53YW6dqoY_sheet_0-3s.jpg); stayed 39.8 % (465/1168; Studio 42.8 %); per 100 feed views 36.0 still playing at 10 s.",
+   "action": "Open on the stranded yellow ships/sailors with something moving in frame, outcome-first; never a title card over a still scene."
+  },
+  {
+   "id": "V-yf-2",
+   "severity": "positive",
+   "confidence": "high",
+   "claim": "Yellow Fleet's body and loop are the best thing on the channel: 81 % viewed, curve finishes in the top ~17 % of similar-length videos, and it is the only video that got a second push.",
+   "evidence": "AVP 81.3 %; rel 0.482 min @7.1 s rising to 0.826 at the end; replay proxy 0.43 (awr 1.43 at 1 %) vs 0.20 for Volcano/Rabbits; seamless loop (short_bf/STATUS.md: last frame = frame 0); 2.73 w/s, 1 VO gap (vo_gaps_project_words.txt); no dates in the opening (variant B). Views: 1101 first ~11 h, 67 day 2, then +1144 between Oct 23 and Oct 25 07:45 UTC (Analytics 1168 vs Data API 2312).",
+   "action": "Make 30–35 s, one arc, no dates, punchline-then-loop the default template."
+  },
+  {
+   "id": "V-yf-3",
+   "severity": "medium",
+   "confidence": "medium",
+   "claim": "Yellow Fleet tells its whole premise by 4.97 s; the next 3 s (war/Egypt context over a flat 2D diagram) is where non-swipers leave, and it has the lowest like rate.",
+   "evidence": "awr 1.148 @4.6 s -> 0.970 @7.6 s on «…eight years later. Halfway through, war broke out. Egypt sank…» (short_bf/data/words.json); flat 2D ship cross-section 7.5–9.5 s (frames/TD53YW6dqoY_drop_3-10s.jpg); likes 18/2312 = 0.78/100 views, 0 shares.",
+   "action": "Keep one open question past second 5 (what happened to them in there?) instead of backstory."
+  },
+  {
+   "id": "V-all-1",
+   "severity": "high",
+   "confidence": "high",
+   "claim": "All three are slower than even the flop medians on every measured axis: no hard cuts at all (dissolve-only rule), low motion, slow narration.",
+   "evidence": "cuts/10 s 0.0/0.0/0.0 vs flop 2.0, viral 3.6 (STYLE rule «Every shot cross-dissolves (XF = 0.4 s)», volcano/short/STATUS.md v3); motion 1–6 s 4.08/2.62/1.03 vs refs 11–16; words/s 2.01/1.93/2.65 vs flop 2.91, viral 3.26 (measure_*.json).",
+   "action": "Drop the dissolve-only rule for Shorts: hard cuts every 1.5–3 s, VO at >=3 words/s."
+  },
+  {
+   "id": "V-all-2",
+   "severity": "high",
+   "confidence": "high",
+   "claim": "All three sat at the newcomer test ceiling: ~0.65–1.2K views in the first wave, 0 shares, 1 subscriber, 97–98 % Shorts feed, US only 17–28 % of views.",
+   "evidence": "first-wave views 653/1150/1168; shares 0/0/0; subs 1/0/0; SHORTS traffic 642/662, 1124/1150, 1139/1168; US 187/662, 193/1150, 322/1168 (per_video.json). Demographics rows are single 100 % buckets (below privacy threshold, unusable).",
+   "action": "Nothing in these numbers is close to a 1M trajectory yet; the fix is execution in seconds 0–20, not topics."
+  },
+  {
+   "id": "V-all-3",
+   "severity": "medium",
+   "confidence": "low",
+   "claim": "Hypothesis (N=3): reach followed completion/loop, not stayed% — YF had the worst stayed but the most views and the only second wave.",
+   "evidence": "stayed 39.8 vs 61.4 vs 55.4 %; AVP 81.3 vs 45.3 vs 53.1 %; views 2312 vs 1154 vs 663 (summary.json).",
+   "action": "Do not trade a strong body/loop for a hook; fix the hook on top of the YF template."
+  },
+  {
+   "id": "V-all-4",
+   "severity": "low",
+   "confidence": "low",
+   "claim": "Hypothesis: Atlas in frame 0 is not shown to hurt — the two openings with Atlas out-stayed the one without.",
+   "evidence": "Volcano 55.4 % and Rabbits 61.4 % (Atlas in lower ~40 % of frame 0) vs YF 39.8 % (no Atlas, no living being); confounded by motion and subject.",
+   "action": "Not a priority lever; the story subject in motion matters more."
+  }
+ ],
+ "top3_mistakes": [
+  {
+   "rank": 1,
+   "mistake": "Opening 0–5 s without the story's subject moving (still scene, title card, mascot instead of the absurd event)",
+   "evidence": "motion 0–1 s 4.04/1.90/0.72 and 0–5 s 4.14/1.82/0.75 vs flop median 10.3, viral 23.6; 0 hard cuts; stayed 55.4/61.4/39.8 % vs Isaac benchmark 79.6 %; stillest opening (YF) = worst stayed, the only one with the story's living beings acting (Rabbits) = best."
+  },
+  {
+   "rank": 2,
+   "mistake": "Context dump right after the hook (dates, places, globe/maps, names, prize/lab labels) at 1.4–1.8 words/s in seconds 4–20",
+   "evidence": "Volcano -34 % of engaged viewers in 5.4–10 s on «1935, Hawaii.» + globe + satellite map, rel 0.255; Rabbits -60 % in 5–19.5 s over Australia map, «≈600 million by 1950 (CSIRO)», £25,000/NSW 1887, Pasteur, Rodd Island, rel 0.242; YF variant B with dates removed holds rel 0.48–0.54 in the same window (5–14 s) (~2x)."
+  },
+  {
+   "rank": 3,
+   "mistake": "Static scoreboard recap after the payoff and overlong multi-part structure (77 s / 63 s, 3 stories / 3 rounds)",
+   "evidence": "Volcano outro 68.4–76.8 s: awr 0.444 -> 0.267 (-40 %), motion 0.29–0.91, rel 0.64 -> 0.46; Rabbits outro 51.7–62 s: 0.296 -> 0.153 (-48 %), motion 0.11–1.17, rel 0.72 -> 0.50; YF (33 s, 2 s CTA + seamless loop) rel rises to 0.83, replay 0.43 vs 0.20."
+  }
+ ],
+ "sources": [
+  "../../data/2026-10-25/summary.json",
+  "../../data/2026-10-25/per_video.json",
+  "analysis.json",
+  "basis_check.json",
+  "metrics_table.json",
+  "measure_*.json",
+  "words_*.json",
+  "vo_gaps_project_words.txt",
+  "dataapi_recheck.json",
+  "frames/"
+ ]
+}

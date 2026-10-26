@@ -1,0 +1,423 @@
+{
+ "niche": "satisfying_asmr",
+ "keywords": [
+  "oddly satisfying",
+  "satisfying video",
+  "asmr",
+  "satisfying",
+  "relaxing video"
+ ],
+ "relevance": "satisf|asmr|relax|sooth|calm|clean|restor|slime|cutting|crush|pressure ?wash|kinetic|sand|soap|carpet|tingl",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:15 UTC",
+ "fresh_uploads": 191,
+ "fresh_uploaders": 152,
+ "new_uploaders": 53,
+ "new_share_of_uploaders": 0.349,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 36,
+ "shorts": 1207,
+ "median_views": 25198,
+ "p75_views": 56528,
+ "p90_views": 490371,
+ "share_10k": 0.6661,
+ "share_100k": 0.1939,
+ "share_1m": 0.0696,
+ "ci95_100k": [
+  0.1726,
+  0.2171
+ ],
+ "hits_100k": 234,
+ "hits_1m": 84,
+ "channels_any_100k": 0.611,
+ "channels_any_1m": 0.333,
+ "median_channel_median": 26896,
+ "top": [
+  {
+   "views": 10246835,
+   "title": "M&M’s Tin unboxing with colorful 🌈 beads #satisfying #asmr # #toys",
+   "channel": "CandyZz Asmr ",
+   "ch": "UCqMK4A201KEUG4U0-y7Bnsg",
+   "url": "https://youtube.com/shorts/zpzDQPcXmxA",
+   "age_d": 17
+  },
+  {
+   "views": 9725067,
+   "title": "Beautiful Sand Cake Reveal 🏖️ | Clean Design & Deeply Satisfying",
+   "channel": "Sand Cake Zone",
+   "ch": "UCm3U1njzDoqGlRPBK1Kz-mQ",
+   "url": "https://youtube.com/shorts/l3UsQU2Ma3I",
+   "age_d": 43
+  },
+  {
+   "views": 9343050,
+   "title": "M&M’s Tin unboxing with colorful 🌈 beads #satisfying #asmr # #toys",
+   "channel": "CandyZz Asmr ",
+   "ch": "UCqMK4A201KEUG4U0-y7Bnsg",
+   "url": "https://youtube.com/shorts/YnGLqrl4KiY",
+   "age_d": 28
+  },
+  {
+   "views": 8643194,
+   "title": "M&M’s Tin unboxing with colorful 🌈 beads #satisfying #asmr # #toys",
+   "channel": "CandyZz Asmr ",
+   "ch": "UCqMK4A201KEUG4U0-y7Bnsg",
+   "url": "https://youtube.com/shorts/rqWQzE_RoOw",
+   "age_d": 31
+  },
+  {
+   "views": 7039615,
+   "title": "Satisfying Unboxing Super Mario Bros | Review ASMR Mario Compilation",
+   "channel": "Super Mario ASMR",
+   "ch": "UCQ8wC-eVykz4ntUSqAnYPjQ",
+   "url": "https://youtube.com/shorts/hLL-hcGW43Q",
+   "age_d": 20
+  },
+  {
+   "views": 6931015,
+   "title": "M&M’s Tin unboxing with colorful 🌈 beads #satisfying #asmr # #toys",
+   "channel": "CandyZz Asmr ",
+   "ch": "UCqMK4A201KEUG4U0-y7Bnsg",
+   "url": "https://youtube.com/shorts/l_yu11oQRBw",
+   "age_d": 29
+  },
+  {
+   "views": 6075696,
+   "title": "The Perfect Red Sand Cake Cutting ❤️‍🔥 So Satisfying! #Shorts",
+   "channel": "Sand Cake Zone",
+   "ch": "UCm3U1njzDoqGlRPBK1Kz-mQ",
+   "url": "https://youtube.com/shorts/KWGJ1OzuCOA",
+   "age_d": 42
+  },
+  {
+   "views": 5850207,
+   "title": "M&M’s Tin unboxing with colorful 🌈 beads #satisfying #asmr # #toys",
+   "channel": "CandyZz Asmr ",
+   "ch": "UCqMK4A201KEUG4U0-y7Bnsg",
+   "url": "https://youtube.com/shorts/wJ4QHJckdGg",
+   "age_d": 23
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCZNVAlRHPM6iPIEVH09GVJA",
+   "title": "BallLoop",
+   "created": "2026-09-21",
+   "subs": 130,
+   "shorts_aged": 43,
+   "max": 32246
+  },
+  {
+   "ch": "UCm1glELEZ8U9jxgV8Gv7hMw",
+   "title": "Dice Rush",
+   "created": "2026-08-01",
+   "subs": 546,
+   "shorts_aged": 44,
+   "max": 113146
+  },
+  {
+   "ch": "UC_3K7zlF6J6CrOtJT4ylBdg",
+   "title": "BlissLoop",
+   "created": "2026-10-23",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCjdJKcF0rGM_PzBUANDF9dw",
+   "title": "Motion1g ASMR",
+   "created": "2026-08-05",
+   "subs": 7630,
+   "shorts_aged": 35,
+   "max": 759631
+  },
+  {
+   "ch": "UCjP3crBBGUoV6UiYTjFWMLg",
+   "title": "MrCharoRanks",
+   "created": "2026-08-21",
+   "subs": 2210,
+   "shorts_aged": 41,
+   "max": 28458
+  },
+  {
+   "ch": "UCm3U1njzDoqGlRPBK1Kz-mQ",
+   "title": "Sand Cake Zone",
+   "created": "2026-07-14",
+   "subs": 18000,
+   "shorts_aged": 45,
+   "max": 9725067
+  },
+  {
+   "ch": "UC-mgxTkD2-mv9fq81V99NCA",
+   "title": "Foil Satisfy ASMR ",
+   "created": "2026-09-15",
+   "subs": 298,
+   "shorts_aged": 38,
+   "max": 41763
+  },
+  {
+   "ch": "UCzSYLYZR7rtoThoOZ4DI7Xw",
+   "title": "Mr-asmr",
+   "created": "2026-08-29",
+   "subs": 59,
+   "shorts_aged": 42,
+   "max": 35320
+  },
+  {
+   "ch": "UCMV9j4Kd5eVUsAInhVoBjzw",
+   "title": "SizzleSoothe",
+   "created": "2026-07-25",
+   "subs": 3540,
+   "shorts_aged": 32,
+   "max": 339540
+  },
+  {
+   "ch": "UC9cZqb4iiHgtDdyYgjzZuPQ",
+   "title": "Oddlyness",
+   "created": "2026-09-12",
+   "subs": 1280,
+   "shorts_aged": 5,
+   "max": 2963305
+  },
+  {
+   "ch": "UCZtBL9lteqFTmBJDfzSC3xQ",
+   "title": "LITTLE made BIG",
+   "created": "2026-09-17",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCXT8fcF96AovebSyJ25rdZA",
+   "title": "PR Sand cake",
+   "created": "2026-09-20",
+   "subs": 630,
+   "shorts_aged": 31,
+   "max": 535150
+  },
+  {
+   "ch": "UCaScvwGpTE3ntn6gl8tG-hQ",
+   "title": "Sand Satisfyer",
+   "created": "2025-12-02",
+   "subs": 68,
+   "shorts_aged": 33,
+   "max": 30908
+  },
+  {
+   "ch": "UCkWTf3aTIbWfA_SRS-eU4vQ",
+   "title": "Sand Cake Nl",
+   "created": "2026-10-01",
+   "subs": 298,
+   "shorts_aged": 31,
+   "max": 64521
+  },
+  {
+   "ch": "UCOuIjnUFp7SMMJkxqWoQH8g",
+   "title": "ASMR WW01",
+   "created": "2026-01-21",
+   "subs": 1310,
+   "shorts_aged": 33,
+   "max": 95950
+  },
+  {
+   "ch": "UCo8_7N0mymURqqt9QA3koOg",
+   "title": "YujiShortzz",
+   "created": "2026-10-17",
+   "subs": 884,
+   "shorts_aged": 1,
+   "max": 27319
+  },
+  {
+   "ch": "UCQ8wC-eVykz4ntUSqAnYPjQ",
+   "title": "Super Mario ASMR",
+   "created": "2026-05-29",
+   "subs": 35700,
+   "shorts_aged": 36,
+   "max": 7039615
+  },
+  {
+   "ch": "UCq-YDxfN_Yy6jb02pMeB49g",
+   "title": "Zentrix",
+   "created": "2026-08-05",
+   "subs": 46100,
+   "shorts_aged": 37,
+   "max": 5161982
+  },
+  {
+   "ch": "UCMyMCj3Whs2auwt9Bm5_69A",
+   "title": "Sensorae Satisfying",
+   "created": "2026-08-26",
+   "subs": 968,
+   "shorts_aged": 36,
+   "max": 250614
+  },
+  {
+   "ch": "UCD8jjEE2tHBIsu5q9Vp6JfA",
+   "title": "Flotefy 2x",
+   "created": "2026-07-29",
+   "subs": 7370,
+   "shorts_aged": 43,
+   "max": 2757380
+  },
+  {
+   "ch": "UCK-UIdBEsXKJC5bzA3fjdWA",
+   "title": "Clear Kick",
+   "created": "2025-11-13",
+   "subs": 73,
+   "shorts_aged": 7,
+   "max": 1925
+  },
+  {
+   "ch": "UCiCkRjByK0uV6Skk78OkTOA",
+   "title": "Relaxation Vibes ",
+   "created": "2025-10-28",
+   "subs": 3490,
+   "shorts_aged": 45,
+   "max": 19458
+  },
+  {
+   "ch": "UCuLYrkNvmPAeFcoeuKZ903A",
+   "title": "SWEETBOY ASMR",
+   "created": "2026-05-06",
+   "subs": 6390,
+   "shorts_aged": 30,
+   "max": 141939
+  },
+  {
+   "ch": "UC3hmz_lKn92M5eq3Fcs4fpg",
+   "title": "Loffredo Bassler",
+   "created": "2026-01-07",
+   "subs": 1460,
+   "shorts_aged": 33,
+   "max": 1140001
+  },
+  {
+   "ch": "UCuIFynlX5ns9J4gxXlZOEvA",
+   "title": "PEARLASMR",
+   "created": "2026-07-04",
+   "subs": 163,
+   "shorts_aged": 42,
+   "max": 40964
+  },
+  {
+   "ch": "UCb3PaClzzB9fFFkIDUaY8rQ",
+   "title": "The Sand ArtWorld ",
+   "created": "2026-04-19",
+   "subs": 21100,
+   "shorts_aged": 36,
+   "max": 3812191
+  },
+  {
+   "ch": "UC_1tibmqTEje2QKcinAjRGg",
+   "title": "ASMR Ritik",
+   "created": "2025-11-17",
+   "subs": 23300,
+   "shorts_aged": 41,
+   "max": 242047
+  },
+  {
+   "ch": "UCqMK4A201KEUG4U0-y7Bnsg",
+   "title": "CandyZz Asmr ",
+   "created": "2026-05-21",
+   "subs": 80400,
+   "shorts_aged": 41,
+   "max": 10246835
+  },
+  {
+   "ch": "UCQpXvBte9Cjxw___pq_pDmw",
+   "title": "    Wax Melting ASMR",
+   "created": "2026-06-14",
+   "subs": 368,
+   "shorts_aged": 43,
+   "max": 33462
+  },
+  {
+   "ch": "UCNbcdEgzPkPIddZ_Sdzv0oQ",
+   "title": "Sleep Music 1999",
+   "created": "2026-10-24",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCNw1R_QdRuZexV7BW17XtCQ",
+   "title": "Mmm..donutsASMR",
+   "created": "2026-04-03",
+   "subs": 6260,
+   "shorts_aged": 32,
+   "max": 1753373
+  },
+  {
+   "ch": "UCsMSaQQPmAXXMoaQZB37ozQ",
+   "title": "The Factune ",
+   "created": "2026-08-30",
+   "subs": 627,
+   "shorts_aged": 31,
+   "max": 604901
+  },
+  {
+   "ch": "UCqq6iS0SvYnX7K3nbu31adw",
+   "title": "Lab for ASMR",
+   "created": "2026-09-30",
+   "subs": 65,
+   "shorts_aged": 25,
+   "max": 37919
+  },
+  {
+   "ch": "UCEsexZbLrUULXAomALjQfOg",
+   "title": "Odd Simulations",
+   "created": "2026-09-29",
+   "subs": 4080,
+   "shorts_aged": 28,
+   "max": 2294596
+  },
+  {
+   "ch": "UCvJlRrTWWbqhsxsW2di74rA",
+   "title": "Calm Hours",
+   "created": "2026-07-08",
+   "subs": 330,
+   "shorts_aged": 32,
+   "max": 144539
+  },
+  {
+   "ch": "UC3LiwRzbujN4lhkcCWDc9Zg",
+   "title": "Rainlit Village",
+   "created": "2026-06-28",
+   "subs": 639000,
+   "shorts_aged": 37,
+   "max": 5441662
+  },
+  {
+   "ch": "UCbOKd5u6N40D2FKMYF3c42w",
+   "title": "R",
+   "created": "2026-10-19",
+   "subs": 15,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCbAVWoSn8bQUNdmREJbs5FA",
+   "title": "YourEngineeringShorts",
+   "created": "2026-07-20",
+   "subs": 5290,
+   "shorts_aged": 36,
+   "max": 156882
+  },
+  {
+   "ch": "UCoJHfoNjt1vghl5c5kO-Biw",
+   "title": "HushTumbleHush",
+   "created": "2026-10-03",
+   "subs": 65,
+   "shorts_aged": 23,
+   "max": 1903
+  },
+  {
+   "ch": "UC1fTO5PIm3Erw5ebEhNRJfw",
+   "title": "Live Puzzle Fun",
+   "created": "2026-07-27",
+   "subs": 6350,
+   "shorts_aged": 39,
+   "max": 4299149
+  }
+ ]
+}

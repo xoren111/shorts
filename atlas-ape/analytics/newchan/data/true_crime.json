@@ -1,0 +1,423 @@
+{
+ "niche": "true_crime",
+ "keywords": [
+  "true crime",
+  "true crime story",
+  "prison escape",
+  "heist story",
+  "serial killer case"
+ ],
+ "relevance": "^(?!.*\\b(roblox|rblx|minecraft|fortnite|gta|movie|movies|film|drama|series|episode|eps\\d*|recap|aquaman|walking dead|dexter|caseoh)\\b).*(murder|killer|killed|crime|criminal|heist|robbery|robbed|stole|stolen|thief|thieves|escaped|prison|inmate|cold case|serial|kidnap|vanish|disappear|convict|fbi|cartel|mafia|mobster|detective|police|cops?\\b|investigat|case\\b)",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:27 UTC",
+ "fresh_uploads": 299,
+ "fresh_uploaders": 262,
+ "new_uploaders": 141,
+ "new_share_of_uploaders": 0.538,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 30,
+ "shorts": 646,
+ "median_views": 192,
+ "p75_views": 1145,
+ "p90_views": 1593,
+ "share_10k": 0.017,
+ "share_100k": 0.0015,
+ "share_1m": 0.0015,
+ "ci95_100k": [
+  0.0003,
+  0.0087
+ ],
+ "hits_100k": 1,
+ "hits_1m": 1,
+ "channels_any_100k": 0.033,
+ "channels_any_1m": 0.033,
+ "median_channel_median": 208,
+ "top": [
+  {
+   "views": 1139004,
+   "title": "Actors That Marvel Will Never Work With Again",
+   "channel": "lam.van.thao0",
+   "ch": "UCbOtaGYrZ87CZwIkID59w3w",
+   "url": "https://youtube.com/shorts/tFaxzT38ggw",
+   "age_d": 7
+  },
+  {
+   "views": 70477,
+   "title": "1-2-3 Kid NEVER becomes SYXX without Razor Ramon! 🔥",
+   "channel": "Say More! Podcast",
+   "ch": "UCnB4rDkoU_X05VHRe-qOL1Q",
+   "url": "https://youtube.com/shorts/Qw8eCMFbuuI",
+   "age_d": 34
+  },
+  {
+   "views": 60619,
+   "title": "5 Celebrities’ Last Words Before They Died 😢 | Shocking Final Moments",
+   "channel": "lam.van.thao0",
+   "ch": "UCbOtaGYrZ87CZwIkID59w3w",
+   "url": "https://youtube.com/shorts/HGdzC2DNPqI",
+   "age_d": 8
+  },
+  {
+   "views": 59847,
+   "title": "The Impregnable Church",
+   "channel": "Secret Architecture",
+   "ch": "UCtTIbXYknu0bDAkocnJdL_A",
+   "url": "https://youtube.com/shorts/qzGrBc9UdoQ",
+   "age_d": 10
+  },
+  {
+   "views": 22917,
+   "title": "the longest lasting celebrity marriages in hollywood",
+   "channel": "lam.van.thao0",
+   "ch": "UCbOtaGYrZ87CZwIkID59w3w",
+   "url": "https://youtube.com/shorts/NFDBlUIpwe4",
+   "age_d": 10
+  },
+  {
+   "views": 16688,
+   "title": "How to Build a Roof the Size of 86 Basketball Courts",
+   "channel": "Secret Architecture",
+   "ch": "UCtTIbXYknu0bDAkocnJdL_A",
+   "url": "https://youtube.com/shorts/n0DaTJ_W7Ak",
+   "age_d": 16
+  },
+  {
+   "views": 16229,
+   "title": "Robin Williams Didn’t Steal Jokes… He BORROWED 😂 🐐 🫡",
+   "channel": "Say More! Podcast",
+   "ch": "UCnB4rDkoU_X05VHRe-qOL1Q",
+   "url": "https://youtube.com/shorts/NWiOMz3mQ3U",
+   "age_d": 7
+  },
+  {
+   "views": 15300,
+   "title": "Ever Since Jaafar Played Michael Jackson, 4 Jackson Family Controversies Have Fans Talking",
+   "channel": "lam.van.thao0",
+   "ch": "UCbOtaGYrZ87CZwIkID59w3w",
+   "url": "https://youtube.com/shorts/uBkiN__92sI",
+   "age_d": 7
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCMkEJ5FkclBUDTOpMc2p8KQ",
+   "title": "Reel4Real",
+   "created": "2026-10-09",
+   "subs": 11,
+   "shorts_aged": 10,
+   "max": 1161
+  },
+  {
+   "ch": "UCNF2B0V2Ss-THP92LFIym7g",
+   "title": "TheDNABreak",
+   "created": "2026-03-21",
+   "subs": 22,
+   "shorts_aged": 20,
+   "max": 85
+  },
+  {
+   "ch": "UC2Ws3_GmPsB1dH-aTqDXgZA",
+   "title": "Aination",
+   "created": "2025-10-25",
+   "subs": 33,
+   "shorts_aged": 32,
+   "max": 358
+  },
+  {
+   "ch": "UCCNym3I0pNvPYEiMsbORnuw",
+   "title": "The Silent Evidence",
+   "created": "2026-10-02",
+   "subs": 1,
+   "shorts_aged": 2,
+   "max": 992
+  },
+  {
+   "ch": "UCtTIbXYknu0bDAkocnJdL_A",
+   "title": "Secret Architecture",
+   "created": "2026-10-07",
+   "subs": 744,
+   "shorts_aged": 21,
+   "max": 59847
+  },
+  {
+   "ch": "UCd8jHzwtIuC5RRLZ1tnyfUA",
+   "title": "Case Unsealed",
+   "created": "2026-10-20",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UClEFUcqnjMplG-b8lH11viw",
+   "title": "Scare.Stories",
+   "created": "2026-10-06",
+   "subs": 26,
+   "shorts_aged": 6,
+   "max": 1536
+  },
+  {
+   "ch": "UCbOtaGYrZ87CZwIkID59w3w",
+   "title": "lam.van.thao0",
+   "created": "2026-10-12",
+   "subs": 436,
+   "shorts_aged": 17,
+   "max": 1139004
+  },
+  {
+   "ch": "UCnB4rDkoU_X05VHRe-qOL1Q",
+   "title": "Say More! Podcast",
+   "created": "2026-09-08",
+   "subs": 304,
+   "shorts_aged": 35,
+   "max": 70477
+  },
+  {
+   "ch": "UC2TSKiGyNzsdrTnpkHbIUwg",
+   "title": "Ottys True Story",
+   "created": "2025-12-19",
+   "subs": 14,
+   "shorts_aged": 6,
+   "max": 90
+  },
+  {
+   "ch": "UCzopMFnoR8QZuckzSfUu8rQ",
+   "title": "Dark Case Files",
+   "created": "2026-10-15",
+   "subs": 9,
+   "shorts_aged": 4,
+   "max": 1379
+  },
+  {
+   "ch": "UCIqEWeeraOdfDR4ugL9jxbg",
+   "title": "The Heist Vault - True Crime Heists",
+   "created": "2026-02-11",
+   "subs": 209,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCVl1mDgHtp4PbHFFsDxsITQ",
+   "title": "The Missing Record",
+   "created": "2026-09-28",
+   "subs": 110,
+   "shorts_aged": 11,
+   "max": 6368
+  },
+  {
+   "ch": "UCa-qlA4HndGYUUSuRIfhpww",
+   "title": "TrueCrime",
+   "created": "2026-09-06",
+   "subs": 33,
+   "shorts_aged": 40,
+   "max": 1199
+  },
+  {
+   "ch": "UC6kN3YNpYJFdbRdLtyNuFkQ",
+   "title": "Noir After Dark",
+   "created": "2026-09-17",
+   "subs": 17,
+   "shorts_aged": 16,
+   "max": 285
+  },
+  {
+   "ch": "UCI8aKpWE0OrnzvU6xlVs-Ww",
+   "title": "Dark History Detective",
+   "created": "2026-10-13",
+   "subs": 30,
+   "shorts_aged": 10,
+   "max": 1485
+  },
+  {
+   "ch": "UCjhvbXfgdzIIjESenEzxPBA",
+   "title": "OneFamousDay",
+   "created": "2026-05-31",
+   "subs": 38,
+   "shorts_aged": 24,
+   "max": 678
+  },
+  {
+   "ch": "UCC5Dj21BbS6w-kuHKO-kyCg",
+   "title": "The Strange Past",
+   "created": "2026-10-20",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCOnqzt5Bm3pdU711B4vGxgw",
+   "title": "Crime Daddy",
+   "created": "2026-10-13",
+   "subs": 53,
+   "shorts_aged": 5,
+   "max": 1414
+  },
+  {
+   "ch": "UCMn9tzppA2M7GheYs7BgOgg",
+   "title": "The Heist Files",
+   "created": "2026-09-24",
+   "subs": 33,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCBG35PNwSJbY-VOwK5pvw7g",
+   "title": "True Crime Uncovered",
+   "created": "2026-10-21",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCFiOs9TD_DnCCUe5IKa9NPg",
+   "title": "detective shorty",
+   "created": "2026-10-14",
+   "subs": 1,
+   "shorts_aged": 1,
+   "max": 155
+  },
+  {
+   "ch": "UCiLC8H2H0H9UHSXrqFcJaPA",
+   "title": "The Vanished Archive",
+   "created": "2026-06-11",
+   "subs": 31,
+   "shorts_aged": 34,
+   "max": 40
+  },
+  {
+   "ch": "UC-R7Ms7EXW14wqqFQHLmGQQ",
+   "title": "The mADD Chatter Podcast",
+   "created": "2026-01-07",
+   "subs": 979,
+   "shorts_aged": 41,
+   "max": 3021
+  },
+  {
+   "ch": "UCMntTYheuQzoh0FAO7r1vIQ",
+   "title": "Thornwick Tales",
+   "created": "2026-10-17",
+   "subs": 33,
+   "shorts_aged": 2,
+   "max": 1326
+  },
+  {
+   "ch": "UClFRro5VyTMMrMlw3K8Ti4A",
+   "title": "TrueCrime.Story.Time911",
+   "created": "2026-10-02",
+   "subs": 30,
+   "shorts_aged": 29,
+   "max": 1231
+  },
+  {
+   "ch": "UCqs2Ufgtj0szwz0Td_TUQ7Q",
+   "title": "OzeMo",
+   "created": "2026-10-22",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCCiI0x2rKs5iQyEw5PwS7nQ",
+   "title": "Sideways Theory",
+   "created": "2026-04-06",
+   "subs": 20,
+   "shorts_aged": 43,
+   "max": 1273
+  },
+  {
+   "ch": "UCrcUAAhzPXk62KuvPPALR-A",
+   "title": "Ktcrimlaw",
+   "created": "2026-08-28",
+   "subs": 41,
+   "shorts_aged": 42,
+   "max": 2204
+  },
+  {
+   "ch": "UCztgfMPvFf9uBV0YKwMQiyg",
+   "title": "RoadFitTrucker",
+   "created": "2026-08-01",
+   "subs": 59,
+   "shorts_aged": 37,
+   "max": 1027
+  },
+  {
+   "ch": "UCI9sHfraQzUd0ZsuP0BZ5ZA",
+   "title": "Archivia",
+   "created": "2026-10-10",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCSZoQrJDN_rGEJqw43zBFOw",
+   "title": "The Shadow Files",
+   "created": "2026-04-07",
+   "subs": 71,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCjz7zCOKQ6OUPNnFkYi6Kmw",
+   "title": " UNTOLD CRIME STORIES",
+   "created": "2026-08-22",
+   "subs": 48,
+   "shorts_aged": 20,
+   "max": 1307
+  },
+  {
+   "ch": "UC-Eng-9QnyCo1Atd-v9OJxg",
+   "title": "Discovery Daily 365",
+   "created": "2026-06-28",
+   "subs": 449,
+   "shorts_aged": 36,
+   "max": 13752
+  },
+  {
+   "ch": "UCbQGbp8TmkBUJQTwmdqgBeA",
+   "title": "True Crime Verdict",
+   "created": "2026-07-07",
+   "subs": 787,
+   "shorts_aged": 34,
+   "max": 9224
+  },
+  {
+   "ch": "UCL4-qcl8QiloEzCtCYeZ8QA",
+   "title": "Dark Case Untold",
+   "created": "2026-08-19",
+   "subs": 18,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCobAJ1lx7DSiQLp4t0tK7KQ",
+   "title": "snow joya",
+   "created": "2026-10-03",
+   "subs": 0,
+   "shorts_aged": 2,
+   "max": 144
+  },
+  {
+   "ch": "UC3ZoIHidgnfJXokbSwt1OtQ",
+   "title": "Capital Mysteries",
+   "created": "2026-06-22",
+   "subs": 10,
+   "shorts_aged": 30,
+   "max": 106
+  },
+  {
+   "ch": "UCCE6FSARozqWawg-a7Ai8nQ",
+   "title": "Creepy stories",
+   "created": "2026-07-05",
+   "subs": 112,
+   "shorts_aged": 36,
+   "max": 1223
+  },
+  {
+   "ch": "UCcpxVoioqG9cz9vm3O32wwA",
+   "title": "brainstorm_1min_info",
+   "created": "2026-10-23",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  }
+ ]
+}

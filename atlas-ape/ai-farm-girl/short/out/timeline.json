@@ -1,0 +1,643 @@
+{
+ "duration": 32.75,
+ "events": [
+  {
+   "id": "sold_tv",
+   "t": 0.02,
+   "what": "frame 0: tiny brick room at night; SOLD slams on the TV, camera shake",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -7
+    },
+    {
+     "name": "hit_impact",
+     "gain": -15
+    },
+    {
+     "name": "phone_buzz",
+     "gain": -24,
+     "at": 0.3,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "sold_fan",
+   "t": 0.48,
+   "what": "SOLD on the fan",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "sold_guitar",
+   "t": 0.88,
+   "what": "SOLD on the guitar",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "sold_tools",
+   "t": 1.66,
+   "what": "SOLD on the toolbox",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "feed",
+   "t": 2.11,
+   "what": "ZOOM-THROUGH his phone → her video in a phone UI, hearts float up",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -16
+    },
+    {
+     "name": "notify_ding",
+     "gain": -15,
+     "at": 0.3
+    },
+    {
+     "name": "wind_meadow",
+     "gain": -25,
+     "at": 0.2,
+     "dur": 5.4
+    }
+   ]
+  },
+  {
+   "id": "dreams",
+   "t": 3.15,
+   "what": "sparkle",
+   "sfx": [
+    {
+     "name": "sparkle_ding",
+     "gain": -15
+    }
+   ]
+  },
+  {
+   "id": "grow",
+   "t": 3.92,
+   "what": "the phone grows to full screen",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -17
+    },
+    {
+     "name": "cow_moo",
+     "gain": -19,
+     "at": 0.9
+    }
+   ]
+  },
+  {
+   "id": "farm",
+   "t": 5.18,
+   "what": "the camera drifts to the farmhouse",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -24
+    }
+   ]
+  },
+  {
+   "id": "cap1",
+   "t": 4.37,
+   "what": "her post caption «Widow 🌾 farm life» pops",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "home",
+   "t": 5.93,
+   "what": "second caption «My home can be yours 💛»",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "followers",
+   "t": 7.9,
+   "what": "WHIP → her profile header; the counter races to 300,000",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -15
+    },
+    {
+     "name": "counter_tick_loop",
+     "gain": -18,
+     "at": 0.05,
+     "dur": 1.1
+    }
+   ]
+  },
+  {
+   "id": "toasts",
+   "t": 7.94,
+   "what": "new-follower toasts (faces from the crowd) slide in, faster and faster",
+   "sfx": [
+    {
+     "name": "notify_ding",
+     "gain": -20,
+     "at": 0
+    },
+    {
+     "name": "pop_in",
+     "gain": -20.6,
+     "at": 0.2
+    },
+    {
+     "name": "notify_ding",
+     "gain": -21.2,
+     "at": 0.36
+    },
+    {
+     "name": "pop_in",
+     "gain": -21.8,
+     "at": 0.49
+    },
+    {
+     "name": "notify_ding",
+     "gain": -22.4,
+     "at": 0.59
+    },
+    {
+     "name": "pop_in",
+     "gain": -23,
+     "at": 0.67
+    },
+    {
+     "name": "notify_ding",
+     "gain": -23.6,
+     "at": 0.74
+    },
+    {
+     "name": "pop_in",
+     "gain": -24.2,
+     "at": 0.8
+    }
+   ]
+  },
+  {
+   "id": "counted",
+   "t": 9.06,
+   "what": "the counter lands on 300,000, the number bumps",
+   "sfx": [
+    {
+     "name": "hit_impact",
+     "gain": -16
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "crowd",
+   "t": 9.31,
+   "what": "the crowd shot opens out of the newest avatar: hundreds of people holding up her video, «+» pops over heads",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -15
+    },
+    {
+     "name": "crowd_cheer_short",
+     "gain": -17,
+     "at": 0.08,
+     "dur": 1.1
+    },
+    {
+     "name": "pop_in",
+     "gain": -21,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "went",
+   "t": 10.4,
+   "what": "PUNCH → him on the night bus",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -18
+    },
+    {
+     "name": "diesel_hum",
+     "gain": -24,
+     "dur": 1.4
+    }
+   ]
+  },
+  {
+   "id": "actually",
+   "t": 10.62,
+   "what": "meme dramatic zoom on his face",
+   "sfx": [
+    {
+     "name": "meme_boom",
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "wentzoom",
+   "t": 11.02,
+   "what": "second dramatic zoom",
+   "sfx": [
+    {
+     "name": "hit_impact",
+     "gain": -15
+    }
+   ]
+  },
+  {
+   "id": "route",
+   "t": 11.65,
+   "what": "WHIP → map of Brazil; IMPERATRIZ photo; 2,000+ km",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -16
+    },
+    {
+     "name": "pop_in",
+     "gain": -18,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "bus",
+   "t": 12.15,
+   "what": "the bus rides the dashed route south",
+   "sfx": [
+    {
+     "name": "diesel_hum",
+     "gain": -21,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "bhphoto",
+   "t": 12.47,
+   "what": "the Belo Horizonte bus-terminal photo drops in",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "strangers",
+   "t": 13.02,
+   "what": "ZOOM-THROUGH Belo Horizonte → he shows her photo to a passer-by",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -17
+    },
+    {
+     "name": "city_street",
+     "gain": -19,
+     "dur": 1.8
+    }
+   ]
+  },
+  {
+   "id": "nobody",
+   "t": 14.84,
+   "what": "WHIP → her photo over the real Belo Horizonte skyline; Confused Travolta meme looks around",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -16
+    },
+    {
+     "name": "record_scratch",
+     "gain": -17,
+     "at": 0.05
+    }
+   ]
+  },
+  {
+   "id": "travolta",
+   "t": 15.86,
+   "what": "Travolta turns the other way",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "radio",
+   "t": 16.707,
+   "what": "PUSH UP → the radio studio",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -17
+    },
+    {
+     "name": "radio_static",
+     "gain": -15,
+     "at": 0.05,
+     "dur": 1.1
+    }
+   ]
+  },
+  {
+   "id": "onair",
+   "t": 17.41,
+   "what": "ON AIR lights up, gold radio waves ripple out of the microphone",
+   "sfx": [
+    {
+     "name": "ui_click",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "truth",
+   "t": 18.86,
+   "what": "slow push into his stunned face, the room darkens",
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "gain": -9,
+     "dur": 1.5
+    },
+    {
+     "name": "riser_short",
+     "gain": -21,
+     "dur": 1.3
+    }
+   ]
+  },
+  {
+   "id": "reveal",
+   "t": 20.27,
+   "what": "PUNCH → her video again; first glitch flickers on «never»",
+   "sfx": [
+    {
+     "name": "glitch_hit",
+     "gain": -17,
+     "at": 0.33
+    }
+   ]
+  },
+  {
+   "id": "real",
+   "t": 21.03,
+   "what": "glitch burst: RGB split, sliced bands, flash",
+   "sfx": [
+    {
+     "name": "glitch_hit",
+     "gain": -8
+    },
+    {
+     "name": "hit_impact",
+     "gain": -13
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "t": 21.87,
+   "what": "she breaks into pixels; MADE BY AI stamps in",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -9
+    },
+    {
+     "name": "meme_boom",
+     "gain": -12
+    },
+    {
+     "name": "glitch_hit",
+     "gain": -15,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "fall",
+   "t": 22.47,
+   "what": "the pixel tiles fall away",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "creator",
+   "t": 23.12,
+   "what": "WHIP → her pixel picture in the phone buried under shop buttons",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -16
+    },
+    {
+     "name": "pop_in",
+     "gain": -16,
+     "at": 0.62
+    }
+   ]
+  },
+  {
+   "id": "shop2",
+   "t": 24.33,
+   "what": "BUY + LINK IN BIO pop",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -16
+    },
+    {
+     "name": "pop_in",
+     "gain": -17,
+     "at": 0.32
+    }
+   ]
+  },
+  {
+   "id": "sell",
+   "t": 25.1,
+   "what": "the cursor clicks SHOP NOW",
+   "sfx": [
+    {
+     "name": "ui_click",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "stonks",
+   "t": 25.14,
+   "what": "OVER the shop frame: Meme Man rises, the green arrow shoots up, STONKS, money rains",
+   "sfx": [
+    {
+     "name": "cash_register",
+     "gain": -8
+    },
+    {
+     "name": "swish_short",
+     "gain": -17
+    },
+    {
+     "name": "coins_jingle",
+     "gain": -17,
+     "at": 0.1,
+     "dur": 0.9
+    },
+    {
+     "name": "banknote",
+     "gain": -18,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "end",
+   "t": 26.027,
+   "what": "CIRCLE → him on the bus by day, a hopeful smile",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -17
+    },
+    {
+     "name": "diesel_hum",
+     "gain": -26,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "again",
+   "t": 27.22,
+   "what": "DISSOLVE → one calm map shot of Brazil (Imperatriz, Belo Horizonte)",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "lovepin",
+   "t": 27.84,
+   "what": "a heart pin drops on Belo Horizonte, hearts rise: he will look for love there again",
+   "sfx": [
+    {
+     "name": "pin_drop",
+     "gain": -13
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -18,
+     "at": 0.25
+    }
+   ]
+  },
+  {
+   "id": "another",
+   "t": 28.32,
+   "what": "the heart pin bumps",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "same",
+   "t": 28.96,
+   "what": "the pin pulses, the camera leans in to Belo Horizonte; Atlas pops in top-left with a thumbs up",
+   "sfx": [
+    {
+     "name": "notify_ding",
+     "gain": -19
+    },
+    {
+     "name": "pop_in",
+     "gain": -16,
+     "at": 0.05
+    }
+   ]
+  },
+  {
+   "id": "goagain",
+   "t": 29.72,
+   "what": "the route redraws and the bus sets off again",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -20
+    },
+    {
+     "name": "diesel_hum",
+     "gain": -20,
+     "at": 0.05,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "cj",
+   "t": 30.55,
+   "what": "PUNCH → CJ meme «Ah shit, here we go again» (tightened, 1.08×) over the real BH bus terminal",
+   "sfx": [
+    {
+     "name": "cj_cut",
+     "gain": -3
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "t": 32.45,
+   "what": "dissolve back to frame 0 (loop)",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -22
+    }
+   ]
+  }
+ ]
+}

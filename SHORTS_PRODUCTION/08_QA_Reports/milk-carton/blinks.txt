@@ -1,0 +1,9 @@
+frame 240  t=4.000  score 7.96  (local 1.08)
+frame 447  t=7.450  score 2.37  (local 0.28)
+frame 529  t=8.817  score 3.65  (local 0.41)
+frame 881  t=14.683  score 7.65  (local 0.83)
+frame 902  t=15.033  score 2.68  (local 0.31)
+frame 1400  t=23.333  score 3.15  (local 0.77)
+frame 1645  t=27.417  score 1.06  (local 0.26)
+frame 1856  t=30.933  score 2.99  (local 0.29)
+8 glitch frames in 2278

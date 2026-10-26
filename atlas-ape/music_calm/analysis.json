@@ -1,0 +1,80 @@
+[
+ {
+  "key": "E major",
+  "majmin": 0.169,
+  "bright": 575,
+  "low": 0.016,
+  "stingers": 0,
+  "track": "Frame-Dragging - The Grey Room _ Density & Time",
+  "dur": 201.6,
+  "bpm": 136,
+  "offset": 99.5,
+  "evenness_db": 0.68,
+  "file": "Frame-Dragging - The Grey Room _ Density & Time.mp3"
+ },
+ {
+  "key": "A major",
+  "majmin": 0.098,
+  "bright": 324,
+  "low": 0.511,
+  "stingers": 30,
+  "track": "Science Montage - Jeremy Blake",
+  "dur": 195.5,
+  "bpm": 118,
+  "offset": 118.5,
+  "evenness_db": 1.31,
+  "file": "Science Montage - Jeremy Blake.mp3"
+ },
+ {
+  "key": "G# major",
+  "majmin": 0.168,
+  "bright": 572,
+  "low": 0.249,
+  "stingers": 0,
+  "track": "A Single Step - Density & Time",
+  "dur": 173.3,
+  "bpm": 144,
+  "offset": 51.5,
+  "evenness_db": 1.99,
+  "file": "A Single Step - Density & Time.mp3"
+ },
+ {
+  "key": "A minor",
+  "majmin": -0.026,
+  "bright": 314,
+  "low": 0.578,
+  "stingers": 0,
+  "track": "Taking Flight - Blue Deer Studio",
+  "dur": 106.4,
+  "bpm": 130,
+  "offset": 7.5,
+  "evenness_db": 0.46,
+  "file": "Taking Flight - Blue Deer Studio.mp3"
+ },
+ {
+  "key": "D minor",
+  "majmin": -0.033,
+  "bright": 190,
+  "low": 0.49,
+  "stingers": 7,
+  "track": "Marimba Chill - Jimena Contreras",
+  "dur": 149.3,
+  "bpm": 161,
+  "offset": 3.0,
+  "evenness_db": 0.56,
+  "file": "Marimba Chill - Jimena Contreras.mp3"
+ },
+ {
+  "key": "A minor",
+  "majmin": -0.173,
+  "bright": 263,
+  "low": 0.807,
+  "stingers": 50,
+  "track": "Quirk n Twerk - The Soundlings",
+  "dur": 116.7,
+  "bpm": 74,
+  "offset": 40.5,
+  "evenness_db": 3.42,
+  "file": "Quirk n Twerk - The Soundlings.mp3"
+ }
+]

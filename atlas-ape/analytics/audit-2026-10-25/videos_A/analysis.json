@@ -1,0 +1,1756 @@
+{
+ "yR42PjbnqEo": {
+  "name": "Volcano",
+  "duration_file_s": 76.8,
+  "measure": {
+   "motion_0_1": 4.04,
+   "motion_0_3": 4.58,
+   "motion_mean": 2.91,
+   "cuts_per_10s": 0.0,
+   "first_cut": null,
+   "speech_start": 0.01,
+   "n_words": 152,
+   "words_per_s": 2.01,
+   "first_3s_text": "The US Army once bombed a volcano"
+  },
+  "motion_1_6_mean": 4.08,
+  "motion_share_secs_below_2": 0.38,
+  "retention_key": {
+   "0.5s": 1.202,
+   "3s": 1.08,
+   "5s": 1.034,
+   "10s": 0.665,
+   "15s": 0.597,
+   "20s": 0.55,
+   "30s": 0.499,
+   "end": 0.267,
+   "start": 1.2016
+  },
+  "rel_perf": {
+   "0-10%": 0.343,
+   "10-30%": 0.287,
+   "30-70%": 0.547,
+   "70-100%": 0.541,
+   "min": 0.2551,
+   "min_at_s": 6.9,
+   "max": 0.6395500000000001
+  },
+  "top_drops_2s": [
+   {
+    "from_s": 5,
+    "to_s": 7,
+    "awr_loss": 0.232,
+    "share_of_start": 0.193,
+    "words": "we fought lava 1935",
+    "motion": [
+     3.73,
+     4.92
+    ]
+   },
+   {
+    "from_s": 7,
+    "to_s": 9,
+    "awr_loss": 0.114,
+    "share_of_start": 0.095,
+    "words": "1935 Hawaii",
+    "motion": [
+     5.31,
+     1.5
+    ]
+   },
+   {
+    "from_s": 1,
+    "to_s": 3,
+    "awr_loss": 0.103,
+    "share_of_start": 0.086,
+    "words": "Army once bombed a volcano",
+    "motion": [
+     5.69,
+     4.0
+    ]
+   },
+   {
+    "from_s": 73,
+    "to_s": 75,
+    "awr_loss": 0.091,
+    "share_of_start": 0.076,
+    "words": "And Hawaii We don't talk about Hawaii",
+    "motion": [
+     0.65,
+     0.52
+    ]
+   },
+   {
+    "from_s": 3,
+    "to_s": 5,
+    "awr_loss": 0.047,
+    "share_of_start": 0.039,
+    "words": "And that's not even the craziest way we",
+    "motion": [
+     4.05,
+     2.91
+    ]
+   }
+  ],
+  "per_second": [
+   {
+    "s": 0,
+    "awr_start": 1.202,
+    "loss": 0.019,
+    "motion": 4.04,
+    "words": "The US Army"
+   },
+   {
+    "s": 1,
+    "awr_start": 1.183,
+    "loss": 0.073,
+    "motion": 5.69,
+    "words": "Army once bombed a volcano"
+   },
+   {
+    "s": 2,
+    "awr_start": 1.109,
+    "loss": 0.029,
+    "motion": 4.0,
+    "words": "volcano"
+   },
+   {
+    "s": 3,
+    "awr_start": 1.08,
+    "loss": 0.018,
+    "motion": 4.05,
+    "words": "And that's not even the"
+   },
+   {
+    "s": 4,
+    "awr_start": 1.062,
+    "loss": 0.029,
+    "motion": 2.91,
+    "words": "the craziest way we"
+   },
+   {
+    "s": 5,
+    "awr_start": 1.034,
+    "loss": 0.132,
+    "motion": 3.73,
+    "words": "we fought lava"
+   },
+   {
+    "s": 6,
+    "awr_start": 0.902,
+    "loss": 0.1,
+    "motion": 4.92,
+    "words": "1935"
+   },
+   {
+    "s": 7,
+    "awr_start": 0.802,
+    "loss": 0.074,
+    "motion": 5.31,
+    "words": "1935 Hawaii"
+   },
+   {
+    "s": 8,
+    "awr_start": 0.728,
+    "loss": 0.04,
+    "motion": 1.5,
+    "words": "Hawaii"
+   },
+   {
+    "s": 9,
+    "awr_start": 0.688,
+    "loss": 0.023,
+    "motion": 5.22,
+    "words": "Lava is crawling"
+   },
+   {
+    "s": 10,
+    "awr_start": 0.665,
+    "loss": 0.016,
+    "motion": 5.11,
+    "words": "crawling toward a city"
+   },
+   {
+    "s": 11,
+    "awr_start": 0.649,
+    "loss": 0.016,
+    "motion": 2.44,
+    "words": "city"
+   },
+   {
+    "s": 12,
+    "awr_start": 0.633,
+    "loss": 0.019,
+    "motion": 2.15,
+    "words": "The plan Bombers"
+   },
+   {
+    "s": 13,
+    "awr_start": 0.614,
+    "loss": 0.008,
+    "motion": 4.1,
+    "words": "Bombers"
+   },
+   {
+    "s": 14,
+    "awr_start": 0.606,
+    "loss": 0.009,
+    "motion": 5.73,
+    "words": "Planned by George"
+   },
+   {
+    "s": 15,
+    "awr_start": 0.597,
+    "loss": 0.009,
+    "motion": 2.7,
+    "words": "George Patton"
+   },
+   {
+    "s": 16,
+    "awr_start": 0.587,
+    "loss": 0.004,
+    "motion": 0.61,
+    "words": "Patton"
+   },
+   {
+    "s": 17,
+    "awr_start": 0.583,
+    "loss": 0.025,
+    "motion": 5.58,
+    "words": "Six days later the"
+   },
+   {
+    "s": 18,
+    "awr_start": 0.558,
+    "loss": 0.008,
+    "motion": 7.3,
+    "words": "the lava stops"
+   },
+   {
+    "s": 19,
+    "awr_start": 0.55,
+    "loss": 0.0,
+    "motion": 3.67,
+    "words": "Victory"
+   },
+   {
+    "s": 20,
+    "awr_start": 0.55,
+    "loss": 0.001,
+    "motion": 2.29,
+    "words": "Scientists"
+   },
+   {
+    "s": 21,
+    "awr_start": 0.549,
+    "loss": 0.002,
+    "motion": 1.9,
+    "words": "Scientists still argue"
+   },
+   {
+    "s": 22,
+    "awr_start": 0.548,
+    "loss": 0.005,
+    "motion": 0.98,
+    "words": "argue whether the bombs did"
+   },
+   {
+    "s": 23,
+    "awr_start": 0.542,
+    "loss": 0.007,
+    "motion": 0.67,
+    "words": "did anything"
+   },
+   {
+    "s": 24,
+    "awr_start": 0.535,
+    "loss": 0.01,
+    "motion": 15.99,
+    "words": "1992"
+   },
+   {
+    "s": 25,
+    "awr_start": 0.525,
+    "loss": 0.012,
+    "motion": 10.99,
+    "words": "1992 Italy"
+   },
+   {
+    "s": 26,
+    "awr_start": 0.513,
+    "loss": 0.005,
+    "motion": 4.44,
+    "words": "Italy"
+   },
+   {
+    "s": 27,
+    "awr_start": 0.509,
+    "loss": 0.006,
+    "motion": 5.68,
+    "words": "Aetna is coming for a"
+   },
+   {
+    "s": 28,
+    "awr_start": 0.503,
+    "loss": 0.004,
+    "motion": 3.62,
+    "words": "a town"
+   },
+   {
+    "s": 29,
+    "awr_start": 0.499,
+    "loss": 0.001,
+    "motion": 3.17,
+    "words": "Dirt walls"
+   },
+   {
+    "s": 30,
+    "awr_start": 0.499,
+    "loss": 0.001,
+    "motion": 0.57,
+    "words": "The lava climbs"
+   },
+   {
+    "s": 31,
+    "awr_start": 0.498,
+    "loss": 0.002,
+    "motion": 0.78,
+    "words": "climbs right over"
+   },
+   {
+    "s": 32,
+    "awr_start": 0.496,
+    "loss": 0.0,
+    "motion": 0.98,
+    "words": "over So engineers"
+   },
+   {
+    "s": 33,
+    "awr_start": 0.496,
+    "loss": 0.003,
+    "motion": 0.55,
+    "words": "engineers blow up its"
+   },
+   {
+    "s": 34,
+    "awr_start": 0.493,
+    "loss": -0.002,
+    "motion": 0.65,
+    "words": "its tunnel at the"
+   },
+   {
+    "s": 35,
+    "awr_start": 0.495,
+    "loss": 0.001,
+    "motion": 0.42,
+    "words": "the source"
+   },
+   {
+    "s": 36,
+    "awr_start": 0.494,
+    "loss": 0.001,
+    "motion": 2.45,
+    "words": "The town loses"
+   },
+   {
+    "s": 37,
+    "awr_start": 0.493,
+    "loss": 0.005,
+    "motion": 3.59,
+    "words": "loses one building"
+   },
+   {
+    "s": 38,
+    "awr_start": 0.488,
+    "loss": 0.005,
+    "motion": 1.15,
+    "words": "building"
+   },
+   {
+    "s": 39,
+    "awr_start": 0.483,
+    "loss": 0.003,
+    "motion": 6.03,
+    "words": "But Iceland went"
+   },
+   {
+    "s": 40,
+    "awr_start": 0.48,
+    "loss": 0.0,
+    "motion": 4.19,
+    "words": "went full crazy"
+   },
+   {
+    "s": 41,
+    "awr_start": 0.48,
+    "loss": 0.002,
+    "motion": 4.01,
+    "words": ""
+   },
+   {
+    "s": 42,
+    "awr_start": 0.478,
+    "loss": 0.001,
+    "motion": 4.0,
+    "words": "1973"
+   },
+   {
+    "s": 43,
+    "awr_start": 0.477,
+    "loss": 0.005,
+    "motion": 2.02,
+    "words": ""
+   },
+   {
+    "s": 44,
+    "awr_start": 0.471,
+    "loss": 0.0,
+    "motion": 2.51,
+    "words": "The ground rips open on an"
+   },
+   {
+    "s": 45,
+    "awr_start": 0.471,
+    "loss": -0.002,
+    "motion": 3.4,
+    "words": "an island of 5300"
+   },
+   {
+    "s": 46,
+    "awr_start": 0.474,
+    "loss": 0.003,
+    "motion": 2.54,
+    "words": "5300"
+   },
+   {
+    "s": 47,
+    "awr_start": 0.471,
+    "loss": 0.004,
+    "motion": 2.01,
+    "words": "5300 people"
+   },
+   {
+    "s": 48,
+    "awr_start": 0.467,
+    "loss": 0.004,
+    "motion": 1.8,
+    "words": "Six hours"
+   },
+   {
+    "s": 49,
+    "awr_start": 0.464,
+    "loss": 0.001,
+    "motion": 1.21,
+    "words": "hours Almost"
+   },
+   {
+    "s": 50,
+    "awr_start": 0.463,
+    "loss": 0.005,
+    "motion": 1.95,
+    "words": "Almost everyone's out"
+   },
+   {
+    "s": 51,
+    "awr_start": 0.458,
+    "loss": 0.0,
+    "motion": 1.74,
+    "words": "out Then the lava"
+   },
+   {
+    "s": 52,
+    "awr_start": 0.458,
+    "loss": 0.0,
+    "motion": 1.49,
+    "words": "lava turns toward"
+   },
+   {
+    "s": 53,
+    "awr_start": 0.458,
+    "loss": 0.003,
+    "motion": 1.47,
+    "words": "toward the harbor"
+   },
+   {
+    "s": 54,
+    "awr_start": 0.455,
+    "loss": 0.0,
+    "motion": 2.91,
+    "words": "So they fight"
+   },
+   {
+    "s": 55,
+    "awr_start": 0.455,
+    "loss": 0.0,
+    "motion": 0.82,
+    "words": "fight a volcano with"
+   },
+   {
+    "s": 56,
+    "awr_start": 0.455,
+    "loss": 0.001,
+    "motion": 3.39,
+    "words": "with the ocean"
+   },
+   {
+    "s": 57,
+    "awr_start": 0.454,
+    "loss": 0.002,
+    "motion": 1.57,
+    "words": "Five months"
+   },
+   {
+    "s": 58,
+    "awr_start": 0.452,
+    "loss": 0.0,
+    "motion": 2.68,
+    "words": "months"
+   },
+   {
+    "s": 59,
+    "awr_start": 0.452,
+    "loss": -0.003,
+    "motion": 4.14,
+    "words": "Seven billion liters"
+   },
+   {
+    "s": 60,
+    "awr_start": 0.455,
+    "loss": 0.0,
+    "motion": 1.1,
+    "words": "liters of seawater"
+   },
+   {
+    "s": 61,
+    "awr_start": 0.455,
+    "loss": 0.0,
+    "motion": 0.43,
+    "words": "seawater The lava stops"
+   },
+   {
+    "s": 62,
+    "awr_start": 0.455,
+    "loss": 0.003,
+    "motion": 2.87,
+    "words": "stops about 100"
+   },
+   {
+    "s": 63,
+    "awr_start": 0.452,
+    "loss": 0.003,
+    "motion": 2.11,
+    "words": "100 meters from closing"
+   },
+   {
+    "s": 64,
+    "awr_start": 0.45,
+    "loss": 0.003,
+    "motion": 2.29,
+    "words": "closing the harbor"
+   },
+   {
+    "s": 65,
+    "awr_start": 0.446,
+    "loss": 0.002,
+    "motion": 1.93,
+    "words": "harbor And the new rock"
+   },
+   {
+    "s": 66,
+    "awr_start": 0.444,
+    "loss": 0.0,
+    "motion": 2.8,
+    "words": "rock made the harbor"
+   },
+   {
+    "s": 67,
+    "awr_start": 0.444,
+    "loss": 0.001,
+    "motion": 3.23,
+    "words": "harbor even better"
+   },
+   {
+    "s": 68,
+    "awr_start": 0.443,
+    "loss": 0.001,
+    "motion": 2.54,
+    "words": "better Final score"
+   },
+   {
+    "s": 69,
+    "awr_start": 0.441,
+    "loss": 0.002,
+    "motion": 2.27,
+    "words": "score"
+   },
+   {
+    "s": 70,
+    "awr_start": 0.439,
+    "loss": 0.016,
+    "motion": 0.91,
+    "words": "Humans 2"
+   },
+   {
+    "s": 71,
+    "awr_start": 0.423,
+    "loss": 0.024,
+    "motion": 0.56,
+    "words": "Volcano 0"
+   },
+   {
+    "s": 72,
+    "awr_start": 0.399,
+    "loss": 0.011,
+    "motion": 0.29,
+    "words": "0"
+   },
+   {
+    "s": 73,
+    "awr_start": 0.387,
+    "loss": 0.056,
+    "motion": 0.65,
+    "words": "And Hawaii"
+   },
+   {
+    "s": 74,
+    "awr_start": 0.331,
+    "loss": 0.035,
+    "motion": 0.52,
+    "words": "We don't talk about Hawaii"
+   },
+   {
+    "s": 75,
+    "awr_start": 0.296,
+    "loss": 0.007,
+    "motion": 0.81,
+    "words": "Hawaii Hawaii"
+   }
+  ],
+  "pace_5s": [
+   {
+    "from": 0,
+    "to": 5,
+    "words_per_s": 3.0,
+    "motion_mean": 4.14
+   },
+   {
+    "from": 5,
+    "to": 10,
+    "words_per_s": 1.4,
+    "motion_mean": 4.14
+   },
+   {
+    "from": 10,
+    "to": 15,
+    "words_per_s": 1.8,
+    "motion_mean": 3.91
+   },
+   {
+    "from": 15,
+    "to": 20,
+    "words_per_s": 1.6,
+    "motion_mean": 3.97
+   },
+   {
+    "from": 20,
+    "to": 25,
+    "words_per_s": 1.8,
+    "motion_mean": 4.37
+   },
+   {
+    "from": 25,
+    "to": 30,
+    "words_per_s": 1.8,
+    "motion_mean": 5.58
+   },
+   {
+    "from": 30,
+    "to": 35,
+    "words_per_s": 2.6,
+    "motion_mean": 0.71
+   },
+   {
+    "from": 35,
+    "to": 40,
+    "words_per_s": 1.8,
+    "motion_mean": 2.73
+   },
+   {
+    "from": 40,
+    "to": 45,
+    "words_per_s": 1.8,
+    "motion_mean": 3.35
+   },
+   {
+    "from": 45,
+    "to": 50,
+    "words_per_s": 1.4,
+    "motion_mean": 2.19
+   },
+   {
+    "from": 50,
+    "to": 55,
+    "words_per_s": 2.4,
+    "motion_mean": 1.91
+   },
+   {
+    "from": 55,
+    "to": 60,
+    "words_per_s": 2.0,
+    "motion_mean": 2.52
+   },
+   {
+    "from": 60,
+    "to": 65,
+    "words_per_s": 2.4,
+    "motion_mean": 1.76
+   },
+   {
+    "from": 65,
+    "to": 70,
+    "words_per_s": 2.2,
+    "motion_mean": 2.55
+   },
+   {
+    "from": 70,
+    "to": 75,
+    "words_per_s": 2.2,
+    "motion_mean": 0.59
+   },
+   {
+    "from": 75,
+    "to": 76.8,
+    "words_per_s": 0.56,
+    "motion_mean": 0.81
+   }
+  ],
+  "funnel": {
+   "views_analytics": 662,
+   "engaged": 367,
+   "stayed_pct": 55.4,
+   "avd_s": 40,
+   "avp_pct": 53.06999999999999,
+   "avd_check_minutes_per_engaged_s": 42.0,
+   "watch_s_per_all_views": 23.3,
+   "likes_per_100_views_analytics": 1.96,
+   "likes_per_100_engaged": 3.54,
+   "data_api_views": 663,
+   "data_api_likes": 13,
+   "likes_per_100_views_dataapi": 1.96,
+   "shares": 0,
+   "subs": 1,
+   "comments": 0,
+   "all_viewers_still_watching_at_end_pct": 14.8
+  }
+ },
+ "w52iSlkYlOg": {
+  "name": "Rabbits",
+  "duration_file_s": 62.0,
+  "measure": {
+   "motion_0_1": 1.9,
+   "motion_0_3": 1.84,
+   "motion_mean": 2.42,
+   "cuts_per_10s": 0.0,
+   "first_cut": null,
+   "speech_start": 0.0,
+   "n_words": 119,
+   "words_per_s": 1.93,
+   "first_3s_text": "13 rabbits got on a ship family records say"
+  },
+  "motion_1_6_mean": 2.62,
+  "motion_share_secs_below_2": 0.56,
+  "retention_key": {
+   "0.5s": 1.196,
+   "3s": 1.099,
+   "5s": 1.047,
+   "10s": 0.813,
+   "15s": 0.615,
+   "20s": 0.41,
+   "30s": 0.342,
+   "end": 0.153,
+   "start": 1.1955
+  },
+  "rel_perf": {
+   "0-10%": 0.392,
+   "10-30%": 0.257,
+   "30-70%": 0.451,
+   "70-100%": 0.614,
+   "min": 0.2419,
+   "min_at_s": 12.4,
+   "max": 0.7217
+  },
+  "top_drops_2s": [
+   {
+    "from_s": 10,
+    "to_s": 12,
+    "awr_loss": 0.116,
+    "share_of_start": 0.097,
+    "words": "hundreds of millions australia",
+    "motion": [
+     0.4,
+     3.53
+    ]
+   },
+   {
+    "from_s": 17,
+    "to_s": 19,
+    "awr_loss": 0.111,
+    "share_of_start": 0.093,
+    "words": "pasteur entered with chicken",
+    "motion": [
+     0.53,
+     5.17
+    ]
+   },
+   {
+    "from_s": 5,
+    "to_s": 7,
+    "awr_loss": 0.101,
+    "share_of_start": 0.084,
+    "words": "off turns out rabbits can",
+    "motion": [
+     5.88,
+     1.03
+    ]
+   },
+   {
+    "from_s": 8,
+    "to_s": 10,
+    "awr_loss": 0.093,
+    "share_of_start": 0.078,
+    "words": "24 became hundreds",
+    "motion": [
+     3.81,
+     0.51
+    ]
+   },
+   {
+    "from_s": 15,
+    "to_s": 17,
+    "awr_loss": 0.079,
+    "share_of_start": 0.066,
+    "words": "prize louis pasteur",
+    "motion": [
+     0.81,
+     3.46
+    ]
+   }
+  ],
+  "per_second": [
+   {
+    "s": 0,
+    "awr_start": 1.196,
+    "loss": 0.025,
+    "motion": 1.9,
+    "words": "13 rabbits"
+   },
+   {
+    "s": 1,
+    "awr_start": 1.17,
+    "loss": 0.052,
+    "motion": 1.79,
+    "words": "got on a ship family"
+   },
+   {
+    "s": 2,
+    "awr_start": 1.118,
+    "loss": 0.019,
+    "motion": 1.84,
+    "words": "family records say"
+   },
+   {
+    "s": 3,
+    "awr_start": 1.099,
+    "loss": 0.011,
+    "motion": 1.7,
+    "words": "say 24"
+   },
+   {
+    "s": 4,
+    "awr_start": 1.089,
+    "loss": 0.042,
+    "motion": 1.89,
+    "words": "24 got off"
+   },
+   {
+    "s": 5,
+    "awr_start": 1.047,
+    "loss": 0.057,
+    "motion": 5.88,
+    "words": "off turns"
+   },
+   {
+    "s": 6,
+    "awr_start": 0.99,
+    "loss": 0.044,
+    "motion": 1.03,
+    "words": "turns out rabbits can"
+   },
+   {
+    "s": 7,
+    "awr_start": 0.945,
+    "loss": 0.039,
+    "motion": 1.9,
+    "words": "can multiply 24"
+   },
+   {
+    "s": 8,
+    "awr_start": 0.907,
+    "loss": 0.035,
+    "motion": 3.81,
+    "words": "24"
+   },
+   {
+    "s": 9,
+    "awr_start": 0.872,
+    "loss": 0.059,
+    "motion": 0.51,
+    "words": "24 became hundreds"
+   },
+   {
+    "s": 10,
+    "awr_start": 0.813,
+    "loss": 0.047,
+    "motion": 0.4,
+    "words": "hundreds of millions"
+   },
+   {
+    "s": 11,
+    "awr_start": 0.766,
+    "loss": 0.069,
+    "motion": 3.53,
+    "words": "millions australia"
+   },
+   {
+    "s": 12,
+    "awr_start": 0.697,
+    "loss": 0.032,
+    "motion": 3.44,
+    "words": "australia fought"
+   },
+   {
+    "s": 13,
+    "awr_start": 0.665,
+    "loss": 0.028,
+    "motion": 2.64,
+    "words": "fought back round"
+   },
+   {
+    "s": 14,
+    "awr_start": 0.636,
+    "loss": 0.021,
+    "motion": 1.25,
+    "words": "round one a prize"
+   },
+   {
+    "s": 15,
+    "awr_start": 0.615,
+    "loss": 0.039,
+    "motion": 0.81,
+    "words": "prize louis"
+   },
+   {
+    "s": 16,
+    "awr_start": 0.576,
+    "loss": 0.04,
+    "motion": 3.46,
+    "words": "louis pasteur"
+   },
+   {
+    "s": 17,
+    "awr_start": 0.536,
+    "loss": 0.059,
+    "motion": 0.53,
+    "words": "pasteur entered"
+   },
+   {
+    "s": 18,
+    "awr_start": 0.478,
+    "loss": 0.052,
+    "motion": 5.17,
+    "words": "entered with chicken"
+   },
+   {
+    "s": 19,
+    "awr_start": 0.425,
+    "loss": 0.015,
+    "motion": 4.02,
+    "words": "chicken cholera the"
+   },
+   {
+    "s": 20,
+    "awr_start": 0.41,
+    "loss": 0.012,
+    "motion": 0.35,
+    "words": "the rules protected"
+   },
+   {
+    "s": 21,
+    "awr_start": 0.398,
+    "loss": 0.011,
+    "motion": 0.6,
+    "words": "protected sheep horses"
+   },
+   {
+    "s": 22,
+    "awr_start": 0.387,
+    "loss": 0.003,
+    "motion": 0.22,
+    "words": "horses dogs they"
+   },
+   {
+    "s": 23,
+    "awr_start": 0.383,
+    "loss": 0.006,
+    "motion": 4.93,
+    "words": "they forgot birds"
+   },
+   {
+    "s": 24,
+    "awr_start": 0.378,
+    "loss": 0.007,
+    "motion": 0.85,
+    "words": "birds it"
+   },
+   {
+    "s": 25,
+    "awr_start": 0.371,
+    "loss": 0.001,
+    "motion": 0.81,
+    "words": "it didn't catch on"
+   },
+   {
+    "s": 26,
+    "awr_start": 0.37,
+    "loss": 0.007,
+    "motion": 3.38,
+    "words": "nobody"
+   },
+   {
+    "s": 27,
+    "awr_start": 0.363,
+    "loss": 0.005,
+    "motion": 1.9,
+    "words": "nobody won round"
+   },
+   {
+    "s": 28,
+    "awr_start": 0.358,
+    "loss": 0.013,
+    "motion": 2.45,
+    "words": "round two a fence"
+   },
+   {
+    "s": 29,
+    "awr_start": 0.346,
+    "loss": 0.004,
+    "motion": 1.85,
+    "words": "fence ocean"
+   },
+   {
+    "s": 30,
+    "awr_start": 0.342,
+    "loss": 0.002,
+    "motion": 2.4,
+    "words": "ocean to ocean"
+   },
+   {
+    "s": 31,
+    "awr_start": 0.34,
+    "loss": 0.009,
+    "motion": 0.54,
+    "words": "ocean before it"
+   },
+   {
+    "s": 32,
+    "awr_start": 0.331,
+    "loss": 0.005,
+    "motion": 3.47,
+    "words": "it was finished"
+   },
+   {
+    "s": 33,
+    "awr_start": 0.326,
+    "loss": 0.003,
+    "motion": 4.7,
+    "words": "finished rabbits were"
+   },
+   {
+    "s": 34,
+    "awr_start": 0.323,
+    "loss": 0.002,
+    "motion": 3.47,
+    "words": "were on the safe side"
+   },
+   {
+    "s": 35,
+    "awr_start": 0.321,
+    "loss": 0.001,
+    "motion": 3.0,
+    "words": "some scratched"
+   },
+   {
+    "s": 36,
+    "awr_start": 0.32,
+    "loss": 0.003,
+    "motion": 1.03,
+    "words": "scratched to get back"
+   },
+   {
+    "s": 37,
+    "awr_start": 0.317,
+    "loss": 0.001,
+    "motion": 2.61,
+    "words": "back out round"
+   },
+   {
+    "s": 38,
+    "awr_start": 0.316,
+    "loss": 0.003,
+    "motion": 0.93,
+    "words": "round three a rabbit"
+   },
+   {
+    "s": 39,
+    "awr_start": 0.313,
+    "loss": 0.003,
+    "motion": 9.64,
+    "words": "rabbit virus"
+   },
+   {
+    "s": 40,
+    "awr_start": 0.31,
+    "loss": 0.003,
+    "motion": 2.37,
+    "words": "virus locked on"
+   },
+   {
+    "s": 41,
+    "awr_start": 0.307,
+    "loss": 0.001,
+    "motion": 10.02,
+    "words": "on an island"
+   },
+   {
+    "s": 42,
+    "awr_start": 0.306,
+    "loss": -0.001,
+    "motion": 2.6,
+    "words": "island it escaped"
+   },
+   {
+    "s": 43,
+    "awr_start": 0.307,
+    "loss": 0.002,
+    "motion": 1.88,
+    "words": "escaped most likely"
+   },
+   {
+    "s": 44,
+    "awr_start": 0.305,
+    "loss": 0.004,
+    "motion": 1.61,
+    "words": "likely on flies next"
+   },
+   {
+    "s": 45,
+    "awr_start": 0.3,
+    "loss": 0.001,
+    "motion": 2.04,
+    "words": "next year an official"
+   },
+   {
+    "s": 46,
+    "awr_start": 0.299,
+    "loss": 0.002,
+    "motion": 1.43,
+    "words": "official release ceremony"
+   },
+   {
+    "s": 47,
+    "awr_start": 0.297,
+    "loss": 0.001,
+    "motion": 1.52,
+    "words": "ceremony the virus"
+   },
+   {
+    "s": 48,
+    "awr_start": 0.296,
+    "loss": -0.0,
+    "motion": 6.1,
+    "words": "virus was already"
+   },
+   {
+    "s": 49,
+    "awr_start": 0.296,
+    "loss": -0.001,
+    "motion": 1.46,
+    "words": "already there and"
+   },
+   {
+    "s": 50,
+    "awr_start": 0.297,
+    "loss": 0.001,
+    "motion": 3.23,
+    "words": "and it worked"
+   },
+   {
+    "s": 51,
+    "awr_start": 0.296,
+    "loss": 0.001,
+    "motion": 3.39,
+    "words": "worked three"
+   },
+   {
+    "s": 52,
+    "awr_start": 0.295,
+    "loss": 0.005,
+    "motion": 0.11,
+    "words": "three rounds rabbits"
+   },
+   {
+    "s": 53,
+    "awr_start": 0.29,
+    "loss": 0.009,
+    "motion": 0.92,
+    "words": "rabbits two flies"
+   },
+   {
+    "s": 54,
+    "awr_start": 0.281,
+    "loss": 0.001,
+    "motion": 0.84,
+    "words": "flies one australia"
+   },
+   {
+    "s": 55,
+    "awr_start": 0.28,
+    "loss": 0.003,
+    "motion": 0.87,
+    "words": "australia zero they"
+   },
+   {
+    "s": 56,
+    "awr_start": 0.277,
+    "loss": 0.012,
+    "motion": 0.45,
+    "words": "they were winning"
+   },
+   {
+    "s": 57,
+    "awr_start": 0.264,
+    "loss": 0.018,
+    "motion": 1.17,
+    "words": "winning before the"
+   },
+   {
+    "s": 58,
+    "awr_start": 0.247,
+    "loss": 0.008,
+    "motion": 4.52,
+    "words": "the ship even arrived"
+   },
+   {
+    "s": 59,
+    "awr_start": 0.238,
+    "loss": 0.01,
+    "motion": 4.7,
+    "words": "arrived"
+   },
+   {
+    "s": 60,
+    "awr_start": 0.228,
+    "loss": 0.017,
+    "motion": 0.74,
+    "words": "probably"
+   },
+   {
+    "s": 61,
+    "awr_start": 0.211,
+    "loss": 0.058,
+    "motion": 1.33,
+    "words": "probably"
+   }
+  ],
+  "pace_5s": [
+   {
+    "from": 0,
+    "to": 5,
+    "words_per_s": 2.4,
+    "motion_mean": 1.82
+   },
+   {
+    "from": 5,
+    "to": 10,
+    "words_per_s": 1.6,
+    "motion_mean": 2.63
+   },
+   {
+    "from": 10,
+    "to": 15,
+    "words_per_s": 1.8,
+    "motion_mean": 2.25
+   },
+   {
+    "from": 15,
+    "to": 20,
+    "words_per_s": 1.4,
+    "motion_mean": 2.8
+   },
+   {
+    "from": 20,
+    "to": 25,
+    "words_per_s": 1.8,
+    "motion_mean": 1.39
+   },
+   {
+    "from": 25,
+    "to": 30,
+    "words_per_s": 2.0,
+    "motion_mean": 2.08
+   },
+   {
+    "from": 30,
+    "to": 35,
+    "words_per_s": 2.4,
+    "motion_mean": 2.92
+   },
+   {
+    "from": 35,
+    "to": 40,
+    "words_per_s": 2.2,
+    "motion_mean": 3.44
+   },
+   {
+    "from": 40,
+    "to": 45,
+    "words_per_s": 2.2,
+    "motion_mean": 3.7
+   },
+   {
+    "from": 45,
+    "to": 50,
+    "words_per_s": 2.2,
+    "motion_mean": 2.51
+   },
+   {
+    "from": 50,
+    "to": 55,
+    "words_per_s": 1.8,
+    "motion_mean": 1.7
+   },
+   {
+    "from": 55,
+    "to": 60,
+    "words_per_s": 1.8,
+    "motion_mean": 2.34
+   },
+   {
+    "from": 60,
+    "to": 62.0,
+    "words_per_s": 0.5,
+    "motion_mean": 1.04
+   }
+  ],
+  "funnel": {
+   "views_analytics": 1150,
+   "engaged": 706,
+   "stayed_pct": 61.4,
+   "avd_s": 28,
+   "avp_pct": 45.33,
+   "avd_check_minutes_per_engaged_s": 29.4,
+   "watch_s_per_all_views": 18.1,
+   "likes_per_100_views_analytics": 1.04,
+   "likes_per_100_engaged": 1.7,
+   "data_api_views": 1154,
+   "data_api_likes": 12,
+   "likes_per_100_views_dataapi": 1.04,
+   "shares": 0,
+   "subs": 0,
+   "comments": 0,
+   "all_viewers_still_watching_at_end_pct": 9.4
+  }
+ },
+ "TD53YW6dqoY": {
+  "name": "YellowFleet",
+  "duration_file_s": 32.13,
+  "measure": {
+   "motion_0_1": 0.72,
+   "motion_0_3": 0.67,
+   "motion_mean": 3.8,
+   "cuts_per_10s": 0.0,
+   "first_cut": null,
+   "speech_start": 0.01,
+   "n_words": 85,
+   "words_per_s": 2.65,
+   "first_3s_text": "14 ships entered the Suez Canal for a oneday"
+  },
+  "motion_1_6_mean": 1.03,
+  "motion_share_secs_below_2": 0.34,
+  "retention_key": {
+   "0.5s": 1.405,
+   "3s": 1.199,
+   "5s": 1.113,
+   "10s": 0.905,
+   "15s": 0.797,
+   "20s": 0.765,
+   "30s": 0.647,
+   "end": 0.4645,
+   "start": 1.4301
+  },
+  "rel_perf": {
+   "0-10%": 0.585,
+   "10-30%": 0.493,
+   "30-70%": 0.603,
+   "70-100%": 0.787,
+   "min": 0.48225,
+   "min_at_s": 7.1,
+   "max": 0.8263
+  },
+  "top_drops_2s": [
+   {
+    "from_s": 0,
+    "to_s": 2,
+    "awr_loss": 0.197,
+    "share_of_start": 0.138,
+    "words": "14 ships entered the Suez Canal",
+    "motion": [
+     0.72,
+     0.73
+    ]
+   },
+   {
+    "from_s": 30,
+    "to_s": 32,
+    "awr_loss": 0.182,
+    "share_of_start": 0.127,
+    "words": "many stars for this delivery",
+    "motion": [
+     3.34,
+     4.35
+    ]
+   },
+   {
+    "from_s": 4,
+    "to_s": 6,
+    "awr_loss": 0.132,
+    "share_of_start": 0.092,
+    "words": "out eight years later Halfway through",
+    "motion": [
+     0.87,
+     2.15
+    ]
+   },
+   {
+    "from_s": 6,
+    "to_s": 8,
+    "awr_loss": 0.091,
+    "share_of_start": 0.064,
+    "words": "through war broke out Egypt sank",
+    "motion": [
+     1.24,
+     2.39
+    ]
+   },
+   {
+    "from_s": 2,
+    "to_s": 4,
+    "awr_loss": 0.062,
+    "share_of_start": 0.043,
+    "words": "Canal for a oneday trip They got out",
+    "motion": [
+     0.56,
+     0.85
+    ]
+   }
+  ],
+  "per_second": [
+   {
+    "s": 0,
+    "awr_start": 1.43,
+    "loss": 0.104,
+    "motion": 0.72,
+    "words": "14 ships entered"
+   },
+   {
+    "s": 1,
+    "awr_start": 1.326,
+    "loss": 0.094,
+    "motion": 0.73,
+    "words": "entered the Suez Canal"
+   },
+   {
+    "s": 2,
+    "awr_start": 1.233,
+    "loss": 0.033,
+    "motion": 0.56,
+    "words": "Canal for a oneday"
+   },
+   {
+    "s": 3,
+    "awr_start": 1.199,
+    "loss": 0.028,
+    "motion": 0.85,
+    "words": "oneday trip They got out"
+   },
+   {
+    "s": 4,
+    "awr_start": 1.171,
+    "loss": 0.058,
+    "motion": 0.87,
+    "words": "out eight years later"
+   },
+   {
+    "s": 5,
+    "awr_start": 1.113,
+    "loss": 0.074,
+    "motion": 2.15,
+    "words": "later Halfway through"
+   },
+   {
+    "s": 6,
+    "awr_start": 1.039,
+    "loss": 0.057,
+    "motion": 1.24,
+    "words": "through war broke out"
+   },
+   {
+    "s": 7,
+    "awr_start": 0.982,
+    "loss": 0.034,
+    "motion": 2.39,
+    "words": "out Egypt sank"
+   },
+   {
+    "s": 8,
+    "awr_start": 0.948,
+    "loss": 0.025,
+    "motion": 1.03,
+    "words": "sank ships to block the"
+   },
+   {
+    "s": 9,
+    "awr_start": 0.922,
+    "loss": 0.018,
+    "motion": 3.91,
+    "words": "the canal Trapped"
+   },
+   {
+    "s": 10,
+    "awr_start": 0.905,
+    "loss": 0.013,
+    "motion": 7.92,
+    "words": "Trapped in a lake Nowhere"
+   },
+   {
+    "s": 11,
+    "awr_start": 0.892,
+    "loss": 0.028,
+    "motion": 4.04,
+    "words": "Nowhere to go Sandstorms"
+   },
+   {
+    "s": 12,
+    "awr_start": 0.864,
+    "loss": 0.028,
+    "motion": 1.73,
+    "words": "Sandstorms dusted them"
+   },
+   {
+    "s": 13,
+    "awr_start": 0.836,
+    "loss": 0.03,
+    "motion": 4.66,
+    "words": "yellow The Yellow"
+   },
+   {
+    "s": 14,
+    "awr_start": 0.806,
+    "loss": 0.009,
+    "motion": 3.32,
+    "words": "Yellow Fleet Their"
+   },
+   {
+    "s": 15,
+    "awr_start": 0.797,
+    "loss": 0.007,
+    "motion": 1.5,
+    "words": "Their countries were rivals"
+   },
+   {
+    "s": 16,
+    "awr_start": 0.79,
+    "loss": 0.007,
+    "motion": 1.75,
+    "words": "rivals The sailors became"
+   },
+   {
+    "s": 17,
+    "awr_start": 0.783,
+    "loss": 0.009,
+    "motion": 3.5,
+    "words": "became friends"
+   },
+   {
+    "s": 18,
+    "awr_start": 0.774,
+    "loss": 0.008,
+    "motion": 5.66,
+    "words": "Football on deck"
+   },
+   {
+    "s": 19,
+    "awr_start": 0.766,
+    "loss": 0.001,
+    "motion": 12.89,
+    "words": "Their own stamps"
+   },
+   {
+    "s": 20,
+    "awr_start": 0.765,
+    "loss": 0.018,
+    "motion": 5.0,
+    "words": "Their own Olympics"
+   },
+   {
+    "s": 21,
+    "awr_start": 0.747,
+    "loss": 0.014,
+    "motion": 5.04,
+    "words": "Olympics Poland won"
+   },
+   {
+    "s": 22,
+    "awr_start": 0.733,
+    "loss": 0.004,
+    "motion": 4.6,
+    "words": "won Home to Hamburg"
+   },
+   {
+    "s": 23,
+    "awr_start": 0.729,
+    "loss": 0.005,
+    "motion": 3.05,
+    "words": "Hamburg Tens of"
+   },
+   {
+    "s": 24,
+    "awr_start": 0.724,
+    "loss": 0.01,
+    "motion": 3.87,
+    "words": "of thousands cheered"
+   },
+   {
+    "s": 25,
+    "awr_start": 0.714,
+    "loss": 0.008,
+    "motion": 6.76,
+    "words": "cheered Part of the cargo"
+   },
+   {
+    "s": 26,
+    "awr_start": 0.706,
+    "loss": 0.005,
+    "motion": 7.87,
+    "words": "cargo Kitchen clocks"
+   },
+   {
+    "s": 27,
+    "awr_start": 0.701,
+    "loss": 0.02,
+    "motion": 1.2,
+    "words": "clocks Delivered"
+   },
+   {
+    "s": 28,
+    "awr_start": 0.681,
+    "loss": 0.013,
+    "motion": 8.88,
+    "words": "Delivered only eight years late"
+   },
+   {
+    "s": 29,
+    "awr_start": 0.668,
+    "loss": 0.021,
+    "motion": 6.58,
+    "words": "late How many"
+   },
+   {
+    "s": 30,
+    "awr_start": 0.647,
+    "loss": 0.105,
+    "motion": 3.34,
+    "words": "many stars for this"
+   },
+   {
+    "s": 31,
+    "awr_start": 0.542,
+    "loss": 0.077,
+    "motion": 4.35,
+    "words": "this delivery"
+   }
+  ],
+  "pace_5s": [
+   {
+    "from": 0,
+    "to": 5,
+    "words_per_s": 3.2,
+    "motion_mean": 0.75
+   },
+   {
+    "from": 5,
+    "to": 10,
+    "words_per_s": 2.6,
+    "motion_mean": 2.14
+   },
+   {
+    "from": 10,
+    "to": 15,
+    "words_per_s": 2.8,
+    "motion_mean": 4.33
+   },
+   {
+    "from": 15,
+    "to": 20,
+    "words_per_s": 2.6,
+    "motion_mean": 5.06
+   },
+   {
+    "from": 20,
+    "to": 25,
+    "words_per_s": 2.4,
+    "motion_mean": 4.31
+   },
+   {
+    "from": 25,
+    "to": 30,
+    "words_per_s": 2.6,
+    "motion_mean": 6.26
+   },
+   {
+    "from": 30,
+    "to": 32.13,
+    "words_per_s": 1.88,
+    "motion_mean": 3.84
+   }
+  ],
+  "funnel": {
+   "views_analytics": 1168,
+   "engaged": 465,
+   "stayed_pct": 39.8,
+   "avd_s": 26,
+   "avp_pct": 81.28,
+   "avd_check_minutes_per_engaged_s": 28.6,
+   "watch_s_per_all_views": 11.4,
+   "likes_per_100_views_analytics": 0.77,
+   "likes_per_100_engaged": 1.94,
+   "data_api_views": 2312,
+   "data_api_likes": 18,
+   "likes_per_100_views_dataapi": 0.78,
+   "shares": 0,
+   "subs": 0,
+   "comments": 2,
+   "all_viewers_still_watching_at_end_pct": 18.5
+  }
+ }
+}

@@ -1,0 +1,39 @@
+✓ 52 events anchored to VO words
+✓ max gap between visual events 1.76 s (level L2 limit 2)
+✓ 13.5 events / 10 s (level L2 band 10–14)
+✓ 23 beats contiguous 0 → 38.42 s, scenes exported
+✓ 118 SFX cues, all in the library (34 entries with licence)
+✓ 4 pictures / clips / fonts referenced in the code, all present and credited
+✓ 1 Lottie file(s), all present and credited (0 used by the Short)
+✓ 1 3D insert(s) complete and credited (0.9 MB in public/3d)
+✓ 0 on-screen texts with numbers checked against FACTS.md (0 from charts)
+✓ no Atlas in this Short (project.atlas = null; ATLAS APE: no Atlas until the owner asks, F5 / G6)
+✓ 77 files in public/: no quarantine / FREE-key ElevenLabs / Mixkit files
+✓ 78 files hashed: no copy of a quarantined / FREE-key ElevenLabs file (110 sha256)
+✓ duration 38.42 s (VO end 38.27 s, loop from 38.07 s)
+✓ no memes (public/memes empty or absent, no «Мем:» lines)
+✓ A/B test off (project.ab.enabled = false): one version, composition Short
+✓ EDIT_PLAN lines differ from the last 5 Shorts (closest: «Кадр 0» of conman-russell, similarity 0.10 < 0.35)
+  previous Short on the channel: conman-russell (2026-10-25, delivered)
+    its  «Визуальная идея: стена камеры с зарубками — счётчик побегов: каждая новая зарубка — портал в мультяшную сценку трюка, между сценками тюремные бланки со штампами и одно настоящее фото тюрьмы Хьюстона» / «Кадр 0: рисунок, человек: заключённый в белой робе спокойно выходит из распахнутой стальной двери тюрьмы, руки в карманах, охранник придерживает ему дверь; шаг и наезд камеры с 0.0 s»
+    this «Визуальная идея: Стена из тюков работает как занавес: код то просвечивает её рентгеном, то роняет домино, а сквозной таймер «4 YEARS» над тюками держит ставку героя на виду. На развороте таймер не обнуляется: оказывается, он вообще ещё не запускался, а сам тюк превращается в кирпич стройки.» / «Кадр 0: рисунок, человек: фермер в сапогах на шатающейся лестнице заталкивает последний тюк в стену из сена высотой с дом, из щели торчит ствол пушки на дорогу; тюк влетает на 0.3 s, лестница качается»
+    → QA D2 (manual): frame-0 type (H14: who + material, always inside H1) and main visual device must differ from the previous Short
+✓ 5 <Kinetic> in test galleries (Gallery.tsx, KineticGallery.tsx, MotionDemo.tsx) — not checked
+✓ 0 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md
+✓ no maps in this Short (only test compositions import maps)
+  data/maps/demo_lisbon_rio.json: test map of Gallery.tsx, MapsDemo.tsx, MotionDemo.tsx (borders modern) — not checked as part of the Short
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+· G1 VO 0–5 s: «He's hiding a whole castle behind hay so it can never be torn down. His bet: stay unseen»
+· G1 VO 5–10 s: «for four years. One look from the council, and they can order it gone. Battlements. Cannons.» → by eye: setup said by 5.0 s, this line opens how? / what next? (not who? / when?)
+· G2 length 38.4 s (series band in the card; standard R10 30–45 s, cap 59 s)
+✓ G1 0–10 s of the VO: no year or month that reads as a date
+✓ G2 twist «hiding» at 18.16 s = 47.3% of 38.42 s (word 59/124 = 48%); window 35%–55%
+✓ G2 tail 0.30 s ≤ 1.5 s
+✓ G4 screenshot moment at 25.0 s: последний довод против сноса: в доме поселились летучие мыши и тритоны, и снос якобы наруш
+✓ G5 series A, ролик 1/8, variable «baseline»
+✓ G5 level, voice id, music, length, memes match series card A (style, ending, voice settings: by eye)
+✓ G6 Atlas matches the series card (none, 0 window(s))
+
+all checks passed (0 warning(s)) → out/timeline.json

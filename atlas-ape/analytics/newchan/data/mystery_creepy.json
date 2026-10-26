@@ -1,0 +1,423 @@
+{
+ "niche": "mystery_creepy",
+ "keywords": [
+  "unsolved mystery",
+  "creepy facts",
+  "scary story",
+  "unexplained mystery",
+  "mystery story"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:12 UTC",
+ "fresh_uploads": 275,
+ "fresh_uploaders": 264,
+ "new_uploaders": 168,
+ "new_share_of_uploaders": 0.636,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 26,
+ "shorts": 439,
+ "median_views": 228,
+ "p75_views": 1403,
+ "p90_views": 3385,
+ "share_10k": 0.0661,
+ "share_100k": 0.0,
+ "share_1m": 0.0,
+ "ci95_100k": [
+  0.0,
+  0.0087
+ ],
+ "hits_100k": 0,
+ "hits_1m": 0,
+ "channels_any_100k": 0.0,
+ "channels_any_1m": 0.0,
+ "median_channel_median": 211,
+ "top": [
+  {
+   "views": 76992,
+   "title": "Horror Shorts | Scary Stories, Creepy Tales & Paranormal Videos",
+   "channel": "Maledictum Circle",
+   "ch": "UCDppTjiicyCxiDCZO2kTnzQ",
+   "url": "https://youtube.com/shorts/oAoAk3HuMFo",
+   "age_d": 30
+  },
+  {
+   "views": 70902,
+   "title": "Horror comedy short: The evil laundry visited again",
+   "channel": "Jeremy Creaks",
+   "ch": "UCUmSQ_nTPr2KzmaLBn30kzQ",
+   "url": "https://youtube.com/shorts/vAx_gc1ogPI",
+   "age_d": 10
+  },
+  {
+   "views": 56339,
+   "title": "Scary monster moments: Recent creature encounters",
+   "channel": "Jeremy Creaks",
+   "ch": "UCUmSQ_nTPr2KzmaLBn30kzQ",
+   "url": "https://youtube.com/shorts/Wpxbyd3UiGk",
+   "age_d": 7
+  },
+  {
+   "views": 45390,
+   "title": "Creepy nightmare story: Evil Apple returned",
+   "channel": "Jeremy Creaks",
+   "ch": "UCUmSQ_nTPr2KzmaLBn30kzQ",
+   "url": "https://youtube.com/shorts/QRfnY7Y1Zok",
+   "age_d": 8
+  },
+  {
+   "views": 44783,
+   "title": "Looks Weak, Fight Like A Beast 💪🏻🔥 🤯#viral #facts",
+   "channel": "StrangeKatta",
+   "ch": "UCVGq5w9Lw0Q8ALACwpdlBSQ",
+   "url": "https://youtube.com/shorts/UyTLHwaPs60",
+   "age_d": 17
+  },
+  {
+   "views": 38587,
+   "title": "Weird creepy nightmare: Demon hand visited again",
+   "channel": "Jeremy Creaks",
+   "ch": "UCUmSQ_nTPr2KzmaLBn30kzQ",
+   "url": "https://youtube.com/shorts/IHKTzOF9I4w",
+   "age_d": 11
+  },
+  {
+   "views": 32958,
+   "title": "Creepy horror dream: Hand demon returns",
+   "channel": "Jeremy Creaks",
+   "ch": "UCUmSQ_nTPr2KzmaLBn30kzQ",
+   "url": "https://youtube.com/shorts/KPyl1xNryjM",
+   "age_d": 9
+  },
+  {
+   "views": 32472,
+   "title": "Creepy story: something followed me from my astral travel",
+   "channel": "Jeremy Creaks",
+   "ch": "UCUmSQ_nTPr2KzmaLBn30kzQ",
+   "url": "https://youtube.com/shorts/kmHGC5SnaP0",
+   "age_d": 12
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCG5IPR_gi2FPc8shtxUvc-w",
+   "title": "Between The Lines Tales",
+   "created": "2026-09-01",
+   "subs": 58,
+   "shorts_aged": 27,
+   "max": 1878
+  },
+  {
+   "ch": "UCKRBnxg0iEEcyBCzD5rIwsg",
+   "title": "Mystic Stories",
+   "created": "2026-04-10",
+   "subs": 21,
+   "shorts_aged": 10,
+   "max": 633
+  },
+  {
+   "ch": "UCYmtwuZcuNvqu3d0sqbj86Q",
+   "title": "Obscura Casefiles\n\n",
+   "created": "2026-09-27",
+   "subs": 30,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCDppTjiicyCxiDCZO2kTnzQ",
+   "title": "Maledictum Circle",
+   "created": "2026-07-03",
+   "subs": 207,
+   "shorts_aged": 38,
+   "max": 76992
+  },
+  {
+   "ch": "UCRK96_itmAUaPvj-3Yrku0Q",
+   "title": "shadow stories",
+   "created": "2026-10-23",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC1fFsZPudxfPH_SpxUBgwmQ",
+   "title": "Ranked Everything",
+   "created": "2026-05-05",
+   "subs": 32,
+   "shorts_aged": 20,
+   "max": 1149
+  },
+  {
+   "ch": "UCWtfMZjwJjoKKogdFburd5w",
+   "title": "FactPulseAmmy",
+   "created": "2026-09-18",
+   "subs": 32,
+   "shorts_aged": 28,
+   "max": 1360
+  },
+  {
+   "ch": "UC2TUVxc_lU7ZHE1-bCBrSDg",
+   "title": "Morbid Files",
+   "created": "2025-12-12",
+   "subs": 2380,
+   "shorts_aged": 9,
+   "max": 2411
+  },
+  {
+   "ch": "UCKkTxYxfIjfTsRQ12EIdXog",
+   "title": "A Little After Dark",
+   "created": "2026-09-28",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCfeOz33DAo5jk3-CMbsFicw",
+   "title": "The story machine ",
+   "created": "2026-10-07",
+   "subs": 13,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCg_v0KhhtBffdAh3IP7Wuvg",
+   "title": "Unsolved Crimes",
+   "created": "2026-09-30",
+   "subs": 18,
+   "shorts_aged": 11,
+   "max": 161
+  },
+  {
+   "ch": "UCk8yIjJRagUBZqU4M9wYpBg",
+   "title": "Beyond the Unexplained",
+   "created": "2026-10-21",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCLb2x4nbUALdnZuco1G5fKg",
+   "title": "Mental Edge",
+   "created": "2026-10-16",
+   "subs": 17,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCoBQSVoCqWPsUVP1DGnJjmw",
+   "title": "Deep Mythos",
+   "created": "2026-02-12",
+   "subs": 26,
+   "shorts_aged": 5,
+   "max": 767
+  },
+  {
+   "ch": "UCq3LPh5IwyDJJNVYQhI8gKg",
+   "title": "Midnight Tales",
+   "created": "2026-07-16",
+   "subs": 6,
+   "shorts_aged": 20,
+   "max": 218
+  },
+  {
+   "ch": "UCTSEFXtW-GDcDPd5Bh-Lrvw",
+   "title": "Obscura Decoded",
+   "created": "2026-10-13",
+   "subs": 46,
+   "shorts_aged": 5,
+   "max": 1543
+  },
+  {
+   "ch": "UCgwLn9CzuILcQkPJgbbnRyA",
+   "title": "Two Minute Nightmares",
+   "created": "2026-09-01",
+   "subs": 156,
+   "shorts_aged": 39,
+   "max": 2620
+  },
+  {
+   "ch": "UCv7NaT7CzEs_Tkb5SWXVnvw",
+   "title": "Ninda Animation",
+   "created": "2026-02-19",
+   "subs": 36,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCmqJHIDI9btkROlYuPuH_UA",
+   "title": "Mystery Flicks",
+   "created": "2026-10-22",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCHsEWZuFkzaYAwXvBZJlCjQ",
+   "title": "Crime in 60 Seconds",
+   "created": "2026-10-12",
+   "subs": 4,
+   "shorts_aged": 6,
+   "max": 106
+  },
+  {
+   "ch": "UCymTqeEm1XPK_wjPcLmtSvg",
+   "title": "Hollow Street Tales",
+   "created": "2026-10-21",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCmbZmpyb1GkOdDB-igrsYaA",
+   "title": "Beyond The Dark",
+   "created": "2026-10-17",
+   "subs": 8,
+   "shorts_aged": 1,
+   "max": 950
+  },
+  {
+   "ch": "UCoAsZDoezsuVm5ucDn1hFqQ",
+   "title": "Unsolved Cases",
+   "created": "2026-10-13",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC6zLQ_8khTw5OIMvd2wlMEg",
+   "title": "LIFESCOPE",
+   "created": "2026-09-29",
+   "subs": 59,
+   "shorts_aged": 24,
+   "max": 18019
+  },
+  {
+   "ch": "UC3fGZtO1bRpUkLdWjHksbbA",
+   "title": "Scare Fear Clips",
+   "created": "2026-10-07",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCVgS3sbfTfWRIjle8YTyl4w",
+   "title": "Unsolved States",
+   "created": "2026-10-07",
+   "subs": 6,
+   "shorts_aged": 8,
+   "max": 149
+  },
+  {
+   "ch": "UCrPsjzLVNVPwJNG0xDbTnqA",
+   "title": "Shadow Rift Stories",
+   "created": "2026-10-18",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCD8cZCTQdcS42NAonI1ge4w",
+   "title": "Unsolved Vault",
+   "created": "2026-10-12",
+   "subs": 46,
+   "shorts_aged": 8,
+   "max": 1499
+  },
+  {
+   "ch": "UCEGk3qLQOV6UilJM9EU3IiQ",
+   "title": "TwistTale",
+   "created": "2026-09-16",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCKg_IoY6iCBa2KI53eTzfww",
+   "title": "SciFi 369",
+   "created": "2026-09-08",
+   "subs": 80,
+   "shorts_aged": 37,
+   "max": 3735
+  },
+  {
+   "ch": "UCzIcrn9OlOqniFhSZCY73pg",
+   "title": "Second Light",
+   "created": "2026-03-26",
+   "subs": 76,
+   "shorts_aged": 37,
+   "max": 8678
+  },
+  {
+   "ch": "UCkvQxbl1tPMyOVMIjwr7ZpQ",
+   "title": "The Dark Vault",
+   "created": "2026-09-15",
+   "subs": 33,
+   "shorts_aged": 6,
+   "max": 1188
+  },
+  {
+   "ch": "UCJeNrjLOFqAR3-IIV4jdIUA",
+   "title": "TalesTube",
+   "created": "2026-09-20",
+   "subs": 16,
+   "shorts_aged": 13,
+   "max": 176
+  },
+  {
+   "ch": "UCUmSQ_nTPr2KzmaLBn30kzQ",
+   "title": "Jeremy Creaks",
+   "created": "2026-05-12",
+   "subs": 3780,
+   "shorts_aged": 23,
+   "max": 70902
+  },
+  {
+   "ch": "UCr9Y0vT3olL28iBdNrCtt0g",
+   "title": "Debt Diaries USA",
+   "created": "2026-10-22",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCPorT6LiBWYgfW8os1HFdUQ",
+   "title": "Krazy Factz",
+   "created": "2026-10-14",
+   "subs": 26,
+   "shorts_aged": 10,
+   "max": 267
+  },
+  {
+   "ch": "UCVGq5w9Lw0Q8ALACwpdlBSQ",
+   "title": "StrangeKatta",
+   "created": "2026-03-19",
+   "subs": 403,
+   "shorts_aged": 28,
+   "max": 44783
+  },
+  {
+   "ch": "UCV4ne_t59PPTR7HY5ablOxQ",
+   "title": "Daily USA",
+   "created": "2026-10-16",
+   "subs": 5,
+   "shorts_aged": 2,
+   "max": 560
+  },
+  {
+   "ch": "UC64ahvzptnzQvzXCaeV0BfQ",
+   "title": "Sleep is not Safe",
+   "created": "2026-08-17",
+   "subs": 6,
+   "shorts_aged": 1,
+   "max": 1219
+  },
+  {
+   "ch": "UCGqMOWU8p5l0CijmVaXgnNA",
+   "title": "Jadido’s Little World",
+   "created": "2026-08-16",
+   "subs": 36,
+   "shorts_aged": 23,
+   "max": 1274
+  }
+ ]
+}

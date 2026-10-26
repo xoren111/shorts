@@ -1,0 +1,423 @@
+{
+ "niche": "cars",
+ "keywords": [
+  "car facts",
+  "supercar",
+  "car edit",
+  "car tips",
+  "cars"
+ ],
+ "relevance": "\\bcars?\\b|supercar|hypercar|porsche|ferrari|lambo|bmw|mercedes|\\bamg\\b|audi|tesla|toyota|honda|nissan|\\bford\\b|chevy|chevrolet|corvette|dodge|mustang|bugatti|mclaren|koenigsegg|pagani|rolls.?royce|bentley|\\bgt-?r\\b|supra|skyline|\\bjdm\\b|\\bv8\\b|\\bv12\\b|engine|drift|horsepower|turbo|gearbox|exhaust|tyre|\\btires?\\b|vehicle|sedan|\\bsuv\\b|pickup|truck|mechanic|dashboard|steering|garage|hyundai|kia|mazda|subaru|volkswagen|\\bvw\\b|jeep|lexus|bmw",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:20 UTC",
+ "fresh_uploads": 221,
+ "fresh_uploaders": 198,
+ "new_uploaders": 76,
+ "new_share_of_uploaders": 0.384,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 29,
+ "shorts": 812,
+ "median_views": 2547,
+ "p75_views": 29696,
+ "p90_views": 63470,
+ "share_10k": 0.4089,
+ "share_100k": 0.0764,
+ "share_1m": 0.0148,
+ "ci95_100k": [
+  0.06,
+  0.0967
+ ],
+ "hits_100k": 62,
+ "hits_1m": 12,
+ "channels_any_100k": 0.379,
+ "channels_any_1m": 0.138,
+ "median_channel_median": 1427,
+ "top": [
+  {
+   "views": 35537721,
+   "title": "Fast delivery 📦🤣 #porsche911 #unitedstatesofamerica #adventcalendar #24days #cargift",
+   "channel": "911advent",
+   "ch": "UCw-GyMY8AGM2k_SgsYu4Fmg",
+   "url": "https://youtube.com/shorts/UqONCw838fI",
+   "age_d": 25
+  },
+  {
+   "views": 3675803,
+   "title": "Never Bite This Candy! 🍬🤯❗",
+   "channel": "Flick Discovery",
+   "ch": "UCZaBsYMCoOlgLXwE5xFYGLA",
+   "url": "https://youtube.com/shorts/grLgyrWXHEg",
+   "age_d": 10
+  },
+  {
+   "views": 2769020,
+   "title": "This man built a 3D-printed Lamborghini.",
+   "channel": "Never The Facts",
+   "ch": "UCn8wO_QBBrKsfMDvss07LYQ",
+   "url": "https://youtube.com/shorts/zd3j7ptL7A4",
+   "age_d": 44
+  },
+  {
+   "views": 2417112,
+   "title": "The Pickup Truck That Moved a Space Shuttle",
+   "channel": "Never The Facts",
+   "ch": "UCn8wO_QBBrKsfMDvss07LYQ",
+   "url": "https://youtube.com/shorts/aKBHw3JxYlA",
+   "age_d": 25
+  },
+  {
+   "views": 2303523,
+   "title": "Smart Toothbrush 🤯❗️❗️",
+   "channel": "Flick Discovery",
+   "ch": "UCZaBsYMCoOlgLXwE5xFYGLA",
+   "url": "https://youtube.com/shorts/G0uHgmNfeeA",
+   "age_d": 27
+  },
+  {
+   "views": 2008015,
+   "title": "Why Cats Are Smarter Than Dogs 🤯❗️❗️",
+   "channel": "Flick Discovery",
+   "ch": "UCZaBsYMCoOlgLXwE5xFYGLA",
+   "url": "https://youtube.com/shorts/yArDacdoRNc",
+   "age_d": 19
+  },
+  {
+   "views": 1722173,
+   "title": "How JCB Destroyed BMW's 22-Year Record",
+   "channel": "Never The Facts",
+   "ch": "UCn8wO_QBBrKsfMDvss07LYQ",
+   "url": "https://youtube.com/shorts/_70u9BY6vQ4",
+   "age_d": 49
+  },
+  {
+   "views": 1667029,
+   "title": "This Guy Built His Own MacBook Killer Laptop",
+   "channel": "Never The Facts",
+   "ch": "UCn8wO_QBBrKsfMDvss07LYQ",
+   "url": "https://youtube.com/shorts/ux4MKVr01BY",
+   "age_d": 64
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCn8wO_QBBrKsfMDvss07LYQ",
+   "title": "Never The Facts",
+   "created": "2025-11-23",
+   "subs": 33200,
+   "shorts_aged": 40,
+   "max": 2769020
+  },
+  {
+   "ch": "UCIaIcAOGkhLzqsRZn1hvrSg",
+   "title": "cardrivingskills",
+   "created": "2026-08-19",
+   "subs": 264,
+   "shorts_aged": 15,
+   "max": 38
+  },
+  {
+   "ch": "UCVKZDcce8--SqCw5TVn1MLg",
+   "title": " REV Legacy",
+   "created": "2026-01-26",
+   "subs": 219,
+   "shorts_aged": 45,
+   "max": 15087
+  },
+  {
+   "ch": "UCZpxnSLCke5CKqOuXyov14g",
+   "title": "Lens Explains",
+   "created": "2026-10-18",
+   "subs": 25,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCBfRrDe4LYsNuZURB4AbNow",
+   "title": "CAR DNA OFFICIAL",
+   "created": "2026-10-20",
+   "subs": 15,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCoCCDampO2-UyzWmAxxbJ8w",
+   "title": "Animalo",
+   "created": "2026-03-05",
+   "subs": 6220,
+   "shorts_aged": 45,
+   "max": 804869
+  },
+  {
+   "ch": "UCVTMWeGM9ozZfQc5NOkzNew",
+   "title": "Tiny super garage",
+   "created": "2026-08-12",
+   "subs": 869,
+   "shorts_aged": 41,
+   "max": 20509
+  },
+  {
+   "ch": "UC68pCk-iOpC7z6vmqSZ0_Bg",
+   "title": "HippyIQ",
+   "created": "2026-09-01",
+   "subs": 25,
+   "shorts_aged": 13,
+   "max": 1251
+  },
+  {
+   "ch": "UCuvSeL_Dow0WwL0QLQVZlEg",
+   "title": "@Xd_mocs",
+   "created": "2026-06-04",
+   "subs": 209,
+   "shorts_aged": 44,
+   "max": 3960
+  },
+  {
+   "ch": "UCJr1xSafblGJcomKsb0EXBw",
+   "title": "Roky Tech",
+   "created": "2026-01-03",
+   "subs": 446,
+   "shorts_aged": 44,
+   "max": 2252
+  },
+  {
+   "ch": "UCSpdY6611CynMNWbF_mBI3Q",
+   "title": "ZexonAe",
+   "created": "2026-06-02",
+   "subs": 20500,
+   "shorts_aged": 40,
+   "max": 505918
+  },
+  {
+   "ch": "UCILHrpCyanZ1YVmE3CLyDeQ",
+   "title": "Rich on accident",
+   "created": "2026-10-15",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCbH5PkJbdXYCOBqmsqJd7Zg",
+   "title": "the_torque__tales",
+   "created": "2026-03-09",
+   "subs": 11,
+   "shorts_aged": 18,
+   "max": 2367
+  },
+  {
+   "ch": "UCw04HS6reSQJ0y7AFUq83_Q",
+   "title": "Tell_y",
+   "created": "2026-10-14",
+   "subs": 4,
+   "shorts_aged": 1,
+   "max": 1427
+  },
+  {
+   "ch": "UCx8SoicQhdHDTjWeLNgdBFg",
+   "title": "64th Motors | 1:64 Diecast Model Cars",
+   "created": "2026-05-19",
+   "subs": 8530,
+   "shorts_aged": 34,
+   "max": 47756
+  },
+  {
+   "ch": "UCer_wE_I8i9vFZwZqNPLpCA",
+   "title": "manishkr. edits",
+   "created": "2026-10-24",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCZE-fFii_UUOen5X5ioN9vA",
+   "title": "VOIDREIGN",
+   "created": "2026-10-19",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCDX4k-ns2sNSuD1tvvQr54w",
+   "title": "Classpeed",
+   "created": "2026-09-28",
+   "subs": 49,
+   "shorts_aged": 13,
+   "max": 2488
+  },
+  {
+   "ch": "UCVWspONM2oKU6SUzuZCaIHQ",
+   "title": "Carwolf",
+   "created": "2026-07-18",
+   "subs": 5210,
+   "shorts_aged": 43,
+   "max": 950609
+  },
+  {
+   "ch": "UCxbzae0tjTmvQCqxsO1QL7g",
+   "title": "FACTS FREAK",
+   "created": "2025-10-31",
+   "subs": 91,
+   "shorts_aged": 17,
+   "max": 1436
+  },
+  {
+   "ch": "UC5CnXFZi1SMx5DOcd5GwtyA",
+   "title": "@Factzilla608",
+   "created": "2026-10-25",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCwOkd3x4ejefWP4F8FmQZ-A",
+   "title": "OMNIXCityexplorers",
+   "created": "2026-10-16",
+   "subs": 66,
+   "shorts_aged": 2,
+   "max": 95
+  },
+  {
+   "ch": "UCd0rn422Hf2IS_4tmeQNQjA",
+   "title": "Lux Motors ",
+   "created": "2026-02-13",
+   "subs": 2430,
+   "shorts_aged": 44,
+   "max": 3089
+  },
+  {
+   "ch": "UCCCqHCASNIHJpQ3wbt6LkPw",
+   "title": "Mugomotives",
+   "created": "2026-03-26",
+   "subs": 3040,
+   "shorts_aged": 44,
+   "max": 546776
+  },
+  {
+   "ch": "UCJqXnqNc4eX9tfNidDmfJDw",
+   "title": "KARVEX",
+   "created": "2026-08-22",
+   "subs": 37200,
+   "shorts_aged": 34,
+   "max": 429723
+  },
+  {
+   "ch": "UCw-GyMY8AGM2k_SgsYu4Fmg",
+   "title": "911advent",
+   "created": "2026-09-04",
+   "subs": 9540,
+   "shorts_aged": 37,
+   "max": 35537721
+  },
+  {
+   "ch": "UCMzftyDAx5u_p3WjVKocQaA",
+   "title": "CarVault707",
+   "created": "2026-05-26",
+   "subs": 21,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCjt_a4U0XkkiBKaPiPWXdog",
+   "title": "VEYLTRAXO ",
+   "created": "2026-02-19",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCqpYKha6Spdyi2J0-IXaO8Q",
+   "title": "Mini Motor Shorts",
+   "created": "2026-03-22",
+   "subs": 4480,
+   "shorts_aged": 36,
+   "max": 1353404
+  },
+  {
+   "ch": "UCc3s87Lwo2COVIAF2JxFfBQ",
+   "title": "Gk Facts 2027",
+   "created": "2026-10-03",
+   "subs": 230,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCGHmfvUrs14BwxMjxygbL6w",
+   "title": "Mythily ",
+   "created": "2026-06-20",
+   "subs": 183,
+   "shorts_aged": 16,
+   "max": 100861
+  },
+  {
+   "ch": "UCmb6M5hH4fTNzm3NSupoR-g",
+   "title": "Car Smart Daily",
+   "created": "2026-10-23",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCZdtH6w9bum4_5i_MkEV4zg",
+   "title": "xTEEGEXx",
+   "created": "2026-10-11",
+   "subs": 20,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCaYV1E85LWP7uQJi9-d7J5A",
+   "title": "CAR EDITZ",
+   "created": "2026-02-14",
+   "subs": 408,
+   "shorts_aged": 7,
+   "max": 2001
+  },
+  {
+   "ch": "UC7D2DF-evPxt1x9WP50prqw",
+   "title": "Auto Decoded",
+   "created": "2026-05-31",
+   "subs": 2110,
+   "shorts_aged": 14,
+   "max": 1482
+  },
+  {
+   "ch": "UChw4caVG75q8IRlzT83v-pw",
+   "title": "Perspective007",
+   "created": "2026-02-28",
+   "subs": 1410,
+   "shorts_aged": 19,
+   "max": 64656
+  },
+  {
+   "ch": "UCjGD1ldUogJ5nqKA7DJvf5A",
+   "title": "RevlineEditz66",
+   "created": "2026-08-24",
+   "subs": 15400,
+   "shorts_aged": 36,
+   "max": 973279
+  },
+  {
+   "ch": "UC3Wd0xGqn151aohKztxburg",
+   "title": "leolord",
+   "created": "2026-09-26",
+   "subs": 1720,
+   "shorts_aged": 9,
+   "max": 92961
+  },
+  {
+   "ch": "UCZaBsYMCoOlgLXwE5xFYGLA",
+   "title": "Flick Discovery",
+   "created": "2026-01-10",
+   "subs": 199000,
+   "shorts_aged": 39,
+   "max": 3675803
+  },
+  {
+   "ch": "UClI6LYW6XRjkr_n7R5TDCKw",
+   "title": "Orion Edit",
+   "created": "2026-09-16",
+   "subs": 117,
+   "shorts_aged": 22,
+   "max": 2151
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "niche": "celebrity",
+ "keywords": [
+  "celebrity facts",
+  "celebrity story",
+  "hollywood facts",
+  "famous people",
+  "celebrities"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:22 UTC",
+ "fresh_uploads": 200,
+ "fresh_uploaders": 170,
+ "new_uploaders": 87,
+ "new_share_of_uploaders": 0.512,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 33,
+ "shorts": 933,
+ "median_views": 1894,
+ "p75_views": 12550,
+ "p90_views": 63528,
+ "share_10k": 0.2755,
+ "share_100k": 0.0815,
+ "share_1m": 0.0075,
+ "ci95_100k": [
+  0.0656,
+  0.1008
+ ],
+ "hits_100k": 76,
+ "hits_1m": 7,
+ "channels_any_100k": 0.303,
+ "channels_any_1m": 0.152,
+ "median_channel_median": 2052,
+ "top": [
+  {
+   "views": 1392501,
+   "title": "Nana Patekar Life Story 🔥 | Bollywood Legendary Actor Biography | Struggle To Success Story ❤️",
+   "channel": "Glorify Talks",
+   "ch": "UCWIZdpSAIeu8N5mJNwGXNrQ",
+   "url": "https://youtube.com/shorts/6oGwiT9k_nY",
+   "age_d": 16
+  },
+  {
+   "views": 1315080,
+   "title": "4 Actors Marvel fired for being problematic",
+   "channel": "Fame Uncovered",
+   "ch": "UC0q-6PQR7SYtYUu5Qmf5Z8Q",
+   "url": "https://youtube.com/shorts/gc8DkDdCOJk",
+   "age_d": 32
+  },
+  {
+   "views": 1288361,
+   "title": "Does Shaggy have an Adam's Apple? 🤔 #scoobydoo #shaggyrogers #mysterymachine #mandelaeffect",
+   "channel": "The Daily Upturn",
+   "ch": "UCFk986aB92FwXhkQaHVRRUg",
+   "url": "https://youtube.com/shorts/JH29IOWunr8",
+   "age_d": 47
+  },
+  {
+   "views": 1219784,
+   "title": "Inde Navarrette Sneaks in to Cinema",
+   "channel": "Celebritia",
+   "ch": "UC7yTlJ6O8C7tP02um_pnVNg",
+   "url": "https://youtube.com/shorts/bT6ptWYv2ZQ",
+   "age_d": 32
+  },
+  {
+   "views": 1148070,
+   "title": "The looks gap between Ryan Philippe's two biological daughters is actually insane",
+   "channel": "Celebrity Lover",
+   "ch": "UCrBzxA-vwioQGM1Cb-z-KFw",
+   "url": "https://youtube.com/shorts/4Dm_vIWmAOw",
+   "age_d": 16
+  },
+  {
+   "views": 1137990,
+   "title": "What Color is Dr. Pepper? 🤔 #drpepper #drpepperlover #colortheory #drpepperasmr #colorguessing",
+   "channel": "The Daily Upturn",
+   "ch": "UCFk986aB92FwXhkQaHVRRUg",
+   "url": "https://youtube.com/shorts/14eTn-AZPbM",
+   "age_d": 33
+  },
+  {
+   "views": 1094589,
+   "title": "Ana De Armas Gets Her Special Ice cream From Ben and Jerry",
+   "channel": "Celebritia",
+   "ch": "UC7yTlJ6O8C7tP02um_pnVNg",
+   "url": "https://youtube.com/shorts/AcZUzharI6Y",
+   "age_d": 14
+  },
+  {
+   "views": 959591,
+   "title": "how can two sisters raised side by side choose such opposite paths",
+   "channel": "Celebrity Lover",
+   "ch": "UCrBzxA-vwioQGM1Cb-z-KFw",
+   "url": "https://youtube.com/shorts/2R5Kd5erGdQ",
+   "age_d": 15
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCONOoLuveg8OJ7Q0ElB6W2Q",
+   "title": "actorStory6 ",
+   "created": "2026-07-25",
+   "subs": 520,
+   "shorts_aged": 43,
+   "max": 32236
+  },
+  {
+   "ch": "UCXgsmH5FY7zHMkDk0RxL40g",
+   "title": "Silver Screen Legends",
+   "created": "2025-12-02",
+   "subs": 10,
+   "shorts_aged": 1,
+   "max": 1347
+  },
+  {
+   "ch": "UCWIZdpSAIeu8N5mJNwGXNrQ",
+   "title": "Glorify Talks",
+   "created": "2026-06-02",
+   "subs": 6620,
+   "shorts_aged": 44,
+   "max": 1392501
+  },
+  {
+   "ch": "UC2ptZMmSZH4O49aHYPlVT8A",
+   "title": "꿈을 건네는 이",
+   "created": "2026-03-06",
+   "subs": 2180,
+   "shorts_aged": 6,
+   "max": 3546
+  },
+  {
+   "ch": "UCl1IYa-9VmR_y_aRC4JaGjg",
+   "title": "currentbuzz046",
+   "created": "2026-09-19",
+   "subs": 3500,
+   "shorts_aged": 30,
+   "max": 821469
+  },
+  {
+   "ch": "UCscQEGcNnvDNCXJD7gPCs_A",
+   "title": "Starline Daily",
+   "created": "2026-07-04",
+   "subs": 1060,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCDp9eb9NkT7yMQvDPu__2hg",
+   "title": "KingsOfTime",
+   "created": "2026-09-14",
+   "subs": 806,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC7yTlJ6O8C7tP02um_pnVNg",
+   "title": "Celebritia",
+   "created": "2026-07-25",
+   "subs": 1410,
+   "shorts_aged": 41,
+   "max": 1219784
+  },
+  {
+   "ch": "UClQqJKC7sHlk7b0-cRSiKGg",
+   "title": "Backfir",
+   "created": "2026-10-04",
+   "subs": 57,
+   "shorts_aged": 27,
+   "max": 16731
+  },
+  {
+   "ch": "UC5NXQQfQA3HDfWoRIBd6YqA",
+   "title": "Apex NextGen",
+   "created": "2026-08-12",
+   "subs": 221,
+   "shorts_aged": 24,
+   "max": 78699
+  },
+  {
+   "ch": "UCg9KHWk3DCSIs8lNB_8BCrg",
+   "title": "Jescobar",
+   "created": "2026-10-09",
+   "subs": 214,
+   "shorts_aged": 21,
+   "max": 44163
+  },
+  {
+   "ch": "UCBsDQg7j9dtWWapouU2CnVg",
+   "title": "StarWhispers-x1u",
+   "created": "2026-06-24",
+   "subs": 1690,
+   "shorts_aged": 12,
+   "max": 46769
+  },
+  {
+   "ch": "UC1adZny32cE8YxcjefdAPcg",
+   "title": "SHIHUAN1",
+   "created": "2026-10-05",
+   "subs": 367,
+   "shorts_aged": 25,
+   "max": 441842
+  },
+  {
+   "ch": "UC2XDbZg3cnpzafGkVaO8seg",
+   "title": "JHD STUDIO 2.0",
+   "created": "2026-01-07",
+   "subs": 17700,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCo6tlZdke1Pe0Csmb9ufRQQ",
+   "title": "Adam David",
+   "created": "2026-09-09",
+   "subs": 686,
+   "shorts_aged": 38,
+   "max": 38017
+  },
+  {
+   "ch": "UCC5EEsmWfyJOehrgXtzvnig",
+   "title": "WIZZY TRENDS",
+   "created": "2026-10-20",
+   "subs": 30,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCdZxtaeRBuCc8xEV1pq6brA",
+   "title": "Celebrity 51",
+   "created": "2026-06-24",
+   "subs": 648,
+   "shorts_aged": 30,
+   "max": 12550
+  },
+  {
+   "ch": "UChTS48QJSVPIjdEOWre2pdg",
+   "title": "RADIO STORY ENGLISH",
+   "created": "2026-07-16",
+   "subs": 1,
+   "shorts_aged": 1,
+   "max": 2
+  },
+  {
+   "ch": "UCrqjSqSCX7x47a1lrix-8fA",
+   "title": "@ockygknoqcz",
+   "created": "2026-08-01",
+   "subs": 3940,
+   "shorts_aged": 32,
+   "max": 62945
+  },
+  {
+   "ch": "UC9IQ5y0fT6TIn9Ix5PW2ujQ",
+   "title": "draga york Explains",
+   "created": "2026-01-03",
+   "subs": 30,
+   "shorts_aged": 32,
+   "max": 1994
+  },
+  {
+   "ch": "UCg8vbOEcTbxGfIifSi0o2ow",
+   "title": "BrainMelt Movies",
+   "created": "2026-06-17",
+   "subs": 48,
+   "shorts_aged": 45,
+   "max": 1474
+  },
+  {
+   "ch": "UCFk986aB92FwXhkQaHVRRUg",
+   "title": "The Daily Upturn",
+   "created": "2026-01-12",
+   "subs": 99200,
+   "shorts_aged": 43,
+   "max": 1288361
+  },
+  {
+   "ch": "UCf0_AbM5V-gMQ8g7ZZhhUUg",
+   "title": "Mr History Teller",
+   "created": "2026-09-01",
+   "subs": 39,
+   "shorts_aged": 43,
+   "max": 1037
+  },
+  {
+   "ch": "UC9HRekciOXo_xsHBP1WhDpA",
+   "title": "celebalert88",
+   "created": "2026-10-10",
+   "subs": 208,
+   "shorts_aged": 22,
+   "max": 26480
+  },
+  {
+   "ch": "UCLIiIVJIOWSt1cdAXDlRPxQ",
+   "title": "BrainChomp",
+   "created": "2026-07-24",
+   "subs": 21,
+   "shorts_aged": 43,
+   "max": 1053
+  },
+  {
+   "ch": "UCqNefDDwNrcI_Np7R_vf9uw",
+   "title": "Celeb Glow",
+   "created": "2026-05-25",
+   "subs": 605,
+   "shorts_aged": 44,
+   "max": 11701
+  },
+  {
+   "ch": "UCLlr6GGElISJ8SG4L5w7-YQ",
+   "title": "Chronicles-Uncovered-YT",
+   "created": "2025-11-16",
+   "subs": 2030,
+   "shorts_aged": 34,
+   "max": 14066
+  },
+  {
+   "ch": "UCuvQXZgolQ0wovhnJINrQ3w",
+   "title": "PastPocket",
+   "created": "2026-10-18",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC1PldcFYB-z4dc0txpLmHSQ",
+   "title": "Starlurex",
+   "created": "2026-04-07",
+   "subs": 921,
+   "shorts_aged": 38,
+   "max": 696219
+  },
+  {
+   "ch": "UCywhJxjTl2wAOPs3GXGbxuQ",
+   "title": "uygnyfefb3a385",
+   "created": "2026-04-24",
+   "subs": 2620,
+   "shorts_aged": 28,
+   "max": 235735
+  },
+  {
+   "ch": "UCzBqXFQjIOj2FeJ6KRxzSAw",
+   "title": "paintingtk77 ",
+   "created": "2026-09-02",
+   "subs": 773,
+   "shorts_aged": 27,
+   "max": 28249
+  },
+  {
+   "ch": "UC0q-6PQR7SYtYUu5Qmf5Z8Q",
+   "title": "Fame Uncovered",
+   "created": "2026-07-19",
+   "subs": 1900,
+   "shorts_aged": 40,
+   "max": 1315080
+  },
+  {
+   "ch": "UCtCX48wVrJa_bz6lDp3iuFQ",
+   "title": "Elite Uncovered ",
+   "created": "2026-10-12",
+   "subs": 7,
+   "shorts_aged": 9,
+   "max": 3333
+  },
+  {
+   "ch": "UC6ZdkZQX_GGK0xvsyLjKbpg",
+   "title": "Paul Build",
+   "created": "2026-03-10",
+   "subs": 4080,
+   "shorts_aged": 15,
+   "max": 467
+  },
+  {
+   "ch": "UC2XKmkOsNLfS1i5_I6q6omA",
+   "title": "@starscoop_vibes",
+   "created": "2026-07-13",
+   "subs": 2130,
+   "shorts_aged": 33,
+   "max": 663107
+  },
+  {
+   "ch": "UCrBzxA-vwioQGM1Cb-z-KFw",
+   "title": "Celebrity Lover",
+   "created": "2026-07-26",
+   "subs": 7520,
+   "shorts_aged": 32,
+   "max": 1148070
+  },
+  {
+   "ch": "UCK2Y_EJDP4BPEVaziuea0Uw",
+   "title": "dexrtdqk",
+   "created": "2026-07-01",
+   "subs": 922,
+   "shorts_aged": 28,
+   "max": 54721
+  },
+  {
+   "ch": "UCxeKbr2pmGzd35bGuMd3RXQ",
+   "title": "FameWood",
+   "created": "2026-09-27",
+   "subs": 194,
+   "shorts_aged": 2,
+   "max": 4419
+  },
+  {
+   "ch": "UCQl_kv7zIim1bHkY11-HoQw",
+   "title": "InventorFiles",
+   "created": "2026-10-21",
+   "subs": 114,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC_0zluLR5S-X37mxHdYlK_g",
+   "title": "Buzz Dept",
+   "created": "2025-11-27",
+   "subs": 2830,
+   "shorts_aged": 0,
+   "max": 0
+  }
+ ]
+}

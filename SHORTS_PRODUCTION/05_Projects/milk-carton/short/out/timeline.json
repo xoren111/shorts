@@ -1,0 +1,1385 @@
+{
+ "duration": 37.97,
+ "vo_end": 37.82,
+ "loop_t": 37.62,
+ "level": "L2",
+ "ab": [],
+ "events": [
+  {
+   "id": "hook",
+   "t": 0.02,
+   "what": "frame 0: ECU at an open grocery dairy fridge, cold mist rolling out; a girl of about 7 (messy bangs, red hair clip, generic) ALREADY MOVING — turns her head toward the carton swinging in and leans forward, eyes widening; a big man's hand (cuff + wristwatch only, no face) swings the milk carton up beside her cheek: her black-and-white mirror copy under a huge MISSING, small CHILD, name/date lines = illegible squiggles, no digits",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -16,
+     "at": -0.02,
+     "from": 0.11,
+     "dur": 0.9
+    },
+    {
+     "name": "swish_quick",
+     "gain": -17,
+     "at": 0.18,
+     "from": 0
+    },
+    {
+     "name": "amb_store",
+     "gain": -22,
+     "at": -0.02,
+     "from": 39,
+     "dur": 9.06
+    },
+    {
+     "name": "amb_room",
+     "gain": -25,
+     "at": -0.02,
+     "from": 2,
+     "dur": 9.92
+    }
+   ]
+  },
+  {
+   "id": "match",
+   "t": 0.45,
+   "what": "the printed eyes line up with hers (EYE_Y) — bass hit WITHOUT a freeze: her lean, the carton swing and the mist keep moving",
+   "sfx": [
+    {
+     "name": "impact_sub_boom_kenney",
+     "gain": -11,
+     "at": -0.05,
+     "from": 0.17
+    },
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -15,
+     "at": -0.02,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "jab",
+   "t": 1,
+   "what": "her finger jabs her own cheek",
+   "sfx": [
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -16,
+     "at": 0,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "printed",
+   "t": 1.5,
+   "what": "her finger jabs the printed face on the carton",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": -0.05,
+     "from": 0.12
+    }
+   ]
+  },
+  {
+   "id": "missing",
+   "t": 2.53,
+   "what": "ZOOM-THROUGH into the carton header (CARTON0): macro, her POV — her fingertip lands at the left end of the header",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.17,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -17,
+     "at": 0.45,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "squiggle",
+   "t": 3,
+   "what": "her fingertip drags along the header; the letters wriggle into squiggles she can't read (they squirm harder under «can't read»)",
+   "sfx": [
+    {
+     "name": "pen_sign",
+     "gain": -19,
+     "at": 0,
+     "from": 1.2,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "snap",
+   "t": 4.19,
+   "what": "the squiggles snap into a sharp red MISSING (the only word on screen); at the frame edge her lips try to sound it out",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -15,
+     "at": -0.02,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -15,
+     "at": -0.03,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "mancan",
+   "t": 4.86,
+   "what": "HARD CUT to a low angle from her height on the wristwatch; the camera starts tilting up his arm",
+   "sfx": [
+    {
+     "name": "swell_dark",
+     "gain": -20,
+     "at": 0,
+     "from": 0.5,
+     "dur": 1.42
+    }
+   ]
+  },
+  {
+   "id": "letters",
+   "t": 5.12,
+   "what": "the tilt reaches his coat silhouette against the fridge light (no face); the MISSING letters light up one by one, left to right, as if he reads them; on «can.» his shadow slides over her (CAN orange in the subtitle)",
+   "sfx": [
+    {
+     "name": "blip_select",
+     "gain": -20,
+     "at": -0.01,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -20.5,
+     "at": 0.1,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -21,
+     "at": 0.21,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -21.5,
+     "at": 0.32,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -22,
+     "at": 0.43,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -22.5,
+     "at": 0.54,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -23,
+     "at": 0.65,
+     "from": 0
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -20,
+     "at": 0.606,
+     "from": 0.19,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "famous",
+   "t": 6.25,
+   "what": "WHIP back to the split-match (frame-0 angle): her face beside the printed face",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "taps",
+   "t": 6.545,
+   "what": "his index finger taps her printed face — once on «you're», once on «famous!», like a proud joke; each tap pops a small comic flash-bulb burst around the carton",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": -0.05,
+     "from": 0.12
+    },
+    {
+     "name": "camera_shutter",
+     "gain": -14,
+     "at": -0.03,
+     "from": 0.05
+    },
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": 0.32,
+     "from": 0.12
+    },
+    {
+     "name": "camera_shutter",
+     "gain": -13,
+     "at": 0.34,
+     "from": 0.05
+    }
+   ]
+  },
+  {
+   "id": "wide",
+   "t": 7.434,
+   "what": "her eyes go wide, the flash bursts hang in the air around the carton",
+   "sfx": []
+  },
+  {
+   "id": "isme",
+   "t": 8.3,
+   "what": "PUNCH-in on her: mouth open, she jabs a finger at her own chest, at the printed face on «that», back at herself on «me?» — a tiny sparkle flicks on the red clip in the photo and on her own clip at once",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -19,
+     "at": 0.03,
+     "from": 0.55,
+     "dur": 0.7
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -16,
+     "at": 0.15,
+     "from": 0
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -17,
+     "at": 0.303,
+     "from": 0
+    },
+    {
+     "name": "type_bell",
+     "gain": -21,
+     "at": 0.313,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "hush",
+   "t": 9.08,
+   "what": "HARD CUT: on the fridge door his huge silhouette shadow raises one finger to its lips (no facial detail, no contact with her); the flash bursts freeze and fall like flat confetti; the store colours dim a notch",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -19,
+     "at": 0.06,
+     "from": 0.11,
+     "dur": 0.5
+    },
+    {
+     "name": "page_turn",
+     "gain": -19,
+     "at": 0.47,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "takeher",
+   "t": 9.88,
+   "what": "WHIP into a desaturated flashback with paper grain on a plain backdrop: an empty checked jacket hangs on the back of a chair (the dad only as a sign)",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -18,
+     "at": 0.09,
+     "from": 0
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -17,
+     "at": 0.01,
+     "from": 0.11,
+     "dur": 0.55
+    }
+   ]
+  },
+  {
+   "id": "walkout",
+   "t": 10.237,
+   "what": "a man's hand with the SAME wristwatch holds a toddler's small hand and gently walks her out of frame; the jacket stays alone and still (no grabbing, no struggle, no faces)",
+   "sfx": [
+    {
+     "name": "heart_thud",
+     "gain": -14,
+     "at": -0.04,
+     "from": 0,
+     "dur": 0.55
+    }
+   ]
+  },
+  {
+   "id": "mom",
+   "t": 11.279,
+   "what": "PUNCH out, wider on the hands: a woman's hand with a bangle takes the toddler's other hand (tender, no hurry)",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -18,
+     "at": 0.03,
+     "from": 0.55,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "glint",
+   "t": 12.14,
+   "what": "the bangle glints on «MOM»; the child walks off calmly between the two adult hands (MOM orange in the subtitle)",
+   "sfx": [
+    {
+     "name": "coins_clink",
+     "gain": -20,
+     "at": -0.05,
+     "from": 0.2,
+     "dur": 0.45
+    },
+    {
+     "name": "type_bell",
+     "gain": -23,
+     "at": 0,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "run",
+   "t": 12.66,
+   "what": "WHIP: night road lights streak past a car window",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -17,
+     "at": 0.09,
+     "from": 0
+    },
+    {
+     "name": "amb_street",
+     "gain": -22,
+     "at": 0,
+     "from": 2,
+     "dur": 0.73
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -20,
+     "at": 0.27,
+     "from": 1.03,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "rain",
+   "t": 13.333,
+   "what": "the light streaks turn into rain on the tin roof of a shack among trees",
+   "sfx": [
+    {
+     "name": "amb_rain",
+     "gain": -12,
+     "at": 0,
+     "from": 1,
+     "dur": 0.8
+    }
+   ]
+  },
+  {
+   "id": "curtain",
+   "t": 13.84,
+   "what": "a little hand pulls a curtain aside to the sun; a sunbeam lands on the floor",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -18,
+     "at": -0.03,
+     "from": 0
+    },
+    {
+     "name": "chips_stack",
+     "gain": -20,
+     "at": -0.01,
+     "from": 0.03
+    }
+   ]
+  },
+  {
+   "id": "falls",
+   "t": 14.377,
+   "what": "the curtain slips back by itself and falls shut — the sunbeam on the floor narrows to a thin strip (no adult hand: mom is never a jailer)",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -18,
+     "at": 0.03,
+     "from": 0.19,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "notrun",
+   "t": 15.02,
+   "what": "HARD CUT, colour snaps back: the store in the frame-0 angle, wider; his shoes stay planted beside her small sneakers by the cart; on «run.» shoppers' feet stream past in a soft blur (RUN orange)",
+   "sfx": [
+    {
+     "name": "amb_store",
+     "gain": -22,
+     "at": 0,
+     "from": 24,
+     "dur": 2.07
+    },
+    {
+     "name": "amb_room",
+     "gain": -25,
+     "at": 0,
+     "from": 12,
+     "dur": 3.36
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -17,
+     "at": 0.25,
+     "from": 0.19,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "nothide",
+   "t": 15.9,
+   "what": "WHIP to a mid shot from her height: on «hide» his hand drops the carton into the shopping cart like any ordinary milk — her MISSING face happens to land toward the viewer",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09,
+     "from": 0
+    },
+    {
+     "name": "wood_thud",
+     "gain": -12,
+     "at": 0.247,
+     "from": 0.12
+    },
+    {
+     "name": "coins_clink",
+     "gain": -23,
+     "at": 0.277,
+     "from": 0.25,
+     "dur": 0.3
+    }
+   ]
+  },
+  {
+   "id": "roll",
+   "t": 16.58,
+   "what": "the cart rolls on toward the checkout with her small hand on its side; the music is gone, in the dead air the cart and the mist slow to a crawl (no full freeze)",
+   "sfx": [
+    {
+     "name": "coins_clink",
+     "gain": -28,
+     "at": 0.55,
+     "from": 0.1,
+     "dur": 0.3
+    }
+   ]
+  },
+  {
+   "id": "belt",
+   "t": 17.36,
+   "what": "PUNCH: the carton thumps onto the checkout belt, her printed face up; card word «HE» lands",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -15,
+     "at": -0.03,
+     "from": 0.12
+    },
+    {
+     "name": "heart_thud",
+     "gain": -19,
+     "at": -0.02,
+     "from": 0,
+     "dur": 0.2
+    }
+   ]
+  },
+  {
+   "id": "buys",
+   "t": 17.556,
+   "what": "TWIST — MAIN HIT: a red scanner laser sweeps across HER printed face, BEEP; «BUYS» slams into the giant card «HE BUYS IT.» in orange (camera kick); on «it.» the till drawer pops open",
+   "sfx": [
+    {
+     "name": "blip_select",
+     "gain": -23,
+     "at": -0.01,
+     "from": 0
+    },
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -24,
+     "at": 0.02,
+     "from": 0.12,
+     "dur": 0.13
+    },
+    {
+     "name": "impact_sub_boom_kenney",
+     "gain": -17,
+     "at": -0.05,
+     "from": 0.17
+    },
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -21,
+     "at": 0,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -14,
+     "at": 0.152,
+     "from": 0
+    },
+    {
+     "name": "type_bell",
+     "gain": -17,
+     "at": 0.202,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "kitchen",
+   "t": 18.38,
+   "what": "PUSH UP to the kitchen table from above: the empty carton (milk finished) lies with her MISSING face up; on «asks:» the hand with the watch slides it across the wood to her small hands",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -16,
+     "at": 0.12,
+     "from": 0.19,
+     "dur": 0.7
+    },
+    {
+     "name": "paper_slide",
+     "gain": -20,
+     "at": 0.014,
+     "from": 0.6,
+     "dur": 0.75
+    },
+    {
+     "name": "amb_room",
+     "gain": -26,
+     "at": 0,
+     "from": 40,
+     "dur": 3.57
+    }
+   ]
+  },
+  {
+   "id": "card",
+   "t": 18.934,
+   "what": "the big card «DO YOU WANT TO KEEP IT?» lands with the voice (his line: it hangs from the watch-hand side)",
+   "sfx": [
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -17,
+     "at": 0,
+     "from": 0
+    },
+    {
+     "name": "clock_tick",
+     "gain": -19,
+     "at": -0.05,
+     "from": 0.4,
+     "dur": 1.3
+    }
+   ]
+  },
+  {
+   "id": "keep",
+   "t": 19.548,
+   "what": "SCREENSHOT MOMENT: KEEP lands in orange (camera kick); the carton wobbles to a stop at her fingers, her fingers hover over it, she blinks — micro-motion until the cut",
+   "sfx": [
+    {
+     "name": "heart_thud",
+     "gain": -14,
+     "at": -0.04,
+     "from": 0,
+     "dur": 0.5
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -18,
+     "at": -0.01,
+     "from": 0
+    },
+    {
+     "name": "page_turn",
+     "gain": -21,
+     "at": 0.25,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "cuts",
+   "t": 20.23,
+   "what": "ZOOM-THROUGH into the photo panel (KEEP_PHOTO): macro on her small hands only with round-tip kid scissors, snipping around the photo panel (OWN orange)",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -16,
+     "at": 0.17,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "camera_shutter",
+     "gain": -16,
+     "at": 0.141,
+     "from": 0.05
+    },
+    {
+     "name": "camera_shutter",
+     "gain": -16.5,
+     "at": 0.36,
+     "from": 0.05
+    },
+    {
+     "name": "camera_shutter",
+     "gain": -17,
+     "at": 0.568,
+     "from": 0.05
+    },
+    {
+     "name": "camera_shutter",
+     "gain": -17.5,
+     "at": 0.816,
+     "from": 0.05
+    }
+   ]
+  },
+  {
+   "id": "free",
+   "t": 21.445,
+   "what": "the cardboard curls and the square cutout (MISSING over her face) lifts free, leaving a hole in the carton",
+   "sfx": [
+    {
+     "name": "paper_crumple",
+     "gain": -20,
+     "at": -0.03,
+     "from": 0.14,
+     "dur": 0.35
+    },
+    {
+     "name": "page_turn",
+     "gain": -19,
+     "at": 0.07,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "tosses",
+   "t": 21.95,
+   "what": "WHIP: a pink doll case pops open on tiny doll shoes and a comb; on «it» the cutout flutters in on top",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09,
+     "from": 0
+    },
+    {
+     "name": "pop_lips",
+     "gain": -15,
+     "at": 0.11,
+     "from": 0.15
+    },
+    {
+     "name": "page_turn",
+     "gain": -16,
+     "at": 0.305,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "shut",
+   "t": 23.179,
+   "what": "the lid snaps shut and the latch clicks",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -13,
+     "at": -0.05,
+     "from": 0.12
+    },
+    {
+     "name": "type_key",
+     "gain": -14,
+     "at": 0.1,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "nextdoor",
+   "t": 23.67,
+   "what": "DIAG to a wide side-on shot: she skips across a lawn to the house next door swinging the case; on «case» she sets it on the neighbours' carpet",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -17,
+     "at": 0.14,
+     "from": 1.03,
+     "dur": 0.8
+    },
+    {
+     "name": "amb_birds",
+     "gain": -4,
+     "at": 0,
+     "from": 20,
+     "dur": 1.37
+    },
+    {
+     "name": "paper_crumple",
+     "gain": -22,
+     "at": 0.27,
+     "from": 0.14,
+     "dur": 0.14
+    },
+    {
+     "name": "paper_crumple",
+     "gain": -23,
+     "at": 0.53,
+     "from": 0.14,
+     "dur": 0.14
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -17,
+     "at": 0.449,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "door",
+   "t": 24.556,
+   "what": "she skips home empty-handed, the screen door swings shut; the camera eases in on the lone case (ends with the case at CASE_END)",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -13,
+     "at": 0.07,
+     "from": 0.12
+    },
+    {
+     "name": "type_key",
+     "gain": -16,
+     "at": 0.11,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "neighbor",
+   "t": 25.04,
+   "what": "ZOOM-THROUGH into the case (CASE_END): over the neighbour's shoulder, no face — adult fingers lift the cutout from the case",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.17,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "amb_room",
+     "gain": -26,
+     "at": 0,
+     "from": 20,
+     "dur": 1.71
+    },
+    {
+     "name": "page_turn",
+     "gain": -16,
+     "at": 0.35,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "reads",
+   "t": 25.517,
+   "what": "a fingertip slides along the name line under the photo (illegible squiggles, never readable) and stops on «REAL» (REAL orange)",
+   "sfx": [
+    {
+     "name": "paper_slide",
+     "gain": -20,
+     "at": 0,
+     "from": 0.45,
+     "dur": 0.5
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -18,
+     "at": 0.525,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "magnet",
+   "t": 26.304,
+   "what": "the hand pins the cutout to her own fridge with a magnet",
+   "sfx": [
+    {
+     "name": "type_key",
+     "gain": -13,
+     "at": -0.04,
+     "from": 0
+    },
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": -0.04,
+     "from": 0.12
+    }
+   ]
+  },
+  {
+   "id": "police",
+   "t": 26.75,
+   "what": "PUNCH: red and blue light washes over that fridge and the cutout; through the window police-car silhouettes pull up one by one, each on a beat («show», «up.»)",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -17,
+     "at": 0.03,
+     "from": 0.55,
+     "dur": 0.7
+    },
+    {
+     "name": "amb_street",
+     "gain": -21,
+     "at": 0,
+     "from": 3,
+     "dur": 2.52
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -21,
+     "at": 0.252,
+     "from": 1.03,
+     "dur": 0.5
+    },
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": 0.302,
+     "from": 0.12
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -21,
+     "at": 0.474,
+     "from": 1.03,
+     "dur": 0.5
+    },
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": 0.524,
+     "from": 0.12
+    }
+   ]
+  },
+  {
+   "id": "lot",
+   "t": 27.909,
+   "what": "on «A LOT» the cars keep stacking past the frame edge (LOT orange)",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -14,
+     "at": -0.05,
+     "from": 0.12
+    },
+    {
+     "name": "wood_thud",
+     "gain": -16,
+     "at": 0.15,
+     "from": 0.12
+    },
+    {
+     "name": "wood_thud",
+     "gain": -18,
+     "at": 0.37,
+     "from": 0.12
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -19,
+     "at": 0.05,
+     "from": 0.19,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "doorway",
+   "t": 29.27,
+   "what": "HARD CUT to quiet: a doorway; a tall man in the checked sleeve (her dad, seen from behind, no face) crouches with one empty hand held out",
+   "sfx": [
+    {
+     "name": "amb_room",
+     "gain": -24,
+     "at": 0,
+     "from": 10,
+     "dur": 2.15
+    }
+   ]
+  },
+  {
+   "id": "hide",
+   "t": 30.198,
+   "what": "she steps behind the doorframe",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -20,
+     "at": -0.01,
+     "from": 0.12
+    }
+   ]
+  },
+  {
+   "id": "peek",
+   "t": 30.916,
+   "what": "she peeks out with one eye (KNOW orange)",
+   "sfx": []
+  },
+  {
+   "id": "dadput",
+   "t": 31.42,
+   "what": "CIRCLE reveal from the photo (DESK_PHOTO): sepia, earlier — the checked-sleeve hand slides her toddler photo across a plain desk (no logos) and lets go",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -16,
+     "at": 0.16,
+     "from": 0.19,
+     "dur": 0.8
+    },
+    {
+     "name": "paper_slide",
+     "gain": -17,
+     "at": 0.25,
+     "from": 0.5,
+     "dur": 0.75
+    }
+   ]
+  },
+  {
+   "id": "line",
+   "t": 32.58,
+   "what": "CUT to a dairy line printing that face onto carton after carton (DAD orange)",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -13,
+     "at": -0.01,
+     "from": 0.12
+    },
+    {
+     "name": "wood_thud",
+     "gain": -14,
+     "at": 0.224,
+     "from": 0.12
+    },
+    {
+     "name": "wood_thud",
+     "gain": -15,
+     "at": 0.403,
+     "from": 0.12
+    }
+   ]
+  },
+  {
+   "id": "ride",
+   "t": 33.272,
+   "what": "one carton rides off the line straight into the frame-0 store fridge",
+   "sfx": [
+    {
+     "name": "type_key",
+     "gain": -19,
+     "at": -0.04,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -20,
+     "at": 0.05,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -21,
+     "at": 0.14,
+     "from": 0
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -20,
+     "at": 0.15,
+     "from": 0.19,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "billions",
+   "t": 33.7,
+   "what": "PUNCH out: the fridge becomes an endless scrolling wall of cartons, each with a different generic drawn child (no real missing kids); 0.2 s later a big BILLIONS (orange, no digits) stamps over it",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -17,
+     "at": 0.03,
+     "from": 0.55,
+     "dur": 0.7
+    },
+    {
+     "name": "whoosh_windy",
+     "gain": -19,
+     "at": 0.07,
+     "from": 1,
+     "dur": 1.2
+    },
+    {
+     "name": "paper_crumple",
+     "gain": -19,
+     "at": 0.03,
+     "from": 0.14,
+     "dur": 0.9
+    },
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -9,
+     "at": 0.18,
+     "from": 0
+    },
+    {
+     "name": "boom_cine",
+     "gain": -14,
+     "at": 0.15,
+     "from": 0.22,
+     "dur": 1.4
+    }
+   ]
+  },
+  {
+   "id": "dim",
+   "t": 35.11,
+   "what": "the stamp lifts away; row by row the faces on the wall dim to grey — a row on «Almost», «none», «brought» (NONE orange)",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -13,
+     "at": 0.01,
+     "from": 0.12
+    },
+    {
+     "name": "wood_thud",
+     "gain": -15,
+     "at": 0.321,
+     "from": 0.12
+    },
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": 0.578,
+     "from": 0.12
+    }
+   ]
+  },
+  {
+   "id": "one",
+   "t": 36.111,
+   "what": "one carton keeps its colour; slow push toward it (it ends at LONE_CARTON)",
+   "sfx": []
+  },
+  {
+   "id": "except",
+   "t": 36.93,
+   "what": "FADE (locked match dissolve at LONE_CARTON): the one coloured carton slides out of the wall into the store dairy fridge; the hand with the watch reaches in",
+   "sfx": [
+    {
+     "name": "amb_store",
+     "gain": -22,
+     "at": 0,
+     "from": 27,
+     "dur": 1.04
+    },
+    {
+     "name": "amb_room",
+     "gain": -25,
+     "at": 0,
+     "from": 30,
+     "dur": 1.04
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -21,
+     "at": 0.2,
+     "from": 0.19,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "t": 37.62,
+   "what": "the hand lifts the carton up toward her cheek — the last 0.35 s dissolve into frame 0 (same hand, same carton, same mist = loop)",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -19,
+     "at": 0.05,
+     "from": 0
+    },
+    {
+     "name": "swell_rev",
+     "gain": -22,
+     "at": -0.25,
+     "from": 2.38,
+     "dur": 0.62
+    }
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "k": "hook",
+   "t0": 0,
+   "t1": 2.53,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Hook"
+  },
+  {
+   "k": "missing",
+   "t0": 2.53,
+   "t1": 4.86,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "Missing"
+  },
+  {
+   "k": "mancan",
+   "t0": 4.86,
+   "t1": 6.25,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "ManCan"
+  },
+  {
+   "k": "famous",
+   "t0": 6.25,
+   "t1": 8.3,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "Famous"
+  },
+  {
+   "k": "isthatme",
+   "t0": 8.3,
+   "t1": 9.08,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "IsThatMe"
+  },
+  {
+   "k": "hush",
+   "t0": 9.08,
+   "t1": 9.88,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Hush"
+  },
+  {
+   "k": "takeher",
+   "t0": 9.88,
+   "t1": 11.279,
+   "tr": "whipR",
+   "subY": 1250,
+   "scene": "TakeHer"
+  },
+  {
+   "k": "mom",
+   "t0": 11.279,
+   "t1": 12.66,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Mom"
+  },
+  {
+   "k": "ontherun",
+   "t0": 12.66,
+   "t1": 15.02,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "OnTheRun"
+  },
+  {
+   "k": "notrun",
+   "t0": 15.02,
+   "t1": 15.9,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "NotRun"
+  },
+  {
+   "k": "nothide",
+   "t0": 15.9,
+   "t1": 17.36,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "NotHide"
+  },
+  {
+   "k": "buys",
+   "t0": 17.36,
+   "t1": 18.38,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Buys"
+  },
+  {
+   "k": "keepit",
+   "t0": 18.38,
+   "t1": 20.23,
+   "tr": "up",
+   "subY": 1250,
+   "scene": "KeepIt"
+  },
+  {
+   "k": "cuts",
+   "t0": 20.23,
+   "t1": 21.95,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "Cuts"
+  },
+  {
+   "k": "tosses",
+   "t0": 21.95,
+   "t1": 23.67,
+   "tr": "whipR",
+   "subY": 1250,
+   "scene": "Tosses"
+  },
+  {
+   "k": "nextdoor",
+   "t0": 23.67,
+   "t1": 25.04,
+   "tr": "diag",
+   "subY": 1250,
+   "scene": "NextDoor"
+  },
+  {
+   "k": "realname",
+   "t0": 25.04,
+   "t1": 26.75,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "RealName"
+  },
+  {
+   "k": "police",
+   "t0": 26.75,
+   "t1": 29.27,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Police"
+  },
+  {
+   "k": "handedback",
+   "t0": 29.27,
+   "t1": 31.42,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "HandedBack"
+  },
+  {
+   "k": "dadput",
+   "t0": 31.42,
+   "t1": 33.7,
+   "tr": "circle",
+   "subY": 1250,
+   "scene": "DadPut"
+  },
+  {
+   "k": "billions",
+   "t0": 33.7,
+   "t1": 35.11,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Billions"
+  },
+  {
+   "k": "nonehome",
+   "t0": 35.11,
+   "t1": 36.93,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "NoneHome"
+  },
+  {
+   "k": "loop",
+   "t0": 36.93,
+   "t1": 37.97,
+   "tr": "fade",
+   "subY": 1250,
+   "scene": "Loop"
+  }
+ ]
+}

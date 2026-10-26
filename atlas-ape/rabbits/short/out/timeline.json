@@ -1,0 +1,810 @@
+{
+ "duration": 62,
+ "events": [
+  {
+   "id": "hook",
+   "t": 0,
+   "what": "English quay at dusk, 13 rabbits hop up the gangplank, Atlas points",
+   "sfx": [
+    {
+     "name": "dock_ambience",
+     "gain": -16
+    },
+    {
+     "name": "hop_thumps",
+     "gain": -19,
+     "dur": 3.5
+    }
+   ]
+  },
+  {
+   "id": "ship",
+   "t": 1.463,
+   "what": "label England, October 1859; queue reaches the deck",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "say",
+   "t": 2.938,
+   "what": "first rabbits drop into the crate",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "mel",
+   "t": 3.53,
+   "what": "warm Melbourne light: the crate lid on deck flips open",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -17
+    },
+    {
+     "name": "lid_creak",
+     "gain": -15,
+     "at": 0.08,
+     "dur": 0.4
+    },
+    {
+     "name": "sea_waves",
+     "gain": -24,
+     "dur": 2.2
+    }
+   ]
+  },
+  {
+   "id": "pour",
+   "t": 4.394,
+   "what": "24 rabbits pour out and hop down the gangplank in two lanes",
+   "sfx": [
+    {
+     "name": "hop_thumps",
+     "gain": -12,
+     "dur": 2.4
+    },
+    {
+     "name": "ear_pops",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "quay",
+   "t": 4.98,
+   "what": "the stream reaches the quay",
+   "sfx": [
+    {
+     "name": "hop_thumps",
+     "gain": -16,
+     "at": 0.3,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "lesson",
+   "t": 5.64,
+   "what": "lesson in the ship's hold: a rabbit in glasses at the blackboard, rabbit × rabbit =",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -16
+    },
+    {
+     "name": "dock_ambience",
+     "gain": -26,
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "id": "tap",
+   "t": 6.395,
+   "what": "the teacher taps the board with the pointer",
+   "sfx": [
+    {
+     "name": "ui_click",
+     "gain": -15
+    },
+    {
+     "name": "ui_click",
+     "gain": -17,
+     "at": 0.17
+    }
+   ]
+  },
+  {
+   "id": "multiply",
+   "t": 7.134,
+   "what": "the answer fills up with rabbit heads; students perk up, one raises a paw",
+   "sfx": [
+    {
+     "name": "ear_pops",
+     "gain": -11
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -20,
+     "at": 0.55
+    }
+   ]
+  },
+  {
+   "id": "spread",
+   "t": 8.06,
+   "what": "toon map of Australia: the rabbit tide spreads from Barwon Park",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "tide",
+   "t": 9.568,
+   "what": "dots flood NSW and Queensland; label ≈ 600 million by 1950",
+   "sfx": [
+    {
+     "name": "hop_thumps",
+     "gain": -21,
+     "dur": 2
+    },
+    {
+     "name": "pop_in",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "burrows",
+   "t": 11.47,
+   "what": "hillside riddled with burrows, heads pop up in a wave",
+   "sfx": [
+    {
+     "name": "ear_pops",
+     "gain": -13,
+     "at": 0.1
+    },
+    {
+     "name": "ear_pops",
+     "gain": -16,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "bell1",
+   "t": 12.504,
+   "what": "boxing bell on the post rings",
+   "sfx": [
+    {
+     "name": "boxing_bell",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "trophy",
+   "t": 13.64,
+   "what": "trophy + money bag rise into a spotlight; £25,000",
+   "sfx": [
+    {
+     "name": "riser_short",
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "prize",
+   "t": 15.278,
+   "what": "spotlight full, trophy turns",
+   "sfx": [
+    {
+     "name": "coins_jingle",
+     "gain": -13
+    }
+   ]
+  },
+  {
+   "id": "pasteur",
+   "t": 16.1,
+   "what": "real Nadar portrait of Pasteur; label He sent his team to Sydney",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "island",
+   "t": 17.96,
+   "what": "inside the Rodd Island lab: bench, microscope, violet culture bubbling over a spirit lamp, a hen",
+   "sfx": [
+    {
+     "name": "flask_bubble",
+     "gain": -20
+    },
+    {
+     "name": "sea_waves",
+     "gain": -30,
+     "dur": 2
+    }
+   ]
+  },
+  {
+   "id": "chicken",
+   "t": 18.315,
+   "what": "the hen flaps and clucks; on «cholera» she leans to the flask, puzzled",
+   "sfx": [
+    {
+     "name": "chicken_cluck",
+     "gain": -10
+    },
+    {
+     "name": "swish_short",
+     "gain": -22,
+     "at": 0.05
+    }
+   ]
+  },
+  {
+   "id": "shields",
+   "t": 19.6,
+   "what": "paper diagram fades in",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "sheep",
+   "t": 20.958,
+   "what": "sheep pops in + shield",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -15
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -22,
+     "at": 0.18
+    }
+   ]
+  },
+  {
+   "id": "horses",
+   "t": 21.61,
+   "what": "horse pops in + shield",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -15
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -22,
+     "at": 0.18
+    }
+   ]
+  },
+  {
+   "id": "dogs",
+   "t": 22.5,
+   "what": "dog pops in + shield; camel, goat, pig follow in the pause",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -15
+    },
+    {
+     "name": "pop_in",
+     "gain": -18,
+     "at": 0.75
+    },
+    {
+     "name": "pop_in",
+     "gain": -18,
+     "at": 0.9
+    },
+    {
+     "name": "pop_in",
+     "gain": -18,
+     "at": 1.05
+    }
+   ]
+  },
+  {
+   "id": "birds",
+   "t": 23.29,
+   "what": "chicken struts in without a shield; Atlas enters and facepalms",
+   "sfx": [
+    {
+     "name": "chicken_cluck",
+     "gain": -13
+    }
+   ]
+  },
+  {
+   "id": "facepalm",
+   "t": 24.268,
+   "what": "dashed «?» shield over the chicken",
+   "sfx": [
+    {
+     "name": "pop_out",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "fizzle",
+   "t": 25.01,
+   "what": "two rabbit icons; germ arrow sets off",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "pfft",
+   "t": 25.723,
+   "what": "arrow fizzles out halfway (no rabbit-to-rabbit spread)",
+   "sfx": [
+    {
+     "name": "deflate_horn",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "nobody",
+   "t": 26.41,
+   "what": "prize untouched at night, tumbleweed rolls past; nearly 1,500 entries",
+   "sfx": [
+    {
+     "name": "tumbleweed",
+     "gain": -12
+    },
+    {
+     "name": "wind_cold",
+     "gain": -22,
+     "dur": 1.8
+    }
+   ]
+  },
+  {
+   "id": "fence1926",
+   "t": 27.91,
+   "what": "real 1926 photo of Fence No. 1 to the horizon",
+   "sfx": [
+    {
+     "name": "boxing_bell",
+     "gain": -12,
+     "at": 0.25
+    }
+   ]
+  },
+  {
+   "id": "wamap",
+   "t": 30.16,
+   "what": "WA map: Fence No. 1 draws from Burracoppin to both oceans",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "oceans",
+   "t": 31.152,
+   "what": "the line touches both oceans",
+   "sfx": [
+    {
+     "name": "pin_drop",
+     "gain": -16
+    },
+    {
+     "name": "sea_waves",
+     "gain": -22,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "pegs",
+   "t": 31.87,
+   "what": "netting ends, survey pegs carry on; camera tracks along the string",
+   "sfx": [
+    {
+     "name": "wind_cold",
+     "gain": -21,
+     "dur": 3.4
+    }
+   ]
+  },
+  {
+   "id": "rabbitWest",
+   "t": 33.57,
+   "what": "the camera finds a rabbit west of the pegs; label 1902",
+   "sfx": [
+    {
+     "name": "sniff",
+     "gain": -14,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "scratch",
+   "t": 35.19,
+   "what": "soil cut-away under the fence: a rabbit digs at a hole on the safe side",
+   "sfx": [
+    {
+     "name": "dig_scratch",
+     "gain": -10,
+     "at": 0.15
+    }
+   ]
+  },
+  {
+   "id": "dive",
+   "t": 36.107,
+   "what": "he dives in; the tunnel opens up in the section under the buried netting",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -19
+    },
+    {
+     "name": "earth_rumble_dirt",
+     "gain": -20,
+     "at": 0.15,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "popout",
+   "t": 36.94,
+   "what": "pops out on the other side by his gang, dirt bursts, he shakes off",
+   "sfx": [
+    {
+     "name": "ear_pops",
+     "gain": -11
+    },
+    {
+     "name": "dust_puff",
+     "gain": -17,
+     "at": 0.05
+    },
+    {
+     "name": "hop_thumps",
+     "gain": -20,
+     "at": 0.75,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "wardang",
+   "t": 37.59,
+   "what": "toon Wardang Island from high above, sea all round",
+   "sfx": [
+    {
+     "name": "boxing_bell",
+     "gain": -12,
+     "at": 0.25
+    },
+    {
+     "name": "sea_waves",
+     "gain": -24,
+     "dur": 4.2
+    }
+   ]
+  },
+  {
+   "id": "swoop",
+   "t": 38.85,
+   "what": "camera swoops down to the quarantine pen with rabbits",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "virus",
+   "t": 39.572,
+   "what": "a big violet virus pops up over the pedestal in the pen",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -14
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -22,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "locked",
+   "t": 40.47,
+   "what": "the gate swings shut, a golden padlock drops onto it",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -22
+    },
+    {
+     "name": "ui_click",
+     "gain": -10,
+     "at": 0.32
+    },
+    {
+     "name": "stamp",
+     "gain": -20,
+     "at": 0.32
+    }
+   ]
+  },
+  {
+   "id": "pullback",
+   "t": 40.829,
+   "what": "camera pulls back up: the whole island, sea all round",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "escape",
+   "t": 41.84,
+   "what": "Spencer Gulf map: flies lift the glyphs out of the pens",
+   "sfx": [
+    {
+     "name": "fly_buzz",
+     "gain": -11
+    },
+    {
+     "name": "fly_buzz",
+     "gain": -15,
+     "at": 0.35
+    }
+   ]
+  },
+  {
+   "id": "front",
+   "t": 43.845,
+   "what": "dotted front creeps inland from the coast",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "ceremony",
+   "t": 44.79,
+   "what": "stage with bunting on WA farmland, scissors glide in",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "snip",
+   "t": 46.852,
+   "what": "giant scissors snip the ribbon; the virus-emblem crate opens, viruses float out",
+   "sfx": [
+    {
+     "name": "scissors_snip",
+     "gain": -8
+    },
+    {
+     "name": "applause_polite",
+     "gain": -15,
+     "at": 0.2
+    },
+    {
+     "name": "pop_in",
+     "gain": -18,
+     "at": 0.35
+    },
+    {
+     "name": "pop_in",
+     "gain": -20,
+     "at": 0.55
+    },
+    {
+     "name": "pop_in",
+     "gain": -21,
+     "at": 0.75
+    }
+   ]
+  },
+  {
+   "id": "already",
+   "t": 47.87,
+   "what": "WA map: violet dots already over the farm belt; ceremony pin in a gap",
+   "sfx": [
+    {
+     "name": "deflate_horn",
+     "gain": -15,
+     "at": 1.1
+    }
+   ]
+  },
+  {
+   "id": "flee",
+   "t": 48.342,
+   "what": "cartoon rabbits flee west, some already swimming away",
+   "sfx": [
+    {
+     "name": "hop_thumps",
+     "gain": -17,
+     "dur": 1.8
+    },
+    {
+     "name": "sea_waves",
+     "gain": -20,
+     "at": 0.2,
+     "dur": 1.6
+    }
+   ]
+  },
+  {
+   "id": "bar",
+   "t": 50.19,
+   "what": "the bar drops to ~2/5; the rabbit on top leaps in fright and lands on the new top",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -18,
+     "at": 0.3
+    },
+    {
+     "name": "ear_pops",
+     "gain": -15,
+     "at": 0.32
+    },
+    {
+     "name": "hop_thumps",
+     "gain": -14,
+     "at": 1.2,
+     "dur": 0.35
+    },
+    {
+     "name": "dust_puff",
+     "gain": -20,
+     "at": 1.2
+    }
+   ]
+  },
+  {
+   "id": "score",
+   "t": 51.41,
+   "what": "wooden scoreboard at dusk, Atlas enters big lower-left",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -15
+    }
+   ]
+  },
+  {
+   "id": "rabbits2",
+   "t": 53.416,
+   "what": "tile 2 drops into RABBITS",
+   "sfx": [
+    {
+     "name": "scoreboard_flip",
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "fly",
+   "t": 54.24,
+   "what": "a fly buzzes in",
+   "sfx": [
+    {
+     "name": "fly_buzz",
+     "gain": -15,
+     "dur": 1.1
+    }
+   ]
+  },
+  {
+   "id": "flies1",
+   "t": 54.685,
+   "what": "tile 1 drops into FLIES, the fly lands on it",
+   "sfx": [
+    {
+     "name": "scoreboard_flip",
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "australia0",
+   "t": 56.49,
+   "what": "tile 0 drops into AUSTRALIA, Atlas shrugs",
+   "sfx": [
+    {
+     "name": "scoreboard_flip",
+     "gain": -9
+    }
+   ]
+  },
+  {
+   "id": "rise",
+   "t": 57.59,
+   "what": "camera cranes up over the board",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "plain",
+   "t": 58.254,
+   "what": "plain full of rabbits; label Today ≈ 200 million (est.)",
+   "sfx": [
+    {
+     "name": "hop_thumps",
+     "gain": -24,
+     "dur": 2
+    }
+   ]
+  },
+  {
+   "id": "sails",
+   "t": 58.723,
+   "what": "the clipper's sails on the violet sea",
+   "sfx": [
+    {
+     "name": "ship_horn_low",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "wink",
+   "t": 60.42,
+   "what": "Atlas winks; dissolve back to the opening frame (loop)",
+   "sfx": [
+    {
+     "name": "tynts",
+     "gain": -10,
+     "at": 0.5
+    }
+   ]
+  }
+ ]
+}

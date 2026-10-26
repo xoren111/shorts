@@ -1,0 +1,236 @@
+{
+ "duration": 11.08,
+ "vo_end": 10.33,
+ "loop_t": 10.68,
+ "level": "L2",
+ "events": [
+  {
+   "id": "hook",
+   "t": 0.02,
+   "what": "frame 0: drawn burst on violet rays, speed lines, camera hit",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -9
+    },
+    {
+     "name": "whoosh_selfmade",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "stamp",
+   "t": 0.441,
+   "what": "NEW stamp slams onto the frame",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "collage",
+   "t": 2.01,
+   "what": "WHIP → paper ground",
+   "sfx": [
+    {
+     "name": "whoosh_selfmade",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "print",
+   "t": 2.431,
+   "what": "torn print with a drawn document pops in",
+   "sfx": [
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -15
+    }
+   ]
+  },
+  {
+   "id": "ring",
+   "t": 3.298,
+   "what": "marker ring draws itself around the sketch",
+   "sfx": [
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "dust",
+   "t": 3.728,
+   "what": "dust burst out of the print",
+   "sfx": [
+    {
+     "name": "impact_sub_boom_kenney",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "seal",
+   "t": 4.31,
+   "what": "ZOOM-THROUGH into a night desk",
+   "sfx": [
+    {
+     "name": "whoosh_selfmade",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "doc",
+   "t": 4.538,
+   "what": "a document drops onto the desk",
+   "sfx": [
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "slam",
+   "t": 5.204,
+   "what": "the wax seal slams onto the document, impact ring",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "moves",
+   "t": 6.33,
+   "what": "PUSH UP → the sea; big gold 3 (its subtitle is hidden)",
+   "sfx": [
+    {
+     "name": "whoosh_selfmade",
+     "gain": -16
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -15,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "ship",
+   "t": 6.688,
+   "what": "a drawn ship sails in",
+   "sfx": [
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "twist",
+   "t": 7.6,
+   "what": "PUNCH → gold burst, confetti rain right after",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -7
+    },
+    {
+     "name": "impact_sub_boom_kenney",
+     "gain": -12
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -16,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "end",
+   "t": 8.17,
+   "what": "FADE → calm paper shot, slow push on the print",
+   "sfx": [
+    {
+     "name": "whoosh_selfmade",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "ring_end",
+   "t": 8.927,
+   "what": "a calm marker ring draws around the little ship",
+   "sfx": [
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "t": 10.246,
+   "what": "the last 0.4 s dissolve into frame 0 (loop)",
+   "sfx": []
+  }
+ ],
+ "beats": [
+  {
+   "k": "hook",
+   "t0": 0,
+   "t1": 2.01,
+   "tr": "none",
+   "subY": 1300,
+   "scene": "Hook"
+  },
+  {
+   "k": "collage",
+   "t0": 2.01,
+   "t1": 4.31,
+   "tr": "whipL",
+   "subY": 1320,
+   "scene": "Collage"
+  },
+  {
+   "k": "seal",
+   "t0": 4.31,
+   "t1": 6.33,
+   "tr": "zoomthru",
+   "subY": 1300,
+   "scene": "SealScene"
+  },
+  {
+   "k": "moves",
+   "t0": 6.33,
+   "t1": 7.6,
+   "tr": "up",
+   "subY": 1250,
+   "scene": "Moves"
+  },
+  {
+   "k": "twist",
+   "t0": 7.6,
+   "t1": 8.17,
+   "tr": "punch",
+   "subY": 1300,
+   "scene": "Twist"
+  },
+  {
+   "k": "end",
+   "t0": 8.17,
+   "t1": 11.08,
+   "tr": "fade",
+   "subY": 1300,
+   "scene": "End"
+  }
+ ]
+}

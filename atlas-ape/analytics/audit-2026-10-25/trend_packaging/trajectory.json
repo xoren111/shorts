@@ -1,0 +1,287 @@
+[
+ {
+  "n": 1,
+  "video": "Volcano",
+  "id": "yR42PjbnqEo",
+  "published_utc": "2026-10-19T20:08:39Z",
+  "published_PT": "Mon 13:08",
+  "dur_s": 77,
+  "age_h": 131.6,
+  "views_now": 663,
+  "views_first_PT_day": 53,
+  "first_PT_day_hours": 10.9,
+  "daily_PT": [
+   [
+    "10-19",
+    53
+   ],
+   [
+    "10-20",
+    276
+   ],
+   [
+    "10-21",
+    324
+   ],
+   [
+    "10-22",
+    9
+   ]
+  ],
+  "known_points": [
+   [
+    48,
+    544
+   ]
+  ],
+  "analytics_views_to_22_10": 662,
+  "views_after_analytics_window": 1,
+  "engaged_ratio_pct": 55.4,
+  "studio_stayed_pct": 57.6,
+  "AVD_s": 40,
+  "AVP_pct": 53.06999999999999,
+  "likes_per_1k": 19.6,
+  "likes": 13,
+  "comments": 0,
+  "shares": 0,
+  "subs_gained": 1,
+  "ret_1s": 120.2,
+  "ret_3s": 107.9,
+  "ret_5s": 106.0,
+  "ret_10s": 66.5,
+  "ret_end": 26.7,
+  "RRP_10_30pct": 0.29,
+  "RRP_80_100pct": 0.5,
+  "feed_share_pct": 97.0,
+  "top_country": [
+   "US",
+   28.2
+  ]
+ },
+ {
+  "n": 2,
+  "video": "Rabbits",
+  "id": "w52iSlkYlOg",
+  "published_utc": "2026-10-20T20:19:27Z",
+  "published_PT": "Tue 13:19",
+  "dur_s": 63,
+  "age_h": 107.4,
+  "views_now": 1154,
+  "views_first_PT_day": 286,
+  "first_PT_day_hours": 10.7,
+  "daily_PT": [
+   [
+    "10-20",
+    286
+   ],
+   [
+    "10-21",
+    409
+   ],
+   [
+    "10-22",
+    455
+   ]
+  ],
+  "known_points": [
+   [
+    10,
+    291
+   ]
+  ],
+  "analytics_views_to_22_10": 1150,
+  "views_after_analytics_window": 4,
+  "engaged_ratio_pct": 61.4,
+  "studio_stayed_pct": 62.6,
+  "AVD_s": 28,
+  "AVP_pct": 45.33,
+  "likes_per_1k": 10.4,
+  "likes": 12,
+  "comments": 0,
+  "shares": 0,
+  "subs_gained": 0,
+  "ret_1s": 115.4,
+  "ret_3s": 109.8,
+  "ret_5s": 105.0,
+  "ret_10s": 81.7,
+  "ret_end": 15.3,
+  "RRP_10_30pct": 0.26,
+  "RRP_80_100pct": 0.57,
+  "feed_share_pct": 97.7,
+  "top_country": [
+   "PH",
+   30.2
+  ]
+ },
+ {
+  "n": 3,
+  "video": "Yellow Fleet",
+  "id": "TD53YW6dqoY",
+  "published_utc": "2026-10-21T20:20:48Z",
+  "published_PT": "Wed 13:20",
+  "dur_s": 33,
+  "age_h": 83.4,
+  "views_now": 2312,
+  "views_first_PT_day": 1101,
+  "first_PT_day_hours": 10.7,
+  "daily_PT": [
+   [
+    "10-21",
+    1101
+   ],
+   [
+    "10-22",
+    67
+   ]
+  ],
+  "known_points": [
+   [
+    9,
+    1113
+   ]
+  ],
+  "analytics_views_to_22_10": 1168,
+  "views_after_analytics_window": 1144,
+  "engaged_ratio_pct": 39.8,
+  "studio_stayed_pct": 42.8,
+  "AVD_s": 26,
+  "AVP_pct": 81.28,
+  "likes_per_1k": 7.8,
+  "likes": 18,
+  "comments": 1,
+  "shares": 0,
+  "subs_gained": 0,
+  "ret_1s": 133.1,
+  "ret_3s": 120.2,
+  "ret_5s": 112.0,
+  "ret_10s": 90.8,
+  "ret_end": 46.5,
+  "RRP_10_30pct": 0.49,
+  "RRP_80_100pct": 0.79,
+  "feed_share_pct": 97.5,
+  "top_country": [
+   "US",
+   27.6
+  ]
+ },
+ {
+  "n": 4,
+  "video": "Pig War",
+  "id": "Eoxim0DO2g4",
+  "published_utc": "2026-10-22T21:10:12Z",
+  "published_PT": "Thu 14:10",
+  "dur_s": 42,
+  "age_h": 58.6,
+  "views_now": 1407,
+  "views_first_PT_day": 788,
+  "first_PT_day_hours": 9.8,
+  "daily_PT": [
+   [
+    "10-22",
+    788
+   ]
+  ],
+  "known_points": [
+   [
+    14,
+    1200
+   ]
+  ],
+  "analytics_views_to_22_10": 788,
+  "views_after_analytics_window": 619,
+  "engaged_ratio_pct": 48.9,
+  "studio_stayed_pct": 54.1,
+  "AVD_s": 29,
+  "AVP_pct": 70.38,
+  "likes_per_1k": 25.6,
+  "likes": 36,
+  "comments": 1,
+  "shares": 0,
+  "subs_gained": 1,
+  "ret_1s": 127.0,
+  "ret_3s": 117.4,
+  "ret_5s": 105.2,
+  "ret_10s": 82.6,
+  "ret_end": 37.9,
+  "RRP_10_30pct": 0.42,
+  "RRP_80_100pct": 0.61,
+  "feed_share_pct": 96.3,
+  "top_country": [
+   "US",
+   25.3
+  ]
+ },
+ {
+  "n": 5,
+  "video": "Farm girl",
+  "id": "06A_mm0ZkGw",
+  "published_utc": "2026-10-23T22:28:54Z",
+  "published_PT": "Fri 15:28",
+  "dur_s": 33,
+  "age_h": 33.3,
+  "views_now": 125,
+  "views_first_PT_day": null,
+  "first_PT_day_hours": 8.5,
+  "daily_PT": [],
+  "known_points": [
+   [
+    18,
+    85
+   ]
+  ],
+  "analytics_views_to_22_10": null,
+  "views_after_analytics_window": null,
+  "engaged_ratio_pct": null,
+  "studio_stayed_pct": 39.5,
+  "AVD_s": null,
+  "AVP_pct": null,
+  "likes_per_1k": 16.0,
+  "likes": 2,
+  "comments": 0,
+  "shares": null,
+  "subs_gained": null,
+  "ret_1s": null,
+  "ret_3s": null,
+  "ret_5s": null,
+  "ret_10s": null,
+  "ret_end": null,
+  "RRP_10_30pct": null,
+  "RRP_80_100pct": null,
+  "feed_share_pct": null,
+  "top_country": null
+ },
+ {
+  "n": 6,
+  "video": "Russell",
+  "id": "kP_YrKlOel8",
+  "published_utc": "2026-10-24T21:39:03Z",
+  "published_PT": "Sat 14:39",
+  "dur_s": 44,
+  "age_h": 10.1,
+  "views_now": 1174,
+  "views_first_PT_day": null,
+  "first_PT_day_hours": 9.3,
+  "daily_PT": [],
+  "known_points": [],
+  "analytics_views_to_22_10": null,
+  "views_after_analytics_window": null,
+  "engaged_ratio_pct": null,
+  "studio_stayed_pct": null,
+  "AVD_s": null,
+  "AVP_pct": null,
+  "likes_per_1k": 20.4,
+  "likes": 24,
+  "comments": 1,
+  "shares": null,
+  "subs_gained": null,
+  "ret_1s": null,
+  "ret_3s": null,
+  "ret_5s": null,
+  "ret_10s": null,
+  "ret_end": null,
+  "RRP_10_30pct": null,
+  "RRP_80_100pct": null,
+  "feed_share_pct": null,
+  "top_country": null
+ }
+]

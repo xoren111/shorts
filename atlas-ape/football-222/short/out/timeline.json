@@ -1,0 +1,551 @@
+{
+ "duration": 30.5,
+ "events": [
+  {
+   "id": "hook",
+   "t": 0,
+   "what": "frame 0: Flow runner bursts at the camera, dust, speed lines, tremor",
+   "sfx": [
+    {
+     "name": "brass_sting",
+     "gain": -11
+    },
+    {
+     "name": "crowd_1916",
+     "gain": -15,
+     "dur": 1.5
+    },
+    {
+     "name": "whoosh_big",
+     "gain": -17
+    },
+    {
+     "name": "hit_impact",
+     "gain": -16,
+     "at": 0.6
+    }
+   ]
+  },
+  {
+   "id": "score",
+   "t": 1.2,
+   "what": "PUNCH → the REAL 1916 scoreboard, whip-pan across the quarters; 222–0 key fact",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -14
+    },
+    {
+     "name": "scoreboard_flip",
+     "gain": -13,
+     "at": 0.08
+    },
+    {
+     "name": "hit_impact",
+     "gain": -18,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "ring222",
+   "t": 1.86,
+   "what": "the pan lands on 222, a gold marker ring draws",
+   "sfx": [
+    {
+     "name": "wire_scratch",
+     "gain": -19
+    },
+    {
+     "name": "hit_impact",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "ring0",
+   "t": 3,
+   "what": "tilt down to the 0, red ring",
+   "sfx": [
+    {
+     "name": "wire_scratch",
+     "gain": -19
+    },
+    {
+     "name": "pop_in",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "bench",
+   "t": 3.45,
+   "what": "WHIP → Flow: two lonely boys on the visitors' bench",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -15
+    },
+    {
+     "name": "tumbleweed",
+     "gain": -22,
+     "at": 0.2,
+     "dur": 1.6
+    }
+   ]
+  },
+  {
+   "id": "split",
+   "t": 3.99,
+   "what": "SPLIT: the REAL 1916 Georgia Tech squad drops in on top, the bench slides to the bottom half",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -15
+    },
+    {
+     "name": "hit_impact",
+     "gain": -17,
+     "at": 0.45
+    }
+   ]
+  },
+  {
+   "id": "captions",
+   "t": 4.44,
+   "what": "captions «Georgia Tech, 1916» / «Cumberland · football dropped in 1915»",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "contract",
+   "t": 5.35,
+   "what": "PUSH UP → paper: the Cumberland campus print drops, the typed agreement slides up",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -15
+    },
+    {
+     "name": "dust_puff",
+     "gain": -20,
+     "at": 0.35
+    }
+   ]
+  },
+  {
+   "id": "highlight",
+   "t": 5.6,
+   "what": "highlighter over «Atlanta · October 7, 1916»",
+   "sfx": [
+    {
+     "name": "wire_scratch",
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "stamp",
+   "t": 6.94,
+   "what": "the red $3,000 PENALTY stamp slams, camera shake",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -6
+    },
+    {
+     "name": "hit_impact",
+     "gain": -13
+    }
+   ]
+  },
+  {
+   "id": "bribe",
+   "t": 8.55,
+   "what": "DIAGONAL WIPE → Flow: the nameless coach slides the envelope",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -16
+    },
+    {
+     "name": "swish_short",
+     "gain": -19,
+     "at": 0.25
+    }
+   ]
+  },
+  {
+   "id": "bills",
+   "t": 9.79,
+   "what": "banknotes burst out of the envelope; $500 key fact; gold light leak",
+   "sfx": [
+    {
+     "name": "banknote",
+     "gain": -10
+    },
+    {
+     "name": "coins_jingle",
+     "gain": -17,
+     "at": 0.1,
+     "dur": 0.8
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -19,
+     "at": 0.15
+    }
+   ]
+  },
+  {
+   "id": "why",
+   "t": 11.45,
+   "what": "ZOOM-THROUGH into the coach's eyes",
+   "sfx": [
+    {
+     "name": "crash_zoom",
+     "gain": -13
+    }
+   ]
+  },
+  {
+   "id": "revenge",
+   "t": 12.07,
+   "what": "red pulse + REVENGE slams (glitch), shake",
+   "sfx": [
+    {
+     "name": "hit_impact",
+     "gain": -8
+    },
+    {
+     "name": "glitch_hit",
+     "gain": -15
+    }
+   ]
+  },
+  {
+   "id": "baseball",
+   "t": 13,
+   "what": "WHIP → the REAL 1916 Georgia Tech baseball team print",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -15
+    },
+    {
+     "name": "pop_in",
+     "gain": -18,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "crack",
+   "t": 13.37,
+   "what": "cracks spread over the print, it greys out, shake",
+   "sfx": [
+    {
+     "name": "hit_impact",
+     "gain": -9
+    },
+    {
+     "name": "crate_thud",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "board22",
+   "t": 14.68,
+   "what": "wooden board slams: CUMBERLAND 22 · GA. TECH 0",
+   "sfx": [
+    {
+     "name": "scoreboard_flip",
+     "gain": -12
+    },
+    {
+     "name": "hit_impact",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "recruits",
+   "t": 15.85,
+   "what": "CIRCLE → Flow: recruits shoved into jerseys (wide)",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -15
+    },
+    {
+     "name": "door_bang",
+     "gain": -17,
+     "at": 0.15
+    }
+   ]
+  },
+  {
+   "id": "law",
+   "t": 16.55,
+   "what": "push onto the law student with his books + LAW STUDENTS tag with arrow",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -18,
+     "at": -0.3
+    },
+    {
+     "name": "pop_in",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "frat",
+   "t": 17.43,
+   "what": "whip onto the frat boys in pyjamas + FRAT BROTHERS tag with arrow",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -16,
+     "at": -0.3
+    },
+    {
+     "name": "pop_in",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "firstdown",
+   "t": 18.3,
+   "what": "WHIP → the REAL photo of this game + the drawn field strip",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -15
+    },
+    {
+     "name": "crowd_1916",
+     "gain": -24,
+     "at": 0.1,
+     "from": 1,
+     "dur": 1.8
+    }
+   ]
+  },
+  {
+   "id": "try1",
+   "t": 18.45,
+   "what": "the arrow runs at the first-down line, falls short",
+   "sfx": [
+    {
+     "name": "dust_puff",
+     "gain": -18,
+     "at": 0.45
+    }
+   ]
+  },
+  {
+   "id": "fail",
+   "t": 19.8,
+   "what": "red X on the first-down line",
+   "sfx": [
+    {
+     "name": "deflate_horn",
+     "gain": -20,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "reporter",
+   "t": 20.25,
+   "what": "PUSH UP → the REAL 1919 Tribune cartoon of Grantland Rice",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -16
+    },
+    {
+     "name": "typewriter_tick",
+     "gain": -15,
+     "at": 0.2,
+     "dur": 1.9
+    }
+   ]
+  },
+  {
+   "id": "loss",
+   "t": 22.29,
+   "what": "field strip: the ball runs backwards, −6 YDS",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -18
+    },
+    {
+     "name": "trombone_wah",
+     "gain": -12,
+     "at": 0.45
+    }
+   ]
+  },
+  {
+   "id": "final",
+   "t": 23.55,
+   "what": "PUNCH → Flow: the whole team flat on the grass; final whistle",
+   "sfx": [
+    {
+     "name": "start_whistle",
+     "gain": -10
+    },
+    {
+     "name": "crowd_1916",
+     "gain": -19,
+     "at": 0.15,
+     "dur": 2.5
+    }
+   ]
+  },
+  {
+   "id": "roll",
+   "t": 24.53,
+   "what": "the wooden board rolls GA. TECH 0 → 222",
+   "sfx": [
+    {
+     "name": "counter_tick_loop",
+     "gain": -16,
+     "dur": 1.2
+    },
+    {
+     "name": "scoreboard_flip",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "land",
+   "t": 25.54,
+   "what": "the counter lands on 222",
+   "sfx": [
+    {
+     "name": "hit_impact",
+     "gain": -12
+    },
+    {
+     "name": "fanfare_hit",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "zero",
+   "t": 26.09,
+   "what": "the board glows; «32 touchdowns»",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -16
+    }
+   ]
+  },
+  {
+   "id": "reveal",
+   "t": 26.45,
+   "what": "CIRCLE → the cartoon coach in a spotlight",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -16
+    },
+    {
+     "name": "riser_short",
+     "gain": -19,
+     "dur": 0.75
+    }
+   ]
+  },
+  {
+   "id": "real",
+   "t": 27.17,
+   "what": "FLASH → the REAL photo of John Heisman; name key fact",
+   "sfx": [
+    {
+     "name": "hit_impact",
+     "gain": -9
+    },
+    {
+     "name": "crowd_ooh",
+     "gain": -13,
+     "at": 0.05
+    }
+   ]
+  },
+  {
+   "id": "trophy",
+   "t": 28.21,
+   "what": "FADE → Flow: the golden trophy, rays, glints, gold leak",
+   "sfx": [
+    {
+     "name": "harp_gliss",
+     "gain": -16
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -17,
+     "at": 0.25
+    },
+    {
+     "name": "crowd_1916",
+     "gain": -20,
+     "at": 0.3,
+     "dur": 2
+    }
+   ]
+  },
+  {
+   "id": "atlas",
+   "t": 28.3,
+   "what": "Atlas pops in, shocked (Gemini pose card)",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "clap1",
+   "t": 29.24,
+   "what": "Atlas switches to a slow clap: two claps",
+   "sfx": [
+    {
+     "name": "clap_single",
+     "gain": -7
+    },
+    {
+     "name": "clap_single",
+     "gain": -7,
+     "at": 0.38
+    }
+   ]
+  },
+  {
+   "id": "clap3",
+   "t": 29.84,
+   "what": "third clap; loop dissolve to frame 0 follows",
+   "sfx": [
+    {
+     "name": "clap_single",
+     "gain": -7
+    }
+   ]
+  }
+ ]
+}

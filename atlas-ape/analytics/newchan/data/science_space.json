@@ -1,0 +1,423 @@
+{
+ "niche": "science_space",
+ "keywords": [
+  "space facts",
+  "science facts",
+  "universe facts",
+  "physics facts",
+  "black hole"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:09 UTC",
+ "fresh_uploads": 288,
+ "fresh_uploaders": 269,
+ "new_uploaders": 162,
+ "new_share_of_uploaders": 0.602,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 29,
+ "shorts": 474,
+ "median_views": 463,
+ "p75_views": 7820,
+ "p90_views": 133579,
+ "share_10k": 0.2342,
+ "share_100k": 0.1097,
+ "share_1m": 0.0169,
+ "ci95_100k": [
+  0.0846,
+  0.141
+ ],
+ "hits_100k": 52,
+ "hits_1m": 8,
+ "channels_any_100k": 0.172,
+ "channels_any_1m": 0.103,
+ "median_channel_median": 411,
+ "top": [
+  {
+   "views": 5243707,
+   "title": "The Moon Doubled Until It Outweighed the Sun… Big Mistake",
+   "channel": "Orbitimbre",
+   "ch": "UCtPoouzahVkQOs2gA206XRw",
+   "url": "https://youtube.com/shorts/mhdYwdb1t3c",
+   "age_d": 18
+  },
+  {
+   "views": 2934110,
+   "title": "The hidden glitch in our reality 🔍 #simulation #mystery",
+   "channel": "Jim's Wormhole",
+   "ch": "UC7vTAkYNtAFuVx95lWXs4ww",
+   "url": "https://youtube.com/shorts/8uiFhuzPFw0",
+   "age_d": 12
+  },
+  {
+   "views": 2816675,
+   "title": "What if a black hole passed by Earth? You'd never see it coming. #whatif #space #simulation",
+   "channel": "Lunarzone Animates",
+   "ch": "UCdIjjlFZczvKPlcqEdaoXlg",
+   "url": "https://youtube.com/shorts/9KLW4rp-ou8",
+   "age_d": 17
+  },
+  {
+   "views": 2730385,
+   "title": "The 13th month they don't want you to know about #conspiracy #time",
+   "channel": "Jim's Wormhole",
+   "ch": "UC7vTAkYNtAFuVx95lWXs4ww",
+   "url": "https://youtube.com/shorts/PLfT1Ddr-SM",
+   "age_d": 7
+  },
+  {
+   "views": 1586319,
+   "title": "What if you lived 1 trillion years? Time speeds up 10x every 3.5 seconds 😳 #whatif #space",
+   "channel": "Lunarzone Animates",
+   "ch": "UCdIjjlFZczvKPlcqEdaoXlg",
+   "url": "https://youtube.com/shorts/QTTdnFbxqVA",
+   "age_d": 7
+  },
+  {
+   "views": 1557787,
+   "title": "Mars Found 140 Trillion Oceans of Water  #shorts #space #mars #solarsystem #water",
+   "channel": "Orbitimbre",
+   "ch": "UCtPoouzahVkQOs2gA206XRw",
+   "url": "https://youtube.com/shorts/vvCHV6RO5w0",
+   "age_d": 19
+  },
+  {
+   "views": 1532467,
+   "title": "What if your speed doubled every 2 seconds? Light speed in 53 seconds. #whatif #space #simulation",
+   "channel": "Lunarzone Animates",
+   "ch": "UCdIjjlFZczvKPlcqEdaoXlg",
+   "url": "https://youtube.com/shorts/pO_5m73e6Gg",
+   "age_d": 14
+  },
+  {
+   "views": 1439908,
+   "title": "The Moon Doubled Until It Outweighed the Universe Part 2",
+   "channel": "Orbitimbre",
+   "ch": "UCtPoouzahVkQOs2gA206XRw",
+   "url": "https://youtube.com/shorts/C6tXs92oafw",
+   "age_d": 11
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UC7vTAkYNtAFuVx95lWXs4ww",
+   "title": "Jim's Wormhole",
+   "created": "2026-10-04",
+   "subs": 41000,
+   "shorts_aged": 25,
+   "max": 2934110
+  },
+  {
+   "ch": "UCMGYbIYz8jTquUOpD0Mtlmw",
+   "title": "Beyond Physics",
+   "created": "2026-07-07",
+   "subs": 34,
+   "shorts_aged": 40,
+   "max": 963
+  },
+  {
+   "ch": "UCtPoouzahVkQOs2gA206XRw",
+   "title": "Orbitimbre",
+   "created": "2026-09-14",
+   "subs": 23200,
+   "shorts_aged": 26,
+   "max": 5243707
+  },
+  {
+   "ch": "UCjD36cHMz7ozGbilC41cIhg",
+   "title": "Physics in 60 Seconds",
+   "created": "2026-06-11",
+   "subs": 75,
+   "shorts_aged": 43,
+   "max": 30570
+  },
+  {
+   "ch": "UCxxQ5Hj4EzQU7496tx8W74g",
+   "title": "Slow Orbit Science",
+   "created": "2026-09-26",
+   "subs": 194,
+   "shorts_aged": 5,
+   "max": 1444
+  },
+  {
+   "ch": "UC-oKy_pRZfbS9Ec_X8WsJhg",
+   "title": "Space Secrets HD",
+   "created": "2026-10-22",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCX6dbWks6gN1P9ynUZ_wF4Q",
+   "title": "Guru Fiziqs",
+   "created": "2026-08-22",
+   "subs": 468,
+   "shorts_aged": 4,
+   "max": 44717
+  },
+  {
+   "ch": "UC9Xpr1VtsRzvVTrT1qHRqjg",
+   "title": "Everything Explained Daily",
+   "created": "2026-07-13",
+   "subs": 23,
+   "shorts_aged": 2,
+   "max": 77
+  },
+  {
+   "ch": "UCBobedYWckPUH6tNA8DQVvA",
+   "title": "Cosmos Updates",
+   "created": "2026-09-14",
+   "subs": 15800,
+   "shorts_aged": 26,
+   "max": 328431
+  },
+  {
+   "ch": "UCt0gcUlWFu36wmgOR6Zvs4w",
+   "title": "Daily Sports Why",
+   "created": "2026-06-28",
+   "subs": 1590,
+   "shorts_aged": 36,
+   "max": 268234
+  },
+  {
+   "ch": "UCtyf8Jc9IoLlFdoiL7PX76Q",
+   "title": "The Curiosity Brief",
+   "created": "2026-10-10",
+   "subs": 4,
+   "shorts_aged": 20,
+   "max": 147
+  },
+  {
+   "ch": "UCQHJTdv8SXHwihd1fdBf1fg",
+   "title": "Cosmic Minute",
+   "created": "2026-10-07",
+   "subs": 3,
+   "shorts_aged": 20,
+   "max": 1305
+  },
+  {
+   "ch": "UC_I0g0DHZVCrsqCtvEtyEzg",
+   "title": "PrimeXspace ",
+   "created": "2026-08-17",
+   "subs": 0,
+   "shorts_aged": 3,
+   "max": 725
+  },
+  {
+   "ch": "UCkgxTQt94kwXkWRosVbvBhA",
+   "title": "Astrion Space",
+   "created": "2026-10-09",
+   "subs": 54,
+   "shorts_aged": 19,
+   "max": 1755
+  },
+  {
+   "ch": "UCVeGTPt2DuQgWZ-1VU0NUKA",
+   "title": "Mystery Collection",
+   "created": "2025-11-30",
+   "subs": 36,
+   "shorts_aged": 12,
+   "max": 778
+  },
+  {
+   "ch": "UCn-c1BnqiZ8RG9e23GdIVBw",
+   "title": "Decode Mind",
+   "created": "2026-09-17",
+   "subs": 474,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC3DgAb8eGW1RKI_Nq1nrqjg",
+   "title": "Curious Science",
+   "created": "2026-08-27",
+   "subs": 26,
+   "shorts_aged": 5,
+   "max": 1238
+  },
+  {
+   "ch": "UC72akUg-RKrd26H5AUa6iKw",
+   "title": "Orbit & Scale",
+   "created": "2026-07-28",
+   "subs": 247,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCMpvVns1mOQEn0j1HybY6YA",
+   "title": "Cosmic Enigma",
+   "created": "2026-07-22",
+   "subs": 28,
+   "shorts_aged": 11,
+   "max": 2208
+  },
+  {
+   "ch": "UC2ma6De6E5eLXvqwYw50vlg",
+   "title": "FactOrbit.Official",
+   "created": "2026-10-18",
+   "subs": 8,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCxEC3EUNGJ1qi0SX4ZMztyQ",
+   "title": "Cosmic Dreams Universe",
+   "created": "2026-05-02",
+   "subs": 234,
+   "shorts_aged": 10,
+   "max": 1203
+  },
+  {
+   "ch": "UCAgyVFp_b8rC9lfQzZyD6FA",
+   "title": "FactNova ",
+   "created": "2026-01-02",
+   "subs": 20,
+   "shorts_aged": 19,
+   "max": 2019
+  },
+  {
+   "ch": "UCWifwUfG_dlW0phlKdVUXJQ",
+   "title": "3amtabs",
+   "created": "2026-10-16",
+   "subs": 14,
+   "shorts_aged": 3,
+   "max": 3051
+  },
+  {
+   "ch": "UCbUjrHDy1MceuhRuiyRKfeA",
+   "title": "BrainByte",
+   "created": "2026-10-03",
+   "subs": 103,
+   "shorts_aged": 14,
+   "max": 1782
+  },
+  {
+   "ch": "UCoItRyZgOrzYZOqJFmYL5gw",
+   "title": "DailyAstronomyFacts",
+   "created": "2026-10-15",
+   "subs": 65,
+   "shorts_aged": 4,
+   "max": 1389
+  },
+  {
+   "ch": "UCaWaTtkEtXlQpMRuJyF87aA",
+   "title": "Curiosity Animated",
+   "created": "2026-10-22",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCAPKg1Zig9NYznXEuH1e8Sw",
+   "title": "TheSciFiGuyOnline",
+   "created": "2026-03-09",
+   "subs": 10,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC3tzMlUPCKJNU5nI9uHdAsw",
+   "title": "Curious Signal",
+   "created": "2026-10-11",
+   "subs": 24,
+   "shorts_aged": 14,
+   "max": 1447
+  },
+  {
+   "ch": "UCFzsmo_vDlhWvnvx0a6YTPw",
+   "title": "Pip Explains Everything",
+   "created": "2026-10-18",
+   "subs": 15,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCcFsUtIcT816aUsxI1pjTbg",
+   "title": "The Fact Vault",
+   "created": "2026-10-23",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCdIjjlFZczvKPlcqEdaoXlg",
+   "title": "Lunarzone Animates",
+   "created": "2026-10-04",
+   "subs": 20300,
+   "shorts_aged": 15,
+   "max": 2816675
+  },
+  {
+   "ch": "UC_e6x2S8_swN8GPMlGT3Oyw",
+   "title": "HUMORA",
+   "created": "2026-08-12",
+   "subs": 18,
+   "shorts_aged": 15,
+   "max": 703
+  },
+  {
+   "ch": "UCVuLnvm2LR77yIQIuJywBbw",
+   "title": "MindVaultVisual ",
+   "created": "2026-10-11",
+   "subs": 15,
+   "shorts_aged": 5,
+   "max": 1496
+  },
+  {
+   "ch": "UCRnW5xTt9Pxs8ZCrBK8XfuQ",
+   "title": "Zero Question",
+   "created": "2026-06-26",
+   "subs": 6,
+   "shorts_aged": 1,
+   "max": 5
+  },
+  {
+   "ch": "UCft1wQOKMMONZos7O3iHL0A",
+   "title": "Nature Scale",
+   "created": "2026-10-18",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCHnEUBg3QM4hxmOjKTdzF3A",
+   "title": "Strange Orbit Facts",
+   "created": "2026-10-19",
+   "subs": 14,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCpdg2bRQjus9PCb38QmCy7Q",
+   "title": "Mind pop",
+   "created": "2026-08-22",
+   "subs": 59,
+   "shorts_aged": 42,
+   "max": 1102
+  },
+  {
+   "ch": "UCh2O8xDVpRzY-FFio8il2Ag",
+   "title": "Nebulyn",
+   "created": "2026-10-21",
+   "subs": 31,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCtkIGynAMzisQq2CSuF3FWw",
+   "title": "Sergii Nykonenko | Math, Physics & STEM",
+   "created": "2026-08-16",
+   "subs": 57,
+   "shorts_aged": 23,
+   "max": 1114
+  },
+  {
+   "ch": "UCIF_8p7YEUGKy7NYT1zfglA",
+   "title": "Physics Decoded",
+   "created": "2026-09-25",
+   "subs": 15,
+   "shorts_aged": 12,
+   "max": 1020
+  }
+ ]
+}

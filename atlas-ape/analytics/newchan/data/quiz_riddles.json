@@ -1,0 +1,423 @@
+{
+ "niche": "quiz_riddles",
+ "keywords": [
+  "riddles",
+  "quiz",
+  "would you rather",
+  "brain teaser",
+  "guess the"
+ ],
+ "relevance": "riddle|quiz|would you rather|brain ?teaser|guess|trivia|\\biq\\b|test|can you|answer|questions?|wyr",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:22 UTC",
+ "fresh_uploads": 229,
+ "fresh_uploaders": 202,
+ "new_uploaders": 80,
+ "new_share_of_uploaders": 0.396,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 32,
+ "shorts": 812,
+ "median_views": 4770,
+ "p75_views": 31297,
+ "p90_views": 114514,
+ "share_10k": 0.4187,
+ "share_100k": 0.1158,
+ "share_1m": 0.0012,
+ "ci95_100k": [
+  0.0955,
+  0.1396
+ ],
+ "hits_100k": 94,
+ "hits_1m": 1,
+ "channels_any_100k": 0.312,
+ "channels_any_1m": 0.031,
+ "median_channel_median": 2677,
+ "top": [
+  {
+   "views": 2405706,
+   "title": "Jesus Quiz ✝️ | 7 Bible Questions About Jesus You Should Know #quiz #unfrezzmyaccount #shorts",
+   "channel": "CoolCert Quiz",
+   "ch": "UC7vd7Tp_hBTE5F1dQrsWL_Q",
+   "url": "https://youtube.com/shorts/oxQDILT0RQA",
+   "age_d": 40
+  },
+  {
+   "views": 998878,
+   "title": "Don't Say The SAME WORD As Me 😇 #shorts",
+   "channel": "Quizzes Era",
+   "ch": "UCKeW_qMrxRhBBo2MGZ0snqw",
+   "url": "https://youtube.com/shorts/zIB47ZClCfY",
+   "age_d": 52
+  },
+  {
+   "views": 872410,
+   "title": "🐯 Can you guess these 10 animals?",
+   "channel": "QUIZ NEST",
+   "ch": "UCzZ-5Eryx40VQbyiignYShQ",
+   "url": "https://youtube.com/shorts/z9UuWFmke2c",
+   "age_d": 8
+  },
+  {
+   "views": 723351,
+   "title": "It's really hot—choose a mini drink to cool off!😏 #curiosity #facts #quiz",
+   "channel": "Speed ​​trivia",
+   "ch": "UCZReWzRFjlOCKxaSOE01ilw",
+   "url": "https://youtube.com/shorts/Tv6e55DHd4M",
+   "age_d": 30
+  },
+  {
+   "views": 721213,
+   "title": "Guess the basic countries name by missing letters quiz",
+   "channel": "Quizzes Era",
+   "ch": "UCKeW_qMrxRhBBo2MGZ0snqw",
+   "url": "https://youtube.com/shorts/b4CfHnrMGq4",
+   "age_d": 56
+  },
+  {
+   "views": 718821,
+   "title": "Which of these unique beds would you want in your bedroom?🛏️😏 #curiosity #quiz #facts",
+   "channel": "Speed ​​trivia",
+   "ch": "UCZReWzRFjlOCKxaSOE01ilw",
+   "url": "https://youtube.com/shorts/WiU7t7T27qE",
+   "age_d": 25
+  },
+  {
+   "views": 712616,
+   "title": "Which of these squishies would make you more popular at school?🤔 #curiosity #quiz",
+   "channel": "Speed ​​trivia",
+   "ch": "UCZReWzRFjlOCKxaSOE01ilw",
+   "url": "https://youtube.com/shorts/fF_1gWR4ekg",
+   "age_d": 8
+  },
+  {
+   "views": 702833,
+   "title": "Can You Guess All 10 Countries by Their Flags? 🌍🚩 #shorts #trivia #quiz #flag #geography",
+   "channel": "Quizzes Era",
+   "ch": "UCKeW_qMrxRhBBo2MGZ0snqw",
+   "url": "https://youtube.com/shorts/5n-0PpoJB9k",
+   "age_d": 45
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UC7vd7Tp_hBTE5F1dQrsWL_Q",
+   "title": "CoolCert Quiz",
+   "created": "2026-04-17",
+   "subs": 52500,
+   "shorts_aged": 40,
+   "max": 2405706
+  },
+  {
+   "ch": "UC6Kb5Md2S4Csvm5BGXpsObw",
+   "title": "Fox Paradox",
+   "created": "2026-03-11",
+   "subs": 28,
+   "shorts_aged": 39,
+   "max": 1732
+  },
+  {
+   "ch": "UCIhnkp3h2jXjYFCankEUThw",
+   "title": "BABA VFX",
+   "created": "2026-09-24",
+   "subs": 55,
+   "shorts_aged": 11,
+   "max": 11721
+  },
+  {
+   "ch": "UCTrKIW_rJnxFgLgp6Etruig",
+   "title": "GuesslyTV ",
+   "created": "2025-12-21",
+   "subs": 4050,
+   "shorts_aged": 43,
+   "max": 416104
+  },
+  {
+   "ch": "UCJvVtRY2NuWcWuPzr-IIXqg",
+   "title": "Spawned Wrong",
+   "created": "2025-11-24",
+   "subs": 744,
+   "shorts_aged": 22,
+   "max": 41751
+  },
+  {
+   "ch": "UCNmA3R4ij_v1KuAU5OoUwwQ",
+   "title": "Brain Tease",
+   "created": "2026-10-11",
+   "subs": 3040,
+   "shorts_aged": 15,
+   "max": 25277
+  },
+  {
+   "ch": "UCmrqSDbVzMAigpsoyG1ad0g",
+   "title": "KRY SGT GMSAT",
+   "created": "2026-09-30",
+   "subs": 1750,
+   "shorts_aged": 9,
+   "max": 34422
+  },
+  {
+   "ch": "UCBDkZdofZ9MCdRwgM8mRRlg",
+   "title": "Frxx",
+   "created": "2025-11-02",
+   "subs": 23400,
+   "shorts_aged": 44,
+   "max": 643074
+  },
+  {
+   "ch": "UCD3FS1RFwHryYbJYLYw5yXA",
+   "title": "LoopNova 3D\n\n",
+   "created": "2026-10-20",
+   "subs": 16,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCy_9K8vJ1s-jzaV0QRXv6sA",
+   "title": "Trapdoor Trivia ",
+   "created": "2026-10-09",
+   "subs": 45,
+   "shorts_aged": 14,
+   "max": 1361
+  },
+  {
+   "ch": "UCfqVf0K7Kv-kMmlXX4ca7sA",
+   "title": "The Daily Quizwich",
+   "created": "2026-10-17",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCRbXml7IzZCoGl1ahnxyaNw",
+   "title": "RiddleRush",
+   "created": "2026-10-17",
+   "subs": 0,
+   "shorts_aged": 4,
+   "max": 25
+  },
+  {
+   "ch": "UCYnXbJlA17MZ263Bynh9UFw",
+   "title": "LifeAt3am",
+   "created": "2026-08-08",
+   "subs": 1,
+   "shorts_aged": 39,
+   "max": 1147
+  },
+  {
+   "ch": "UCHgutW5UVrNeJIeZ_xHb8uA",
+   "title": "Beatrix",
+   "created": "2026-09-16",
+   "subs": 359,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCUS8J124L2izsQgY2hCqAQw",
+   "title": "Math Jenius ",
+   "created": "2026-10-22",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC4qfy1DvIipoOsTuy2CGQlg",
+   "title": "Quiz Universe",
+   "created": "2026-07-22",
+   "subs": 8350,
+   "shorts_aged": 36,
+   "max": 264314
+  },
+  {
+   "ch": "UCyr3i2zZoJGQgGvsnRwahFw",
+   "title": "Wow Kiddo",
+   "created": "2026-08-28",
+   "subs": 229,
+   "shorts_aged": 37,
+   "max": 9481
+  },
+  {
+   "ch": "UCKeW_qMrxRhBBo2MGZ0snqw",
+   "title": "Quizzes Era",
+   "created": "2026-05-03",
+   "subs": 334000,
+   "shorts_aged": 49,
+   "max": 998878
+  },
+  {
+   "ch": "UCnQwbM0JwK0vSyrvuJTxitg",
+   "title": "CrossOverBros",
+   "created": "2026-06-10",
+   "subs": 109000,
+   "shorts_aged": 30,
+   "max": 605846
+  },
+  {
+   "ch": "UCB-HN3wTFsOeRRmatxNCkvg",
+   "title": "LETTER QUEST ",
+   "created": "2026-10-19",
+   "subs": 30,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCZReWzRFjlOCKxaSOE01ilw",
+   "title": "Speed ​​trivia",
+   "created": "2026-03-16",
+   "subs": 490000,
+   "shorts_aged": 44,
+   "max": 723351
+  },
+  {
+   "ch": "UCzZ-5Eryx40VQbyiignYShQ",
+   "title": "QUIZ NEST",
+   "created": "2026-10-15",
+   "subs": 32500,
+   "shorts_aged": 6,
+   "max": 872410
+  },
+  {
+   "ch": "UCXSKQOyL1IQEfqhVc6mFh-Q",
+   "title": "Mr Right One",
+   "created": "2026-10-10",
+   "subs": 3420,
+   "shorts_aged": 12,
+   "max": 15549
+  },
+  {
+   "ch": "UCYA-2qkAh2WduUxnSJ3Gmxw",
+   "title": "Y King ",
+   "created": "2026-03-31",
+   "subs": 1890,
+   "shorts_aged": 22,
+   "max": 293775
+  },
+  {
+   "ch": "UC1Jihs5UYcR-ES0cjmFbaKA",
+   "title": "Official Iffu",
+   "created": "2026-07-16",
+   "subs": 1750,
+   "shorts_aged": 33,
+   "max": 18812
+  },
+  {
+   "ch": "UCVhUxb1sHQ2B6qkQDF1_ygQ",
+   "title": "QuizCat",
+   "created": "2026-08-19",
+   "subs": 34800,
+   "shorts_aged": 18,
+   "max": 149997
+  },
+  {
+   "ch": "UCmaiQJZEIGEaG04qdFAc9ow",
+   "title": "CurioVault",
+   "created": "2026-08-03",
+   "subs": 164,
+   "shorts_aged": 45,
+   "max": 7403
+  },
+  {
+   "ch": "UCuQD2bWxVMPwIVZt56U1AoA",
+   "title": "PapABlackAnWhiTe",
+   "created": "2026-09-12",
+   "subs": 11500,
+   "shorts_aged": 29,
+   "max": 26871
+  },
+  {
+   "ch": "UClR671PAGkLCYzIs6L4em_g",
+   "title": "MB World Hub",
+   "created": "2026-04-01",
+   "subs": 4330,
+   "shorts_aged": 44,
+   "max": 10537
+  },
+  {
+   "ch": "UC8ircyxig8tz4bOqhdoNw2A",
+   "title": "Akash gamer 67",
+   "created": "2026-02-17",
+   "subs": 579,
+   "shorts_aged": 13,
+   "max": 6728
+  },
+  {
+   "ch": "UCjxbelKVdsxJ-Vxt4vngQgg",
+   "title": "Wisezone",
+   "created": "2026-09-21",
+   "subs": 36,
+   "shorts_aged": 36,
+   "max": 5247
+  },
+  {
+   "ch": "UC5YsuUZHGcoIalw3PEV39uA",
+   "title": "Quiz Bunny",
+   "created": "2025-12-24",
+   "subs": 37400,
+   "shorts_aged": 10,
+   "max": 35678
+  },
+  {
+   "ch": "UCbVLdoDyoh1BOtDkCsgs4PQ",
+   "title": "Think N Find",
+   "created": "2026-09-19",
+   "subs": 8,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCCEXYQxmfZrzDAVtkL86_lw",
+   "title": "QuizStrong",
+   "created": "2026-08-29",
+   "subs": 1140,
+   "shorts_aged": 18,
+   "max": 12623
+  },
+  {
+   "ch": "UC3ZU3-_Po7OgB6GJEDhgyBw",
+   "title": "The Brain Challenge ",
+   "created": "2026-06-30",
+   "subs": 4,
+   "shorts_aged": 2,
+   "max": 1373
+  },
+  {
+   "ch": "UCGCsKo9Nfl3qC-vTG-ggRWw",
+   "title": "Logic Riddles",
+   "created": "2026-10-08",
+   "subs": 21,
+   "shorts_aged": 1,
+   "max": 1099
+  },
+  {
+   "ch": "UCVQr3xctXV2Do5n8wKeuY6Q",
+   "title": "Would you? Pick Question ",
+   "created": "2026-10-05",
+   "subs": 109,
+   "shorts_aged": 3,
+   "max": 2812
+  },
+  {
+   "ch": "UCkxB6MzrI0nDbzb6SWFAKJA",
+   "title": "Puzzix 🧩",
+   "created": "2026-10-14",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCsOtKAaqov3H0Pw-mhtHydQ",
+   "title": "StickYan",
+   "created": "2026-08-19",
+   "subs": 1440,
+   "shorts_aged": 44,
+   "max": 52437
+  },
+  {
+   "ch": "UCWrhLUEZ3m19gqp9YOU8APA",
+   "title": "Quizz",
+   "created": "2026-10-20",
+   "subs": 41,
+   "shorts_aged": 0,
+   "max": 0
+  }
+ ]
+}

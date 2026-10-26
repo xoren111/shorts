@@ -1,0 +1,80 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "2jh6iWv8MEafNs7DIw5XruRu5Jo",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#channel",
+   "etag": "8gh7MhX3a3fRsqVGToESqynmfVA",
+   "id": "UC-RPPsO5Z_GwO8D4d6-pQJw",
+   "snippet": {
+    "title": "ATLAS APE",
+    "description": "",
+    "customUrl": "@atlasape-s",
+    "publishedAt": "2026-10-16T21:08:07.889076Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/_M3YrC7YT-jiZmXBYuwPMO_GvHst2WrNK-rdU2hBfTeuY9j0TuutQGzhSYKOPZsRsuJpUkRq15Q=s88-c-k-c0x00ffffff-no-rj",
+      "width": 88,
+      "height": 88
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/_M3YrC7YT-jiZmXBYuwPMO_GvHst2WrNK-rdU2hBfTeuY9j0TuutQGzhSYKOPZsRsuJpUkRq15Q=s240-c-k-c0x00ffffff-no-rj",
+      "width": 240,
+      "height": 240
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/_M3YrC7YT-jiZmXBYuwPMO_GvHst2WrNK-rdU2hBfTeuY9j0TuutQGzhSYKOPZsRsuJpUkRq15Q=s800-c-k-c0x00ffffff-no-rj",
+      "width": 800,
+      "height": 800
+     }
+    },
+    "localized": {
+     "title": "ATLAS APE",
+     "description": ""
+    },
+    "country": "US"
+   },
+   "contentDetails": {
+    "relatedPlaylists": {
+     "likes": "LL",
+     "uploads": "UU-RPPsO5Z_GwO8D4d6-pQJw"
+    }
+   },
+   "statistics": {
+    "viewCount": "5239",
+    "subscriberCount": "4",
+    "hiddenSubscriberCount": false,
+    "videoCount": "6"
+   },
+   "topicDetails": {
+    "topicIds": [
+     "/m/01k8wb"
+    ],
+    "topicCategories": [
+     "https://en.wikipedia.org/wiki/Knowledge"
+    ]
+   },
+   "status": {
+    "privacyStatus": "public",
+    "isLinked": true,
+    "longUploadsStatus": "allowed",
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false,
+    "isChannelMonetizationEnabled": false
+   },
+   "brandingSettings": {
+    "channel": {
+     "title": "ATLAS APE",
+     "country": "US"
+    },
+    "image": {
+     "bannerExternalUrl": "https://yt3.googleusercontent.com/nYwA8ecMFib10kXgY_06E4lYPzGwXQIJFcHB9qpkLcBgdj0yNyhhWHRTyePidCHxZpcUriUluw"
+    }
+   }
+  }
+ ]
+}

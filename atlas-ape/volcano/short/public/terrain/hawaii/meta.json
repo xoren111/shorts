@@ -1,0 +1,31 @@
+{
+ "region": "hawaii",
+ "bbox": {
+  "s": 18.88,
+  "n": 20.3,
+  "w": -156.1,
+  "e": -154.78
+ },
+ "nx": 897,
+ "ny": 1024,
+ "width_m": 138436.2,
+ "height_m": 158078.7,
+ "h_min": -5529.55322265625,
+ "h_max": 4193.44970703125,
+ "dem_zoom": 11,
+ "sat_zoom": 12,
+ "sat_size": [
+  3587,
+  4096
+ ],
+ "mercator": {
+  "x0": 0.0663888888888889,
+  "y0": 0.44239293439322197,
+  "x1": 0.07005555555555555,
+  "y1": 0.4465798615153742
+ },
+ "credits": [
+  "Elevation: AWS Terrain Tiles (Mapzen terrarium; SRTM, GMTED, ETOPO1, ArcticDEM et al.)",
+  "Imagery: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0"
+ ]
+}

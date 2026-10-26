@@ -1,0 +1,62 @@
+{
+ "us_coat": [
+  0,
+  0
+ ],
+ "us_trouser": [
+  1,
+  0
+ ],
+ "uk_coat": [
+  2,
+  0
+ ],
+ "uk_trouser": [
+  3,
+  0
+ ],
+ "gold": [
+  4,
+  0
+ ],
+ "farmer_shirt": [
+  5,
+  0
+ ],
+ "farmer_trouser": [
+  6,
+  0
+ ],
+ "tweed": [
+  7,
+  0
+ ],
+ "tweed_trouser": [
+  1,
+  1
+ ],
+ "gov_coat": [
+  2,
+  1
+ ],
+ "gov_trouser": [
+  3,
+  1
+ ],
+ "admiral_coat": [
+  4,
+  1
+ ],
+ "kaiser_coat": [
+  5,
+  1
+ ],
+ "boot": [
+  6,
+  1
+ ],
+ "shirt_white": [
+  7,
+  1
+ ]
+}

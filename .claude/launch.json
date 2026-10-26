@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "auto-technik-studio",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd auto-technik && npx remotion studio --port 3123 --no-open"
+      ],
+      "port": 3123
+    },
+    {
+      "name": "atlas-viewer",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd orangutan && npx vite --port 5173 --strictPort"
+      ],
+      "port": 5173
+    }
+  ]
+}

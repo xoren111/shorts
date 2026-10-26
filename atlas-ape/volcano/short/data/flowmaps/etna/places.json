@@ -1,0 +1,1104 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-17T21:46:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 67254399,
+  "lat": 37.7224446,
+  "lon": 15.1157393,
+  "tags": {
+    "name": "Milo",
+    "name:it": "Milo",
+    "name:scn": "Milu",
+    "place": "village",
+    "population": "1021",
+    "source:population": "Istat febbraio 2024"
+  }
+},
+{
+  "type": "node",
+  "id": 67254443,
+  "lat": 37.7415805,
+  "lon": 15.1429052,
+  "tags": {
+    "name": "Sant'Alfio",
+    "name:it": "Sant'Alfio",
+    "name:scn": "Sant'Arfiu a Vara",
+    "place": "village",
+    "population": "1512",
+    "source:population": "Istat febbraio 2024"
+  }
+},
+{
+  "type": "node",
+  "id": 67254743,
+  "lat": 37.6889713,
+  "lon": 15.1426605,
+  "tags": {
+    "name": "Santa Venerina",
+    "name:it": "Santa Venerina",
+    "name:scn": "Santa Vinirina",
+    "place": "village",
+    "population": "8414",
+    "source:population": "Istat febbraio 2024"
+  }
+},
+{
+  "type": "node",
+  "id": 67254874,
+  "lat": 37.6932846,
+  "lon": 15.1064599,
+  "tags": {
+    "name": "Zafferana Etnea",
+    "name:it": "Zafferana Etnea",
+    "name:scn": "Zafarana",
+    "place": "village",
+    "population": "9392",
+    "source:population": "Istat febbraio 2024"
+  }
+},
+{
+  "type": "node",
+  "id": 418509818,
+  "lat": 37.7247926,
+  "lon": 15.0456404,
+  "tags": {
+    "name": "Valle del Bove",
+    "place": "locality",
+    "wikidata": "Q2509296",
+    "wikipedia": "it:Valle del Bove"
+  }
+},
+{
+  "type": "node",
+  "id": 472805147,
+  "lat": 37.7346677,
+  "lon": 15.1597673,
+  "tags": {
+    "name": "San Giovanni Montebello",
+    "place": "village",
+    "population": "1597",
+    "source:population": "Istat 2021",
+    "wikidata": "Q2559022",
+    "wikipedia": "it:San Giovanni Montebello"
+  }
+},
+{
+  "type": "node",
+  "id": 576014141,
+  "lat": 37.6647222,
+  "lon": 15.1103046,
+  "tags": {
+    "name": "Pisano",
+    "place": "village",
+    "population": "305",
+    "wikidata": "Q1884046",
+    "wikipedia": "it:Pisano Etneo"
+  }
+},
+{
+  "type": "node",
+  "id": 663314309,
+  "lat": 37.7200877,
+  "lon": 15.0727554,
+  "tags": {
+    "ele": "1325",
+    "name": "Monte Calanna",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 683055876,
+  "lat": 37.6900986,
+  "lon": 15.0632205,
+  "tags": {
+    "ele": "1284",
+    "name": "Monte Arcimis",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 685117564,
+  "lat": 37.7430429,
+  "lon": 15.0612956,
+  "tags": {
+    "name": "Trifoglietto I",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 685149286,
+  "lat": 37.7113045,
+  "lon": 15.0194636,
+  "tags": {
+    "name": "Schiena dell'Asino",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 685149289,
+  "lat": 37.7411975,
+  "lon": 15.0147866,
+  "tags": {
+    "name": "Serra Giannicola Piccola",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 685149290,
+  "lat": 37.7138857,
+  "lon": 15.0470224,
+  "tags": {
+    "name": "Piano del Trifoglietto",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 700881343,
+  "lat": 37.7307632,
+  "lon": 15.1058108,
+  "tags": {
+    "ele": "850",
+    "istat_id": "2147483647",
+    "name": "Contrada Zappino",
+    "place": "hamlet",
+    "population": "26",
+    "source:population": "Istat 2021",
+    "wikidata": "Q18461262"
+  }
+},
+{
+  "type": "node",
+  "id": 700881345,
+  "lat": 37.7362976,
+  "lon": 15.1129861,
+  "tags": {
+    "ele": "824",
+    "istat_id": "2147483647",
+    "name": "Fornazzo",
+    "place": "hamlet",
+    "population": "124",
+    "source:population": "Istat 2021",
+    "wikidata": "Q2267006",
+    "wikipedia": "it:Fornazzo"
+  }
+},
+{
+  "type": "node",
+  "id": 700881347,
+  "lat": 37.7309239,
+  "lon": 15.1269612,
+  "tags": {
+    "ele": "650",
+    "istat_id": "2147483647",
+    "name": "Praino",
+    "place": "hamlet",
+    "population": "91",
+    "source:population": "Istat 2021",
+    "wikidata": "Q18461529"
+  }
+},
+{
+  "type": "node",
+  "id": 700881350,
+  "lat": 37.7354422,
+  "lon": 15.1482939,
+  "tags": {
+    "ele": "394",
+    "istat_id": "2147483647",
+    "name": "Paoli",
+    "place": "hamlet",
+    "population": "62",
+    "source:population": "Istat 2021",
+    "wikidata": "Q18461457"
+  }
+},
+{
+  "type": "node",
+  "id": 922473920,
+  "lat": 37.6712640,
+  "lon": 15.0819799,
+  "tags": {
+    "name": "Cavotta",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 922473922,
+  "lat": 37.6822760,
+  "lon": 15.0538416,
+  "tags": {
+    "description": "Sciammaro o Scamaro in dialetto locale è un piccolo corso d'acqua che scorre su letto in pietra, generalmente levigata proprio dall'acqua. che costituisce una preziosa fonte d'acqua in quanto il campi lavici essendo porosi non trattengono l'acqua",
+    "name": "Sciammarolupo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 922473962,
+  "lat": 37.6705510,
+  "lon": 15.0637888,
+  "tags": {
+    "name": "Contrada Cicirello",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1211243134,
+  "lat": 37.6660802,
+  "lon": 15.0980186,
+  "tags": {
+    "name": "Poggiofelice",
+    "old_name": "Malopasso",
+    "place": "village",
+    "population": "571"
+  }
+},
+{
+  "type": "node",
+  "id": 1284865072,
+  "lat": 37.7387100,
+  "lon": 15.0842735,
+  "tags": {
+    "ele": "1279.1",
+    "name": "Monte Fontane",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 1545826946,
+  "lat": 37.7588214,
+  "lon": 15.0159547,
+  "tags": {
+    "name": "Valle del Leone",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 1599285648,
+  "lat": 37.6779578,
+  "lon": 15.1028007,
+  "tags": {
+    "name": "Sarro",
+    "place": "village",
+    "population": "713"
+  }
+},
+{
+  "type": "node",
+  "id": 2020172869,
+  "lat": 37.7144604,
+  "lon": 15.0563912,
+  "tags": {
+    "ele": "1739",
+    "name": "Monte Zoccolaro",
+    "natural": "peak",
+    "tourism": "viewpoint",
+    "wikidata": "Q3862136",
+    "wikipedia": "it:Monte Zoccolaro"
+  }
+},
+{
+  "type": "node",
+  "id": 2055712131,
+  "lat": 37.7371120,
+  "lon": 15.0876008,
+  "tags": {
+    "ele": "1191.9",
+    "name": "Monte Caliatu",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 2255425178,
+  "lat": 37.7565556,
+  "lon": 15.0433680,
+  "tags": {
+    "name": "Serra delle Concazze",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2255459908,
+  "lat": 37.7218024,
+  "lon": 15.0721553,
+  "tags": {
+    "name": "Porta di Calanna",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 2255459919,
+  "lat": 37.7166169,
+  "lon": 15.0675568,
+  "tags": {
+    "name": "Salto della Giumenta",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3393994314,
+  "lat": 37.7019353,
+  "lon": 15.0277302,
+  "tags": {
+    "ele": "1834",
+    "name": "Monte Solfizio",
+    "natural": "peak",
+    "note": "550+-50 A.D."
+  }
+},
+{
+  "type": "node",
+  "id": 3542675838,
+  "lat": 37.7378271,
+  "lon": 15.0010710,
+  "tags": {
+    "ele": "2920",
+    "name": "Torre del Filosofo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3914938589,
+  "lat": 37.7308415,
+  "lon": 15.0836404,
+  "tags": {
+    "name": "Piano Bello",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4138863052,
+  "lat": 37.7129071,
+  "lon": 15.0565292,
+  "tags": {
+    "ele": "1715",
+    "name": "Monte Pomiciaro",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 4340518438,
+  "lat": 37.7006544,
+  "lon": 15.0563287,
+  "tags": {
+    "name": "Monte Monaco",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 4340727655,
+  "lat": 37.7280893,
+  "lon": 15.0055118,
+  "tags": {
+    "name": "Piano del Lago",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4439318760,
+  "lat": 37.7093695,
+  "lon": 15.0802364,
+  "tags": {
+    "ele": "1176.3",
+    "name": "Monte Fior di Cosimo",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 4439321520,
+  "lat": 37.7094446,
+  "lon": 15.0781313,
+  "tags": {
+    "name": "Monte Tondo",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 4439330535,
+  "lat": 37.6819740,
+  "lon": 15.0573142,
+  "tags": {
+    "description": "Paesaggio particolare dell'Etna costituito  dall'accumularsi di sabbia vulcanica (dial. 'rina'), causa la conformazione morfologica locale ",
+    "name": "Rinaturi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4468064926,
+  "lat": 37.6611852,
+  "lon": 15.0695289,
+  "tags": {
+    "name": "Contrada Tito",
+    "old_name": "Fossa Tito",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4498930850,
+  "lat": 37.6809461,
+  "lon": 15.0743243,
+  "tags": {
+    "name": "Contrada Piricoco",
+    "natural": "peak",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4499154396,
+  "lat": 37.6845379,
+  "lon": 15.0727901,
+  "tags": {
+    "name": "Ilice Grande",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4501023953,
+  "lat": 37.7019224,
+  "lon": 15.0160166,
+  "tags": {
+    "name": "Demanio Forestale 'Schiena dell'Asino'",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4501025903,
+  "lat": 37.6969864,
+  "lon": 15.0220689,
+  "tags": {
+    "name": "Demanio Forestale 'Case del Vescovo'",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4503090949,
+  "lat": 37.6817700,
+  "lon": 15.0947409,
+  "tags": {
+    "name": "Sparavita",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4503090950,
+  "lat": 37.6789810,
+  "lon": 15.0900473,
+  "tags": {
+    "name": "Cisternazza",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4503090951,
+  "lat": 37.6858481,
+  "lon": 15.0870076,
+  "tags": {
+    "name": "Tornante Fiorino",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4524257992,
+  "lat": 37.6998096,
+  "lon": 15.0512512,
+  "tags": {
+    "name": "Piano del Vescovo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4525804182,
+  "lat": 37.7140160,
+  "lon": 15.0777740,
+  "tags": {
+    "name": "Val Calanna",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4530054182,
+  "lat": 37.6800121,
+  "lon": 15.0241444,
+  "tags": {
+    "name": "Demanio Forestale 'Dagalotti Cervi'",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4544649696,
+  "lat": 37.6869445,
+  "lon": 15.0769825,
+  "tags": {
+    "name": "Mannira Ciappa",
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 4544895216,
+  "lat": 37.6989596,
+  "lon": 15.0708121,
+  "tags": {
+    "name": "Contrada Razzara",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4589289859,
+  "lat": 37.6754007,
+  "lon": 15.0737463,
+  "tags": {
+    "name": "Monte Perrillo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4590386025,
+  "lat": 37.6715625,
+  "lon": 15.0860468,
+  "tags": {
+    "name": "Villaggio Lilliput",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4592156580,
+  "lat": 37.7135637,
+  "lon": 15.1149749,
+  "tags": {
+    "name": "Bosco Barone",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4592861401,
+  "lat": 37.7204142,
+  "lon": 15.0122653,
+  "tags": {
+    "name": "Serra Cuvigghiuni",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4592861402,
+  "lat": 37.7120229,
+  "lon": 15.0264390,
+  "tags": {
+    "name": "Serra dell'Acqua",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4592912124,
+  "lat": 37.7140877,
+  "lon": 15.0215080,
+  "tags": {
+    "name": "Serra Pirciata",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4594565504,
+  "lat": 37.7164786,
+  "lon": 15.0148890,
+  "tags": {
+    "name": "Canalone della Montagnola",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4594565505,
+  "lat": 37.7116685,
+  "lon": 15.0119926,
+  "tags": {
+    "name": "Rocca Sabbiosa",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4594565506,
+  "lat": 37.7160960,
+  "lon": 15.0171747,
+  "tags": {
+    "name": "Serra Vavalaci",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4594574381,
+  "lat": 37.7104481,
+  "lon": 15.0409024,
+  "tags": {
+    "name": "Canalone dei Faggi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4622352307,
+  "lat": 37.6752850,
+  "lon": 15.0547723,
+  "tags": {
+    "name": "Pizzillo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4622352308,
+  "lat": 37.6708642,
+  "lon": 15.0590127,
+  "tags": {
+    "name": "Cisterna Praino",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4622352309,
+  "lat": 37.6640087,
+  "lon": 15.0593276,
+  "tags": {
+    "name": "Contrada Cava Grande",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4622354984,
+  "lat": 37.6759711,
+  "lon": 15.0629588,
+  "tags": {
+    "name": "Filicirussa",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4623389291,
+  "lat": 37.6641939,
+  "lon": 15.0674964,
+  "tags": {
+    "name": "Contrada Pila",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4625456923,
+  "lat": 37.6607482,
+  "lon": 15.0768296,
+  "tags": {
+    "name": "Carpene",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4647854226,
+  "lat": 37.7140202,
+  "lon": 15.0627487,
+  "tags": {
+    "name": "Acqua Grande",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4671681268,
+  "lat": 37.7124351,
+  "lon": 15.0933421,
+  "tags": {
+    "name": "Cezza o' vento",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4671688819,
+  "lat": 37.7014753,
+  "lon": 15.0974218,
+  "tags": {
+    "description": "Zerbate era un appellativo del catasto borbonico che significa 'conservata', ed è un toponimo che si incontra anche in altri luoghi",
+    "name": "Zerbate",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4671689365,
+  "lat": 37.7071143,
+  "lon": 15.0962364,
+  "tags": {
+    "name": "Palazzo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4690075613,
+  "lat": 37.7049683,
+  "lon": 15.1035607,
+  "tags": {
+    "name": "Case Licciardello",
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 4698707003,
+  "lat": 37.7011133,
+  "lon": 15.1045446,
+  "tags": {
+    "name": "Finaita",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4716622762,
+  "lat": 37.7392478,
+  "lon": 15.0901413,
+  "tags": {
+    "description": "E' il dirupo che forma il versante sud di Monte Fontana",
+    "name": "Timpa Modda",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4716626876,
+  "lat": 37.7257844,
+  "lon": 15.0936658,
+  "tags": {
+    "name": "Piano Culmi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4718063844,
+  "lat": 37.7260658,
+  "lon": 15.1049347,
+  "tags": {
+    "name": "Alaci",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4722411288,
+  "lat": 37.7327852,
+  "lon": 15.1105289,
+  "tags": {
+    "name": "Scarbaglio",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4729484523,
+  "lat": 37.7151643,
+  "lon": 15.0013195,
+  "tags": {
+    "name": "Canalone degli Svizzeri",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4733464007,
+  "lat": 37.7262688,
+  "lon": 15.1097455,
+  "tags": {
+    "name": "Fornace",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4749704278,
+  "lat": 37.6755326,
+  "lon": 15.1208563,
+  "tags": {
+    "name": "Passopomo",
+    "place": "hamlet",
+    "population": "228",
+    "source:population": "Istat 2021"
+  }
+},
+{
+  "type": "node",
+  "id": 4759423241,
+  "lat": 37.7390333,
+  "lon": 15.1053812,
+  "tags": {
+    "name": "Malacasacca",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4759960474,
+  "lat": 37.7497544,
+  "lon": 15.0931177,
+  "tags": {
+    "name": "Pian dei Tartari",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4771301538,
+  "lat": 37.7563072,
+  "lon": 15.1008987,
+  "tags": {
+    "name": "Cerasella",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4771909877,
+  "lat": 37.7140137,
+  "lon": 15.1395692,
+  "tags": {
+    "name": "Miscarello",
+    "place": "hamlet",
+    "population": "2",
+    "source:population": "Istat 2021",
+    "wikidata": "Q2300120",
+    "wikipedia": "it:Miscarello"
+  }
+},
+{
+  "type": "node",
+  "id": 4773316456,
+  "lat": 37.7052691,
+  "lon": 15.1175027,
+  "tags": {
+    "name": "Petrulli",
+    "place": "hamlet",
+    "population": "129",
+    "wikidata": "Q2279292",
+    "wikipedia": "it:Petrulli"
+  }
+},
+{
+  "type": "node",
+  "id": 4776919688,
+  "lat": 37.7591843,
+  "lon": 15.1054645,
+  "tags": {
+    "name": "Contrada Magazzeni",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4785568460,
+  "lat": 37.7572888,
+  "lon": 15.0685030,
+  "tags": {
+    "description": "la 'tacca' è un posto dove si accumula la neve",
+    "name": "Tacca Lepre",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4811714801,
+  "lat": 37.7260704,
+  "lon": 15.1491694,
+  "tags": {
+    "name": "Sciara",
+    "place": "suburb",
+    "population": "402",
+    "wikidata": "Q2656641"
+  }
+},
+{
+  "type": "node",
+  "id": 4826113129,
+  "lat": 37.7545913,
+  "lon": 15.1310840,
+  "tags": {
+    "name": "Taverna",
+    "place": "isolated_dwelling"
+  }
+},
+{
+  "type": "node",
+  "id": 4826113130,
+  "lat": 37.7439390,
+  "lon": 15.1251068,
+  "tags": {
+    "name": "Fossa Politi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4949734786,
+  "lat": 37.7097537,
+  "lon": 15.0446302,
+  "tags": {
+    "name": "Serra del Salifizio",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 5041399854,
+  "lat": 37.7545995,
+  "lon": 15.0597024,
+  "tags": {
+    "name": "Contrada Serracozzo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 8894804658,
+  "lat": 37.7117582,
+  "lon": 15.0967276,
+  "tags": {
+    "name": "Contrada Algerazzi",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 8895314328,
+  "lat": 37.7002566,
+  "lon": 15.0986480,
+  "tags": {
+    "name": "Piano dell'Acqua",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 9041151571,
+  "lat": 37.7509349,
+  "lon": 15.0506258,
+  "tags": {
+    "name": "Serracozzo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14232265895,
+  "lat": 37.6919266,
+  "lon": 15.0250865,
+  "tags": {
+    "description": "E' grande cratere non datato in quanto molto antico. Il toponimo Serra Pizzuta trae origine dalla sua forma, mentre l'orgine del termine Calvarina non è nota.",
+    "ele": "1702.2",
+    "name": "Monte Serra Pizzuta Calvarina",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 14258878656,
+  "lat": 37.7043003,
+  "lon": 15.0382634,
+  "tags": {
+    "name": "Vallone del Tripodo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14258878657,
+  "lat": 37.6991198,
+  "lon": 15.0209191,
+  "tags": {
+    "name": "Contrada Casa del Vescovo",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14258878658,
+  "lat": 37.7005824,
+  "lon": 15.0371323,
+  "tags": {
+    "name": "Piano della Lepre",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 14258878659,
+  "lat": 37.6939086,
+  "lon": 15.0647909,
+  "tags": {
+    "name": "Monte Stempato",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 14258878660,
+  "lat": 37.7052700,
+  "lon": 15.0676616,
+  "tags": {
+    "name": "Contrada Cassone",
+    "place": "locality"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,671 @@
+[
+ {
+  "t": 0.0,
+  "subtitle": "THIS GIRL",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 0.5,
+  "subtitle": "HER",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 1.0,
+  "subtitle": "HER OWN",
+  "overlays": [
+   "IMISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 1.5,
+  "subtitle": "ON",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 2.0,
+  "subtitle": "ON MILK",
+  "overlays": [
+   "IMISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 2.5,
+  "subtitle": "UNDER",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 3.0,
+  "subtitle": "~SHEL",
+  "overlays": [
+   "SSING / WILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 3.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 4.0,
+  "subtitle": "",
+  "overlays": [
+   "TMISSING= / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 4.5,
+  "subtitle": "",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 5.0,
+  "subtitle": "HOLDING",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": [
+   "DUP «MISSING / CHILD» repeats ['missing']"
+  ]
+ },
+ {
+  "t": 5.5,
+  "subtitle": "HOLDING IT",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 6.0,
+  "subtitle": "CAN",
+  "overlays": [
+   "(MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 6.5,
+  "subtitle": "YOU'RE",
+  "overlays": [
+   "IMISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 7.0,
+  "subtitle": "YOU'RE FAMOUS!™",
+  "overlays": [
+   "IMISSING"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 7.5,
+  "subtitle": "",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 8.0,
+  "subtitle": "",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 8.5,
+  "subtitle": "ЧS THAT ME?\"",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 9.0,
+  "subtitle": "\"HUSH.\"",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 9.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 10.0,
+  "subtitle": "TAKE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 10.5,
+  "subtitle": "FROM",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 11.0,
+  "subtitle": "FROM HER DAD",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 11.5,
+  "subtitle": "WITH HER",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 12.0,
+  "subtitle": "MOM",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 12.5,
+  "subtitle": "YEARS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 13.0,
+  "subtitle": "ON THE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 13.5,
+  "subtitle": "ON THE RUN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 14.0,
+  "subtitle": "LET",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 14.5,
+  "subtitle": "LET OUTSIDE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 15.0,
+  "subtitle": "HE DOESN'T",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 15.5,
+  "subtitle": "HE DOESN'T RUN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 16.0,
+  "subtitle": "HE DOESN'T HIDE",
+  "overlays": [
+   "IMISSING"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": []
+ },
+ {
+  "t": 16.5,
+  "subtitle": "THE CARTON",
+  "overlays": [
+   "MISSING"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": []
+ },
+ {
+  "t": 17.0,
+  "subtitle": "E CARTONI",
+  "overlays": [
+   "[MISSING"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": []
+ },
+ {
+  "t": 17.5,
+  "subtitle": "",
+  "overlays": [
+   "НЕ / BUYSIT.",
+   "MISSING"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": [
+   "CLUTTER «НЕ / BUYSIT.» | «MISSING»"
+  ]
+ },
+ {
+  "t": 18.0,
+  "subtitle": "",
+  "overlays": [
+   "HЕ / BUYS IT.",
+   "MISSING"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": [
+   "CLUTTER «HЕ / BUYS IT.» | «MISSING»"
+  ]
+ },
+ {
+  "t": 18.5,
+  "subtitle": "",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 19.0,
+  "subtitle": "",
+  "overlays": [
+   "DO YOU / WANT TO / MISSING",
+   "KEEP IT?"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": [
+   "CLUTTER «DO YOU / WANT TO / MISSING» | «KEEP IT?»"
+  ]
+ },
+ {
+  "t": 19.5,
+  "subtitle": "",
+  "overlays": [
+   "DO YOU / WANT TO / MISSING",
+   "KЕЕP IT?"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": [
+   "CLUTTER «DO YOU / WANT TO / MISSING» | «KЕЕP IT?»"
+  ]
+ },
+ {
+  "t": 20.0,
+  "subtitle": "",
+  "overlays": [
+   "DO YOU / WANT TO / MISSING",
+   "KEEP IT?"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": [
+   "CLUTTER «DO YOU / WANT TO / MISSING» | «KEEP IT?»"
+  ]
+ },
+ {
+  "t": 20.5,
+  "subtitle": "SHE CUTS OUT",
+  "overlays": [
+   "SIISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 21.0,
+  "subtitle": "HER OWN",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 21.5,
+  "subtitle": "HER OWN FACE",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 22.0,
+  "subtitle": "TOSSES",
+  "overlays": [
+   "(MISSING) / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 22.5,
+  "subtitle": "HER",
+  "overlays": [
+   "WISSING"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": []
+ },
+ {
+  "t": 23.0,
+  "subtitle": "HER BARBIE CASE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 23.5,
+  "subtitle": "LEAVES",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 24.0,
+  "subtitle": "LEAVES THE CASE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 24.5,
+  "subtitle": "NEXT DOOR",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 25.0,
+  "subtitle": "A NEIGHBOR",
+  "overlays": [
+   "MISSING"
+  ],
+  "credits": [
+   "CH"
+  ],
+  "flags": []
+ },
+ {
+  "t": 25.5,
+  "subtitle": "HER",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 26.0,
+  "subtitle": "HER REAL",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 26.5,
+  "subtitle": "HER REAL NAME",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 27.0,
+  "subtitle": "POLICE SHOW",
+  "overlays": [
+   "MISSING"
+  ],
+  "credits": [
+   "CHILD"
+  ],
+  "flags": []
+ },
+ {
+  "t": 27.5,
+  "subtitle": "",
+  "overlays": [
+   "MTSSING"
+  ],
+  "credits": [
+   "CHILD",
+   ":::"
+  ],
+  "flags": []
+ },
+ {
+  "t": 28.0,
+  "subtitle": "OF",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 28.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 29.0,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 29.5,
+  "subtitle": "SHE'S HANDED BACK",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 30.0,
+  "subtitle": "TO A DAD",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 30.5,
+  "subtitle": "SHE DOESN'T",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 31.0,
+  "subtitle": "SHE DOESN'T KNOW",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 31.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 32.0,
+  "subtitle": "ON THAT MILK!",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 32.5,
+  "subtitle": "HER bAD",
+  "overlays": [],
+  "credits": [
+   "MISSING",
+   "MISSING"
+  ],
+  "flags": []
+ },
+ {
+  "t": 33.0,
+  "subtitle": "PUT IT",
+  "overlays": [
+   "MISSING"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 33.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [
+   "MISSING",
+   "MISSING"
+  ],
+  "flags": []
+ },
+ {
+  "t": 34.0,
+  "subtitle": "",
+  "overlays": [
+   "BILLIONS / OF"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 34.5,
+  "subtitle": "",
+  "overlays": [
+   "BILLIONS / OF CARTONS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 35.0,
+  "subtitle": "ALMOST",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 35.5,
+  "subtitle": "BROUGHT",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 36.0,
+  "subtitle": "A KID",
+  "overlays": [],
+  "credits": [
+   "MISSING"
+  ],
+  "flags": []
+ },
+ {
+  "t": 36.5,
+  "subtitle": "A KID HOME",
+  "overlays": [],
+  "credits": [
+   "MISSING"
+  ],
+  "flags": []
+ },
+ {
+  "t": 37.0,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [
+   "MISSIN",
+   "CHILD"
+  ],
+  "flags": []
+ },
+ {
+  "t": 37.5,
+  "subtitle": "ЕXСЕРТ",
+  "overlays": [
+   "MISSING / CHILD"
+  ],
+  "credits": [],
+  "flags": []
+ }
+]

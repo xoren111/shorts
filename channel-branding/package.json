@@ -1,0 +1,9 @@
+{
+  "name": "channel-branding",
+  "private": true,
+  "type": "module",
+  "description": "Avatar + banner for the YouTube channel «Was Wäre Wenn» in the Alter-Atlas style of the Shorts",
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}

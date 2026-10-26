@@ -1,0 +1,315 @@
+{
+ "region": "hawaii_vent",
+ "dem": {
+  "name": "USGS 3DEP 1 m DEM, project HI_Hawaii_Island_Lidar_NOAA_2017_B17 (tiles USGS_1M_5_x23y217, x23y218, x24y217, x24y218)",
+  "provider": "U.S. Geological Survey, 3D Elevation Program (lidar collected for NOAA, 2018-01-30 … 2020-01-06)",
+  "resolution_m": 1.0,
+  "licence": "Public domain (U.S. Government work)",
+  "licence_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "licence_quote": [
+   "\"All 3DEP products are public domain.\" (USGS_1M_5_x23y217_…xml metadata abstract)",
+   "\"USGS-authored or produced data and information are considered to be in the U.S. Public Domain.\" (usgs.gov Copyrights and Credits)",
+   "\"Acknowledgement of the originating agencies would be appreciated in products derived from these data.\" (metadata useconst)"
+  ],
+  "source_urls": [
+   "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/HI_Hawaii_Island_Lidar_NOAA_2017_B17/TIFF/USGS_1M_5_x23y217_HI_Hawaii_Island_Lidar_NOAA_2017_B17.tif",
+   "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/HI_Hawaii_Island_Lidar_NOAA_2017_B17/TIFF/USGS_1M_5_x23y218_HI_Hawaii_Island_Lidar_NOAA_2017_B17.tif",
+   "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/HI_Hawaii_Island_Lidar_NOAA_2017_B17/TIFF/USGS_1M_5_x24y217_HI_Hawaii_Island_Lidar_NOAA_2017_B17.tif",
+   "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/HI_Hawaii_Island_Lidar_NOAA_2017_B17/TIFF/USGS_1M_5_x24y218_HI_Hawaii_Island_Lidar_NOAA_2017_B17.tif",
+   "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/HI_Hawaii_Island_Lidar_NOAA_2017_B17/metadata/USGS_1M_5_x23y217_HI_Hawaii_Island_Lidar_NOAA_2017_B17.xml"
+  ],
+  "vertical_datum": "metadata states NAVD88; lidar − 1/3″ DEM = +0.40 m median (σ 0.40 m) over the vent bbox",
+  "attribution": "Elevation: U.S. Geological Survey, 3D Elevation Program (3DEP) 1 m lidar DEM, HI Hawaii Island Lidar NOAA 2017 (public domain)"
+ },
+ "imagery": {
+  "name": "USDA NAIP 2021 Hawaii (0.6 m, acquired 2022-01-04 … 2023-01-03), 4-band ortho quarter-quads, RGB used",
+  "provider": "U.S. Department of Agriculture, Farm Service Agency / FPAC Aerial Photography Field Office; COGs hosted by Microsoft Planetary Computer; quads missing there taken from the NAIP2021_Hawaii ImageServer (USFS GTAC / GeoPlatform IIPP)",
+  "resolution_m": 0.6,
+  "licence": "Public domain (U.S. Government work)",
+  "licence_url": "https://www.fsa.usda.gov/help/policies-and-links/",
+  "licence_quote": [
+   "\"Most information presented on the FSA Web site is considered public domain information. Public domain information may be freely distributed or copied, but use of appropriate byline/photo/image credits is requested. Attribution may be cited as follows: \\\"U. S. Department of Agriculture, Farm Service Agency.\\\"\" (fsa.usda.gov Policies and Links)",
+   "Planetary Computer STAC collection \"naip\": license link https://www.fsa.usda.gov/help/policies-and-links/ titled \"Public Domain\"; provider \"USDA Farm Service Agency\" roles producer, licensor"
+  ],
+  "source_urls": [
+   "https://planetarycomputer.microsoft.com/api/stac/v1/collections/naip",
+   "https://planetarycomputer.microsoft.com/api/stac/v1/search",
+   "https://naipeuwest.blob.core.windows.net/naip/v002/hi/2021/hi_060cm_2021/19155/ (anonymous SAS token from https://planetarycomputer.microsoft.com/api/sas/v1/token/naipeuwest/naip)",
+   "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2021_Hawaii/ImageServer (exportImage, mosaicRule lockRaster per quad)"
+  ],
+  "attribution": "Imagery: U.S. Department of Agriculture, Farm Service Agency – National Agriculture Imagery Program (NAIP) 2021 (public domain); gaps/cloudy patches: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0"
+ },
+ "notes": "height.bin (1024×1014) = area-average of the 1 m lidar over each cell footprint (rasterio average, mercator node grid; 100 % lidar, no fill needed). normal.png 4096×4058 (1.92 m/px) from the lidar resampled to 0.96 m (bilinear), central-difference normals ×EXAG 2.2, 2×2 box-averaged and renormalised. sat.jpg 8192×8116 (0.96 m/px) from 6 full-resolution NAIP quads (lanczos), each colour-mapped with the same per-quad transform as hawaii_flow plus a 700 m local residual field toward hawaii_flow, outer 192 px feathered into the new hawaii_flow imagery (edge-ring difference 0). No clouds in this area. Known limitation: NAIP frame seamlines inside quads leave a few faint tonal steps (e.g. inside the grey pāhoehoe east of centre). Imagery dates Jan–Apr 2022 = before the Nov 2022 Mauna Loa eruption; lidar 2018–2020. Old files kept as height_v1.bin / sat_v1.jpg. The renderer's uCloud cloud-removal pass is no longer needed for this region (NAIP is cloud-free here); bright grey pāhoehoe could be mistaken for cloud by it. Texture memory: sat 8192×8116 RGBA ≈ 266 MB (+mips) on the GPU; downscale to 6144 if renders run out of memory.",
+ "checks": {
+  "dem": {
+   "height_grid": [
+    1024,
+    1014
+   ],
+   "normal_size": [
+    4096,
+    4058
+   ],
+   "normal_supersample": 2,
+   "normal_ground_m_per_px": 1.92,
+   "dem_ground_m_per_px_used_for_normals": 0.96,
+   "h_min_new": 2168.1181640625,
+   "h_max_new": 3069.534912109375,
+   "h_min_old": 2172.56396484375,
+   "h_max_old": 3074.118896484375,
+   "nan_count": 0,
+   "land_new_minus_old_median_m": -0.79931640625,
+   "land_new_minus_old_rms_m": 3.4141345024108887,
+   "sea_cells_le0": 0,
+   "sea_max_h": null,
+   "cells_from_primary_pct": 100.0,
+   "cells_from_fill_pct": 0.0,
+   "cells_from_old_pct": 0.0,
+   "normal_water_px": 0,
+   "normal_ny_min": 0.06820627836440658
+  },
+  "imagery": {
+   "size": [
+    8192,
+    8116
+   ],
+   "ground_m_per_px": 0.96,
+   "quads_used": 6,
+   "naip_coverage_pct": 100.0,
+   "naip_full_weight_pct": 90.99,
+   "naip_full_weight_land_pct": 90.99,
+   "feather_px": 192,
+   "naip_cloud_masked_pct": 0.0,
+   "mean_rgb_new_vs_eox_noncloud": [
+    [
+     40.099998474121094,
+     32.650001525878906,
+     33.4900016784668
+    ],
+    [
+     39.40999984741211,
+     32.08000183105469,
+     33.0
+    ]
+   ],
+   "std_rgb_new_vs_eox_at_eox_grid": [
+    [
+     21.170000076293945,
+     16.040000915527344,
+     11.220000267028809
+    ],
+    [
+     19.809999465942383,
+     14.640000343322754,
+     10.350000381469727
+    ]
+   ],
+   "cloudlike_px_pct_eox_vs_new": [
+    0.0,
+    0.0
+   ],
+   "jpeg_bytes": 13684984,
+   "edge_ring_mean_abs_diff_to_flow_rgb": 0.0,
+   "interior_32m_mean_abs_diff_to_flow_rgb": 1.59
+  },
+  "height_bin_floats": 1038336,
+  "height_bin_expected": 1038336,
+  "height_finite": true,
+  "normal_png": {
+   "size": [
+    4096,
+    4058
+   ],
+   "mode": "RGB"
+  },
+  "sat_jpg": {
+   "size": [
+    8192,
+    8116
+   ],
+   "mode": "RGB"
+  },
+  "files": {
+   "height.bin": {
+    "bytes": 4153344,
+    "sha256_16": "d51d31bf92d91ee6"
+   },
+   "height_v1.bin": {
+    "bytes": 4153344,
+    "sha256_16": "7f576ad3ffb1c9d2"
+   },
+   "normal.png": {
+    "bytes": 38185921,
+    "sha256_16": "43d111c4825e4d22"
+   },
+   "sat.jpg": {
+    "bytes": 13684984,
+    "sha256_16": "41d3f5de810329b7"
+   },
+   "sat_v1.jpg": {
+    "bytes": 202661,
+    "sha256_16": "199c860e75c3a299"
+   },
+   "lava.png": {
+    "bytes": 183862,
+    "sha256_16": "8a85a546081af083"
+   }
+  },
+  "normal_orientation_test": "corr(normal.png lit from NW, analytic shading of the DEM) = 0.974; with z flipped = 0.328",
+  "imagery_alignment_test": "NAIP road (Mauna Loa Observatory Rd) coincides with the lidar hillshade road cut within ~1–2 px (1 m)",
+  "quads": [
+   {
+    "quad": "m_1915520_se_05_060_20220413_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.847,
+     0.726,
+     0.674
+    ],
+    "offset": [
+     -19.6,
+     -17.7,
+     -20.7
+    ],
+    "how": "flow",
+    "local_gain_p5_p95": [
+     1.053,
+     1.042,
+     1.042,
+     1.143,
+     1.12,
+     1.093
+    ]
+   },
+   {
+    "quad": "m_1915521_sw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.957,
+     1.067,
+     1.133
+    ],
+    "offset": [
+     -12.2,
+     -27.4,
+     -48.1
+    ],
+    "how": "flow",
+    "local_gain_p5_p95": [
+     0.765,
+     0.788,
+     0.868,
+     0.935,
+     0.952,
+     1.002
+    ]
+   },
+   {
+    "quad": "m_1915528_ne_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.776,
+     0.71,
+     0.65
+    ],
+    "offset": [
+     -12.0,
+     -13.7,
+     -16.4
+    ],
+    "how": "flow",
+    "local_gain_p5_p95": [
+     0.992,
+     0.963,
+     0.982,
+     1.058,
+     1.061,
+     1.065
+    ]
+   },
+   {
+    "quad": "m_1915528_se_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.65,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -5.0,
+     -8.8,
+     -12.1
+    ],
+    "how": "flow",
+    "local_gain_p5_p95": [
+     0.987,
+     0.953,
+     0.903,
+     1.098,
+     1.036,
+     0.965
+    ]
+   },
+   {
+    "quad": "m_1915529_nw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.032,
+     1.042,
+     0.988
+    ],
+    "offset": [
+     -16.6,
+     -23.7,
+     -32.9
+    ],
+    "how": "flow",
+    "local_gain_p5_p95": [
+     0.772,
+     0.764,
+     0.816,
+     1.076,
+     1.107,
+     1.122
+    ]
+   },
+   {
+    "quad": "m_1915529_sw_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.91,
+     0.806,
+     0.751
+    ],
+    "offset": [
+     -8.9,
+     -9.6,
+     -15.7
+    ],
+    "how": "flow",
+    "local_gain_p5_p95": [
+     0.926,
+     0.919,
+     0.977,
+     1.029,
+     1.037,
+     1.067
+    ]
+   }
+  ],
+  "nested_grid": {
+   "vent_minus_flow_height_on_vent_edge_m": {
+    "median": 0.36,
+    "p95_abs": 1.94,
+    "max_abs": 4.37
+   }
+  }
+ },
+ "scripts": "built by scratch scripts (dl_dem.py, dl_naip.py, dl_gp2.py, build_dem.py, build_sat.py, make_compare.py) — not part of tools/"
+}

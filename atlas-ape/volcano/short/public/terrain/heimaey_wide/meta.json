@@ -1,0 +1,31 @@
+{
+ "region": "heimaey_wide",
+ "bbox": {
+  "s": 63.2,
+  "n": 63.85,
+  "w": -20.95,
+  "e": -19.4
+ },
+ "nx": 768,
+ "ny": 722,
+ "width_m": 76921.9,
+ "height_m": 72361.2,
+ "h_min": -1081.3045654296875,
+ "h_max": 1667.2977294921875,
+ "dem_zoom": 11,
+ "sat_zoom": 12,
+ "sat_size": [
+  4096,
+  3854
+ ],
+ "mercator": {
+  "x0": 0.44180555555555556,
+  "y0": 0.26764139031987577,
+  "x1": 0.44611111111111107,
+  "y1": 0.271691668074296
+ },
+ "credits": [
+  "Elevation: AWS Terrain Tiles (Mapzen terrarium; SRTM, GMTED, ETOPO1, ArcticDEM et al.)",
+  "Imagery: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0"
+ ]
+}

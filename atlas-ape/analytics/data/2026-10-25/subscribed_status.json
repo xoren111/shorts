@@ -1,0 +1,23 @@
+{
+ "error": {
+  "error": {
+   "code": 500,
+   "message": "An internal error has occurred.",
+   "errors": [
+    {
+     "message": "An internal error has occurred.",
+     "domain": "global",
+     "reason": "internalError"
+    }
+   ]
+  },
+  "http_status": 500
+ },
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "views,averageViewPercentage,averageViewDuration",
+  "dimensions": "subscribedStatus"
+ }
+}

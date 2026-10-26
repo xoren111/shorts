@@ -1,0 +1,53 @@
+## K1 slam 0–3 in the Short hook, hide_subs not set
+   expect: exit 1 (T6) + warnings: frame 0 landed, This+is one hit
+   exit 1
+    ✗ src/scenes.tsx:24: words 0–3 «This is the demo» are shown big but not in project.hide_subs — the subtitle would show them again (T6); run node tools/kinetic_check.mjs --fix or add [0, 3]
+    ! src/scenes.tsx:24: slam at 0.00 s — the drop of «This is» would start before frame 0, so kinetic.tsx shows it already landed (no drop, no impact frame on frame 0); for a visible hit start the phrase ≥ 0.13 s in, or use pop / punchKey
+    ! src/scenes.tsx:24: slam words < 0.12 s apart drop together as one hit (This+is)
+## K1b same after kinetic_check --fix
+   expect: exit 0, hide_subs += [0, 3], the two slam warnings stay
+   exit 0
+    ! src/scenes.tsx:24: slam at 0.00 s — the drop of «This is» would start before frame 0, so kinetic.tsx shows it already landed (no drop, no impact frame on frame 0); for a visible hit start the phrase ≥ 0.13 s in, or use pop / punchKey
+    ! src/scenes.tsx:24: slam words < 0.12 s apart drop together as one hit (This+is)
+    ✓ project.json hide_subs += [0, 3] (T6) → [[0,3],[21,22]]
+    ✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — slam 0–3 «This is the demo» -0.13–1.09 s
+    ! src/scenes.tsx:24: slam at 0.00 s — the drop of «This is» would start before frame 0, so kinetic.tsx shows it already landed (no drop, no impact frame on frame 0); for a visible hit start the phrase ≥ 0.13 s in, or use pop / punchKey
+    ! src/scenes.tsx:24: slam words < 0.12 s apart drop together as one hit (This+is)
+    ✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — slam 0–3 «This is the demo» -0.13–1.09 s
+## K2 control: slam 8–10 (starts 2.06 s, gaps ≥ 0.22 s)
+   expect: no slam warning
+   exit 0
+    ✓ project.json hide_subs += [8, 10] (T6) → [[8,10],[21,22]]
+    ✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — slam 8–10 «Every phrase gets» 1.93–3.21 s
+## K3 slam oneWord 0–3
+   expect: warnings: frame 0 + «oneWord: pushed to +0.12 s»
+   exit 0
+    ! src/scenes.tsx:24: slam at 0.00 s — the drop of «This is» would start before frame 0, so kinetic.tsx shows it already landed (no drop, no impact frame on frame 0); for a visible hit start the phrase ≥ 0.13 s in, or use pop / punchKey
+    ! src/scenes.tsx:24: slam words < 0.12 s apart drop together as one hit (This+is) — oneWord: the later word is pushed to +0.12 s
+    ✓ project.json hide_subs += [0, 3] (T6) → [[0,3],[21,22]]
+    ✓ 1 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md — slam 0–3 «This is the demo» -0.13–1.09 s
+## N3 map first shot at 0 s, no live
+   expect: exit 1 (R4/H1)
+   exit 1
+    ✓ 0 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md
+    ✗ R4/H1: beat hook (MapHook) opens the Short on a map (0.00 s) — frame 0 is a living being in action (H1, V4), never a map, even with live action on it and `live: true`; open on footage / a character and bring the map in after frame 0 (with live: true before 3 s)
+## N3b map at 0 s, live: true, no token
+   expect: exit 1 (R4/H1 frame 0) + live-without-action warning
+   exit 1
+    ✓ 0 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md
+    ✗ R4/H1: beat hook (MapHook) opens the Short on a map (0.00 s) — frame 0 is a living being in action (H1, V4), never a map, even with live action on it and `live: true`; open on footage / a character and bring the map in after frame 0 (with live: true before 3 s)
+## N3c map at 0 s, live: true + MovingToken
+   expect: exit 1 (R4/H1 frame 0)
+   exit 1
+    ✓ 0 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md
+    ✗ R4/H1: beat hook (MapHook) opens the Short on a map (0.00 s) — frame 0 is a living being in action (H1, V4), never a map, even with live action on it and `live: true`; open on footage / a character and bring the map in after frame 0 (with live: true before 3 s)
+## N3d live footage 0–0.5 s, then map at 0.5 s with live: true + MovingToken
+   expect: exit 0 (R4 ok: live in the hook, not frame 0)
+   exit 0
+    ✓ 0 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md
+    ✓ R4: map beat maphook (MapHook) at 0.50 s is marked live: true (live action on the map in the hook)
+## N3e map at 0.5 s without live
+   expect: exit 1 (R4)
+   exit 1
+    ✓ 0 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md
+    ✗ R4: beat maphook (MapHook) puts a map on screen at 0.50 s — a map is never the main shot of 0–3 s; move it after 3 s, or (hook only) put live action on it (MovingToken / AdvanceArrow / footage) and mark the beat `live: true` in src/data/beats.ts

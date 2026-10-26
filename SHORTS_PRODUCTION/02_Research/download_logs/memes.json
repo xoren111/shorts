@@ -1,0 +1,995 @@
+{
+ "label": "memes",
+ "date_checked": "2026-10-24",
+ "project_root": "/Users/khorengrigoryan/shorts/SHORTS_PRODUCTION",
+ "notes": "20 legal reaction / cinematic insert clips, each <= 8 s, H.264, video only. Copyrighted memes catalogued only (MEME_CATALOG.md). Internet Archive was used only to locate scenes (streamed low-res scans); final files come from Wikimedia Commons, NASA and Mixkit. 2026-10-24 verification: 2 files moved to 03_Assets/_quarantine (see `quarantined`); Safety Last! provenance, Duck and Cover PD basis, Germany exception for 1920s US films and Artemis II restrictions recorded; Mixkit items carry `acquisition` and `publish_gate`. 2026-10-24 (later): the 4 Mixkit reactions were quarantined (scripted download against Mixkit User Terms sec. 9) and replaced by 4 Pixabay clips (pixabay.json, field replaces_mixkit).",
+ "downloaded": [
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_keaton_facade_falls_steamboat_bill_jr_1928_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "unexpected_twist",
+    "near_miss",
+    "luck",
+    "deadpan"
+   ],
+   "title": "House facade falls around Buster Keaton (window frame saves him)",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Steamboat_Bill_Jr._(1928).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Steamboat_Bill_Jr._%281928%29.webm",
+   "license_name": "Public domain (US: published 1930 or earlier, term expired; Commons tag PD-US-expired / PD-old-auto-expired); copyright not renewed (Moews 1977, cited on Commons)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Steamboat Bill, Jr. (1928), Buster Keaton / Charles Reisner — public domain (Wikimedia Commons)",
+   "bytes": 2739631,
+   "sha256": "23426363c32b27202c860af8d478c2d5c2f53bb8f36cac2b6b1a9d937afeec7e",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 960x720 23.976fps yuv420p 7.34s audio=none",
+   "work": {
+    "film": "Steamboat Bill, Jr.",
+    "year": 1928,
+    "country": "USA",
+    "directors": "Charles Reisner, Buster Keaton",
+    "pd_basis": "US public domain (published 1930 or earlier, term expired). UK and most EU states: rule of the shorter term -> PD. EXCEPTION GERMANY: likely still protected (to about the end of 2036: Keaton d. 1966, Reisner d. 1962): the 1892 US-Germany copyright agreement is still in force and OLG Frankfurt (2003) held that Germany does not apply the rule of the shorter term to US works, so the German life+70 term applies. Do not use on the German channels without a separate owner decision. Not legal advice."
+   },
+   "source_excerpt": {
+    "source_timecode": "≈00:59:03.4–00:59:10.7",
+    "duration_s": 7.34
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes",
+   "youtube_risk": "PD; Keaton restorations (Cohen Media / Lobster) may be in Content ID -> low/medium claim risk; keep short, add own grade.",
+   "use_cases": "«чудом пронесло», неожиданный поворот, герой невозмутим посреди катастрофы; самая узнаваемая сцена немого кино",
+   "usage_restrictions": "EN channel only; not on German channels (deutschland-geschichte, @WasWäreWenn4k) without a separate decision; short insert over the previous frame; not in thumbnails or titles."
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "struggle",
+    "failure",
+    "against_the_odds",
+    "comedy"
+   ],
+   "title": "Keaton leans into a hurricane wind and keeps getting knocked over",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Steamboat_Bill_Jr._(1928).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Steamboat_Bill_Jr._%281928%29.webm",
+   "license_name": "Public domain (US: published 1930 or earlier, term expired; Commons tag PD-US-expired / PD-old-auto-expired)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Steamboat Bill, Jr. (1928) — public domain (Wikimedia Commons)",
+   "bytes": 2974779,
+   "sha256": "20ab28ab035a1993521b6079c29d7bddb7d277b90a11a0f59db7a162ea0f9ed5",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 960x720 23.976fps yuv420p 7.97s audio=none",
+   "work": {
+    "film": "Steamboat Bill, Jr.",
+    "year": 1928,
+    "country": "USA",
+    "pd_basis": "US public domain (published 1930 or earlier, term expired). UK and most EU states: rule of the shorter term -> PD. EXCEPTION GERMANY: likely still protected (to about the end of 2036: Keaton d. 1966, Reisner d. 1962): the 1892 US-Germany copyright agreement is still in force and OLG Frankfurt (2003) held that Germany does not apply the rule of the shorter term to US works, so the German life+70 term applies. Do not use on the German channels without a separate owner decision. Not legal advice."
+   },
+   "source_excerpt": {
+    "source_timecode": "≈00:59:31.3–00:59:39.3",
+    "duration_s": 7.97
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes",
+   "youtube_risk": "same as facade clip",
+   "use_cases": "борьба против обстоятельств, «всё против него», провальная попытка",
+   "usage_restrictions": "EN channel only; not on German channels (deutschland-geschichte, @WasWäreWenn4k) without a separate decision; short insert over the previous frame; not in thumbnails or titles."
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_train_bridge_collapse_the_general_1926_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "failure",
+    "disaster",
+    "plan_collapses"
+   ],
+   "title": "Locomotive crosses a burning bridge, bridge collapses into the river",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_General_(1926).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_General_%281926%29.webm",
+   "license_name": "Public domain (US: published 1930 or earlier, term expired; Commons tag PD-US-expired / PD-old-auto-expired) (Commons tag PD-old-auto-expired, US film)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-old-auto-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "The General (1926), Buster Keaton / Clyde Bruckman — public domain (Wikimedia Commons)",
+   "bytes": 7590447,
+   "sha256": "998fbb7203a1f335408696df0b777b57be0bc66cdb8764acae5ce9d80f772b79",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1440x1080 23.976fps yuv420p 7.97s audio=none",
+   "work": {
+    "film": "The General",
+    "year": 1926,
+    "country": "USA",
+    "directors": "Clyde Bruckman, Buster Keaton",
+    "pd_basis": "US public domain (published 1930 or earlier, term expired). UK and most EU states: rule of the shorter term -> PD. EXCEPTION GERMANY: likely still protected (to about 2038: co-writers d. up to 1968): the 1892 US-Germany copyright agreement is still in force and OLG Frankfurt (2003) held that Germany does not apply the rule of the shorter term to US works, so the German life+70 term applies. Do not use on the German channels without a separate owner decision. Not legal advice."
+   },
+   "source_excerpt": {
+    "source_timecode": "≈01:05:24.0–01:05:32.0",
+    "duration_s": 7.97
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes. Commons copy is sepia-toned (tint from the source upload, not ours)",
+   "youtube_risk": "PD; widely used in documentaries; low/medium claim risk from restoration owners.",
+   "use_cases": "провал плана / «всё рухнуло» / катастрофа; реальная катастрофа на съёмке 1926 г., не CGI",
+   "usage_restrictions": "EN channel only; not on German channels (deutschland-geschichte, @WasWäreWenn4k) without a separate decision; short insert over the previous frame; not in thumbnails or titles."
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_keaton_sad_on_coupling_rod_the_general_1926_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "disappointment",
+    "sadness",
+    "rejection"
+   ],
+   "title": "Rejected Keaton sits dejected on the locomotive's coupling rod, the train carries him away",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_General_(1926).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_General_%281926%29.webm",
+   "license_name": "Public domain (US: published 1930 or earlier, term expired; Commons tag PD-US-expired / PD-old-auto-expired)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-old-auto-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "The General (1926) — public domain (Wikimedia Commons)",
+   "bytes": 5337926,
+   "sha256": "ee560f746285a85dfcf93406ac7d19e3ee59e14cc8125b525ec528ac66cfdc2f",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1440x1080 23.976fps yuv420p 7.97s audio=none",
+   "work": {
+    "film": "The General",
+    "year": 1926,
+    "country": "USA",
+    "pd_basis": "US public domain (published 1930 or earlier, term expired). UK and most EU states: rule of the shorter term -> PD. EXCEPTION GERMANY: likely still protected (to about 2038: co-writers d. up to 1968): the 1892 US-Germany copyright agreement is still in force and OLG Frankfurt (2003) held that Germany does not apply the rule of the shorter term to US works, so the German life+70 term applies. Do not use on the German channels without a separate owner decision. Not legal advice."
+   },
+   "source_excerpt": {
+    "source_timecode": "≈00:10:44.3–00:10:52.3",
+    "duration_s": 7.97
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes",
+   "youtube_risk": "same as bridge clip",
+   "use_cases": "разочарование, «его отвергли», грустная пауза; легальная замена мема «Sad Keanu»",
+   "usage_restrictions": "EN channel only; not on German channels (deutschland-geschichte, @WasWäreWenn4k) without a separate decision; short insert over the previous frame; not in thumbnails or titles."
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_nosferatu_shadow_on_stairs_1922_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "suspense",
+    "dramatic_reveal",
+    "dread"
+   ],
+   "title": "Count Orlok's shadow creeps up the staircase",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nosferatu_%281922%29.webm",
+   "license_name": "Public domain (Commons: PD; German film 1922, authors Murnau d. 1931, Galeen d. 1949, composer Erdmann d. 1948 -> PD in EU since 2020; US PD as pre-1931)",
+   "license_url": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922).webm",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Nosferatu (1922), F. W. Murnau — public domain (Wikimedia Commons)",
+   "bytes": 11091516,
+   "sha256": "797fb1b2e0638fc742c7c9b8f2d3b91f942cdff052e4c56be103fdb071be909a",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1440x1080 17.982fps yuv420p 4.56s audio=none",
+   "work": {
+    "film": "Nosferatu, eine Symphonie des Grauens",
+    "year": 1922,
+    "country": "Germany",
+    "director": "F. W. Murnau",
+    "pd_basis": "US: pre-1931 publication; EU: life+70 of director/screenwriter/composer expired by 2020"
+   },
+   "source_excerpt": {
+    "source_timecode": "≈01:26:56.0–01:27:00.6",
+    "duration_s": 4.56
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes. Commons copy = 2006 F. W. Murnau Foundation restoration (Masters of Cinema Blu-ray) with original-style night tint; no intertitles in the excerpt",
+   "youtube_risk": "Medium Content ID risk: the FWMS/Eureka restoration may be registered; avoid reconstructed intertitles (they could be new works).",
+   "use_cases": "надвигающаяся угроза, «что-то зловещее приближается», драматическое раскрытие",
+   "usage_restrictions": "EN channel: OK. German channels: only after a separate decision (FWMS 2006 restoration; whether the restorer holds a related right in Germany, UrhG secs. 94/95, is disputed)."
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_nosferatu_stare_at_window_1922_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "suspense",
+    "creepy",
+    "being_watched"
+   ],
+   "title": "Orlok stares through the window grid",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nosferatu_%281922%29.webm",
+   "license_name": "Public domain (see Nosferatu shadow clip)",
+   "license_url": "https://commons.wikimedia.org/wiki/File:Nosferatu_(1922).webm",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Nosferatu (1922), F. W. Murnau — public domain (Wikimedia Commons)",
+   "bytes": 3759491,
+   "sha256": "58aff8ebc7ec592e28f65b0dcbb0a5ce16e27468da7ae697213660e6f24e51ed",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1440x1080 17.982fps yuv420p 4.84s audio=none",
+   "work": {
+    "film": "Nosferatu",
+    "year": 1922,
+    "country": "Germany",
+    "pd_basis": "see shadow clip"
+   },
+   "source_excerpt": {
+    "source_timecode": "≈01:24:15.2–01:24:20.1",
+    "duration_s": 4.84
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes",
+   "youtube_risk": "same as shadow clip",
+   "use_cases": "«за ними следят», жуткий взгляд, напряжение",
+   "usage_restrictions": "EN channel: OK. German channels: only after a separate decision (FWMS 2006 restoration; whether the restorer holds a related right in Germany, UrhG secs. 94/95, is disputed)."
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_rocket_in_moon_eye_trip_to_the_moon_1902_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "unexpected",
+    "ouch",
+    "comedy",
+    "direct_hit"
+   ],
+   "title": "The capsule lands in the Man in the Moon's eye",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Le_Voyage_dans_la_Lune_(1902).webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6d/Le_Voyage_dans_la_Lune_%281902%29.webm/Le_Voyage_dans_la_Lune_%281902%29.webm.1080p.vp9.webm",
+   "license_name": "Public domain (Commons: PD-old-auto-expired, Georges Méliès d. 1938)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-old-auto-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "A Trip to the Moon / Le Voyage dans la Lune (1902), Georges Méliès — public domain (Wikimedia Commons)",
+   "bytes": 8782303,
+   "sha256": "40bf69a5c2d5d9f97c61b020efaa632ee7588d302949ba7e460bf133182ad231",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1440x1080 24.0fps yuv420p 8.00s audio=none",
+   "work": {
+    "film": "Le Voyage dans la Lune",
+    "year": 1902,
+    "country": "France",
+    "director": "Georges Méliès",
+    "pd_basis": "author died 1938 -> PD worldwide (life+70 expired 2008); US pre-1931"
+   },
+   "source_excerpt": {
+    "source_timecode": "≈00:06:06.8–00:06:14.8",
+    "duration_s": 8.0
+   },
+   "processing": "window from Commons 1080p VP9 transcode (black-and-white version, NOT the 2011 hand-coloured Lobster restoration with Air score); trim + re-encode, audio stripped",
+   "youtube_risk": "Low/medium: the coloured 2011 restoration is claimed by Lobster Films — we use B/W; still may match. Never use the Air soundtrack.",
+   "use_cases": "«прямо в глаз», неожиданный удар, комедийное попадание; узнаваемый кадр истории кино"
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_gunman_fires_at_camera_great_train_robbery_1903_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "shock",
+    "sudden",
+    "dramatic"
+   ],
+   "title": "Outlaw fires his revolver straight at the audience",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Edwin_Stanton_Porter_The_Great_Train_Robbery_(1903)_-_Final_Scene.webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Edwin_Stanton_Porter_The_Great_Train_Robbery_%281903%29_-_Final_Scene.webm",
+   "license_name": "Public domain (Commons: PD-old-auto-expired, Edwin S. Porter d. 1941)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-old-auto-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "The Great Train Robbery (1903), Edwin S. Porter / Edison — public domain (Wikimedia Commons)",
+   "bytes": 1624526,
+   "sha256": "807e1c819fb88216ace640ea176936b2c91b7c25c7b91aabddb2c3e673026c69",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1280x720 24.0fps yuv420p 6.50s audio=none",
+   "work": {
+    "film": "The Great Train Robbery",
+    "year": 1903,
+    "country": "USA",
+    "director": "Edwin S. Porter",
+    "pd_basis": "US public domain; country of origin USA, so EU/UK also treat it as PD via the rule of the shorter term (authors are US nationals). Not legal advice."
+   },
+   "source_excerpt": {
+    "source_timecode": "final shot of the film; 0:00.0–0:06.5 of the 12 s Commons excerpt",
+    "duration_s": 6.5
+   },
+   "processing": "whole 12 s excerpt downloaded (2.1 MB), trimmed 0–6.5 s, re-encoded, audio stripped",
+   "youtube_risk": "Low risk (1903, many copies). Gun-to-camera: fine for drama, avoid alongside real violence topics.",
+   "use_cases": "внезапный шок, «бах!» — резкий поворот; кадр, который в 1903 пугал зрителей"
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_film_inserts/pdfilm_bert_turtle_ducks_duck_and_cover_1951_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "panic",
+    "hide",
+    "shock",
+    "comedy"
+   ],
+   "title": "Bert the Turtle ducks into his shell when the firecracker explodes",
+   "source_name": "Wikimedia Commons (Library of Congress scan)",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Duck_and_Cover_1440_x_1080_01836081.webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Duck_and_Cover_1440_x_1080_01836081.webm",
+   "license_name": "Public domain (probably by non-renewal; basis contested) — Commons tag PD-USGov",
+   "license_url": "https://commons.wikimedia.org/wiki/File:Duck_and_Cover_1440_x_1080_01836081.webm",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Duck and Cover (1951), US Federal Civil Defense Administration / Archer Productions — public domain (Library of Congress via Wikimedia Commons)",
+   "bytes": 5681553,
+   "sha256": "6fc971ba8dfe4db4283736ecb70353e62920da7922312e216577cf3699c6c924",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1440x1080 24.0fps yuv420p 8.00s audio=none",
+   "work": {
+    "film": "Duck and Cover",
+    "year": 1951,
+    "country": "USA",
+    "producer": "Archer Productions for the FCDA",
+    "pd_basis": "Probably public domain by non-renewal; basis contested. The film (1951) was made by the private contractor Archer Productions for the Federal Civil Defense Administration, and 17 USC 105 does not cover contractor works, so the Commons tag «PD US Government» is not the real basis. Renewal was not checked against the Catalog of Copyright Entries. Public sources call the status contested."
+   },
+   "source_excerpt": {
+    "source_timecode": "≈00:00:23.2–00:00:31.2",
+    "duration_s": 8.0
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes",
+   "youtube_risk": "Low risk; light «hide!» gags only, never next to real tragedies. Status contested -> keep it short and replaceable.",
+   "use_cases": "«спрятаться!», паника, мгновенная реакция на опасность; узнаваемая черепаха Берт"
+  },
+  {
+   "file": "03_Assets/Cinematic_Effects/pd_gov_footage/govpd_rocket_tank_burst_sls_test_nasa_2020.mp4",
+   "category": "pd_gov_footage",
+   "emotion_tags": [
+    "failure",
+    "it_broke",
+    "explosion",
+    "slow_motion"
+   ],
+   "title": "NASA pushes an SLS liquid-oxygen test tank to failure: water bursts out (slow motion)",
+   "source_name": "NASA Image and Video Library",
+   "source_page": "https://images.nasa.gov/details/MSFC_2020_XP_SLS_V_0130_PD002-Test-Case-TTF-4697%20LOX%20Tank%20Test-to-Failure%20color-1_06242020_timelapse",
+   "download_url": "https://images-assets.nasa.gov/video/MSFC_2020_XP_SLS_V_0130_PD002-Test-Case-TTF-4697%20LOX%20Tank%20Test-to-Failure%20color-1_06242020_timelapse/MSFC_2020_XP_SLS_V_0130_PD002-Test-Case-TTF-4697%20LOX%20Tank%20Test-to-Failure%20color-1_06242020_timelapse~large.mp4",
+   "license_name": "NASA media — not copyrighted (US government work), per NASA Images and Media Usage Guidelines",
+   "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Footage: NASA/MSFC (David Olive) — public domain",
+   "bytes": 5726609,
+   "sha256": "6df2b84767dde379ebbd9be7c1bfe210e92929d1bec6475d92e058c8f42c3d58",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1134x1080 30.0fps yuv420p 7.97s audio=none",
+   "work": {
+    "film": "Engineers Break SLS Rocket Propellant Tank On Purpose",
+    "year": 2020,
+    "country": "USA",
+    "pd_basis": "NASA/MSFC production (US gov work)"
+   },
+   "source_excerpt": {
+    "source_timecode": "0:13.0–0:20.95 of 2:35",
+    "duration_s": 7.97
+   },
+   "processing": "accurate remote trim from the ~large.mp4 rendition (1134x1080), re-encoded, no audio",
+   "youtube_risk": "Low risk. Do not imply NASA endorsement; do not use NASA insignia/logo as our branding.",
+   "use_cases": "«и тут всё лопнуло», провал испытания, перегрузка; эффектная замедленная катастрофа"
+  },
+  {
+   "file": "03_Assets/Memes_Reactions/success/reaction_mission_control_cheers_artemis2_nasa_2026.mp4",
+   "category": "reaction",
+   "emotion_tags": [
+    "success",
+    "celebration",
+    "relief"
+   ],
+   "title": "Artemis II Orion MER team cheers and claps at splashdown (Apr 10, 2026)",
+   "source_name": "NASA Image and Video Library",
+   "source_page": "https://images.nasa.gov/details/jsc2026m000354-Artemis-II-Orion-Mission-Evaluation-Room-Team-During-Splashdown",
+   "download_url": "https://images-assets.nasa.gov/video/jsc2026m000354-Artemis-II-Orion-Mission-Evaluation-Room-Team-During-Splashdown/jsc2026m000354-Artemis-II-Orion-Mission-Evaluation-Room-Team-During-Splashdown~large.mp4",
+   "license_name": "NASA media — not copyrighted (US government work), per NASA Images and Media Usage Guidelines",
+   "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Footage: NASA/JSC (Rad Sinyak) — public domain",
+   "bytes": 5532009,
+   "sha256": "49c57d1cdfe87efe197bb13d3aae1ed74cf9344ea65c8267aa6df1c8b3c77c9e",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1920x800 30.0fps yuv420p 7.97s audio=none",
+   "work": {
+    "film": "Artemis II Orion Mission Evaluation Room Team During Splashdown",
+    "year": 2026,
+    "country": "USA",
+    "pd_basis": "NASA/JSC production (US gov work)"
+   },
+   "source_excerpt": {
+    "source_timecode": "2:28.0–2:35.95 of 2:51",
+    "duration_s": 7.97
+   },
+   "processing": "accurate remote trim from the ~large.mp4 rendition (1920x800 cinemascope), re-encoded, audio stripped",
+   "youtube_risk": "Low Content ID risk; MEDIUM likeness / insignia risk: identifiable current NASA employees and NASA insignia. NASA guidelines bar current employees' names and likenesses in ads, promotional material and products, and the insignia is not public domain.",
+   "use_cases": "«получилось!», успех, облегчение после напряжения; финальный выдох истории",
+   "usage_restrictions": "editorial use only, in a space / NASA context; never as a generic «success» meme inside unrelated stories; never in thumbnails or channel promos; no mocking captions; no implied NASA endorsement."
+  },
+  {
+   "file": "03_Assets/Memes_Reactions/failure/reaction_astronaut_falls_apollo17_nasa_1972.mp4",
+   "category": "reaction",
+   "emotion_tags": [
+    "failure",
+    "fail",
+    "comedy",
+    "clumsy"
+   ],
+   "title": "Apollo 17 astronaut Harrison Schmitt stumbles and falls on the Moon",
+   "source_name": "Wikimedia Commons (NASA)",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ap17_schmitt_falls.ogv",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ap17_schmitt_falls.ogv",
+   "license_name": "Public domain (PD-USGov-NASA)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Apollo 17 lunar surface footage (1972), NASA — public domain (Wikimedia Commons)",
+   "bytes": 561665,
+   "sha256": "008f732ad936e7c1352529c0e8285648de7b2f58e065a5f08bf4bf5a63e052a6",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 320x240 30.0fps yuv420p 7.70s audio=none",
+   "work": {
+    "film": "Apollo 17 EVA footage",
+    "year": 1972,
+    "country": "USA",
+    "pd_basis": "NASA work"
+   },
+   "source_excerpt": {
+    "source_timecode": "0:02.5–0:10.2 of 0:10.2",
+    "duration_s": 7.7
+   },
+   "processing": "whole file downloaded (0.6 MB), trimmed, re-encoded, audio stripped. ONLY 320x240 — use small (PiP / TV-frame) or find a higher-res NASA transfer",
+   "youtube_risk": "Low risk. Real person (Schmitt): gentle 'oops' gag only.",
+   "use_cases": "«упс», неуклюжий провал, смешное падение; вставка в рамке старого телевизора",
+   "usage_restrictions": "320x240 source: only as PiP / TV-frame insert, never full-screen or punched in; gentle «oops» only."
+  }
+ ],
+ "catalog_only": [
+  {
+   "name": "Pexels Videos (people reacting: shocked, facepalm, laughing, applause)",
+   "source_page": "https://www.pexels.com/search/videos/shocked/",
+   "price": "free",
+   "license_name": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "commercial_ok": "yes",
+   "attribution": "not required",
+   "formats": "MP4 up to 4K",
+   "compat": "Remotion/any NLE",
+   "limitations": "scripted access blocked (HTTP 403 Cloudflare 'Just a moment'); no bypass; identifiable people must not be shown in a bad light; no standalone redistribution",
+   "use_cases": "more reaction faces (facepalm, applause, confused) — download manually in a browser",
+   "why_not_downloaded": "manual: Cloudflare challenge for scripts"
+  },
+  {
+   "name": "Pixabay Videos (reaction / crowd / explosion)",
+   "source_page": "https://pixabay.com/videos/search/surprised/",
+   "price": "free",
+   "license_name": "Pixabay Content License",
+   "license_url": "https://pixabay.com/service/license-summary/",
+   "commercial_ok": "yes",
+   "attribution": "not required",
+   "formats": "MP4",
+   "compat": "any",
+   "limitations": "HTTP 403 Cloudflare for scripts; no redistribution as-is; recognisable people/brands need care",
+   "use_cases": "backup reaction clips",
+   "why_not_downloaded": "manual: Cloudflare challenge for scripts"
+  },
+  {
+   "name": "Mixkit 'Restricted License' reaction clips (applauding stage show #22056, shocked couple #49366, confused contractor #5647, celebrating mission control #23971, surprised man green screen #23839, shocked woman park #46376, seminar applauding #5953, confused elderly man #9248, man thinks hard #5416, woman celebrating #23719, surprised woman #32846)",
+   "source_page": "https://mixkit.co/free-stock-video/applause/",
+   "price": "free",
+   "license_name": "Mixkit Stock Video Restricted License",
+   "license_url": "https://mixkit.co/license/#videoRestricted",
+   "commercial_ok": "no (personal projects only)",
+   "attribution": "n/a",
+   "formats": "MP4",
+   "compat": "any",
+   "limitations": "Restricted = personal, non-commercial only -> forbidden for a monetised channel",
+   "use_cases": "none",
+   "why_not_downloaded": "license does not allow commercial YouTube use"
+  },
+  {
+   "name": "Mixkit free clips not downloaded (man laughing at phone #8741, employee celebrating a win #100849)",
+   "source_page": "https://mixkit.co/free-stock-video/man-laughing-out-loud-at-his-cell-phone-8741/",
+   "price": "free",
+   "license_name": "Mixkit Stock Video Free License",
+   "license_url": "https://mixkit.co/license/#videoFree",
+   "commercial_ok": "yes",
+   "attribution": "not required",
+   "formats": "MP4 720/1080",
+   "compat": "any",
+   "limitations": "no mass downloading (User Terms)",
+   "use_cases": "spare comedy / success reactions",
+   "why_not_downloaded": "kept the set at 20 clips"
+  },
+  {
+   "name": "Wikimedia Commons CC BY-SA expression clips by Pleclown (Surprised, Badly surprised, Frowning) + Facepalm.webm (Rattyexalt, CC BY-SA 4.0)",
+   "source_page": "https://commons.wikimedia.org/wiki/Category:Videos_of_facial_expressions",
+   "price": "free",
+   "license_name": "CC BY-SA 3.0 / 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "commercial_ok": "yes",
+   "attribution": "required",
+   "formats": "WebM 720p/480p",
+   "compat": "any",
+   "limitations": "ShareAlike; amateur quality (Facepalm 720x480, 15 fps, dark webcam)",
+   "use_cases": "spare reactions",
+   "why_not_downloaded": "downloaded to temp for review, rejected for quality/duplication; not in the library"
+  },
+  {
+   "name": "Charlie Chaplin films (The Gold Rush 1925, The Kid 1921, 1910s shorts)",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_Gold_Rush_(1925).webm",
+   "price": "free",
+   "license_name": "US public domain only",
+   "license_url": "https://commons.wikimedia.org/wiki/File:The_Gold_Rush_(1925).webm",
+   "commercial_ok": "US: yes; UK/EU: NO",
+   "attribution": "n/a",
+   "formats": "WebM 480x360",
+   "compat": "any",
+   "limitations": "Chaplin was a British national -> in UK/EU the rule of the shorter term does not apply, protection life+70 = until end of 2047; Roy Export actively claims; 'Charlie Chaplin'/Tramp are trademarks",
+   "use_cases": "do not use on a worldwide channel",
+   "why_not_downloaded": "not PD worldwide"
+  },
+  {
+   "name": "Metropolis (1927, Fritz Lang)",
+   "source_page": "https://archive.org/details/metropolis-1927_202511",
+   "price": "free",
+   "license_name": "US public domain since 2023",
+   "license_url": "https://archive.org/details/metropolis-1927_202511",
+   "commercial_ok": "US: yes; EU: NO",
+   "attribution": "n/a",
+   "formats": "MP4",
+   "compat": "any",
+   "limitations": "German film: EU term runs to end of 2046 (Lang d. 1976); Murnau Foundation restoration claims",
+   "use_cases": "avoid",
+   "why_not_downloaded": "not PD in EU"
+  },
+  {
+   "name": "Steamboat Willie (1928, Disney)",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Steamboat_Willie_(1928)_by_Walt_Disney.webm",
+   "price": "free",
+   "license_name": "US public domain since 2024 (film only)",
+   "license_url": "https://commons.wikimedia.org/wiki/File:Steamboat_Willie_(1928)_by_Walt_Disney.webm",
+   "commercial_ok": "risky",
+   "attribution": "n/a",
+   "formats": "WebM",
+   "compat": "any",
+   "limitations": "Mickey Mouse is a live Disney trademark; later Mickey designs still copyrighted; heavy Content ID",
+   "use_cases": "avoid",
+   "why_not_downloaded": "trademark / claim risk"
+  },
+  {
+   "name": "Frenchman weeps (1940, from Capra's 'Divide and Conquer')",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Frenchmanweeps1940.ogv",
+   "price": "free",
+   "license_name": "Public domain (US gov)",
+   "license_url": "https://commons.wikimedia.org/wiki/File:Frenchmanweeps1940.ogv",
+   "commercial_ok": "yes",
+   "attribution": "not required",
+   "formats": "OGV 1008x752",
+   "compat": "any",
+   "limitations": "real grief at the fall of Paris — not a comedic meme; use only in serious WW2 context",
+   "use_cases": "serious history (WWII Shorts)",
+   "why_not_downloaded": "tone: not a reaction meme"
+  },
+  {
+   "name": "Copyrighted meme templates (Confused Travolta, Surprised Pikachu, Drake, Distracted Boyfriend, This Is Fine, Coffin Dance, To Be Continued, Curb credits, etc.)",
+   "source_page": "see 03_Assets/Memes_Reactions/MEME_CATALOG.md",
+   "price": "n/a",
+   "license_name": "all rights reserved (film/TV/game/photo/music owners)",
+   "license_url": "n/a",
+   "commercial_ok": "no",
+   "attribution": "n/a",
+   "formats": "n/a",
+   "compat": "n/a",
+   "limitations": "Content ID / copyright strikes / reused-content",
+   "use_cases": "replaced by legal alternatives in MEME_CATALOG.md",
+   "why_not_downloaded": "copyrighted — catalog only"
+  }
+ ],
+ "existing_reused": [
+  {
+   "path": "/Users/khorengrigoryan/shorts/orangutan (emotions/*.json, animations/*.json, assets/rig, out/reel_2_emotions/reel_2_emotions_alpha.mov, out/reel_3_gestures/reel_3_gestures_alpha.mov)",
+   "what": "Atlas rig: 13 emotions, 31 animations (facepalm, laugh, shrug, surprise_reaction, thumbs_up, wink, shake_head…), ProRes 4444 alpha reels 1080x1920",
+   "license": "owner's own art (assets/source, SHA-256 locked)",
+   "notes": "read-only inventory; Atlas only from owner art; reaction only (hook / twist / end)"
+  },
+  {
+   "path": "/Users/khorengrigoryan/shorts/atlas-ape/football-222/short/public/atlas/atlas_shock.png, atlas_clap.png; /Users/khorengrigoryan/shorts/atlas-ape/ai-farm-girl/short/public/atlas/atlas_thumbs_phone.png",
+   "what": "Gemini-made Atlas pose cards (shock, clap, thumbs-up with phone), cut out",
+   "license": "owner's Gemini generations from his reference sheets",
+   "notes": "already approved in delivered Shorts; mark as AI ('altered or synthetic') when relevant"
+  },
+  {
+   "path": "/Users/khorengrigoryan/shorts/atlas-ape/ai-farm-girl/short/public/memes (travolta/, cj/, meme_man.png, stonks.jpg)",
+   "what": "real copyrighted memes keyed from YouTube green-screen copies",
+   "license": "copyrighted (Miramax/Disney, Rockstar, unknown)",
+   "notes": "owner accepted the Content ID risk for ep. 6 only; NOT copied into the legal library"
+  },
+  {
+   "path": "/Users/khorengrigoryan/shorts/atlas-ape/ai-farm-girl/short/public/film/keaton_run.mp4",
+   "what": "The General (1926) insert, PD",
+   "license": "public domain",
+   "notes": "owner rejected it as 'random film footage' in round 2 — lesson: PD inserts must be iconic and staged as a meme over the previous frame"
+  }
+ ],
+ "failed": [
+  {
+   "what": "Commons upload.wikimedia.org parallel per-frame seeks for contact sheets",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/Steamboat_Bill_Jr._%281928%29.webm/...480p.vp9.webm",
+   "error": "HTTP 429 Too Many Requests; solved by scanning low-res copies on archive.org and fetching one window per clip sequentially"
+  },
+  {
+   "what": "Mixkit category pages (first burst)",
+   "url": "https://mixkit.co/free-stock-video/reaction/",
+   "error": "HTTP 429 + Cloudflare challenge; not bypassed — retried later with 6–7 s pauses"
+  },
+  {
+   "what": "Pexels video search",
+   "url": "https://www.pexels.com/search/videos/shocked/",
+   "error": "HTTP 403 Cloudflare challenge — catalogued as manual"
+  },
+  {
+   "what": "Pixabay video search",
+   "url": "https://pixabay.com/videos/search/surprised/",
+   "error": "HTTP 403 Cloudflare challenge — catalogued as manual"
+  },
+  {
+   "what": "Mixkit guessed asset URL for new-style item #100572",
+   "url": "https://assets.mixkit.co/videos/100572/100572-720.mp4",
+   "error": "HTTP 403 (new items use /active_storage/video_items/ paths)"
+  }
+ ],
+ "totals": {
+  "files": 12,
+  "bytes": 61402455,
+  "quarantined_files": 8,
+  "quarantined_bytes": 39521741
+ },
+ "quarantined": [
+  {
+   "file": "03_Assets/_quarantine/Cinematic_Effects/pd_gov_footage/govpd_atomic_test_baker_1946_commons.mp4",
+   "category": "pd_gov_footage",
+   "emotion_tags": [
+    "mind_blown",
+    "dramatic_reveal",
+    "explosion"
+   ],
+   "title": "Operation Crossroads 'Baker' underwater test: water column rises among ships",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Baker_Shot.ogv",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Baker_Shot.ogv",
+   "license_name": "Public domain (US government work: US Navy / Department of Energy, 1946)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Operation Crossroads Baker test (1946), US Navy / US DOE — public domain (Wikimedia Commons)",
+   "bytes": 8169420,
+   "sha256": "f3c8e96bb8490dec76bdd9786d35216af373c9bfc051e71c786fb84269c2c2f4",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1280x720 60.0fps yuv420p 8.00s audio=none",
+   "work": {
+    "film": "Operation Crossroads test footage",
+    "year": 1946,
+    "country": "USA",
+    "pd_basis": "work of the US federal government"
+   },
+   "source_excerpt": {
+    "source_timecode": "0:05.0–0:13.0 of the 45 s Commons compilation",
+    "duration_s": 8.0
+   },
+   "processing": "whole file downloaded (44.7 MB), trimmed, re-encoded, audio stripped. Blue tint comes from the source transfer (Commons cites the 1995 documentary 'Trinity & Beyond')",
+   "youtube_risk": "Footage PD, but the transfer came via a commercial documentary -> medium Content ID risk. Sensitive subject: use as 'mind blown' sparingly.",
+   "use_cases": "«взрыв мозга», масштаб шока, большое раскрытие; лучше в историях про науку/технику",
+   "original_file": "03_Assets/Cinematic_Effects/pd_gov_footage/govpd_atomic_test_baker_1946_commons.mp4",
+   "status": "quarantined",
+   "quarantined_on": "2026-10-24",
+   "quarantine_reason": "Commons credits the copy (Credit and source fields) to the commercial documentary «Trinity & Beyond: The Atomic Bomb Movie» (1995); the blue tint is that product's grade -> likely Content ID match against the documentary; nuclear tests are a sensitive subject. Re-checked via the Commons API on 2026-10-24.",
+   "replacement": "a direct NARA / DOE transfer of Operation Crossroads «Baker» (Commons file whose source is NARA or DOE, or archive.org with government provenance)"
+  },
+  {
+   "file": "03_Assets/_quarantine/Memes_Reactions/sarcasm/reaction_rolling_eyes_commons_ccbysa.mp4",
+   "category": "reaction",
+   "emotion_tags": [
+    "sarcasm",
+    "eye_roll",
+    "annoyed",
+    "disbelief"
+   ],
+   "title": "Bearded man rolls his eyes",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:20140529_-_Rolling_eyes.webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/20140529_-_Rolling_eyes.webm",
+   "license_name": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "commercial_ok": true,
+   "attribution_required": true,
+   "attribution_text": "«Rolling eyes» by Clément Bucco-Lechat (User:Pleclown), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:20140529_-_Rolling_eyes.webm — re-encoded, audio removed",
+   "bytes": 1679504,
+   "sha256": "898610cdc6827e65ece1e32e084ba9cf7979c1a1a64dda12d79165e772ace3b5",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1280x720 30.0fps yuv420p 7.60s audio=none",
+   "work": {
+    "film": "20140529 - Rolling eyes",
+    "year": 2014,
+    "country": null,
+    "pd_basis": null
+   },
+   "source_excerpt": {
+    "source_timecode": "full 0:00–0:07.6",
+    "duration_s": 7.6
+   },
+   "processing": "whole file downloaded (2.0 MB), re-encoded H.264, audio stripped (no visual edits)",
+   "youtube_risk": "Low Content ID risk. CC BY-SA: credit in description is mandatory; ShareAlike may extend to an edited version of the clip. Commons flags personality rights — no endorsement/defamatory use.",
+   "use_cases": "сарказм, «ну конечно…», закатывание глаз на очевидную глупость",
+   "original_file": "03_Assets/Memes_Reactions/sarcasm/reaction_rolling_eyes_commons_ccbysa.mp4",
+   "status": "quarantined",
+   "quarantined_on": "2026-10-24",
+   "quarantine_reason": "CC BY-SA 3.0 plus a Commons personality-rights warning (Restrictions: personality, re-checked 2026-10-24). Any edit (trimming to 0.8-2 s, overlaying it on the previous frame as the owner's meme rule requires; the audio is already stripped) makes an adaptation that must itself be BY-SA -> pushes the owner's Short toward a BY-SA licence.",
+   "replacement": "Atlas eye_roll / skeptical from the owner's rig, a drawn reaction, or a Pixabay reaction from 03_Assets/Memes_Reactions (Mixkit is quarantined since 2026-10-24)"
+  },
+  {
+   "file": "03_Assets/_quarantine/Cinematic_Effects/pd_film_inserts/pdfilm_lloyd_clock_hang_safety_last_1923_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "tension",
+    "suspense",
+    "danger"
+   ],
+   "title": "Harold Lloyd hangs from the clock face",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Safety_Last!_(1923)_by_Fred_C._Newmeyer.webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Safety_Last%21_%281923%29_by_Fred_C._Newmeyer.webm",
+   "license_name": "Public domain (US: published 1930 or earlier, term expired; Commons tag PD-US-expired / PD-old-auto-expired)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Safety Last! (1923), Hal Roach Studios / Pathé — public domain (Wikimedia Commons)",
+   "bytes": 8727534,
+   "sha256": "587fafb6c6cd31c574891ecbd5905dd2de00c2956c536dbfa1a83ed3b78d0549",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1472x1072 23.976fps yuv420p 7.97s audio=none",
+   "work": {
+    "film": "Safety Last!",
+    "year": 1923,
+    "country": "USA",
+    "directors": "Fred C. Newmeyer, Sam Taylor",
+    "pd_basis": "US public domain (published 1930 or earlier, term expired). UK and most EU states: rule of the shorter term -> PD. EXCEPTION GERMANY: likely still protected (to about 2041-2062: co-writers Hal Roach d. 1992, Harold Lloyd d. 1971): the 1892 US-Germany copyright agreement is still in force and OLG Frankfurt (2003) held that Germany does not apply the rule of the shorter term to US works, so the German life+70 term applies. Do not use on the German channels without a separate owner decision. Not legal advice."
+   },
+   "source_excerpt": {
+    "source_timecode": "≈01:04:11.1–01:04:19.1",
+    "duration_s": 7.97
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes. Source on Commons is a Blu-ray rip (2013 restoration)",
+   "youtube_risk": "MEDIUM-HIGH Content ID risk: the most recognisable shot of the film, copy taken from the Criterion restoration (YIFY rip), active rights holder. Keep the Commons link for disputes. «Harold Lloyd» / glasses character: not in title or thumbnail.",
+   "use_cases": "«держится из последних сил», висящий над пропастью план, напряжение перед развязкой; 1–2 с поверх кадра",
+   "usage_restrictions": "max 1.5-2 s per use; only in Shorts of 60 s or less; never in thumbnails or titles; not on German channels; over the previous frame with our own SFX.",
+   "copy_provenance": "Commons credit: Internet Archive + yts.mx (Commons category «Media from YIFY»), i.e. a YIFY rip of the 2013 Criterion Blu-ray restoration. The rights holder is active: Harold Lloyd Entertainment sued over a copy of the clock scene in 2014.",
+   "quarantine_reason": "Copy is a YIFY rip of the 2013 Criterion Blu-ray restoration (Commons category «Media from YIFY»); active rights holder (Harold Lloyd Entertainment, 2014 lawsuit over the clock scene). Quarantined 2026-10-24 by the main session; replace with a non-restoration PD print (e.g. an original-era archive.org transfer) if needed."
+  },
+  {
+   "file": "03_Assets/_quarantine/Cinematic_Effects/pd_film_inserts/pdfilm_crowd_gasps_safety_last_1923_commons.mp4",
+   "category": "pd_film_insert",
+   "emotion_tags": [
+    "shock",
+    "crowd_reaction",
+    "disbelief"
+   ],
+   "title": "Crowd on the street gasps and clutches chests",
+   "source_name": "Wikimedia Commons",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Safety_Last!_(1923)_by_Fred_C._Newmeyer.webm",
+   "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Safety_Last%21_%281923%29_by_Fred_C._Newmeyer.webm",
+   "license_name": "Public domain (US: published 1930 or earlier, term expired; Commons tag PD-US-expired / PD-old-auto-expired)",
+   "license_url": "https://commons.wikimedia.org/wiki/Template:PD-US-expired",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "Safety Last! (1923) — public domain (Wikimedia Commons)",
+   "bytes": 2750408,
+   "sha256": "bc2d732eb18339dbdea951338fb53bf288a561f35c185983bdcd02e20a614e5c",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1472x1072 23.976fps yuv420p 2.04s audio=none",
+   "work": {
+    "film": "Safety Last!",
+    "year": 1923,
+    "country": "USA",
+    "pd_basis": "US public domain (published 1930 or earlier, term expired). UK and most EU states: rule of the shorter term -> PD. EXCEPTION GERMANY: likely still protected (to about 2041-2062: co-writers Hal Roach d. 1992, Harold Lloyd d. 1971): the 1892 US-Germany copyright agreement is still in force and OLG Frankfurt (2003) held that Germany does not apply the rule of the shorter term to US works, so the German life+70 term applies. Do not use on the German channels without a separate owner decision. Not legal advice."
+   },
+   "source_excerpt": {
+    "source_timecode": "≈00:59:23.8–00:59:25.9",
+    "duration_s": 2.04
+   },
+   "processing": "window range-read with ffmpeg (-c copy, video only) from the original file, then accurate trim and re-encode libx264 CRF 17; audio stripped; no colour/crop changes",
+   "youtube_risk": "MEDIUM-HIGH Content ID risk: the most recognisable shot of the film, copy taken from the Criterion restoration (YIFY rip), active rights holder. Keep the Commons link for disputes. «Harold Lloyd» / glasses character: not in title or thumbnail.",
+   "use_cases": "реакция толпы «ах!» на шокирующий факт; короткая врезка 1–2 с",
+   "usage_restrictions": "max 1.5-2 s per use; only in Shorts of 60 s or less; never in thumbnails or titles; not on German channels; over the previous frame with our own SFX.",
+   "copy_provenance": "Commons credit: Internet Archive + yts.mx (Commons category «Media from YIFY»), i.e. a YIFY rip of the 2013 Criterion Blu-ray restoration. The rights holder is active: Harold Lloyd Entertainment sued over a copy of the clock scene in 2014.",
+   "quarantine_reason": "Copy is a YIFY rip of the 2013 Criterion Blu-ray restoration (Commons category «Media from YIFY»); active rights holder (Harold Lloyd Entertainment, 2014 lawsuit over the clock scene). Quarantined 2026-10-24 by the main session; replace with a non-restoration PD print (e.g. an original-era archive.org transfer) if needed."
+  },
+  {
+   "file": "03_Assets/_quarantine/mixkit/Memes_Reactions/failure/reaction_frustrated_woman_head_in_hand_mixkit.mp4",
+   "category": "reaction",
+   "emotion_tags": [
+    "failure",
+    "frustration",
+    "facepalm"
+   ],
+   "title": "Frustrated young woman at a laptop drops her head into her hand",
+   "source_name": "Mixkit",
+   "source_page": "https://mixkit.co/free-stock-video/young-very-frustrated-woman-in-front-of-her-computer-25575/",
+   "download_url": "https://assets.mixkit.co/videos/25575/25575-1080.mp4",
+   "license_name": "Mixkit Stock Video Free License",
+   "license_url": "https://mixkit.co/license/#videoFree",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "",
+   "bytes": 4920500,
+   "sha256": "7906c795cbf5752e0e22352d1abfe572b4a576fd4963ab6d956e33635c54b305",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1920x1080 24.0fps yuv420p 7.96s audio=none",
+   "work": {
+    "film": "Mixkit #25575",
+    "year": null,
+    "country": null,
+    "pd_basis": null
+   },
+   "source_excerpt": {
+    "source_timecode": "0:03.5–0:11.45 of 0:15",
+    "duration_s": 7.96
+   },
+   "processing": "1080p file downloaded, trimmed, re-encoded, audio none",
+   "youtube_risk": "Low; stock clips can be in many videos (not Content-ID-registered by Mixkit terms), but never register it ourselves.",
+   "use_cases": "«ну почему!», фейспалм-реакция на глупое решение (легальная замена «Facepalm Picard»)",
+   "acquisition": "Fetched by script (curl) from assets.mixkit.co on 2026-10-24 while building the library; about 200 fast requests to mixkit.co pages triggered Cloudflare/429 responses (nothing was bypassed). Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots and overloading the servers; sec. 11 lets Envato terminate the licence on breach.",
+   "publish_gate": "SUPERSEDED 2026-10-24: file quarantined, not used at all (the manual re-download route is closed by the owner decision).",
+   "original_file": "03_Assets/Memes_Reactions/failure/reaction_frustrated_woman_head_in_hand_mixkit.mp4",
+   "status": "quarantined",
+   "quarantined_on": "2026-10-24",
+   "quarantine_reason": "Downloaded by script (curl) from assets.mixkit.co; Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots (sec. 11 lets Envato terminate the licence on breach). Owner decision 2026-10-24: replace every Mixkit file with a properly licensed equivalent (official APIs / direct-download-permitted sources) and move the Mixkit file to quarantine. Not to be used in any video.",
+   "replaced_by": "03_Assets/Memes_Reactions/failure/reaction_frustrated_man_head_in_hand_vertical_pixabay_272633.mp4",
+   "replacement_log": "02_Research/download_logs/pixabay.json",
+   "replacement_match": "good emotion, different person: man reads a bill, head in hand; native 9:16"
+  },
+  {
+   "file": "03_Assets/_quarantine/mixkit/Memes_Reactions/shock_surprise/reaction_surprised_man_hands_on_head_mixkit.mp4",
+   "category": "reaction",
+   "emotion_tags": [
+    "shock",
+    "surprise",
+    "disbelief"
+   ],
+   "title": "Surprised man grabs his head with both hands",
+   "source_name": "Mixkit",
+   "source_page": "https://mixkit.co/free-stock-video/surprised-man-with-hands-on-head-4508/",
+   "download_url": "https://assets.mixkit.co/videos/4508/4508-1080.mp4",
+   "license_name": "Mixkit Stock Video Free License",
+   "license_url": "https://mixkit.co/license/#videoFree",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "",
+   "bytes": 4975997,
+   "sha256": "55db1d1913acd89897632cd188decfa3be49188253409a89efb2db97ca27ed18",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1920x1080 30.0fps yuv420p 6.00s audio=none",
+   "work": {
+    "film": "Mixkit #4508",
+    "year": null,
+    "country": null,
+    "pd_basis": null
+   },
+   "source_excerpt": {
+    "source_timecode": "full 0:00–0:06",
+    "duration_s": 6.0
+   },
+   "processing": "1080p file downloaded, re-encoded, audio none",
+   "youtube_risk": "Low (see Mixkit note).",
+   "use_cases": "шок / «не может быть!» на неожиданную цифру или поворот",
+   "acquisition": "Fetched by script (curl) from assets.mixkit.co on 2026-10-24 while building the library; about 200 fast requests to mixkit.co pages triggered Cloudflare/429 responses (nothing was bypassed). Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots and overloading the servers; sec. 11 lets Envato terminate the licence on breach.",
+   "publish_gate": "SUPERSEDED 2026-10-24: file quarantined, not used at all (the manual re-download route is closed by the owner decision).",
+   "original_file": "03_Assets/Memes_Reactions/shock_surprise/reaction_surprised_man_hands_on_head_mixkit.mp4",
+   "status": "quarantined",
+   "quarantined_on": "2026-10-24",
+   "quarantine_reason": "Downloaded by script (curl) from assets.mixkit.co; Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots (sec. 11 lets Envato terminate the licence on breach). Owner decision 2026-10-24: replace every Mixkit file with a properly licensed equivalent (official APIs / direct-download-permitted sources) and move the Mixkit file to quarantine. Not to be used in any video.",
+   "replaced_by": "03_Assets/Memes_Reactions/shock_surprise/reaction_shocked_man_hand_over_mouth_4k_pixabay_122389.mp4",
+   "replacement_log": "02_Research/download_logs/pixabay.json",
+   "replacement_match": "good: man on plain studio background, hand over mouth then mouth open in shock; different gesture; 4K"
+  },
+  {
+   "file": "03_Assets/_quarantine/mixkit/Memes_Reactions/comedy_laugh/reaction_man_laughing_closeup_mixkit.mp4",
+   "category": "reaction",
+   "emotion_tags": [
+    "comedy",
+    "laugh",
+    "mockery"
+   ],
+   "title": "Man laughs head-on into the camera",
+   "source_name": "Mixkit",
+   "source_page": "https://mixkit.co/free-stock-video/man-laughing-head-on-closeup-4760/",
+   "download_url": "https://assets.mixkit.co/videos/4760/4760-1080.mp4",
+   "license_name": "Mixkit Stock Video Free License",
+   "license_url": "https://mixkit.co/license/#videoFree",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "",
+   "bytes": 3259063,
+   "sha256": "41f7e29384ab12d50e81378f08fb3000c895558eaec355aed25933f373283602",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1920x1080 25.0fps yuv420p 6.92s audio=none",
+   "work": {
+    "film": "Mixkit #4760",
+    "year": null,
+    "country": null,
+    "pd_basis": null
+   },
+   "source_excerpt": {
+    "source_timecode": "full 0:00–0:06.92",
+    "duration_s": 6.92
+   },
+   "processing": "1080p file downloaded, re-encoded, audio none",
+   "youtube_risk": "Low (see Mixkit note).",
+   "use_cases": "смех над абсурдом, «ха-ха, серьёзно?»; не для насмешки над жертвами",
+   "acquisition": "Fetched by script (curl) from assets.mixkit.co on 2026-10-24 while building the library; about 200 fast requests to mixkit.co pages triggered Cloudflare/429 responses (nothing was bypassed). Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots and overloading the servers; sec. 11 lets Envato terminate the licence on breach.",
+   "publish_gate": "SUPERSEDED 2026-10-24: file quarantined, not used at all (the manual re-download route is closed by the owner decision).",
+   "original_file": "03_Assets/Memes_Reactions/comedy_laugh/reaction_man_laughing_closeup_mixkit.mp4",
+   "status": "quarantined",
+   "quarantined_on": "2026-10-24",
+   "quarantine_reason": "Downloaded by script (curl) from assets.mixkit.co; Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots (sec. 11 lets Envato terminate the licence on breach). Owner decision 2026-10-24: replace every Mixkit file with a properly licensed equivalent (official APIs / direct-download-permitted sources) and move the Mixkit file to quarantine. Not to be used in any video.",
+   "replaced_by": "03_Assets/Memes_Reactions/comedy_laugh/reaction_man_laughing_on_phone_4k_pixabay_204420.mp4",
+   "replacement_log": "02_Research/download_logs/pixabay.json",
+   "replacement_match": "partial: close-up of a man laughing on a phone call, dark background; not head-on to camera"
+  },
+  {
+   "file": "03_Assets/_quarantine/mixkit/Memes_Reactions/disappointment/reaction_sad_confused_man_mixkit.mp4",
+   "category": "reaction",
+   "emotion_tags": [
+    "disappointment",
+    "confusion",
+    "sadness"
+   ],
+   "title": "Sad, confused young man close-up",
+   "source_name": "Mixkit",
+   "source_page": "https://mixkit.co/free-stock-video/face-of-a-sad-and-confused-man-43850/",
+   "download_url": "https://assets.mixkit.co/videos/43850/43850-1080.mp4",
+   "license_name": "Mixkit Stock Video Free License",
+   "license_url": "https://mixkit.co/license/#videoFree",
+   "commercial_ok": true,
+   "attribution_required": false,
+   "attribution_text": "",
+   "bytes": 5039315,
+   "sha256": "267761268cd3b91b28ee38c9de74889a2caa21803bacb92fa6b0d9b58d69c1b6",
+   "format": "MP4 (H.264 High, yuv420p, CRF 17, faststart), video only",
+   "media_info": "h264 1920x1080 23.976fps yuv420p 7.97s audio=none",
+   "work": {
+    "film": "Mixkit #43850",
+    "year": null,
+    "country": null,
+    "pd_basis": null
+   },
+   "source_excerpt": {
+    "source_timecode": "0:00–0:07.95 of 0:14.4",
+    "duration_s": 7.97
+   },
+   "processing": "1080p file downloaded, trimmed, re-encoded, audio none",
+   "youtube_risk": "Low (see Mixkit note).",
+   "use_cases": "разочарование, растерянность, «и что теперь?»",
+   "acquisition": "Fetched by script (curl) from assets.mixkit.co on 2026-10-24 while building the library; about 200 fast requests to mixkit.co pages triggered Cloudflare/429 responses (nothing was bypassed). Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots and overloading the servers; sec. 11 lets Envato terminate the licence on breach.",
+   "publish_gate": "SUPERSEDED 2026-10-24: file quarantined, not used at all (the manual re-download route is closed by the owner decision).",
+   "original_file": "03_Assets/Memes_Reactions/disappointment/reaction_sad_confused_man_mixkit.mp4",
+   "status": "quarantined",
+   "quarantined_on": "2026-10-24",
+   "quarantine_reason": "Downloaded by script (curl) from assets.mixkit.co; Mixkit User Terms sec. 9 forbid mass downloading with scripts or bots (sec. 11 lets Envato terminate the licence on breach). Owner decision 2026-10-24: replace every Mixkit file with a properly licensed equivalent (official APIs / direct-download-permitted sources) and move the Mixkit file to quarantine. Not to be used in any video.",
+   "replaced_by": "03_Assets/Memes_Reactions/disappointment/reaction_sad_man_teary_closeup_1080p_pixabay_122390.mp4",
+   "replacement_log": "02_Research/download_logs/pixabay.json",
+   "replacement_match": "good: tight profile close-up of an older man with teary eyes; profile, less confusion"
+  }
+ ],
+ "date_updated": "2026-10-24",
+ "mixkit_quarantine": {
+  "date": "2026-10-24",
+  "moved_to_quarantine": 4,
+  "quarantine_root": "03_Assets/_quarantine/mixkit/",
+  "replacements_log": "02_Research/download_logs/pixabay.json",
+  "replaced": 4,
+  "not_replaced": [],
+  "note": "Mixkit entries moved from `downloaded` to `quarantined` (path = new location). The new files are logged only in the replacements log, which is the ground truth for them; this log keeps its non-Mixkit files."
+ }
+}

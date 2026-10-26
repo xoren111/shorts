@@ -1,0 +1,29 @@
+{
+ "_doc": "Template test insert: a gold coin spinning once around its vertical axis, seamless loop (24 frames @ 30 fps = 0.8 s, Clip3D mode=\"loop\"). Front: raised star, back: «$» in Anton (template font, OFL). Own render, no external assets. WebP: the template ships it in public/3d/coin for the Gallery composition (≈ 0.9 MB instead of 13 MB PNG).",
+ "name": "coin",
+ "fps": 30,
+ "frames": 24,
+ "size": [1080, 1080],
+ "format": "webp",
+ "engine": "eevee",
+ "samples": 32,
+ "loop": true,
+ "view": "Standard",
+ "world": {"preset": "studio", "strength": 0.95, "ground": "#2a2630", "horizon": "#fff6e0", "top": "#9a93a8"},
+ "materials": {
+  "gold": {"color": "#f2c14e", "metallic": 1, "roughness": 0.3},
+  "gold_dark": {"color": "#c98f22", "metallic": 1, "roughness": 0.34}
+ },
+ "objects": [
+  {"type": "cylinder", "name": "coin", "radius": 1, "depth": 0.14, "vertices": 160, "bevel": 0.025, "bevel_segments": 4,
+   "rotation": [90, 0, 0], "material": "gold", "spin": {"axis": "z", "turns": 1}},
+  {"type": "torus", "name": "rim_front", "parent": "coin", "major": 0.9, "minor": 0.035, "location": [0, 0, 0.07], "material": "gold"},
+  {"type": "torus", "name": "rim_back", "parent": "coin", "major": 0.9, "minor": 0.035, "location": [0, 0, -0.07], "material": "gold"},
+  {"type": "star", "name": "star", "parent": "coin", "points": 5, "outer": 0.58, "inner": 0.25, "depth": 0.05, "bevel": 0.008,
+   "location": [0, 0, 0.075], "material": "gold_dark"},
+  {"type": "text", "name": "dollar", "parent": "coin", "body": "$", "size": 1.15, "extrude": 0.02, "bevel": 0.006,
+   "location": [0, 0, -0.08], "rotation": [0, 180, 0], "material": "gold_dark"}
+ ],
+ "lights": "studio",
+ "camera": {"lens": 60, "location": [0, -6, 0.9], "target": [0, 0, 0], "fill": 0.74}
+}

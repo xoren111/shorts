@@ -1,0 +1,2692 @@
+{
+ "totals": {
+  "D_max_retention": 248,
+  "C_famous_last_words": 236,
+  "B_multiplied": 218,
+  "A_scoreboard": 220
+ },
+ "drafts": [
+  {
+   "key": "A_scoreboard",
+   "angle": "SCOREBOARD: «Humans vs Rabbits» told as five rounds, with a running score that only appears on screen (a toon outback cricket scoreboard). Each round is one human weapon and how the rabbits answered it. R1 the fence: the rabbits got there first and were even scratching to get back (Rabbits 1). R2 the £25,000 prize: Pasteur enters with chicken cholera, nobody wins (Rabbits 2). R3 myxoma 1950: mosquitoes spread it and it kills 99 % of infected rabbits (Humans 1). R4 the rabbits evolve (Rabbits 3). R5 calicivirus breaks out of its island quarantine, probably on flies, and works before the official release (Humans 2, «if you count the flies»). It ends on the final score «so far», which leaves the match open, and a callback: the fence's second career keeping out emus, with «Good luck with that» winking at the emus without stating anything about them.",
+   "title_options": [
+    "Australia vs RABBITS: 5 Rounds",
+    "Rabbits 3, Humans 2: FINAL Score",
+    "Australia Lost 3 Rounds to RABBITS",
+    "Australia vs Rabbits: The SCOREBOARD"
+   ],
+   "hook_alternatives": [
+    "Louis Pasteur once tried to beat Australia's rabbits. With chicken cholera.",
+    "Australia's rabbit virus escaped on flies. The official release came the next year.",
+    "This fence ran from ocean to ocean. The rabbits got there first."
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "vo": "Western Australia built a fence from ocean to ocean.",
+     "seconds_est": 4.9,
+     "visual": "Atlas (three-quarter view) stands at a toon 3D tabletop map of Western Australia under a violet dusk sky. At the first word a glowing fence line starts drawing itself from the Southern Ocean north to the Indian Ocean along the real No. 1 fence path. Atlas tracks it with his pointer.",
+     "visual_kind": "mixed",
+     "asset": "WA government GeoJSON of fences No. 1–3 + Natural Earth coastlines",
+     "text_type": "label",
+     "onscreen_text": "Fence No. 1 · 1,830 km · built 1901–1907",
+     "atlas": "Hook window: neutral to excited, gesture point_stick (pointer prop), following the line as it draws",
+     "sfx": "wire unspooling zip that runs with the line, soft metallic ting when it reaches the Indian Ocean",
+     "fact_ids": [
+      "C1",
+      "C2"
+     ]
+    },
+    {
+     "n": 2,
+     "vo": "The rabbits got there first.",
+     "seconds_est": 2.9,
+     "visual": "Same map, still with the line half drawn: three rabbit icons pop up one after another on the 'safe' west side of the planned line, ahead of the drawing tip.",
+     "visual_kind": "mixed",
+     "asset": "dated rabbit-spread front lines (redrawn after Stodart & Parer 1988) over the WA fence GeoJSON",
+     "text_type": "label",
+     "onscreen_text": "1902",
+     "atlas": "Hook window: surprise_reaction on 'rabbits', settles into sarcastic with look_left at the rabbit icons",
+     "sfx": "three soft cartoon boing pops",
+     "fact_ids": [
+      "C4"
+     ]
+    },
+    {
+     "n": 3,
+     "vo": "Some were even scratching to get back.",
+     "seconds_est": 3.9,
+     "visual": "Slow Ken Burns push along the real 1926 photo of the No. 1 fence running dead straight to the horizon. A toon rabbit cut-out on the near ('safe') side paws at the netting and glances longingly back east.",
+     "visual_kind": "mixed",
+     "asset": "No. 1 fence 1926 photo (PD) + toon 3D rabbit composite",
+     "text_type": "label",
+     "onscreen_text": "inspector's report, 1904",
+     "atlas": "",
+     "sfx": "small scratch-scratch on wire netting, one hopeful sniff",
+     "fact_ids": [
+      "C5"
+     ]
+    },
+    {
+     "n": 4,
+     "vo": "That was round one.",
+     "seconds_est": 2.4,
+     "visual": "Cross-dissolve to a toon 3D wooden outback scoreboard (cricket-ground style) at violet dusk. A tiny rabbit hops up and slots a '1' panel into the RABBITS column.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "HUMANS 0 : 1 RABBITS",
+     "atlas": "",
+     "sfx": "wooden panel clack, distant crowd groan",
+     "fact_ids": [
+      "C10"
+     ]
+    },
+    {
+     "n": 5,
+     "vo": "Round two: a cash prize.",
+     "seconds_est": 2.9,
+     "visual": "Toon 3D: a spotlight comes up on a velvet cushion holding a gold trophy and a fat money bag, which slide toward the camera.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "£25,000 · New South Wales, 1887",
+     "atlas": "",
+     "sfx": "coin jingle, cash-register ding",
+     "fact_ids": [
+      "D4"
+     ]
+    },
+    {
+     "n": 6,
+     "vo": "Louis Pasteur enters, with chicken cholera.",
+     "seconds_est": 3.4,
+     "visual": "Flat cutaway diagram: a bubbling lab flask with a chicken silhouette icon on it sails on a tiny boat across a Sydney Harbour map and docks at little Rodd Island, which lights up. No portrait, no sick animals.",
+     "visual_kind": "diagram",
+     "asset": "Natural Earth coastlines (Sydney Harbour inset); no real image exists for Pasteur's team",
+     "text_type": "label",
+     "onscreen_text": "Rodd Island, Sydney",
+     "atlas": "",
+     "sfx": "glass clink, soft bubbling, small boat horn",
+     "fact_ids": [
+      "D5"
+     ]
+    },
+    {
+     "n": 7,
+     "vo": "Nobody ever wins.",
+     "seconds_est": 1.9,
+     "visual": "Toon 3D: the camera pulls back from the trophy, now under a cobweb with dust settling, to the scoreboard behind it. The RABBITS panel flips to 2.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "HUMANS 0 : 2 RABBITS",
+     "atlas": "",
+     "sfx": "lonely wind gust, wooden panel clack",
+     "fact_ids": [
+      "D4",
+      "D5"
+     ]
+    },
+    {
+     "n": 8,
+     "vo": "Round three: a virus.",
+     "seconds_est": 2.4,
+     "visual": "Slow push-in on the real myxoma virus electron micrograph, tinted in channel violet and cream.",
+     "visual_kind": "photo",
+     "asset": "myxoma virus electron micrograph (CC BY)",
+     "text_type": "label",
+     "onscreen_text": "Myxoma virus · 1950",
+     "atlas": "",
+     "sfx": "low synth whoosh",
+     "fact_ids": [
+      "D6",
+      "D7"
+     ]
+    },
+    {
+     "n": 9,
+     "vo": "A wet summer, clouds of mosquitoes, and the virus explodes.",
+     "seconds_est": 5.4,
+     "visual": "Map of south-eastern Australia: rain streaks fall on the Murray Valley, a stylised particle cloud of mosquito icons rises along the rivers, and an outbreak zone grows outward to a rectangle about 1,760 × 1,600 km.",
+     "visual_kind": "map",
+     "asset": "Natural Earth coastlines/rivers",
+     "text_type": "label",
+     "onscreen_text": "in 9 weeks: ≈ 1,760 × 1,600 km",
+     "atlas": "",
+     "sfx": "rain patter swelling into a mosquito buzz, then a soft whump as the zone expands",
+     "fact_ids": [
+      "D7"
+     ]
+    },
+    {
+     "n": 10,
+     "vo": "It kills ninety-nine percent of infected rabbits.",
+     "seconds_est": 3.9,
+     "visual": "Abstract flat diagram: a 10×10 grid of cream rabbit icons labeled as infected; 99 softly fade to pale outlines and one stays bright. KEYFACT big number over it; the subtitle for this phrase is hidden.",
+     "visual_kind": "diagram",
+     "asset": "none",
+     "text_type": "keyfact",
+     "onscreen_text": "99 % of infected rabbits",
+     "atlas": "",
+     "sfx": "soft descending three-note chime",
+     "fact_ids": [
+      "D8"
+     ]
+    },
+    {
+     "n": 11,
+     "vo": "Round four: the rabbits evolve.",
+     "seconds_est": 2.9,
+     "visual": "Back to the toon scoreboard: the HUMANS panel flips to 1 (round three's point). A smug toon rabbit hops onto the board's ledge, a shimmer passes over it, and cartoon virus specks bounce off it like rain off an umbrella. The RABBITS panel then flips to 3.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "HUMANS 1 : 2 RABBITS → HUMANS 1 : 3 RABBITS",
+     "atlas": "",
+     "sfx": "short crowd cheer cut off by a boing-boing of bouncing specks, then a wooden clack",
+     "fact_ids": [
+      "D6",
+      "D8",
+      "D10"
+     ]
+    },
+    {
+     "n": 12,
+     "vo": "Round five: another virus, locked up on an island.",
+     "seconds_est": 4.9,
+     "visual": "Ken Burns over the real Wardang Island aerial, then a cross-dissolve to toon 3D quarantine pens on the island with a padlocked gate.",
+     "visual_kind": "mixed",
+     "asset": "Wardang Island aerial 2019 (CC BY-SA) + toon 3D pens",
+     "text_type": "label",
+     "onscreen_text": "Wardang Island, South Australia · 1995",
+     "atlas": "",
+     "sfx": "seagulls, heavy padlock click",
+     "fact_ids": [
+      "D12"
+     ]
+    },
+    {
+     "n": 13,
+     "vo": "It escapes, probably on flies.",
+     "seconds_est": 2.9,
+     "visual": "Toon 3D: a few cartoon flies lift off from the pens trailing tiny glowing specks and buzz across the strait toward the mainland. A dotted arrow traces their path on a map overlay.",
+     "visual_kind": "mixed",
+     "asset": "Natural Earth coastlines (Spencer Gulf / Yorke Peninsula) + toon 3D flies",
+     "text_type": "label",
+     "onscreen_text": "planned release: 1998",
+     "atlas": "",
+     "sfx": "fly buzz that pans left to right",
+     "fact_ids": [
+      "D12"
+     ]
+    },
+    {
+     "n": 14,
+     "vo": "And it works.",
+     "seconds_est": 1.9,
+     "visual": "Map of Australia with a warm rabbit-density heat layer that dims across the whole country.",
+     "visual_kind": "map",
+     "asset": "Natural Earth coastlines",
+     "text_type": "label",
+     "onscreen_text": "≈ 60 % fewer rabbits",
+     "atlas": "",
+     "sfx": "soft downward whoosh",
+     "fact_ids": [
+      "D14"
+     ]
+    },
+    {
+     "n": 15,
+     "vo": "The official release? The next year.",
+     "seconds_est": 3.8,
+     "visual": "Toon 3D mini ceremony: a ribbon, a tiny podium and a crate whose lid opens so that six toon rabbits hop out (no sick animals). On 'The next year' the camera reveals the Western Australia map on the wall behind, already shaded where the virus got there first.",
+     "visual_kind": "mixed",
+     "asset": "WA map from Natural Earth / WA GeoJSON as the backdrop, toon 3D ceremony",
+     "text_type": "label",
+     "onscreen_text": "WA, Oct 1996: already in 30+ shires",
+     "atlas": "KEY MOMENT window: Atlas in the lower corner, skeptical on 'The official release?', then facepalm on 'The next year.'",
+     "sfx": "thin polite applause, one deflating party-horn squeak",
+     "fact_ids": [
+      "D13",
+      "D12"
+     ]
+    },
+    {
+     "n": 16,
+     "vo": "Final score, so far: rabbits three, humans two, if you count the flies.",
+     "seconds_est": 6.9,
+     "visual": "Atlas front view beside the big toon scoreboard as the final score lands as a KEYFACT. A cartoon fly lands and sits on one of the HUMANS points. The subtitle for the score phrase is hidden.",
+     "visual_kind": "atlas",
+     "asset": "none",
+     "text_type": "keyfact",
+     "onscreen_text": "HUMANS 2 : 3 RABBITS",
+     "atlas": "ENDING window: sarcastic, count_three on 'rabbits three', then shrug and a skeptical glance at the fly on 'if you count the flies'",
+     "sfx": "final heavy wooden clack, a single fly buzz that stops when it lands",
+     "fact_ids": [
+      "C10",
+      "D4",
+      "D8",
+      "D10",
+      "D12",
+      "D14",
+      "D16",
+      "B5"
+     ]
+    },
+    {
+     "n": 17,
+     "vo": "The fence got a new job: keeping out emus.",
+     "seconds_est": 4.9,
+     "visual": "Slow vertical Ken Burns up the real photo of today's State Barrier Fence on red dirt. A toon emu struts into frame and stops at the wire.",
+     "visual_kind": "mixed",
+     "asset": "State Barrier Fence today, vertical, red dirt (CC BY-SA) + toon 3D emu",
+     "text_type": "label",
+     "onscreen_text": "State Barrier Fence, today · 1,300+ km",
+     "atlas": "ENDING window: Atlas small in the corner, look_left at the fence, thinking",
+     "sfx": "emu footsteps, soft wire twang",
+     "fact_ids": [
+      "C11"
+     ]
+    },
+    {
+     "n": 18,
+     "vo": "Good luck with that.",
+     "seconds_est": 2.4,
+     "visual": "Atlas close-up (front) as the toon emu peers over the fence behind him, then a cross-dissolve to the end card with the scoreboard.",
+     "visual_kind": "atlas",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "ENDING window: wink, slight smile (happy)",
+     "sfx": "low emu drumming boom, small wink ting",
+     "fact_ids": [
+      "C11"
+     ]
+    }
+   ],
+   "vo_text": "Western Australia built a fence from ocean to ocean.\nThe rabbits got there first.\nSome were even scratching to get back.\nThat was round one.\nRound two: a cash prize.\nLouis Pasteur enters, with chicken cholera.\nNobody ever wins.\nRound three: a virus.\nA wet summer, clouds of mosquitoes, and the virus explodes.\nIt kills ninety-nine percent of infected rabbits.\nRound four: the rabbits evolve.\nRound five: another virus, locked up on an island.\nIt escapes, probably on flies.\nAnd it works.\nThe official release? The next year.\nFinal score, so far: rabbits three, humans two, if you count the flies.\nThe fence got a new job: keeping out emus.\nGood luck with that.",
+   "word_count": 114,
+   "char_count": 660,
+   "est_seconds": 64.6,
+   "atlas_windows": "1) HOOK, lines 1–2 (~7.8 s): Atlas three-quarter at the toon WA map with the pointer as the fence draws itself, then surprise_reaction turning sarcastic when the rabbits appear on the safe side. 2) KEY MOMENT, line 15 (~3.8 s): Atlas in a corner of the release ceremony, skeptical on «The official release?», facepalm on «The next year.» 3) ENDING, lines 16–18 (~14.2 s): front view at the final scoreboard (count_three, then a shrug at the fly), small in the corner looking at the State Barrier Fence photo, then a close-up wink on «Good luck with that.» Atlas is off screen for all other lines.",
+   "why_it_works": "It opens on the freshest irony (the fence was beaten before it was finished) instead of the saturated «24 rabbits» opener, and the payoff lands by second 4. The series «Humans vs …» spine (rounds and a final score, as in ep. 1 «Humans two, volcano zero») is new for this topic: no competitor keeps score. The score lives only on the toon scoreboard, so the voice never says a point; the spoken final score is the one KEYFACT, with its subtitle hidden. Every label adds something the voice does not say (1,830 km, 1902, £25,000, Rodd Island, 1950, the outbreak area, planned release 1998, 30+ shires). Humour is Silas-dry understatement: «got there first», «even scratching to get back», «Nobody ever wins», «locked up on an island… It escapes», the bureaucratic «The official release? The next year», «if you count the flies». The emu line winks at the famous Emu War without stating it or claiming the fence beat emus. «So far» keeps the open ending (about 200 million rabbits still, and a new weapon needed every 10–15 years) in two words. Hedges kept: «probably on flies», «infected rabbits», «≈ 60 %». No DO-NOT-SAY item is used. Rounds 1–2 are told out of date order (fence 1901–07, then the 1887 prize); the 1887 label makes the flashback honest. Budget: 114 words / 660 characters, counted with a tool, inside the 105–120 / ≤ 690 limits. est_seconds = 64.6 s comes from the requested formula (words/2.0 + 0.4 s per sentence; 21 sentence ends). The brief's measured rates already include pauses (2.0 w/s → 57 s; 11.5 c/s → 57.4 s), so it should land around 57–58 s. If the formula figure must be ≤ 60, the first cut is line 3 (−3.9 s)."
+  },
+  {
+   "key": "B_multiplied",
+   "angle": "ANGLE B — «They multiplied before they landed»: a cold open on the clipper Lightning (13 rabbits got on, 24 got off, family records say they \"probably\" bred aboard). Then a two-line burst of rabbit math and spread, then four \"rounds\" of human weapons, each beaten in a sillier way: a cash prize nobody won (Pasteur's chicken cholera), a fence the rabbits got past before it was finished (then tried to dig back), a virus the rabbits evolved around, and a quarantined virus that escaped on flies before its own official release. It ends open: an estimated two hundred million rabbits and a new weapon needed every 10–15 years, \"the match isn't over\". Arrival is 9.6 s (16 %). The war plus the ending is 41.4 s (69 %).",
+   "title_options": [
+    "Australia vs Rabbits: 4 ROUNDS",
+    "Australia Tried 4 WEAPONS on Rabbits",
+    "Australia's Rabbits: 13 Boarded, 24 LANDED",
+    "Australia vs Rabbits: Round 5 COMING"
+   ],
+   "hook_alternatives": [
+    "This ship left England with thirteen rabbits. It arrived with twenty-four.",
+    "The rabbits started winning before their ship even landed.",
+    "Thirteen rabbits. Eighty days at sea. Twenty-four got off."
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "vo": "Thirteen rabbits got on this ship.",
+     "seconds_est": 3.4,
+     "visual": "Frame 1 is already moving. Toon 3D English dock under a violet dusk with cream clouds: a three-masted clipper modeled on the Lightning lithograph, and 13 rabbits hopping up the gangplank in single file. Atlas in the foreground, three-quarter view, taps the ship with his pointer.",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "England · October 1859",
+     "atlas": "W1 hook: excited, gesture point_stick (prop pointer) at the ship, head three-quarter",
+     "sfx": "ship's bell, one gull, soft hop thumps on wood",
+     "fact_ids": [
+      "A3",
+      "A1"
+     ]
+    },
+    {
+     "n": 2,
+     "vo": "Twenty-four got off.",
+     "seconds_est": 1.9,
+     "visual": "Match cut on the same gangplank, now at a Melbourne quay. A much longer line of rabbits hops DOWN, filling the frame. Atlas does a double take in the lower corner.",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Melbourne · Christmas Day 1859",
+     "atlas": "W1 hook: surprised, gesture surprise_reaction, in the lower corner",
+     "sfx": "faster patter of hops, one comedic wood creak",
+     "fact_ids": [
+      "A1",
+      "A3"
+     ]
+    },
+    {
+     "n": 3,
+     "vo": "Family records say they bred aboard.",
+     "seconds_est": 3.4,
+     "visual": "The real clipper Lightning lithograph, Ken Burns along the hull. A flat cutaway opens the hold to show one crate in which tiny baby rabbits pop up one by one (cute, no counter).",
+     "visual_kind": "mixed",
+     "asset": "clipper Lightning lithograph/painting (PD)",
+     "text_type": "label",
+     "onscreen_text": "80 days at sea",
+     "atlas": "W1 hook: small in the lower-right corner, thinking, look_left toward the cutaway",
+     "sfx": "creaking hull, three soft pops",
+     "fact_ids": [
+      "A3"
+     ]
+    },
+    {
+     "n": 4,
+     "vo": "Probably.",
+     "seconds_est": 0.9,
+     "visual": "Cut to Atlas full frame against the violet sky: he raises one eyebrow, then shrugs. This closes the hook.",
+     "visual_kind": "atlas",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "W1 hook: skeptical, gesture shrug, head front",
+     "sfx": "single low cello pluck",
+     "fact_ids": [
+      "A3"
+     ]
+    },
+    {
+     "n": 5,
+     "vo": "Each mom: up to thirty babies a year.",
+     "seconds_est": 4.4,
+     "visual": "Animated flat cutaway of a warren: one mother rabbit at the left, and small litters of rabbit icons pop into a 12-month strip that fills from left to right (icons only, no counter).",
+     "visual_kind": "diagram",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Breeding from 4 months old",
+     "atlas": "",
+     "sfx": "rhythmic soft pops, quickening",
+     "fact_ids": [
+      "A7"
+     ]
+    },
+    {
+     "n": 6,
+     "vo": "In seventy years: seventy percent of Australia.",
+     "seconds_est": 3.9,
+     "visual": "Australia map (Natural Earth coastline, ochre land). Dated spread fronts sweep out of Geelong in waves and cover about 70 % of the continent. The KEYFACT settles over the outback.",
+     "visual_kind": "map",
+     "asset": "Natural Earth coastlines + dated rabbit-spread front lines (redrawn after Stodart & Parer 1988)",
+     "text_type": "keyfact",
+     "onscreen_text": "≈ 70 % of Australia",
+     "atlas": "",
+     "sfx": "low soft whoosh with each front",
+     "fact_ids": [
+      "B3"
+     ]
+    },
+    {
+     "n": 7,
+     "vo": "Round one, a prize: Pasteur sent chicken cholera.",
+     "seconds_est": 4.4,
+     "visual": "Toon 3D: tiny Rodd Island in Sydney Harbour at violet dusk. A boat pulls up and a crate stenciled with a chicken icon is carried into a little lab hut.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "£25,000 · 1887",
+     "atlas": "",
+     "sfx": "boxing-style round bell (soft), coin clink, a distant cluck",
+     "fact_ids": [
+      "D4",
+      "D5"
+     ]
+    },
+    {
+     "n": 8,
+     "vo": "Nobody won.",
+     "seconds_est": 1.4,
+     "visual": "Toon 3D: the prize money bag alone on a podium. A rabbit hops up and calmly sits on it.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Nearly 1,500 entries",
+     "atlas": "",
+     "sfx": "one cricket chirp",
+     "fact_ids": [
+      "D4"
+     ]
+    },
+    {
+     "n": 9,
+     "vo": "Round two, a fence: rabbits beat it to the safe side.",
+     "seconds_est": 5.9,
+     "visual": "The real 1926 photo of fence No. 1 running dead straight to the horizon. The camera rises and the photo dissolves into a WA map (GeoJSON) with the protected west tinted green. The fence line keeps drawing north from the Southern Ocean toward the Indian Ocean, and rabbit dots are already popping up on the green side before the line is complete.",
+     "visual_kind": "mixed",
+     "asset": "No. 1 fence 1926, dead straight to the horizon (PD) + WA government GeoJSON of fences No. 1–3",
+     "text_type": "label",
+     "onscreen_text": "1,830 km",
+     "atlas": "",
+     "sfx": "soft round bell, taut wire twang, tiny pops for the dots",
+     "fact_ids": [
+      "C1",
+      "C2",
+      "C4"
+     ]
+    },
+    {
+     "n": 10,
+     "vo": "Tracks show them scratching to get back.",
+     "seconds_est": 3.9,
+     "visual": "Toon 3D close-up of the netting at the foot of the fence on red dirt: paw tracks and scratch marks on the 'safe' side, all pointing back east through the wire. Atlas leans in with a magnifier, freezes, then facepalms.",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "W2 key moment: prop magnifier, surprised, then gesture facepalm, head three-quarter",
+     "sfx": "scratch-scratch on wire, soft wire rattle",
+     "fact_ids": [
+      "C5"
+     ]
+    },
+    {
+     "n": 11,
+     "vo": "Round three, a virus: ninety-nine percent of infected rabbits died.",
+     "seconds_est": 5.4,
+     "visual": "The real myxoma electron micrograph shrinks into a single violet dot over the Murray Valley on a SE Australia map. A soft violet bloom spreads outward across a vast area, as if carried by mosquitoes (abstract, no animals shown), and the KEYFACT rises over it.",
+     "visual_kind": "mixed",
+     "asset": "myxoma virus electron micrograph (CC BY) + Natural Earth coastlines",
+     "text_type": "keyfact",
+     "onscreen_text": "99 % of infected rabbits",
+     "atlas": "",
+     "sfx": "soft round bell, thin mosquito whine, low hum swell",
+     "fact_ids": [
+      "D6",
+      "D7",
+      "D8"
+     ]
+    },
+    {
+     "n": 12,
+     "vo": "Rabbits evolved resistance.",
+     "seconds_est": 1.9,
+     "visual": "A real wild rabbit close-up (Ken Burns). A flat diagram shield outline draws around it and a virus icon bounces off.",
+     "visual_kind": "mixed",
+     "asset": "wild rabbit close-ups (CC0/CC BY-SA)",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "",
+     "sfx": "soft 'tink' ricochet",
+     "fact_ids": [
+      "D10"
+     ]
+    },
+    {
+     "n": 13,
+     "vo": "Round four, a quarantined virus: it escaped, probably on flies.",
+     "seconds_est": 5.4,
+     "visual": "The real 2019 aerial photo of Wardang Island pushes in on the small fenced pens. A loose cloud of cartoon flies (cut-out) lifts off and drifts over the water toward the mainland at the frame edge.",
+     "visual_kind": "mixed",
+     "asset": "Wardang Island aerial 2019 (CC BY-SA)",
+     "text_type": "label",
+     "onscreen_text": "Wardang Island · 1995",
+     "atlas": "",
+     "sfx": "soft round bell, swelling fly buzz that drifts off screen",
+     "fact_ids": [
+      "D12"
+     ]
+    },
+    {
+     "n": 14,
+     "vo": "Then… the official release.",
+     "seconds_est": 2.4,
+     "visual": "Toon 3D ceremony: officials in hats cut a ribbon on a podium. The camera pulls back to show a big WA map behind them in which dozens of shires are already shaded violet.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Western Australia · Oct 1996",
+     "atlas": "",
+     "sfx": "ribbon snip, polite thin applause, one stray fly buzz",
+     "fact_ids": [
+      "D13"
+     ]
+    },
+    {
+     "n": 15,
+     "vo": "Today: an estimated two hundred million.",
+     "seconds_est": 3.4,
+     "visual": "The real colour CSIRO photo of rabbits at a warren, slow Ken Burns pull-out to show more and more rabbits. The KEYFACT settles at the top.",
+     "visual_kind": "photo",
+     "asset": "colour CSIRO rabbits at a warren (CC BY)",
+     "text_type": "keyfact",
+     "onscreen_text": "≈ 200 million (est.)",
+     "atlas": "",
+     "sfx": "outback wind, faint magpie call",
+     "fact_ids": [
+      "B5"
+     ]
+    },
+    {
+     "n": 16,
+     "vo": "Scientists need a new weapon every ten to fifteen years.",
+     "seconds_est": 5.4,
+     "visual": "Animated flat timeline: virus icons at 1950, 1995 and 2015, then an empty '?' slot that glows softly (no flash). Atlas steps in and taps the '?' with his pointer.",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "W3 ending: thinking, then gesture point_stick (prop pointer) at the '?' slot, head three-quarter",
+     "sfx": "soft ticks as each icon lands, gentle rising tone on the '?'",
+     "fact_ids": [
+      "D16",
+      "D6",
+      "D12",
+      "D15"
+     ]
+    },
+    {
+     "n": 17,
+     "vo": "The match isn't over.",
+     "seconds_est": 2.4,
+     "visual": "The real 1884 cartoon of rabbits playing tennis over a netting fence (Ken Burns onto the ball in mid-air). Atlas full frame beside it turns to camera and winks. The 'match' pun lands visually.",
+     "visual_kind": "mixed",
+     "asset": "1884 cartoon «Stevenson's Wire Fence» (PD)",
+     "text_type": "label",
+     "onscreen_text": "Cartoon, 1884",
+     "atlas": "W3 ending: sarcastic, gesture wink, head front",
+     "sfx": "single tennis-ball 'pok', calm bed out",
+     "fact_ids": []
+    }
+   ],
+   "vo_text": "Thirteen rabbits got on this ship. Twenty-four got off.\nFamily records say they bred aboard. Probably.\nEach mom: up to thirty babies a year.\nIn seventy years: seventy percent of Australia.\nRound one, a prize: Pasteur sent chicken cholera. Nobody won.\nRound two, a fence: rabbits beat it to the safe side.\nTracks show them scratching to get back.\nRound three, a virus: ninety-nine percent of infected rabbits died.\nRabbits evolved resistance.\nRound four, a quarantined virus: it escaped, probably on flies.\nThen… the official release.\nToday: an estimated two hundred million.\nScientists need a new weapon every ten to fifteen years.\nThe match isn't over.",
+   "word_count": 106,
+   "char_count": 653,
+   "est_seconds": 59.8,
+   "atlas_windows": "W1 HOOK, beats 1–4 (0.0–9.6 s): Atlas points his pointer at the toon clipper as 13 rabbits board (excited). He does a surprise_reaction in the corner as 24 come down. He sits small in a corner, thinking, during the hold cutaway. He ends full frame with a skeptical eyebrow and a shrug on «Probably.» W2 KEY MOMENT, beat 10 (29.6–33.5 s): he inspects the scratch tracks at the fence with a magnifier (surprised), then facepalms. W3 ENDING, beats 16–17 (52.0–59.8 s): he taps the empty '?' slot on the weapons timeline with his pointer (thinking), then winks beside the 1884 rabbit-tennis cartoon on «The match isn't over.» Atlas does not appear anywhere else.",
+   "why_it_works": "The opening is a numbers puzzle, not the saturated «24 rabbits ruined Australia» line: 13 on, 24 off, said in the first 2 s over moving toon rabbits and Atlas pointing. The dry «Probably.» sets the Silas tone, and it comes back later in «probably on flies». The rounds format (fresh, nobody uses a score) turns 160 years into four quick fights. Each one is beaten in a sillier way: a contest nobody won, rabbits on the safe side before the fence was finished and then digging back, evolution, and a virus that escaped before its own release. The 1884 rabbits-playing-tennis cartoon makes «The match isn't over» a visual pun and leaves the series open for a round five. Every claim maps to a FACTS ID with its hedge kept: «family records say/probably», «up to», «infected rabbits», «probably on flies», «an estimated». Nothing from the DO-NOT-SAY list is used (no fastest-mammal claim, no longest fence, no east-west, no 99 % of all rabbits, no foxes or cats, no film). The fence is drawn north–south inside WA. No sick or dead animals are shown; the virus beats are abstract maps and diagrams. Labels only add unspoken dates, places, amounts and the source year. There are three KEYFACTs with subtitles hidden, and each keeps its hedge (≈, est., of infected). Budget, counted with a tool: 106 words, 653 characters, 17 sentences, so 53.0 s + 6.8 s of pauses = 59.8 s by the conservative formula. At the measured episode-1 pace (2.0 w/s including pauses, or 11.5 ch/s) it is about 53–57 s."
+  },
+  {
+   "key": "C_famous_last_words",
+   "angle": "C: «Famous Last Words». Humans make three confident plans against Australia's rabbits, and each one backfires with a dry, ironic twist. (1) The record fence: rabbits were already on the «safe» side and were scratching to get back, yet it was still called the longest unbroken fence in the world, and its boss said there was practically nothing to fear. (2) The £25,000 prize: Louis Pasteur entered with chicken cholera, the rules protected the farm animals but forgot birds, and nobody won. (3) The quarantined virus: it escaped three years early, probably on flies, and the virus got there before the official release ceremony. It ends on one more famous last word, «Surely the next one's foolproof.» The script does not use the saturated «24 rabbits» chronology anywhere.",
+   "title_options": [
+    "Australia's Rabbit Fence Worked BACKWARDS",
+    "3 Times Rabbits OUTSMARTED Australia",
+    "Australia vs Rabbits: 3 FAMOUS Last Words",
+    "Australia Lost to Rabbits 3 TIMES"
+   ],
+   "hook_alternatives": [
+    "This fence lost to rabbits before it was even finished.",
+    "Australia once held a release ceremony for a virus that had already escaped.",
+    "Louis Pasteur tried to beat Australia's rabbits. With chicken cholera."
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "vo": "Australia built a fence to stop rabbits.",
+     "seconds_est": 3.9,
+     "visual": "Toon 3D, violet dusk, red dirt. A wire-netting fence zips up out of the ground and races away to the horizon. Atlas stands proudly beside it, holding his pointer toward it.",
+     "visual_kind": "atlas",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "HOOK window. Three-quarter view, emotion happy/smug, gesture point_stick (prop pointer) aimed along the fence.",
+     "sfx": "taut-wire zing as the fence races out",
+     "fact_ids": [
+      "C1"
+     ]
+    },
+    {
+     "n": 2,
+     "vo": "They were already on the other side.",
+     "seconds_est": 3.9,
+     "visual": "The camera swings over the fence to the 'safe' green side. Dozens of toon rabbits are already there, munching. Smooth dissolve, no whip.",
+     "visual_kind": "atlas",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Western Australia · 1902",
+     "atlas": "HOOK window continues. look_right toward the rabbits, then shrug, emotion sarcastic.",
+     "sfx": "soft munching, one cartoon boing",
+     "fact_ids": [
+      "C1",
+      "C4"
+     ]
+    },
+    {
+     "n": 3,
+     "vo": "Tracks showed them scratching to get back.",
+     "seconds_est": 3.9,
+     "visual": "Toon 3D close-up at the base of the netting on the green side: fresh scratch tracks appear in the dirt, digging back toward the side the rabbits came from. One rabbit's fluffy rear wiggles at the hole.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "1904 · 15–20 miles on the 'safe' side",
+     "atlas": "",
+     "sfx": "scritch-scratch digging",
+     "fact_ids": [
+      "C5"
+     ]
+    },
+    {
+     "n": 4,
+     "vo": "The fence worked, backwards.",
+     "seconds_est": 2.4,
+     "visual": "Flat top-down diagram on the WA map. The No. 1 fence line is drawn, and a rabbit arrow pointing west bounces off the fence, then flips round to point east and bounces off again.",
+     "visual_kind": "diagram",
+     "asset": "WA government GeoJSON of fences No. 1–3",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "",
+     "sfx": "soft tape-rewind zwip",
+     "fact_ids": [
+      "C5",
+      "C10"
+     ]
+    },
+    {
+     "n": 5,
+     "vo": "They called it the longest unbroken fence in the world.",
+     "seconds_est": 5.4,
+     "visual": "Real archive photo: the No. 1 fence in 1926, dead straight to the horizon. A slow Ken Burns push down the line.",
+     "visual_kind": "photo",
+     "asset": "No. 1 fence 1926, dead straight to the horizon (PD)",
+     "text_type": "label",
+     "onscreen_text": "No. 1 Fence · 1,830 km · finished 1907",
+     "atlas": "",
+     "sfx": "wind across the plain, faint wire hum",
+     "fact_ids": [
+      "C2"
+     ]
+    },
+    {
+     "n": 6,
+     "vo": "Its boss was sure: practically nothing to fear.",
+     "seconds_est": 4.4,
+     "visual": "Toon 3D: a farmer dozes in a deckchair on the lush side of the fence. Behind him, one pair of rabbit ears slowly rises out of the grass.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Chief inspector Alex Crawford · 1907",
+     "atlas": "",
+     "sfx": "birdsong, gentle snore, tiny pop as the ears rise",
+     "fact_ids": [
+      "C7"
+     ]
+    },
+    {
+     "n": 7,
+     "vo": "Earlier, a prize: twenty-five thousand pounds.",
+     "seconds_est": 3.4,
+     "visual": "Toon 3D: a huge cartoon money bag with a rabbit silhouette on it thuds onto a wooden desk, and the big number lands above it. The subtitle is hidden for this phrase.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "keyfact",
+     "onscreen_text": "£25,000",
+     "atlas": "",
+     "sfx": "heavy coin-bag thud with a jingle",
+     "fact_ids": [
+      "D4"
+     ]
+    },
+    {
+     "n": 8,
+     "vo": "Louis Pasteur entered, with chicken cholera.",
+     "seconds_est": 3.4,
+     "visual": "Toon 3D: a tiny island in Sydney Harbour with a little lab hut. Its windows light up, and a germ-flask icon glows inside. No people are shown.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Rodd Island, Sydney · 1888",
+     "atlas": "",
+     "sfx": "harbour gulls, glass clink",
+     "fact_ids": [
+      "D5"
+     ]
+    },
+    {
+     "n": 9,
+     "vo": "The rules protected sheep, horses, dogs.",
+     "seconds_est": 3.4,
+     "visual": "Animated flat diagram: six farm-animal silhouettes pop in one by one (horse, sheep, camel, goat, pig, dog), and each gets a little shield.",
+     "visual_kind": "diagram",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "",
+     "sfx": "six soft shield dings",
+     "fact_ids": [
+      "D5"
+     ]
+    },
+    {
+     "n": 10,
+     "vo": "They forgot birds.",
+     "seconds_est": 1.9,
+     "visual": "Atlas, front view, beside the shield diagram. A cartoon chicken struts past the six shields with no shield of its own while Atlas facepalms.",
+     "visual_kind": "atlas",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "KEY MOMENT window. Front view, emotion sarcastic, gesture facepalm.",
+     "sfx": "single chicken cluck, soft facepalm pat",
+     "fact_ids": [
+      "D5"
+     ]
+    },
+    {
+     "n": 11,
+     "vo": "Nobody won.",
+     "seconds_est": 1.4,
+     "visual": "Toon 3D: the £25,000 money bag sits untouched on its pedestal, and the spotlight above it clicks off.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "nearly 1,500 entries",
+     "atlas": "",
+     "sfx": "spotlight click-off, lone cricket",
+     "fact_ids": [
+      "D4"
+     ]
+    },
+    {
+     "n": 12,
+     "vo": "Then a virus, quarantined on an island.",
+     "seconds_est": 3.9,
+     "visual": "Map dive from South Australia's coastline down to Wardang Island, which cross-dissolves into the real 2019 aerial photo with a slow Ken Burns. The virus is never shown on an animal.",
+     "visual_kind": "mixed",
+     "asset": "Wardang Island aerial 2019 (CC BY-SA); Natural Earth coastlines",
+     "text_type": "label",
+     "onscreen_text": "Rabbit calicivirus · Wardang Island · 1995",
+     "atlas": "",
+     "sfx": "sea wind, metal gate clank",
+     "fact_ids": [
+      "D12"
+     ]
+    },
+    {
+     "n": 13,
+     "vo": "It escaped three years early, probably on flies.",
+     "seconds_est": 4.4,
+     "visual": "Animated map diagram: friendly cartoon flies lift glowing abstract virus dots off the island and carry them along a dotted path across the water to the mainland.",
+     "visual_kind": "diagram",
+     "asset": "Natural Earth coastlines",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "",
+     "sfx": "rising cartoon fly buzz",
+     "fact_ids": [
+      "D12"
+     ]
+    },
+    {
+     "n": 14,
+     "vo": "Later came the official release ceremony.",
+     "seconds_est": 3.4,
+     "visual": "Toon 3D: a small outdoor stage with bunting and a podium in the red dirt. A ribbon is snipped in front of a closed wooden crate, and no animals are visible.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Western Australia · October 1996",
+     "atlas": "",
+     "sfx": "polite small-crowd applause, scissors snip",
+     "fact_ids": [
+      "D13"
+     ]
+    },
+    {
+     "n": 15,
+     "vo": "The virus got there first.",
+     "seconds_est": 2.9,
+     "visual": "Map of Western Australia: abstract virus dots already speckle the south-west, then the ceremony pin pops in, tiny, in the middle of them.",
+     "visual_kind": "map",
+     "asset": "Natural Earth coastlines",
+     "text_type": "label",
+     "onscreen_text": "already in 30+ shires",
+     "atlas": "",
+     "sfx": "deflating party horn",
+     "fact_ids": [
+      "D13"
+     ]
+    },
+    {
+     "n": 16,
+     "vo": "Scientists say Australia needs a new weapon every ten to fifteen years.",
+     "seconds_est": 6.4,
+     "visual": "Atlas, three-quarter view, points his pointer at a flat timeline behind him with icons for the fence, the prize and the virus. New empty slots keep appearing further along the line at regular intervals.",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "ENDING window. Three-quarter view, emotion thinking then skeptical, gesture point_stick (prop pointer) along the timeline.",
+     "sfx": "slow clock tick",
+     "fact_ids": [
+      "D16"
+     ]
+    },
+    {
+     "n": 17,
+     "vo": "Surely the next one's foolproof.",
+     "seconds_est": 2.9,
+     "visual": "Atlas turns to camera and winks. A toon rabbit pops up from a burrow beside his boot and stares at the viewer. Final calm hold, then a dissolve to the end card.",
+     "visual_kind": "atlas",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "ENDING window continues. Front view, emotion sarcastic, gesture wink.",
+     "sfx": "soft burrow pop, tiny rabbit squeak",
+     "fact_ids": [
+      "D16",
+      "C10"
+     ]
+    }
+   ],
+   "vo_text": "Australia built a fence to stop rabbits.\nThey were already on the other side.\nTracks showed them scratching to get back.\nThe fence worked, backwards.\nThey called it the longest unbroken fence in the world.\nIts boss was sure: practically nothing to fear.\nEarlier, a prize: twenty-five thousand pounds.\nLouis Pasteur entered, with chicken cholera.\nThe rules protected sheep, horses, dogs.\nThey forgot birds.\nNobody won.\nThen a virus, quarantined on an island.\nIt escaped three years early, probably on flies.\nLater came the official release ceremony.\nThe virus got there first.\nScientists say Australia needs a new weapon every ten to fifteen years.\nSurely the next one's foolproof.",
+   "word_count": 109,
+   "char_count": 680,
+   "est_seconds": 61.3,
+   "atlas_windows": "1) HOOK, lines 1–2 (about 0–7.8 s): Atlas stands by the fence as it races out, pointer aimed along it (smug), then sees the rabbits already on the safe side (look_right, shrug, sarcastic). 2) KEY MOMENT, line 10 «They forgot birds.» (about 34.1–36.0 s): front view, facepalm, while a chicken struts past the shields. 3) ENDING, lines 16–17 (about 52.0–61.3 s): pointer at the timeline of weapons (thinking, then skeptical), then a wink to camera on «Surely the next one's foolproof» while a rabbit pops up beside him. Atlas does not appear anywhere else.",
+   "why_it_works": "Hook: in the first second the viewer sees a fence racing to the horizon with a rabbit question attached. The punchline («already on the other side») lands by about 7 s. It is the fresh «beaten before it was finished» angle from BRIEF.md, not the saturated «24 rabbits» opener. The script keeps one pattern throughout: a confident plan, then a deadpan twist. It suits Silas's slow villain voice, with short fragments and pauses that work as punchlines («backwards», «They forgot birds», «Nobody won», «The virus got there first»), much like episode 1's «Planned by… George Patton». Each round runs on a joke kids will get without gore. The ending is itself a new famous last word, which closes the format and tees up a sequel.\n\nAccuracy:\n- Every line maps to FACTS IDs.\n- Hedges are kept: «they called it», past tense and attributed (C2); «probably on flies» (D12); «Scientists say» (D16); «was sure» paraphrases «thoroughly convinced» (C7).\n- The rules line names only a subset of the protected animals, and the script never says birds were the reason Pasteur was rejected.\n- The fence is never called today's longest fence and is never said to run across the continent. The «Western Australia» label clarifies where it ran.\n\nText rules: dates, places and units go into one calm label per beat, and each adds information the voice does not say. £25,000 is the only KEYFACT.\n\nLength: 109 words and 680 characters (tool-counted). That is about 54.5 s at 2.0 words/s or 59.1 s at 11.5 characters/s. The conservative formula (words/2 + 0.4 s per sentence) gives 61.3 s across 17 sentences. If that formula has to come in under 60 s, the safest cut is «Louis» or the line «The fence worked, backwards.»\n\nVisuals: everything can be produced with the pipeline in BRIEF.md. Toon 3D (fence, farmer, prize bag, lab hut, ceremony), flat diagrams (backwards arrow, shields, the flies' path, timeline), maps (WA GeoJSON, Natural Earth) and two real photos (No. 1 fence 1926, Wardang aerial 2019). Viruses appear only as abstract dots, and no sick animals are shown."
+  },
+  {
+   "key": "D_max_retention",
+   "angle": "MAXIMUM RETENTION: a three-round scoreboard, «Australia vs Rabbits». It opens cold on an impossible sum (13 rabbits got on a ship, 24 got off) and ends on a line that runs straight back into that first line, so the Short loops. Each round is one fresh failure that ends on a deadpan punchline. Round 1: the WA fence, beaten before it was finished, with rabbits scratching to get BACK. Round 2: the £25,000 prize, Louis Pasteur entering with chicken cholera, and nobody ever winning. Round 3: the quarantined virus that escaped, most likely on flies, followed a year later by an «official release ceremony» when it had already arrived on its own. The twist: round three goes to the FLIES. The open ending is «score so far» with an estimated 200 million rabbits. The saturated chronology is not used anywhere: no «no predators», no myxoma 99 %, no «longest fence», no foxes or cats, no emus.",
+   "title_options": [
+    "Australia vs Rabbits: 0 WINS",
+    "Australia 0, Rabbits 2, FLIES 1",
+    "Australia vs Rabbits: Round 3 Went to FLIES",
+    "Australia's 3 Weapons vs RABBITS"
+   ],
+   "hook_alternatives": [
+    "Australia built a fence from one ocean to the other. The rabbits were already on the safe side.",
+    "Louis Pasteur once tried to wipe out Australia's rabbits. With chicken cholera.",
+    "Australia's rabbit virus escaped from a quarantine island. Most likely on flies."
+   ],
+   "lines": [
+    {
+     "n": 1,
+     "vo": "Thirteen rabbits got on a ship.",
+     "seconds_est": 3.4,
+     "visual": "Toon 3D, violet dusk over an English dock: the clipper Lightning (modelled after the PD lithograph). 13 toon rabbits hop single file up the gangplank into one wooden crate. Atlas stands in the left foreground and points up at them.",
+     "visual_kind": "mixed",
+     "asset": "none (toon ship modelled on the clipper Lightning lithograph, PD)",
+     "text_type": "label",
+     "onscreen_text": "England → Melbourne, 1859",
+     "atlas": "three-quarter view, excited, gesture point toward the gangplank",
+     "sfx": "gulls, rope creak, soft hop thumps",
+     "fact_ids": [
+      "A1",
+      "A3"
+     ]
+    },
+    {
+     "n": 2,
+     "vo": "Twenty-four got off.",
+     "seconds_est": 1.9,
+     "visual": "Cross-dissolve to a sunny Melbourne pier. The crate lid pops and a tumbling cascade of 24 rabbits spills down the gangplank. Atlas does a double-take at the frame edge.",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "keyfact",
+     "onscreen_text": "13 → 24",
+     "atlas": "surprised, gesture surprise_reaction",
+     "sfx": "wooden lid pop, cascade of soft thumps",
+     "fact_ids": [
+      "A1",
+      "A3"
+     ]
+    },
+    {
+     "n": 3,
+     "vo": "Family records say so.",
+     "seconds_est": 2.4,
+     "visual": "Slow Ken Burns push-in on the engraved portrait of Thomas Austin. Atlas leans in from the right edge and holds his magnifier over it.",
+     "visual_kind": "mixed",
+     "asset": "Thomas Austin engraved portrait (PD)",
+     "text_type": "label",
+     "onscreen_text": "Thomas Austin · Barwon Park, Victoria",
+     "atlas": "skeptical, prop magnifier, head three-quarter",
+     "sfx": "paper rustle",
+     "fact_ids": [
+      "A3",
+      "A1"
+     ]
+    },
+    {
+     "n": 4,
+     "vo": "They probably weren't playing cards.",
+     "seconds_est": 2.9,
+     "visual": "Toon 3D below deck at sea, a lantern swaying. A neat, untouched deck of cards sits on a crate while more and more rabbit ears pop up behind it, one pair after another. Atlas winks to camera, which ends the hook window.",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "80 days at sea",
+     "atlas": "sarcastic, gesture wink",
+     "sfx": "hull creak, waves, tiny pops for each pair of ears",
+     "fact_ids": [
+      "A3"
+     ]
+    },
+    {
+     "n": 5,
+     "vo": "Round one: a fence.",
+     "seconds_est": 2.4,
+     "visual": "Ken Burns pan across the 1884 cartoon «Stevenson's Wire Fence»: rabbits playing tennis over a netting fence, a visual nod to the match format.",
+     "visual_kind": "photo",
+     "asset": "1884 cartoon «Stevenson's Wire Fence» (PD)",
+     "text_type": "label",
+     "onscreen_text": "Australian cartoon, 1884",
+     "atlas": "",
+     "sfx": "single soft round bell, one tennis-ball pok",
+     "fact_ids": [
+      "C1",
+      "C2"
+     ]
+    },
+    {
+     "n": 6,
+     "vo": "Eighteen hundred thirty kilometers.",
+     "seconds_est": 2.4,
+     "visual": "Globe dive into Western Australia (Natural Earth coastlines). Fence No. 1 from the WA GeoJSON draws itself south to north, from the Southern Ocean to the Indian Ocean.",
+     "visual_kind": "map",
+     "asset": "WA government GeoJSON of fences No. 1–3 + Natural Earth coastlines",
+     "text_type": "keyfact",
+     "onscreen_text": "1,830 km",
+     "atlas": "",
+     "sfx": "long tape-measure zip",
+     "fact_ids": [
+      "C2"
+     ]
+    },
+    {
+     "n": 7,
+     "vo": "Before it was finished, rabbits were already on the safe side.",
+     "seconds_est": 5.9,
+     "visual": "Toon 3D tracking shot along a half-built netting fence in red dirt. A camel cart loaded with wire rolls passes by. The netting stops in the middle of nowhere, and the camera keeps going past its end to reveal a toon rabbit already sitting on the green «safe» side, chewing.",
+     "visual_kind": "toon3d",
+     "asset": "none (camel team styled after the 1926 camel-cart photo, PD)",
+     "text_type": "label",
+     "onscreen_text": "1902",
+     "atlas": "",
+     "sfx": "wind, camel grunt, wire jingle, then a small crunch of chewing",
+     "fact_ids": [
+      "C4",
+      "C9"
+     ]
+    },
+    {
+     "n": 8,
+     "vo": "Some were scratching to get back.",
+     "seconds_est": 3.4,
+     "visual": "Toon 3D close-up at the netting in a split look: grass 3–6 inches high on the protected side, bare red dirt on the rabbit side. A rabbit on the grassy side scratches at the wire, trying to get back to the bare side.",
+     "visual_kind": "toon3d",
+     "asset": "none (split look after the 1905 «two sides of a netting fence» photo, PD)",
+     "text_type": "label",
+     "onscreen_text": "Inspector's report, 1904",
+     "atlas": "",
+     "sfx": "scratch-scratch on wire",
+     "fact_ids": [
+      "C5",
+      "C8"
+     ]
+    },
+    {
+     "n": 9,
+     "vo": "Round two: a twenty-five thousand pound prize.",
+     "seconds_est": 3.9,
+     "visual": "Toon 3D paddock at violet dusk. A golden trophy and a fat money bag rise on a pedestal.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "keyfact",
+     "onscreen_text": "£25,000",
+     "atlas": "",
+     "sfx": "round bell, coin clink",
+     "fact_ids": [
+      "D4"
+     ]
+    },
+    {
+     "n": 10,
+     "vo": "Louis Pasteur entered.",
+     "seconds_est": 1.9,
+     "visual": "Toon 3D: a small steamer drops crates of glass flasks at a tiny lab hut on a little island in Sydney Harbour.",
+     "visual_kind": "toon3d",
+     "asset": "none (no real image of Pasteur's team exists)",
+     "text_type": "label",
+     "onscreen_text": "His team's lab: Rodd Island, Sydney",
+     "atlas": "",
+     "sfx": "soft ship horn, clinking glass",
+     "fact_ids": [
+      "D5"
+     ]
+    },
+    {
+     "n": 11,
+     "vo": "With chicken cholera.",
+     "seconds_est": 1.9,
+     "visual": "The lab door creaks open and a healthy, puzzled toon chicken peeks out beside a softly glowing flask that carries an abstract germ glyph. No sick animals.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "",
+     "sfx": "door creak, one confused cluck",
+     "fact_ids": [
+      "D5"
+     ]
+    },
+    {
+     "n": 12,
+     "vo": "Nobody ever won.",
+     "seconds_est": 1.9,
+     "visual": "Back in the paddock, the trophy and money bag still sit untouched on the pedestal as a tumbleweed rolls past.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "1887 · nearly 1,500 entries",
+     "atlas": "",
+     "sfx": "empty wind, tumbleweed rustle",
+     "fact_ids": [
+      "D4"
+     ]
+    },
+    {
+     "n": 13,
+     "vo": "Round three: a virus, in quarantine.",
+     "seconds_est": 3.4,
+     "visual": "Map dive to South Australia, landing on Wardang Island, then a dissolve into the 2019 aerial photo. A flat diagram overlay draws small fenced pens around an abstract virus glyph.",
+     "visual_kind": "mixed",
+     "asset": "Wardang Island aerial 2019 (CC BY-SA) + Natural Earth coastlines",
+     "text_type": "label",
+     "onscreen_text": "Wardang Island, 1995",
+     "atlas": "",
+     "sfx": "round bell, soft gate latch",
+     "fact_ids": [
+      "D12"
+     ]
+    },
+    {
+     "n": 14,
+     "vo": "It escaped, most likely on flies.",
+     "seconds_est": 3.4,
+     "visual": "Flat diagram on the map: cartoon flies lift virus glyphs out of the pens and buzz across the strait. Their dotted trails spread far onto the mainland.",
+     "visual_kind": "diagram",
+     "asset": "Natural Earth coastlines",
+     "text_type": "label",
+     "onscreen_text": "300+ km within weeks",
+     "atlas": "",
+     "sfx": "rising fly buzz, light whoosh",
+     "fact_ids": [
+      "D12"
+     ]
+    },
+    {
+     "n": 15,
+     "vo": "A year later: the official release ceremony.",
+     "seconds_est": 3.9,
+     "visual": "Toon 3D: a little stage with bunting on Western Australian farmland and a closed wooden crate tied with a red ribbon and bow. Giant scissors snip the ribbon.",
+     "visual_kind": "toon3d",
+     "asset": "none",
+     "text_type": "label",
+     "onscreen_text": "Western Australia, October 1996",
+     "atlas": "",
+     "sfx": "scissor snip, polite small applause",
+     "fact_ids": [
+      "D13"
+     ]
+    },
+    {
+     "n": 16,
+     "vo": "The virus was already there.",
+     "seconds_est": 2.9,
+     "visual": "Pull back from the stage to a flat map of Western Australia where dozens of shire outlines are already shaded with abstract virus tint. Atlas, in the lower corner, facepalms (key-moment window).",
+     "visual_kind": "mixed",
+     "asset": "Natural Earth coastlines (WA shire outlines, abstract shading)",
+     "text_type": "label",
+     "onscreen_text": "already in 30+ shires",
+     "atlas": "front view, sarcastic, gesture facepalm",
+     "sfx": "soft palm pat, applause trails off",
+     "fact_ids": [
+      "D13"
+     ]
+    },
+    {
+     "n": 17,
+     "vo": "Today: an estimated two hundred million.",
+     "seconds_est": 3.4,
+     "visual": "Slow pull-back on the colour CSIRO photo of rabbits at a warren, revealing more and more of them.",
+     "visual_kind": "photo",
+     "asset": "colour CSIRO rabbits at a warren (CC BY)",
+     "text_type": "keyfact",
+     "onscreen_text": "≈ 200 million rabbits",
+     "atlas": "",
+     "sfx": "wind over dry grass, rustle",
+     "fact_ids": [
+      "B5"
+     ]
+    },
+    {
+     "n": 18,
+     "vo": "Score so far: Rabbits two, Flies one, Australia zero.",
+     "seconds_est": 4.9,
+     "visual": "Toon 3D outback at violet dusk with a big wooden cricket-style scoreboard. Three tiles clack into place one by one. Atlas stands in front and shrugs on «Australia zero» (ending window).",
+     "visual_kind": "mixed",
+     "asset": "none",
+     "text_type": "keyfact",
+     "onscreen_text": "RABBITS 2 · FLIES 1 · AUSTRALIA 0",
+     "atlas": "front view, sarcastic, gesture shrug",
+     "sfx": "three wooden tile clacks",
+     "fact_ids": [
+      "C10",
+      "D4",
+      "D12",
+      "D14",
+      "B5",
+      "D16"
+     ]
+    },
+    {
+     "n": 19,
+     "vo": "They were winning before the ship even landed.",
+     "seconds_est": 4.4,
+     "visual": "Atlas winks and points his pointer over his shoulder. The camera pans past him to the clipper Lightning at the violet-dusk English dock, rabbits hopping up the gangplank. This is the exact opening frame, so the end cuts seamlessly back to line 1.",
+     "visual_kind": "mixed",
+     "asset": "none (same toon ship set as line 1)",
+     "text_type": "none",
+     "onscreen_text": "",
+     "atlas": "happy, gesture wink then point_stick over shoulder, look_right",
+     "sfx": "gulls fade in (identical to the opening)",
+     "fact_ids": [
+      "A3"
+     ]
+    }
+   ],
+   "vo_text": "Thirteen rabbits got on a ship.\nTwenty-four got off.\nFamily records say so. They probably weren't playing cards.\nRound one: a fence.\nEighteen hundred thirty kilometers.\nBefore it was finished, rabbits were already on the safe side.\nSome were scratching to get back.\nRound two: a twenty-five thousand pound prize.\nLouis Pasteur entered. With chicken cholera.\nNobody ever won.\nRound three: a virus, in quarantine.\nIt escaped, most likely on flies.\nA year later: the official release ceremony.\nThe virus was already there.\nToday: an estimated two hundred million.\nScore so far: Rabbits two, Flies one, Australia zero.\nThey were winning before the ship even landed.",
+   "word_count": 106,
+   "char_count": 662,
+   "est_seconds": 60.6,
+   "atlas_windows": "1) HOOK, lines 1–4 (0–10.6 s): he points at the gangplank, does a surprise_reaction as the 24 tumble out, peeks in skeptically with the magnifier over Austin's portrait, then gives a sarcastic wink on «playing cards». 2) KEY MOMENT, line 16 «The virus was already there.» (45.0–47.9 s): a facepalm in the lower corner over the WA shire map. 3) ENDING, lines 18–19 (51.3–60.6 s): a sarcastic shrug in front of the scoreboard on «Australia zero», then a wink and a point_stick over his shoulder that pans to the ship and loops into line 1. He does not appear anywhere else.",
+   "why_it_works": "The 3-second hold comes from a sum that can't be right, «13 got on, 24 got off», spoken over a moving visual from frame 0. The hedged joke at about 7 s answers it, so the viewer gets a laugh before deciding to stay. «Round one / two / three» tells the viewer how the video is built and promises an ending, which helps hold them to the halfway point. The halfway mark (~29–31 s) lands on the biggest surprise: Louis Pasteur entering with chicken cholera. Every round ends on a short, flat punchline («scratching to get back», «Nobody ever won», «already there») and each failure is more absurd than the last: an engineering failure, then a scientific one, then the authorities losing control of their own virus. The score joke turns the story around: the flies get the only point the virus round earns, so the scoreboard stays true and Australia's zero still stands. «So far», together with the estimated 200 million, leaves the match open, which invites comments. The last line («before the ship even landed») ends on the opening frame and reads straight into «Thirteen rabbits got on a ship», which drives rewatches. Every beat comes from the fresh list in BRIEF.md. The narration measures 106 words and 662 characters (tool-counted), within the 105–120 word / 690-character budget. All hedges are kept: «family records say», «probably», «most likely», «an estimated». Nothing on the DO-NOT-SAY list is used: no «released 24», no «longest fence», no 99 %, no 10 billion, no cats or foxes. Each line has at most one label, and each label adds a date, place or source that the narration doesn't say. The big on-screen numbers (13 → 24, 1,830 km, £25,000, ≈200 million, the score) are KEYFACTs with their subtitle hidden. Every visual uses toon 3D, flat diagrams, real images from the licence-checked list, or maps. The virus is shown only as abstract glyphs, and no animal is shown sick."
+  }
+ ],
+ "judgments": [
+  {
+   "lens": "retention",
+   "scores": [
+    {
+     "key": "D_max_retention",
+     "score": 87,
+     "strengths": [
+      "Best first 1.5 s of the four: an impossible sum («Thirteen rabbits got on a ship. Twenty-four got off.») spoken over moving toon rabbits from frame 0. It is a curiosity gap the viewer has to resolve, and it is fresh, not the saturated «24 rabbits ruined Australia» opener.",
+      "The hedge becomes the first laugh at about 7 s («They probably weren't playing cards.»), which keeps the «probably» from A3 and fits Silas's dry villain voice.",
+      "Clear escalation in three rounds: engineering fails, then science fails, then the authorities lose control of their own virus. «Round one / two / three» tells the viewer how long the video is and promises a payoff, which holds them past the midpoint.",
+      "Each round ends on a flat punchline: «Some were scratching to get back», «Nobody ever won», «The virus was already there». The Pasteur reveal is split into two beats («Louis Pasteur entered. With chicken cholera.»), the best comic timing of any draft.",
+      "The scoreboard twist «Rabbits two, Flies one, Australia zero» inverts episode 1's «Humans two. Volcano zero.» It is a series callback and a surprise, and the score still holds up against the facts (the flies, not humans, released the virus).",
+      "Only draft built to loop: «They were winning before the ship even landed.» cuts back to the opening frame and reads straight into line 1, which drives rewatches.",
+      "Uses no saturated material: no myxoma 99 %, no spread map, no «longest fence», no foxes or cats, no emus. Budget is safe (106 words, 645 characters without newlines).",
+      "Strongest title set: «Australia 0, Rabbits 2, FLIES 1» is a curiosity gap in itself and fits the brief's pattern."
+     ],
+     "problems": [
+      "Line 5 «Eighteen hundred thirty kilometers.» is a 2.4 s dead stat with no tension. Make it the KEYFACT or a label over the drawing map and spend the words on a joke.",
+      "Line 3 «Family records say so.» is vague (say what?). It slows the hook by a beat.",
+      "Line 17 «Today: an estimated two hundred million.» is an exposition dip right before the climax. Put it on the scoreboard as a label instead of saying it.",
+      "Line 5's visual (the 1884 tennis cartoon under «Round one: a fence») has no link to the WA fence and gets used up early. Save it for the end, or drop it.",
+      "The fence round has no button after «scratching to get back». C's «The fence worked, backwards.» would make it land harder.",
+      "Leaves out the funniest Pasteur detail, «they forgot birds» (C). The prize round is the thinnest of the three.",
+      "Line 4's innuendo is mild, but the audience is all ages. The owner may prefer B's bare «Probably.» Keep both as A/B options.",
+      "The arms race / «new weapon every 10–15 years» open end is only implied by «so far»."
+     ],
+     "best_lines": [
+      "Thirteen rabbits got on a ship. Twenty-four got off.",
+      "They probably weren't playing cards.",
+      "Before it was finished, rabbits were already on the safe side.",
+      "Louis Pasteur entered. With chicken cholera.",
+      "A year later: the official release ceremony. The virus was already there.",
+      "Score so far: Rabbits two, Flies one, Australia zero.",
+      "They were winning before the ship even landed."
+     ]
+    },
+    {
+     "key": "C_famous_last_words",
+     "score": 76,
+     "strengths": [
+      "Has the most quotable one-liners of any draft: «The fence worked, backwards.», «They forgot birds.», «The virus got there first.», «Surely the next one's foolproof.»",
+      "«It escaped three years early, probably on flies» sharpens the escape beat with a hard number (planned 1998, escaped 1995, confirmed in the digest).",
+      "The Pasteur round is the most complete joke: the rules protected sheep, horses and dogs, «They forgot birds» lands on a facepalm while a chicken struts past, and «Nobody won» follows.",
+      "«The virus got there first» echoes the fence's «already on the other side», a nice internal rhyme.",
+      "The ending «Surely the next one's foolproof» is a strong dry villain closer that invites comments. Skips myxoma and other saturated beats.",
+      "Title «Australia's Rabbit Fence Worked BACKWARDS» is strong and fresh."
+     ],
+     "problems": [
+      "Line 1 «Australia built a fence to stop rabbits.» is a plain declarative with no gap in the first 1.5 s. Viewers assume it failed, so nothing is promised until line 2 at about 4–7 s.",
+      "Front-loaded: lines 1–6 are all fence (≈24 s, 40 % of the runtime) before anything else happens. Expect a retention dip around 15–25 s.",
+      "Line 5 «They called it the longest unbroken fence in the world.» is a slow 5.4 s line. It also pokes the saturated dingo «world's longest fence» reveal and will draw «actually the Dingo Fence…» corrections.",
+      "Line 6 «Its boss was sure: practically nothing to fear.» is a weak, abstract payoff, and the label needs a name (Alex Crawford) that viewers don't know.",
+      "No score or rounds spine, so it loses the «Humans vs …» series identity the brief says is fresh. «Earlier, a prize» (line 7) is a clunky time jump.",
+      "No loop: the ending is closed and does not feed back into the hook.",
+      "Line 16 «Scientists say Australia needs a new weapon every ten to fifteen years.» is a long 6.4 s exposition line just before the closer."
+     ],
+     "best_lines": [
+      "The fence worked, backwards.",
+      "The rules protected sheep, horses, dogs.",
+      "They forgot birds.",
+      "It escaped three years early, probably on flies.",
+      "The virus got there first.",
+      "Surely the next one's foolproof."
+     ]
+    },
+    {
+     "key": "B_multiplied",
+     "score": 72,
+     "strengths": [
+      "Same strong cold open as D (13 on, 24 off), with the best single-word dry beat: «Probably.», shrugged by Atlas full frame.",
+      "«Probably.» comes back later as «probably on flies», a callback that rewards attention.",
+      "The ending pun works: «The match isn't over» over the real 1884 rabbits-playing-tennis cartoon is a smart visual payoff and leaves the series open.",
+      "The open ending (≈200 million, a new weapon every 10–15 years) comes straight from the brief's fresh list."
+     ],
+     "problems": [
+      "Lines 5–6 («Each mom: up to thirty babies a year. In seventy years: seventy percent of Australia.») are textbook exposition from the saturated chronology (release, then spread). They kill momentum right after a great hook.",
+      "The overall spine still follows the saturated order: arrival, spread, fence, myxoma 99 %, resistance, calicivirus, 200 M. Only the details are fresh.",
+      "Rounds are compressed until the jokes die. Line 7 «Round one, a prize: Pasteur sent chicken cholera.» buries the reveal in one breath, with no «Louis», no pause and no £25,000 spoken.",
+      "Line 14 «Then… the official release.» is a half-punchline. The joke (it was already there) lives only in the visual, so audio-first viewers miss it.",
+      "Lines 11–12 (myxoma 99 %, resistance) are saturated material, and they are the bleakest beat for an all-ages audience.",
+      "Rounds are counted but never scored. Opening a scoreboard format without a final tally wastes the series callback.",
+      "Lines 15–16 end on two informational lines before the closer. «Scientists need» also drops the attribution form «scientists say».",
+      "No loop back to the hook."
+     ],
+     "best_lines": [
+      "Thirteen rabbits got on this ship.",
+      "Twenty-four got off.",
+      "Probably.",
+      "The match isn't over."
+     ]
+    },
+    {
+     "key": "A_scoreboard",
+     "score": 66,
+     "strengths": [
+      "Builds the toon cricket scoreboard properly: the score appears only on screen, with panel clacks per round, which follows the «never say it twice» rule.",
+      "«The rabbits got there first» lands by about 8 s on a self-drawing fence, a fresh angle.",
+      "«The official release? The next year.» is a good bureaucratic deadpan, and the setup-as-question structure mirrors ep. 1's «The plan? Bombers.»",
+      "Strong visual gags: the dusty trophy under a cobweb, the fly landing on a HUMANS point."
+     ],
+     "problems": [
+      "Line 1 «Western Australia built a fence from ocean to ocean.» is a geography-lecture opener. No gap or surprise in the first 1.5 s, and the start is slower than the 13/24 puzzle.",
+      "Five rounds over 18 lines make a list. «Round two… Round three… Round four… Round five» on lines 5, 8, 11 and 12 is the very «PowerPoint» cadence the owner penalises. The formula gives 64.6 s, over budget.",
+      "Rounds 3–4 (lines 8–11: myxoma, «ninety-nine percent», rabbits evolve) are the saturated chronology. Line 10's 99 % death grid is the darkest beat for all ages.",
+      "Line 16 «Final score, so far: rabbits three, humans two, if you count the flies.» is a muddled punchline (which side do the flies count for?) and copies ep. 1's ending instead of twisting it. 6.9 s is long.",
+      "Lines 17–18 add an emu tail after the climax: a post-payoff drop-off and no loop. Emus are flagged as saturated (one-line callback only), and «Good luck with that» needs outside knowledge to land.",
+      "Lines 4–5 tell the prize after the fence with no spoken «earlier», so the timeline only works if viewers read the 1887 label.",
+      "Line 7 «Nobody ever wins.» is in an odd tense for a historical event."
+     ],
+     "best_lines": [
+      "The rabbits got there first.",
+      "Some were even scratching to get back.",
+      "The official release? The next year.",
+      "Nobody ever wins."
+     ]
+    }
+   ],
+   "winner": "D_max_retention",
+   "must_keep_ideas": [
+    "Cold open on the impossible sum: «Thirteen rabbits got on a ship. Twenty-four got off.» (B/D), with frame 0 already moving: 13 toon rabbits up the gangplank, Atlas pointing, then a double take as more pour out at Melbourne.",
+    "The hedge as the first laugh at about 7 s: «They probably weren't playing cards.» (D). Keep B's single-word «Probably.» + shrug as the all-ages fallback for A/B testing.",
+    "Three signposted rounds, «Round one / two / three», with escalating absurdity: the fence (engineering), Pasteur's prize (science), the quarantined virus (authorities lose their own virus). Keep the score only on the toon cricket scoreboard with wooden clacks (A/D), never spoken mid-video.",
+    "Fence round: «Before it was finished, rabbits were already on the safe side. Some were scratching to get back.» (D/A). Visual: a tracking shot past the end of the half-built fence reveals a rabbit already chewing on the green side (D line 7).",
+    "Add C's button to the fence round: «The fence worked, backwards.» with the bouncing-arrow diagram.",
+    "Pasteur beat split into two for timing: «Louis Pasteur entered. With chicken cholera.» (D)",
+    "C's best joke in the prize round: «The rules protected sheep, horses, dogs. They forgot birds.» with the chicken strutting past the shields.",
+    "«Nobody ever won.» over the untouched trophy, with tumbleweed or the spotlight clicking off (D/C). The «nearly 1,500 entries» label adds information.",
+    "Virus round: «It escaped three years early, most likely on flies.» (C's «three years early» + D's FACTS hedge), then «A year later: the official release ceremony. The virus was already there.» (D). Pull back from the ribbon-cutting to the shaded WA shire map, deflating party horn, Atlas facepalm as the key moment.",
+    "Score twist that inverts ep. 1: «Score so far: Rabbits two, Flies one, Australia zero.» as the KEYFACT on the scoreboard (D).",
+    "Loop ending: «They were winning before the ship even landed.» cutting back to the identical opening frame (D).",
+    "Labels that add information and are never spoken: 1,830 km, 1902, Inspector's report 1904, £25,000/1887, Rodd Island, Wardang Island 1995, Western Australia Oct 1996, 30+ shires, ≈200 million on the scoreboard.",
+    "Cut from the final: «Eighteen hundred thirty kilometers» spoken (make it a label/KEYFACT), «Today: an estimated two hundred million» spoken (make it a scoreboard label), myxoma 99 %, breeding/spread exposition, «longest unbroken fence», the emu tail.",
+    "Optional alternative closers if the loop is dropped: «Surely the next one's foolproof.» (C) or «The match isn't over.» over the 1884 rabbit-tennis cartoon (B).",
+    "Title candidates: «Australia 0, Rabbits 2, FLIES 1» (first choice), «Australia vs Rabbits: 0 WINS», «Australia's Rabbit Fence Worked BACKWARDS»."
+   ],
+   "notes": "D wins on retention. It has the strongest first 1.5 s (a numeric puzzle with no exposition), the best-timed punchlines, the only real loop, and a score twist that rewards anyone who saw episode 1. C has the best individual jokes but a slow, front-loaded fence section and no series spine. B wastes its great hook on exposition about breeding and spread. A reads as a five-item list and falls back on the saturated myxoma chronology.\n\nRecommended merge, built on D's skeleton (tool-counted: 112 words, 675 characters without newlines, 20 sentence ends, so about 56–59 s at the episode-1 pace):\n\nThirteen rabbits got on a ship. / Twenty-four got off. / Family records say so. They probably weren't playing cards. / Round one: a fence. / Before it was finished, rabbits were already on the safe side. / Some were scratching to get back. / The fence worked, backwards. / Round two: a twenty-five thousand pound prize. / Louis Pasteur entered. With chicken cholera. / The rules protected sheep, horses, dogs. They forgot birds. / Nobody ever won. / Round three: a virus, in quarantine. / It escaped three years early, most likely on flies. / A year later: the official release ceremony. / The virus was already there. / Score so far: Rabbits two, Flies one, Australia zero. / They were winning before the ship even landed.\n\nFact checks against FACTS.md and the digest:\n- «three years early»: planned 1998, escaped Sept 1995 (D12; digest line 476).\n- «A year later»: WA ceremony 18 Oct 1996 (D13).\n- «forgot birds»: D5, a secondary detail. Never say it was the reason Pasteur was rejected.\n- «most likely on flies»: D12's own wording.\n\nLine to watch: if the owner reads «weren't playing cards» as too adult for the all-ages audience, swap in «Probably.» That costs about 5 words, which keeps the budget well under 690 characters."
+  },
+  {
+   "lens": "accuracy",
+   "scores": [
+    {
+     "key": "A_scoreboard",
+     "score": 88,
+     "strengths": [
+      "L1 «Western Australia built a fence from ocean to ocean» is C2's safe framing: north–south inside WA, no east–west or «longest» myth.",
+      "Every number matches the pack: 1,830 km, 1901–1907, 1902, £25,000/1887, 9 weeks / 1,760 × 1,600 km, 99 % OF INFECTED, planned 1998, ≈60 %, Oct 1996 / 30+ shires, 1,300+ km.",
+      "Hedges are kept where they matter: «probably on flies» (L13), «infected rabbits» (L10, both in the VO and the KEYFACT), «≈ 60 %» (L14), «so far» (L16).",
+      "The emu callback (L17) uses C11 correctly («new job: keeping out emus», State Barrier Fence) and never says the fence beat the emus.",
+      "The 1887 label on L5 makes the out-of-order flashback honest."
+     ],
+     "problems": [
+      "L2 «The rabbits got there first.» is vague. It can be heard as rabbits reaching the far coast before the fence did, but the WA west coast was only reached in the 1920s (B2). The digest says to frame it against the planned line. Fix: «Before it was finished, rabbits were already on the safe side.»",
+      "L8 label «Myxoma virus · 1950» suggests myxoma first arrived in 1950, but the first trial was on Wardang Island in 1937 (D6). Fix: «Myxoma virus · Murray Valley, 1950».",
+      "L10 «It kills ninety-nine percent…» uses the present tense for a figure that no longer holds after resistance (D10: 90 % → 26 %). Fix: «It killed ninety-nine percent of infected rabbits.»",
+      "L18 «Good luck with that.» (with the emu peering over the wire) implies the fence fails against emus. The pack has no such claim; C11 only says its job is keeping emus out. Fix: keep the wink but cut the implied verdict, e.g. end on L17 and let Atlas react without a line, or use a line that makes no claim.",
+      "L17 leaves out the fence's other job, keeping out wild dogs (C11). That is acceptable, but the label could say «wild dogs & emus».",
+      "Hook alt 2 «Australia's rabbit virus escaped on flies» drops the hedge. Fix: «most likely on flies».",
+      "Title «Rabbits 3, Humans 2: FINAL Score» contradicts the open «so far» ending."
+     ],
+     "best_lines": [
+      "Western Australia built a fence from ocean to ocean.",
+      "Some were even scratching to get back.",
+      "It kills ninety-nine percent of infected rabbits. (as «killed»)",
+      "It escapes, probably on flies.",
+      "The official release? The next year.",
+      "Final score, so far: rabbits three, humans two, if you count the flies.",
+      "The fence got a new job: keeping out emus."
+     ]
+    },
+    {
+     "key": "D_max_retention",
+     "score": 86,
+     "strengths": [
+      "L7 «Before it was finished, rabbits were already on the safe side.» is C4's safe wording almost word for word.",
+      "L14 «It escaped, most likely on flies.» is D12's exact hedge, and its label «300+ km within weeks» matches D12.",
+      "L3 «Family records say so.» puts the hedge on the 13/24 claim, where A3 has it, and L4 keeps «probably» for the breeding inference. This is the best handling of A3 in any draft.",
+      "The labels are precise and in the pack: «His team's lab: Rodd Island, Sydney», «1887 · nearly 1,500 entries», «Western Australia, October 1996», «already in 30+ shires», «≈ 200 million rabbits».",
+      "L15 «A year later» is accurate (late Sept 1995 → 18 Oct 1996), and L17 keeps «an estimated».",
+      "No DO-NOT-SAY item is used: no «released 24», no 99 % of all rabbits, no «longest fence», no east–west."
+     ],
+     "problems": [
+      "L19 «They were winning before the ship even landed.» states the breeding at sea as fact. A3 is only «probably», and the digest adds «before or during» and an alternative TAP reading. Fix: «They were probably winning before the ship even landed.» (or end with «…landed. Probably.»)",
+      "L18 «…Australia zero»: together with L17 (200 million), this framing implies nothing Australia did ever worked. That hides D8 (99 % of infected) and D14 (≈60 % nationwide cut, which this script's own fact_ids cite). It is acceptable as a joke only because myxoma is left out and «so far» is kept. Do not pair it with the title «0 WINS».",
+      "L5 label «Australian cartoon, 1884»: the pack gives the cartoon's date and title, not its origin. Fix: «Cartoon, 1884». Also make sure the 1884 netting cartoon is not read as the 1901–07 WA fence.",
+      "L6 «Eighteen hundred thirty kilometers» drops the «~». That is acceptable for a KEYFACT, but «about 1,830» is safer, since the digest gives 1,833–1,859 km depending on the source.",
+      "L8 visual: the grass split comes from the 1907 report (C8), shown under a 1904 label. This is a minor composite of two dates.",
+      "Hook alt 1 «Australia built a fence» should be «Western Australia».",
+      "Title «Australia vs Rabbits: 0 WINS» overclaims (D8, D14)."
+     ],
+     "best_lines": [
+      "Thirteen rabbits got on a ship. Twenty-four got off. Family records say so.",
+      "Before it was finished, rabbits were already on the safe side.",
+      "Louis Pasteur entered. With chicken cholera.",
+      "It escaped, most likely on flies.",
+      "A year later: the official release ceremony.",
+      "The virus was already there.",
+      "Today: an estimated two hundred million."
+     ]
+    },
+    {
+     "key": "C_famous_last_words",
+     "score": 79,
+     "strengths": [
+      "L5 «They called it the longest unbroken fence in the world.» is C2's only allowed form: past tense and attributed. The label «finished 1907» keeps it from being heard as today's record.",
+      "L16 «Scientists say Australia needs a new weapon every ten to fifteen years.» is D16 with its attribution intact.",
+      "L9–10 «The rules protected sheep, horses, dogs. They forgot birds.» is an accurate subset of D5, and the script never claims birds were the reason the plan was rejected.",
+      "L13 «three years early, probably on flies» matches D12 (planned 1998, escaped 1995), with the hedge kept.",
+      "L7 «Earlier, a prize» flags the chronology honestly. L3's label «1904 · 15–20 miles on the 'safe' side» is exact C5."
+     ],
+     "problems": [
+      "L1 «Australia built a fence to stop rabbits.» It was the Western Australian government. With the fence racing to the horizon, this invites the DO-NOT-SAY myth that the fence ran across the whole continent; the WA label only arrives on L2. Fix: «Western Australia built a fence to stop rabbits.»",
+      "L2 «They were already on the other side.» leaves out the core of C4, «before it was finished», and the visual swings over a completed fence. The digest stresses that in 1902 only about 50 miles had been started, so the rabbits got ahead of construction. Fix: «Before it was finished, they were already on the other side.»",
+      "L4 «The fence worked, backwards.» is an interpretation not in the pack. The visual (a west arrow bouncing off the fence) implies the fence did stop westward rabbits, which contradicts C4 and C10. Fix: keep the joke if wanted, but animate only the eastward bounce.",
+      "L6 «Its boss was sure: practically nothing to fear.» is a loose paraphrase of C7, which is acceptable. The digest gives his title as «Acting Chief Inspector of Rabbits» and the report as 1907–08. The label «Chief inspector Alex Crawford · 1907» follows FACTS, so it is fine, but «Its boss» is vague.",
+      "L8 label «Rodd Island, Sydney · 1888»: the year 1888 is not in FACTS.md; the digest has only the team's Feb 1888 sailing, from one source. Fix: drop the year or use «Pasteur's team's lab: Rodd Island, Sydney».",
+      "Title «Australia's Rabbit Fence Worked BACKWARDS» and «3 Times Rabbits OUTSMARTED Australia» both overclaim. The calicivirus escape was not rabbits outsmarting anyone.",
+      "Hook alt 2 «Australia once held a release ceremony…»: the ceremony was Western Australia's (D13)."
+     ],
+     "best_lines": [
+      "Tracks showed them scratching to get back.",
+      "They called it the longest unbroken fence in the world.",
+      "The rules protected sheep, horses, dogs. They forgot birds.",
+      "It escaped three years early, probably on flies.",
+      "The virus got there first.",
+      "Scientists say Australia needs a new weapon every ten to fifteen years."
+     ]
+    },
+    {
+     "key": "B_multiplied",
+     "score": 73,
+     "strengths": [
+      "L11 «ninety-nine percent of infected rabbits died» is past tense and keeps «infected» (D8).",
+      "L15 «Today: an estimated two hundred million» keeps the hedge, and the KEYFACT «≈ 200 million (est.)» does too.",
+      "L13 «it escaped, probably on flies» (D12) and L12 «Rabbits evolved resistance» (D10) are both correct.",
+      "The labels «England · October 1859», «Melbourne · Christmas Day 1859», «80 days at sea», «Nearly 1,500 entries» and «Cartoon, 1884» are all in the pack."
+     ],
+     "problems": [
+      "L1 «Thirteen rabbits got on this ship.» states the 13 as plain fact in the hook. Per A3 the 13 rests only on a 1993 family memoir. Fix: «Family records say thirteen rabbits got on this ship.»",
+      "L3 «Family records say they bred aboard.» misattributes. The family records give the 13; the breeding is an inference from 13 vs 24 (PNAS: «probably», «before or during»; TAP gives another reading). L4 «Probably.» rescues the hedge, but the attribution is wrong. Fix: «Family records say so. They probably bred aboard.»",
+      "L16 «Scientists need a new weapon every ten to fifteen years.» drops the mandatory «scientists say» attribution and turns D16 into an established fact. Fix: «Scientists say Australia needs a new weapon every ten to fifteen years.»",
+      "L16 visual: the timeline puts virus icons at 1950, 1995 and 2015 as human weapons. The 2015 RHDV2 strain arrived on its own and nobody released it (D15). Fix: drop 2015 or mark it «arrived on its own». 1950 also hides the 1937 first trial (D6).",
+      "L5 «Each mom: up to thirty babies a year.» drops «in good conditions» (A7). Fix: «In good years, a mother can have up to thirty babies.»",
+      "L6 «In seventy years: seventy percent of Australia.» drops «about» in the VO (B3 is ~70 years, ~70 %). The KEYFACT has ≈, but the VO should say «In about seventy years…».",
+      "L7 «Pasteur sent chicken cholera» is acceptable (his team came with the cultures), but D5's safe verb is «entered».",
+      "L9 visual: the fence draws north from the Southern Ocean as if it were built south to north. Work actually began at Burracoppin and went both ways (digest). Minor.",
+      "Hook alts 1 and 3 and the title «13 Boarded, 24 LANDED» all state the 13 without a hedge. Hook alt 2 («started winning before their ship even landed») drops «probably»."
+     ],
+     "best_lines": [
+      "Twenty-four got off.",
+      "Round two, a fence: rabbits beat it to the safe side.",
+      "Tracks show them scratching to get back.",
+      "Round three, a virus: ninety-nine percent of infected rabbits died.",
+      "Today: an estimated two hundred million.",
+      "The match isn't over."
+     ]
+    }
+   ],
+   "winner": "A_scoreboard",
+   "must_keep_ideas": [
+    "Fence opener in C2's safe framing, «Western Australia built a fence from ocean to ocean» (A L1), never just «Australia» (C L1 must change).",
+    "The fence irony in C4's exact wording, «Before it was finished, rabbits were already on the safe side» (D L7), label «1902». This replaces A's vaguer «got there first».",
+    "«Some were (even) scratching to get back» with the label «Inspector's report, 1904» (A L3 / D L8). Optional precise label: «15–20 miles on the 'safe' side» (C L3).",
+    "If the 13→24 opener is used, follow D's hedge placement: «Thirteen rabbits got on a ship. Twenty-four got off. Family records say so.» Keep «probably» on the breeding, and never repeat it later as fact (fix D L19, B L1/L3).",
+    "Pasteur beat: «Louis Pasteur entered, with chicken cholera» + «Nobody ever won», with labels «£25,000 · New South Wales, 1887» (A L5), «His team's lab: Rodd Island, Sydney» (D L10) and «nearly 1,500 entries» (D L12). No year on the Rodd Island label unless it is sourced.",
+    "Optional: «The rules protected sheep, horses, dogs. They forgot birds.» (C L9–10) is an accurate subset. Never say birds were why Pasteur was rejected (the main reason was poor rabbit-to-rabbit spread).",
+    "Myxoma: «ninety-nine percent of INFECTED rabbits», never «of all rabbits», in the past tense (B L11), with the label «in 9 weeks: ≈ 1,760 × 1,600 km» (A L9) and «Murray Valley, 1950» rather than «Myxoma · 1950».",
+    "Calicivirus escape with its hedge kept: «most likely / probably on flies» (D L14 / A L13), plus «planned release: 1998» (A L13) or «three years early» (C L13), and «300+ km within weeks» (D L14).",
+    "The official-release irony: «A year later: the official release ceremony. The virus was already there.» (D L15–16) or A's «The official release? The next year.», with labels «Western Australia, October 1996» and «already in 30+ shires».",
+    "If calicivirus is credited with working, use only «≈ 60 % fewer rabbits» (A L14 / D14), never 90 % or «10 million in two months».",
+    "«Scientists say Australia needs a new weapon every ten to fifteen years» (C L16), keeping the «Scientists say» that B L16 dropped. Any weapons timeline must not show the 2015 RHDV2 strain as a human release.",
+    "«Today: an estimated two hundred million» with the KEYFACT «≈ 200 million» (B L15 / D L17).",
+    "«So far» in the final score (A L16 / D L18). A zero for humans or Australia must not be paired with an overclaiming title like «0 WINS».",
+    "Emu callback only as «The fence got a new job: keeping out emus» + «State Barrier Fence, today · 1,300+ km» (A L17). Do not imply it beats the emus or that it fails against them (soften A L18 «Good luck with that»).",
+    "If the superlative is used at all, only C L5's past-tense attributed form: «They called it the longest unbroken fence in the world.»"
+   ],
+   "notes": "I checked every draft line by line against FACTS.md and research/digest_facts.md. None of the drafts uses an item from the DO-NOT-SAY list, so the scores separate on hedges and framing.\n\nA wins narrowly. It makes the most factual claims, and every number and hedge in them is right. Its weak points are small: «got there first» is vague, «kills» is in the present tense, the myxoma label says 1950 although the first trial was in 1937, and the emu wink implies something the pack doesn't say.\n\nD is a close second and has the cleanest exact wordings: C4, D12 «most likely on flies», and the «family records say so» hedge. It loses points for its closing callback, which states the breeding at sea as fact, and for the «Australia zero» framing.\n\nC is accurate in its details. It loses points for «Australia built a fence», which should be Western Australia and edges toward the east–west myth, and for dropping «before it was finished».\n\nB is weakest on hedges: the 13 is unhedged in the hook, the breeding is attributed to family records, «scientists say» is dropped, and the 2015 strain appears as a human weapon.\n\nRecommended final: A's spine with D's wording swapped in at L2 (C4 phrase), L13 (most likely on flies), L15–16 (release irony) and the D labels. Change L10 to «killed», and soften L18."
+  },
+  {
+   "lens": "production",
+   "scores": [
+    {
+     "key": "C_famous_last_words",
+     "score": 81,
+     "strengths": [
+      "Budget OK by tool count: 109 words, 680 chars, 17 sentences, about 54.5–59 s at the ep. 1 rates.",
+      "Lightest text load of the four: on-screen text on 10 of 17 lines and only one KEYFACT (£25,000, L7). The punchline beats L4, L10, L13, L16 and L17 have no label, so nothing echoes the voice.",
+      "Atlas appears only in its 3 windows (L1–2 hook, L10 key moment, L16–17 ending) and uses only listed emotions, gestures and props.",
+      "Easiest to produce. One toon fence set covers L1–3, and the rest is diagrams (backwards arrow, shields, flies' path, timeline), two listed real photos and maps. No ship, no camel, no emu.",
+      "Best all-ages handling: the virus is abstract dots only and the ceremony crate stays closed with no animals (L14).",
+      "L15 shows the virus as abstract dots on the WA map. That is the only honest way to show «30+ shires», because FACTS does not say which shires.",
+      "Cleanest text for TTS: every number is spelled out, there are no abbreviations, and the sentences are short and natural for a slow, deep voice («They forgot birds.», «Nobody won.»).",
+      "«Earlier,» (L7) tells the listener the prize comes before the fence, so the out-of-order timeline still makes sense.",
+      "Skips the saturated myxoma-99% and 'resistance' beats entirely."
+     ],
+     "problems": [
+      "L5: a single slow Ken Burns on the 1926 photo for about 4.9 s is the only visual event. That is close to the 'nothing static > 2.5 s' rule, and the line itself ('longest unbroken fence in the world') is allowed only past tense and attributed. It is also comment bait next to the Dingo-fence DO-NOT-SAY item. Cutting L5 removes both problems.",
+      "L8 label «Rodd Island, Sydney · 1888»: the year 1888 is only in research/digest_facts.md, not in FACTS.md (rule 6: every on-screen number must come from FACTS).",
+      "L1 «Australia built a fence…»: the builder was Western Australia (C2). The L2 label fixes it, but the voice is looser than the safe wording.",
+      "L16 is 12 words and about 6.1 s over one Atlas-pointing shot. Slots appearing on the timeline give some motion, but it is the longest unbroken beat.",
+      "There is no scoreboard and no final score, so it loses the fresh 'rounds/score' spine from BRIEF and the ep. 1 «Final score…» rhythm.",
+      "At 680 of 690 chars there are only 10 chars of headroom. Any added line needs a cut, e.g. L5.",
+      "L6 needs a human toon farmer and L14 has a ribbon snipped by no one. Both are small new asset or staging questions.",
+      "The L3 label mixes miles («15–20 miles») into a script that otherwise uses km. Minor."
+     ],
+     "best_lines": [
+      "The fence worked, backwards.",
+      "The rules protected sheep, horses, dogs. / They forgot birds.",
+      "It escaped three years early, probably on flies.",
+      "The virus got there first.",
+      "Surely the next one's foolproof."
+     ]
+    },
+    {
+     "key": "D_max_retention",
+     "score": 75,
+     "strengths": [
+      "Budget OK by tool count: 106 words, 661 chars, 19 sentences, about 53–57.5 s.",
+      "Sticks closest to FACTS' safe wording, almost word for word: «Before it was finished, rabbits were already on the safe side.», «It escaped, most likely on flies.», «Nobody ever won.», «an estimated two hundred million». No DO-NOT-SAY item is used.",
+      "Skips the saturated myxoma/resistance chronology.",
+      "Atlas appears only in its 3 windows (L1–4, L16, L18–19).",
+      "The score appears only at the end as a KEYFACT, not as a running counter. «Rabbits two, Flies one, Australia zero» keeps the ep. 1 «Final score» rhythm.",
+      "The loop ending (L19 lands back on the L1 dock frame) is easy to build because it reuses the same toon set.",
+      "Its labels add real information: «His team's lab: Rodd Island, Sydney», «300+ km within weeks», «1887 · nearly 1,500 entries».",
+      "No sick animals: the chicken is healthy and puzzled and the ceremony crate stays closed."
+     ],
+     "problems": [
+      "L6 «Eighteen hundred thirty kilometers»: in a Short full of dates (1859, 1884, 1902) this sounds like the YEAR 1830, which is a TTS and listening problem. Say «one thousand eight hundred and thirty kilometres» or keep the number only as the KEYFACT and say «from one ocean to the other».",
+      "Heaviest text load: text on 17 of 19 lines and 5 KEYFACTs (L2, L6, L9, L17, L18). That goes against the owner's 'one calm label, only when needed'.",
+      "L2 KEYFACT «13 → 24» repeats the 13 that L1's subtitle has just shown, so the same number is on screen twice.",
+      "Most costly to build, with about 13 separate toon set-ups: English dock, Melbourne pier, below deck, a camel-cart tracking shot (new camel model), paddock, steamer and island lab, ceremony stage, scoreboard.",
+      "L16 lists «Natural Earth coastlines (WA shire outlines…)», but Natural Earth has no shire boundaries, and FACTS does not say which 30+ shires. Shading real shires would invent data, so the shading has to be abstract.",
+      "Rounds come out of date order (fence 1901, then prize 1887) with no spoken cue, and the 1887 label only appears on L12.",
+      "L5 uses the 1884 Stevenson cartoon (a Victoria/NSW netting cartoon) to introduce the WA fence. It is labelled, but it is a thematic mismatch.",
+      "L19 'point_stick over his shoulder' may not be a pose the rig has, so it should be checked against the orangutan rig. L4 and L19 both use a wink.",
+      "L3 «Family records say so» stretches the attribution: the family records only cover the 13 who left England."
+     ],
+     "best_lines": [
+      "Thirteen rabbits got on a ship. / Twenty-four got off.",
+      "They probably weren't playing cards.",
+      "Before it was finished, rabbits were already on the safe side.",
+      "Score so far: Rabbits two, Flies one, Australia zero.",
+      "They were winning before the ship even landed."
+     ]
+    },
+    {
+     "key": "B_multiplied",
+     "score": 73,
+     "strengths": [
+      "Budget OK by tool count: 106 words, 653 chars, about 53–57 s, though this is near the 105-word floor.",
+      "Best virus visual for all ages: L11 is an abstract violet bloom on the map with no animals.",
+      "Atlas appears only in its 3 windows and uses only listed gestures.",
+      "Moderate text load (13 of 17 lines, 3 KEYFACTs). Every label adds a date, place or amount.",
+      "«Probably.» (L4) as a one-word beat suits Silas, and it echoes later in «probably on flies».",
+      "The L17 label «Cartoon, 1884» also serves as the credit, so there is no extra credit pill.",
+      "The 1884 tennis cartoon with «The match isn't over.» is a visual pun built from a listed real asset.",
+      "Clean text for TTS: everything is spelled out and every line has the same 'Round N, a …:' pattern."
+     ],
+     "problems": [
+      "L14 «Then… the official release.»: the irony that the virus was already loose is never said and has no label (the label is only «Western Australia · Oct 1996»). The punchline depends on shaded shires the viewer cannot read.",
+      "L14 also shades 'dozens of shires' with no shire data source and no list of which shires, the same problem as A and D.",
+      "L16 «Scientists need a new weapon…» drops the «Scientists say» attribution that D16 asks for.",
+      "L3 «Family records say they bred aboard» credits the breeding to the family records. FACTS says the records only give 13 departing, and breeding is the 'probably' inference.",
+      "Its timeline (arrival, spread, fence, myxoma 99%, resistance, calicivirus, 200 million) is essentially the saturated chronology from BRIEF. Only the hook and the Pasteur beat are fresh.",
+      "It has no final score, so the rounds never pay off on a scoreboard the way ep. 1 does.",
+      "L1–2 need a toon clipper and two docks, and L14 needs toon officials. This is costly but buildable.",
+      "L5 «Each mom» is a slightly odd word for a dry villain voice. Minor."
+     ],
+     "best_lines": [
+      "Thirteen rabbits got on this ship. Twenty-four got off.",
+      "Probably.",
+      "Round two, a fence: rabbits beat it to the safe side.",
+      "The match isn't over."
+     ]
+    },
+    {
+     "key": "A_scoreboard",
+     "score": 66,
+     "strengths": [
+      "Budget OK by tool count: 114 words, 660 chars, about 57 s. The draft's own 64.6 s figure comes from a formula that is too pessimistic.",
+      "Atlas appears only in its 3 windows with listed gestures (point_stick, surprise_reaction, facepalm, count_three, shrug, wink).",
+      "«The official release? The next year.» uses the same question-then-answer rhythm as ep. 1's «And Hawaii? We don't talk about Hawaii.» and reads well for TTS.",
+      "«Final score, so far: … if you count the flies» mirrors the ep. 1 ending, and «so far» keeps the ending open.",
+      "The L13 label «planned release: 1998» adds the set-up information without repeating the voice.",
+      "The tabletop WA map with the fence drawing itself from ocean to ocean (L1) is easy to build from the WA GeoJSON."
+     ],
+     "problems": [
+      "L11 has two score changes in 2.9 s («1:2 → 1:3») and awards round three's point late. It reads like a rolling counter (banned) and is confusing.",
+      "The scoreboard flips at L4, L7, L11 and L16 add up to a running counter plus text on 17 of 18 lines, which is the heaviest text load next to D.",
+      "L10: a 10×10 grid where 99 rabbit icons fade to pale outlines is a death depiction, even in abstract form. That risks the all-ages and 'no sick or dead animals' rule. B's abstract bloom is the safe alternative.",
+      "L17–18 spend two lines on emus, but BRIEF allows emus as a one-line callback at most. «Good luck with that.» also hints the fence fails against emus, which FACTS does not support (C11 only says not to claim it beat them).",
+      "L6 plans a Sydney Harbour map from Natural Earth, which cannot resolve Sydney Harbour or the tiny Rodd Island. It should be toon (as B, C and D do) or use a finer coastline.",
+      "L14 needs a rabbit-density heat layer with no listed data source, so it has to be stylised. L15 has the same shire-shading problem as B and D.",
+      "L7 «Nobody ever wins.»: the present tense reads as a general maxim instead of «Nobody ever won».",
+      "It uses the saturated myxoma-99% and resistance beats. With 5 rounds the middle runs on rails, and rounds 1–2 are out of date order.",
+      "L4 «That was round one.» is filler, 4 words that only exist to hold the scoreboard."
+     ],
+     "best_lines": [
+      "The rabbits got there first.",
+      "The official release? The next year.",
+      "Final score, so far: rabbits three, humans two, if you count the flies.",
+      "It escapes, probably on flies."
+     ]
+    }
+   ],
+   "winner": "C_famous_last_words",
+   "must_keep_ideas": [
+    "C: «The fence worked, backwards.», a 2.4 s flat arrow diagram that bounces off the fence both ways, with no label.",
+    "C: «The rules protected sheep, horses, dogs. / They forgot birds.» as the Atlas KEY MOMENT: a facepalm while a toon chicken struts past six shielded animal silhouettes.",
+    "C: «Earlier,» as the spoken cue whenever the 1887 prize comes after the 1901–07 fence.",
+    "C: «It escaped three years early, probably on flies.» followed by «The virus got there first.» over abstract virus dots on the WA map (no shire shading, which would invent data), with the label «already in 30+ shires».",
+    "C: a closed ceremony crate with no animals visible (L14).",
+    "C: «Surely the next one's foolproof.» with an Atlas wink as the closing line.",
+    "C: restraint. Punchline beats carry no label, and keep about 1–3 KEYFACTs in total.",
+    "D: «Score so far: Rabbits two, Flies one, Australia zero.» as the single end KEYFACT. The score appears only at the end, with no running counter.",
+    "D: FACTS' safe wording, almost word for word: «Before it was finished, rabbits were already on the safe side.», «It escaped, most likely on flies.», «Nobody ever won.»",
+    "D: the loop ending «They were winning before the ship even landed.», cut back to the opening frame (only if the 13→24 hook is used).",
+    "D labels that add information: «His team's lab: Rodd Island, Sydney», «300+ km within weeks», «1887 · nearly 1,500 entries».",
+    "B: the hook «Thirteen rabbits got on this ship. Twenty-four got off.» + «Probably.», with the hedge kept and attributed correctly (family records = 13 left).",
+    "B: the 1884 rabbits-playing-tennis cartoon + «The match isn't over.», where the label «Cartoon, 1884» also serves as the credit.",
+    "B: an abstract violet bloom on the map for any virus spread (never fading rabbit icons).",
+    "A: «The official release? The next year.», a question-then-answer punchline in the ep. 1 «And Hawaii?» rhythm.",
+    "A: «if you count the flies» as a possible tag on the final score.",
+    "A: the label «planned release: 1998» under the escape line.",
+    "A: the WA tabletop map with fence No. 1 drawing itself from the Southern Ocean to the Indian Ocean as Atlas follows it with the pointer (hook)."
+   ],
+   "notes": "I judged one lens only: owner rules plus producibility. I counted each draft's vo_text with python. A: 114 words, 660 chars. B: 106 words, 653 chars. C: 109 words, 680 chars. D: 106 words, 661 chars. All four are inside 105–120 words and ≤ 690 chars, and all land at about 53–59 s at the ep. 1 rates (2.0 words/s, 11.5 chars/s). All four keep Atlas to exactly 3 windows using only listed acting, and none uses AI video or AI images.\n\nC wins this lens. It has the least on-screen text, needs the fewest toon builds, handles all-ages best, has the cleanest text for TTS, and has the only honest visual for «30+ shires». Its weaknesses are a missing scoreboard, a ~5 s single-Ken-Burns beat on the attributed «longest unbroken fence» line (L5, the line to cut), and the 1888 date, which is not in FACTS.md.\n\nFixes that apply to every draft:\n- Never shade specific WA shires. Natural Earth has no shire boundaries and FACTS does not say which shires; use abstract dots (as C does).\n- Rodd Island must be toon. Natural Earth cannot resolve it.\n- Do not say «Eighteen hundred thirty» (D L6). It sounds like the year 1830.\n- Avoid A's double score flip in L11 and its fading 99-rabbit grid in L10.\n- Keep emus to one line at most.\n- Restore «Scientists say» on the 10–15-year line (B L16).\n- Real photos need a credit pill that does not collide with the label. Fold the credit into the label, as B L17 and D L5 do, or move credits to the description.\n\nA merge to consider: C's rounds with the «Earlier,» cue, plus D's end score and an «estimated two hundred million» line, with C L5 cut. My quick count of C minus L5, plus D's score line (which replaces C's 10–15-year line), plus the closer gives 96 words / 606 chars. That leaves about 10–20 words of room for a hook line (B or D's 13→24) or the «Today: an estimated two hundred million.» line. All counting scratch files are in /private/tmp/claude-501/-Users-khorengrigoryan-shorts/1c348364-7484-4799-a95b-8df54e91b3e8/scratchpad/judge/."
+  }
+ ],
+ "synth": {
+  "angle": "«Australia vs Rabbits», a three-round scoreboard that loops. It is built on draft D, and the rounds now run in date order. Cold open on an impossible sum: thirteen rabbits got on a ship (family records say), twenty-four got off, and they «probably weren't playing cards». Round one, 1887: a £25,000 prize. Louis Pasteur enters with chicken cholera, the rules protected the farm animals but forgot birds, and nobody ever won. Round two, 1901–07: Western Australia's ocean-to-ocean fence. Rabbits were on the safe side before it was finished and even scratched to get back, so the fence worked backwards. Round three, 1995: a quarantined virus escapes three years early, most likely on flies. It works, and Western Australia's official release ceremony a year later finds it already there. The twist score inverts episode 1: «Rabbits two, Flies one, Australia zero.» The last line, «They were winning before the ship even landed. Probably.», dissolves back into the opening frame, so the Short loops. None of the saturated chronology is used: no «24 rabbits ruined Australia», no myxoma 99 %, no spread map, no foxes or cats, no «longest fence», no emus.",
+  "title_options": [
+   "Australia 0, Rabbits 2, FLIES 1",
+   "Australia vs Rabbits: 3 ROUNDS",
+   "Australia's £25,000 Rabbit PRIZE"
+  ],
+  "hook_alternatives": [
+   "Louis Pasteur once tried to beat Australia's rabbits. With chicken cholera.",
+   "This fence wasn't even finished. The rabbits were already on the safe side.",
+   "Australia's rabbit virus escaped from a quarantine island. Most likely on flies."
+  ],
+  "lines": [
+   {
+    "n": 1,
+    "vo": "Thirteen rabbits got on a ship, family records say.",
+    "seconds_est": 4.9,
+    "visual": "Frame 0 is already moving. Toon 3D English dock under a violet dusk with cream clouds: a three-masted clipper modelled on the PD Lightning lithograph. Thirteen toon rabbits hop single file up the gangplank into one wooden crate. Atlas stands in the left foreground and tracks the procession with his pointer.",
+    "visual_kind": "mixed",
+    "asset": "none (toon clipper modelled on the clipper Lightning lithograph, PD)",
+    "text_type": "label",
+    "onscreen_text": "England, October 1859",
+    "atlas": "HOOK window: three-quarter view, excited, gesture point_stick (prop pointer) along the gangplank",
+    "sfx": "gulls, rope creak, soft hop thumps on wood",
+    "fact_ids": [
+     "A3",
+     "A1"
+    ]
+   },
+   {
+    "n": 2,
+    "vo": "Twenty-four got off.",
+    "seconds_est": 1.9,
+    "visual": "Cross-dissolve to the same gangplank set, relit as a sunny Melbourne pier. The crate lid pops and a much longer tumbling cascade of rabbits pours down the gangplank. Atlas does a double take at the frame edge.",
+    "visual_kind": "mixed",
+    "asset": "none (same toon dock set, relit)",
+    "text_type": "label",
+    "onscreen_text": "Melbourne · Christmas Day 1859",
+    "atlas": "HOOK window: surprised, gesture surprise_reaction, at the frame edge",
+    "sfx": "wooden lid pop, quick cascade of soft thumps",
+    "fact_ids": [
+     "A1",
+     "A3"
+    ]
+   },
+   {
+    "n": 3,
+    "vo": "They probably weren't playing cards.",
+    "seconds_est": 2.9,
+    "visual": "Slow Ken Burns along the hull of the real clipper Lightning lithograph. A flat cutaway opens the hold and shows one crate with a neat, untouched deck of cards on its lid, while pairs of tiny baby-rabbit ears pop up behind it one after another (cute, no counter). Atlas sits small in the lower-right corner and peers at it through his magnifier.",
+    "visual_kind": "mixed",
+    "asset": "clipper Lightning lithograph/painting (PD) + flat cutaway",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "HOOK window (ends here): small in the lower-right corner, suspicious, prop magnifier, head three-quarter",
+    "sfx": "creaking hull, waves, a tiny pop for each pair of ears",
+    "fact_ids": [
+     "A3"
+    ]
+   },
+   {
+    "n": 4,
+    "vo": "Round one: a prize.",
+    "seconds_est": 2.4,
+    "visual": "Smooth dissolve to a toon 3D paddock at violet dusk. A golden trophy and a fat money bag rise on a pedestal into a soft spotlight. KEYFACT big number above it; the subtitle for this phrase is hidden.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "keyfact",
+    "onscreen_text": "£25,000",
+    "atlas": "",
+    "sfx": "soft round bell (the round motif), coin clink",
+    "fact_ids": [
+     "D4"
+    ]
+   },
+   {
+    "n": 5,
+    "vo": "Louis Pasteur entered.",
+    "seconds_est": 1.9,
+    "visual": "Toon 3D: a small steamer glides up to a tiny island in a stylised Sydney Harbour and unloads crates of glass flasks at a little lab hut, whose windows light up. No people are shown, because no real image of Pasteur's team exists.",
+    "visual_kind": "toon3d",
+    "asset": "none (toon island; Natural Earth cannot resolve Rodd Island)",
+    "text_type": "label",
+    "onscreen_text": "His team's lab: Rodd Island, Sydney",
+    "atlas": "",
+    "sfx": "soft ship horn, clinking glass",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 6,
+    "vo": "With chicken cholera.",
+    "seconds_est": 1.9,
+    "visual": "The hut door creaks open. A healthy, puzzled toon chicken peeks out beside a softly glowing flask with an abstract germ glyph on it. No sick animals.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "",
+    "sfx": "door creak, one confused cluck",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 7,
+    "vo": "The rules protected sheep, horses, dogs.",
+    "seconds_est": 3.4,
+    "visual": "Animated flat diagram on cream: six farm-animal silhouettes pop in one by one (horse, sheep, camel, goat, pig, dog), and each gets a little violet shield. The silhouettes themselves show the full list that the voice shortens.",
+    "visual_kind": "diagram",
+    "asset": "none",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "",
+    "sfx": "six soft shield dings",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 8,
+    "vo": "They forgot birds.",
+    "seconds_est": 1.9,
+    "visual": "Atlas, front view, stands beside the row of shields. The toon chicken struts past the six shields with no shield of its own, and Atlas facepalms.",
+    "visual_kind": "atlas",
+    "asset": "none",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "KEY MOMENT window: front view, sarcastic, gesture facepalm",
+    "sfx": "single chicken cluck, soft palm pat",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 9,
+    "vo": "Nobody ever won.",
+    "seconds_est": 1.9,
+    "visual": "Back in the toon paddock: the trophy and money bag sit untouched on the pedestal while a tumbleweed rolls slowly past.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "New South Wales, 1887 · nearly 1,500 entries",
+    "atlas": "",
+    "sfx": "empty wind, tumbleweed rustle",
+    "fact_ids": [
+     "D4"
+    ]
+   },
+   {
+    "n": 10,
+    "vo": "Round two: a fence.",
+    "seconds_est": 2.4,
+    "visual": "Smooth dissolve to a map of Western Australia (Natural Earth coastlines, ochre land). Fence No. 1 from the WA GeoJSON draws itself outward from Burracoppin, north to the Indian Ocean and south to the Southern Ocean.",
+    "visual_kind": "map",
+    "asset": "WA government GeoJSON of fences No. 1–3 + Natural Earth coastlines",
+    "text_type": "label",
+    "onscreen_text": "Western Australia · ≈ 1,830 km, ocean to ocean",
+    "atlas": "",
+    "sfx": "soft round bell, then a long taut-wire zip with the line",
+    "fact_ids": [
+     "C1",
+     "C2"
+    ]
+   },
+   {
+    "n": 11,
+    "vo": "Before it was finished, rabbits were already on the safe side.",
+    "seconds_est": 5.9,
+    "visual": "Toon 3D tracking shot along a half-built wire-netting fence on red dirt, with posts and wire rolls sliding past. The netting stops in the middle of nowhere. The camera keeps going past its end and reveals a toon rabbit already sitting on the green 'safe' side, chewing.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "1902",
+    "atlas": "",
+    "sfx": "outback wind, faint wire jingle, then a small crunch of chewing",
+    "fact_ids": [
+     "C4"
+    ]
+   },
+   {
+    "n": 12,
+    "vo": "Some were scratching to get back.",
+    "seconds_est": 3.4,
+    "visual": "Toon 3D close-up at the foot of the netting on the green side: a rabbit scratches at the wire, its paw tracks all pointing back east toward the bare red side it came from.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "Inspector's report, 1904",
+    "atlas": "",
+    "sfx": "scratch-scratch on wire netting, one hopeful sniff",
+    "fact_ids": [
+     "C5"
+    ]
+   },
+   {
+    "n": 13,
+    "vo": "The fence worked, backwards.",
+    "seconds_est": 2.4,
+    "visual": "Flat top-down diagram on the WA map: the fence line is drawn, and a single rabbit arrow already on the west ('safe') side heads east toward home, bonks into the fence and bounces back west. Only the eastward bounce is shown.",
+    "visual_kind": "diagram",
+    "asset": "WA government GeoJSON of fences No. 1–3",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "",
+    "sfx": "soft boing, then a short tape-rewind zwip",
+    "fact_ids": [
+     "C5",
+     "C10"
+    ]
+   },
+   {
+    "n": 14,
+    "vo": "Round three: a virus, in quarantine.",
+    "seconds_est": 3.4,
+    "visual": "Cross-dissolve to a slow push-in on the real 2019 Wardang Island aerial. A flat diagram overlay draws small fenced pens with a padlock icon around an abstract violet virus glyph.",
+    "visual_kind": "mixed",
+    "asset": "Wardang Island aerial 2019 (CC BY-SA) + flat overlay",
+    "text_type": "label",
+    "onscreen_text": "Wardang Island, South Australia · 1995",
+    "atlas": "",
+    "sfx": "soft round bell, seagulls, heavy padlock click",
+    "fact_ids": [
+     "D12"
+    ]
+   },
+   {
+    "n": 15,
+    "vo": "It escaped three years early, most likely on flies.",
+    "seconds_est": 4.9,
+    "visual": "Animated flat map (Natural Earth 10m coastlines, Yorke Peninsula / Spencer Gulf): friendly cartoon flies lift the glowing virus glyphs out of the pens and buzz across the strait, and their dotted trails spread far onto the mainland.",
+    "visual_kind": "diagram",
+    "asset": "Natural Earth coastlines",
+    "text_type": "label",
+    "onscreen_text": "300+ km within weeks",
+    "atlas": "",
+    "sfx": "rising cartoon fly buzz that pans left to right, light whoosh",
+    "fact_ids": [
+     "D12"
+    ]
+   },
+   {
+    "n": 16,
+    "vo": "And it worked.",
+    "seconds_est": 1.9,
+    "visual": "Flat diagram: a single cream bar topped with a rabbit icon shrinks smoothly to about two-fifths of its height. Abstract, no animals harmed on screen.",
+    "visual_kind": "diagram",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "≈ 60 % fewer rabbits nationwide",
+    "atlas": "",
+    "sfx": "soft descending whoosh",
+    "fact_ids": [
+     "D14"
+    ]
+   },
+   {
+    "n": 17,
+    "vo": "A year later: the official release ceremony.",
+    "seconds_est": 3.9,
+    "visual": "Toon 3D: a little stage with bunting on Western Australian farmland and a closed wooden crate tied with a red ribbon. Giant ceremonial scissors snip the ribbon. No animals are visible.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "Western Australia · 18 October 1996",
+    "atlas": "",
+    "sfx": "scissor snip, thin polite applause, one stray fly buzz",
+    "fact_ids": [
+     "D13"
+    ]
+   },
+   {
+    "n": 18,
+    "vo": "The virus was already there.",
+    "seconds_est": 2.9,
+    "visual": "The camera pulls back from the stage to a flat map of Western Australia (coastline only, no shire boundaries) that is already speckled with abstract violet virus dots all over the south-west. The tiny ceremony pin sits in the middle of them.",
+    "visual_kind": "map",
+    "asset": "Natural Earth coastlines (abstract dots; no shire data is invented)",
+    "text_type": "label",
+    "onscreen_text": "on its own: 30+ WA shires",
+    "atlas": "",
+    "sfx": "deflating party-horn squeak, applause trails off",
+    "fact_ids": [
+     "D13"
+    ]
+   },
+   {
+    "n": 19,
+    "vo": "Score so far: Rabbits two, Flies one, Australia zero.",
+    "seconds_est": 4.9,
+    "visual": "Smooth dissolve to a toon 3D outback at violet dusk with a big wooden cricket-style scoreboard. Three tiles clack into place one after another as they are spoken. A cartoon fly lands on the FLIES tile. The tiles are the KEYFACT; the subtitle is hidden.",
+    "visual_kind": "mixed",
+    "asset": "none",
+    "text_type": "keyfact",
+    "onscreen_text": "RABBITS 2 · FLIES 1 · AUSTRALIA 0",
+    "atlas": "ENDING window: front view in front of the scoreboard, sarcastic, gesture shrug on 'Australia zero'",
+    "sfx": "three wooden tile clacks, a single fly buzz that stops when it lands",
+    "fact_ids": [
+     "C10",
+     "D4",
+     "D12",
+     "D14"
+    ]
+   },
+   {
+    "n": 20,
+    "vo": "They were winning before the ship even landed.",
+    "seconds_est": 4.4,
+    "visual": "The camera rises over the scoreboard, so the score tiles leave the frame. Beyond it, the outback is full of cute grazing toon rabbits all the way to a violet sea on the horizon, where the clipper's sails appear.",
+    "visual_kind": "mixed",
+    "asset": "none (same toon clipper as line 1)",
+    "text_type": "label",
+    "onscreen_text": "Today: ≈ 200 million rabbits (est.)",
+    "atlas": "ENDING window: three-quarter view, thinking, look_right toward the rabbits and the ship",
+    "sfx": "wind over dry grass, faint gulls fading in",
+    "fact_ids": [
+     "A3",
+     "B5"
+    ]
+   },
+   {
+    "n": 21,
+    "vo": "Probably.",
+    "seconds_est": 0.9,
+    "visual": "Atlas raises one eyebrow and winks to camera. The camera pushes toward the ship and cross-dissolves into the exact opening frame of line 1 (English dock, rabbits on the gangplank), so the Short loops.",
+    "visual_kind": "atlas",
+    "asset": "none (same toon dock set as line 1)",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "ENDING window: front view, skeptical, then gesture wink",
+    "sfx": "gulls and rope creak, identical to the opening, for a seamless loop",
+    "fact_ids": [
+     "A3"
+    ]
+   }
+  ],
+  "vo_text": "Thirteen rabbits got on a ship, family records say.\nTwenty-four got off.\nThey probably weren't playing cards.\nRound one: a prize.\nLouis Pasteur entered. With chicken cholera.\nThe rules protected sheep, horses, dogs. They forgot birds.\nNobody ever won.\nRound two: a fence.\nBefore it was finished, rabbits were already on the safe side.\nSome were scratching to get back.\nThe fence worked, backwards.\nRound three: a virus, in quarantine.\nIt escaped three years early, most likely on flies.\nAnd it worked.\nA year later: the official release ceremony.\nThe virus was already there.\nScore so far: Rabbits two, Flies one, Australia zero.\nThey were winning before the ship even landed. Probably.",
+  "word_count": 112,
+  "char_count": 686,
+  "est_seconds": 64.4,
+  "atlas_windows": "Times use the requested formula; at the measured ep. 1 pace everything is about 13 % earlier. 1) HOOK, lines 1–3 (0–9.7 s): three-quarter view, excited, pointer tracking the 13 rabbits up the gangplank; surprise_reaction double take as the cascade pours out at Melbourne; small in the lower-right corner, suspicious, with the magnifier over the deck of cards. 2) KEY MOMENT, line 8 «They forgot birds.» (19.3–21.2 s): front view, sarcastic, facepalm as the shieldless chicken struts past. 3) ENDING, lines 19–21 (54.2–64.4 s): front view, sarcastic shrug on «Australia zero» in front of the scoreboard; thinking, look_right at the rabbits and the ship; skeptical eyebrow and the one wink of the episode on «Probably.», which dissolves into the opening frame. Atlas is off screen for lines 4–7 and 9–18.",
+  "why_it_works": "Hook: the first 1.5 s carry an impossible sum («Thirteen rabbits got…» and then «Twenty-four got off») over toon rabbits that are already moving. The first laugh («probably weren't playing cards») lands by about 8 s, and the hedge is the joke. It avoids the saturated «24 rabbits ruined Australia» opener.\n\nSpine: «Round one / two / three» tells the viewer how long the video is and promises a payoff. Running the rounds in date order (1887 → 1901–07 → 1995) means no «Earlier» cue is needed. The Pasteur reveal (≈12–16 s) is a second hook right where Shorts usually dip. The fence's double irony («already on the safe side», «scratching to get back», «worked, backwards») sits at the midpoint. Each round is more absurd than the last and ends on a flat Silas punchline: «They forgot birds.», «Nobody ever won.», «The fence worked, backwards.», «The virus was already there.»\n\nEnding: «And it worked» earns the flies their point, so the «Rabbits two, Flies one, Australia zero» joke stays honest. It twists ep. 1's «Humans two. Volcano zero.» «So far» and the ≈200 million label leave the match open. The last «Probably.» calls back the hook's hedge and dissolves into the opening frame, so the Short loops.\n\nAccuracy:\n- Every line maps to FACTS IDs.\n- Hedges are kept: «family records say» on the 13, «probably» on the breeding (twice), «most likely on flies», «≈ 60 %», «est.».\n- The birds detail is never given as the reason Pasteur was rejected.\n- The fence is framed as Western Australia, ocean to ocean.\n- Nothing from DO-NOT-SAY is used.\n\nOwner rules:\n- There are 2 KEYFACTs (£25,000, the final score), each with its subtitle hidden.\n- There is at most one calm label per line, and each adds a date, place, source or number the voice does not say.\n- The punchline beats «cards», «birds» and «backwards» carry no text.\n- Viruses are abstract glyphs, dots or a bar, the chicken is healthy, and the ceremony crate stays closed.\n\nProduction:\n- Toon sets: one dock (relit for Melbourne), paddock, island hut, fence, ceremony stage, scoreboard.\n- Two real photos: the Lightning lithograph and the Wardang aerial.\n- Flat diagrams: shields, the fence bounce, the flies' path, the bar.\n- Maps from the WA GeoJSON and Natural Earth.\n\nBudget, tool-counted: 112 words, 686 characters, 21 sentences. The conservative formula gives 64.4 s. The brief's measured rates, which already include pauses, give 56 s (2.0 w/s) to 59.7 s (11.5 c/s).\n\nA/B: if the owner finds «weren't playing cards» too adult, swap in B's bare «Probably.» with a shrug. That saves 25 characters, and the closing «Probably.» still works as a callback.",
+  "changelog": [
+   "Base is D_max_retention (highest total). Its strengths are kept: the 13→24 cold open, the three signposted rounds, the split Pasteur reveal, «Nobody ever won», the release-ceremony irony, the inverted ep. 1 score and the loop ending.",
+   "Hook hedge fixed. The vague «Family records say so.» (retention: say what?; production: it stretches the attribution) is gone. The attribution now sits on the 13 itself: «Thirteen rabbits got on a ship, family records say.» This saves a sentence and keeps A3's spoken hedge (accuracy).",
+   "Rounds reordered by date: prize 1887, then fence 1901–07, then virus 1995. This removes the unsignalled flashback that production flagged in A and D. No «Earlier» cue is needed, and the Pasteur surprise lands at about 12 s.",
+   "Removed the spoken «Eighteen hundred thirty kilometers»: it was a dead stat, and the TTS would make it sound like the year 1830. ≈1,830 km now goes in the fence-map label «Western Australia · ≈ 1,830 km, ocean to ocean», which also gives the C2/WA framing.",
+   "Removed the 1884 tennis cartoon from the fence intro (thematic mismatch). The fence now draws from the WA GeoJSON outward from Burracoppin, which is accurate to how it was built.",
+   "£25,000 moved from the voice to the KEYFACT on «Round one: a prize.» (subtitle hidden). The freed characters pay for C's birds joke. «New South Wales, 1887 · nearly 1,500 entries» is the label on «Nobody ever won.»",
+   "Grafted in C's «The rules protected sheep, horses, dogs. They forgot birds.» It is Atlas's KEY MOMENT (facepalm while the chicken struts past the shields). It is never stated as the reason Pasteur was rejected (D5).",
+   "Grafted in C's fence button «The fence worked, backwards.» Following accuracy, the diagram animates only the eastward bounce from the safe side (C5/C10), never a westward rabbit being stopped.",
+   "Grafted C's «three years early» (planned 1998, escaped 1995) into D's FACTS-exact «most likely on flies». The «300+ km within weeks» label is kept.",
+   "Added «And it worked.» with the label «≈ 60 % fewer rabbits nationwide» (D14). This earns the «Flies one» point and answers the accuracy note that «Australia zero» hid the success of calicivirus.",
+   "The spoken «Today: an estimated two hundred million» was an exposition dip before the climax, so it is cut. It is now the label «Today: ≈ 200 million rabbits (est.)» on the loop line, which keeps B5's hedge and the open ending.",
+   "Loop line hedged for accuracy: «They were winning before the ship even landed. Probably.» It no longer states the breeding at sea as fact, and B's one-word «Probably.» beat comes back as the final wink.",
+   "Atlas KEY MOMENT moved from «The virus was already there» to «They forgot birds», so the three windows are spread out (≈0–10 s, ≈19 s, ≈54 s). The hook gesture on «cards» is now suspicious with the magnifier instead of a wink, so the wink is used only once, at the end. All acting is from the listed rig set.",
+   "Text load reduced:\n- KEYFACTs «13 → 24» (it repeated the subtitle) and «1,830 km» are dropped, leaving 2 KEYFACTs.\n- The punchlines «cards», «birds» and «backwards» carry no label.\n- «Australian cartoon» is dropped.\n- The Rodd Island label has no year that is missing from FACTS.md.",
+   "Production fixes:\n- The WA map uses abstract dots with no shire shading, because Natural Earth has no shire boundaries and FACTS does not name the shires.\n- Rodd Island and Sydney Harbour are toon, since Natural Earth cannot resolve them.\n- The camel cart and the 1907 grass-split composite are dropped.\n- The hook's hold beat uses the real Lightning lithograph with a flat cutaway (B) instead of a new below-deck toon set.\n- The Melbourne pier reuses the dock set.",
+   "All-ages: no myxoma 99 % grid, the virus is shown only as glyphs, dots or a bar, the chicken is healthy, and the ceremony crate stays closed. The fallback «Probably.» is noted in case the owner wants to replace «playing cards».",
+   "Titles: dropped «0 WINS» as an overclaim (accuracy). Kept the in-script score title plus two safe ones. Hook alternatives keep their hedges («most likely on flies», no unhedged 13)."
+  ]
+ },
+ "checks": [
+  {
+   "check": "facts",
+   "verdict": "pass_with_fixes",
+   "issues": [
+    {
+     "line": 16,
+     "severity": "major",
+     "problem": "This is an implied timing and cause claim that FACTS does not support. «And it worked.» with the label «≈ 60 % fewer rabbits nationwide» comes BEFORE «A year later: the official release ceremony.» The viewer therefore believes the escaped, fly-carried virus cut the national population by 60 % on its own, before any official release. The «Flies one» point then rewards that belief. D14's 60 % is the overall calicivirus result. Per digest rhd_kill it comes from Schwensow 2014, citing 1998 studies, so it covers the period after the 1996 official releases. FACTS gives no timing that puts it before the ceremony.",
+     "fix": "Reorder the narration to lines 15 → 17 → 18 → 16 → 19: «It escaped three years early, most likely on flies. A year later: an official release ceremony. The virus was already there. And it worked. Score so far: …». Keep the label «≈ 60 % fewer rabbits nationwide» on «And it worked.»"
+    },
+    {
+     "line": 9,
+     "severity": "major",
+     "problem": "The sequence «They forgot birds.» [Atlas facepalm] → «Nobody ever won.» invites the myth in digest WAR/myths #109: that Pasteur's germ was banned because it would kill birds or wildlife. The script never gives the real main reason. FACTS D5 says the main reason for rejection (1889) was that the germ didn't spread from rabbit to rabbit. The digest calls birds only a secondary concern. «Never stated as the reason» is technically true, but the viewer is left to infer the wrong one.",
+     "fix": "Change the line-9 label to «Rejected 1889: the germ didn't spread rabbit to rabbit». Move «New South Wales, 1887 · nearly 1,500 entries» to line 6 («With chicken cholera.», which has no text now). A spoken alternative is «It didn't spread. Nobody won.», but that adds 13 characters and only fits with the savings listed below."
+    },
+    {
+     "line": 15,
+     "severity": "minor",
+     "problem": "«three years early» is our own arithmetic on a single source. FACTS D12 says only «ahead of a release planned for 1998», and the 1998 date comes from CSIROpedia alone («due for release in 1998»). FACTS gives no month for 1998. The escape was in late September 1995, so the real gap is anywhere from about 2.3 to 3.3 years, and «three years» may overstate it.",
+     "fix": "«It escaped years early, most likely on flies.» (saves 6 characters). Or keep «three years early» and move the bare year to the label: «planned release: 1998 · 300+ km within weeks»."
+    },
+    {
+     "line": 17,
+     "severity": "minor",
+     "problem": "«the official release ceremony» uses the definite article, which implies a single national release event. FACTS D13 describes Western Australia's ceremony. The digest notes there was no single national approval date («I found no exact national approval date»), and releases happened state by state. The label fixes the place, but the spoken line still overgeneralises.",
+     "fix": "«A year later: an official release ceremony.» (saves 1 character; keep the label «Western Australia · 18 October 1996»)."
+    },
+    {
+     "line": 13,
+     "severity": "minor",
+     "problem": "«The fence worked, backwards.» implies the fence really did stop rabbits, just in the wrong direction. The only evidence is one inspection: tracks «where the rabbits were trying to scratch through to get back to the East» (C5). FACTS C10 says the fences slowed rabbits but didn't stop them. Calling the fence effective in either direction goes beyond the source, so the joke states a fact we don't have.",
+     "fix": "«The fence had it backwards.» (saves 1 character, same joke, and claims nothing about it working)."
+    },
+    {
+     "line": 20,
+     "severity": "minor",
+     "problem": "«before the ship even landed»: the digest note on A1 says «Say 'arrived', not 'released' or 'docked'». «Landed» is the docking image. PNAS also says the breeding happened «before or during» the trip and «cannot rule out interbreeding occurring after arrival». The «Probably.» hedge covers the breeding, but the verb should still follow the safe wording.",
+     "fix": "«They were winning before the ship even arrived. Probably.» (adds 1 character)."
+    },
+    {
+     "line": 19,
+     "severity": "minor",
+     "problem": "The score joke states facts. (1) The «FLIES 1» KEYFACT tile drops the «most likely» hedge from D12. (2) «Score so far … Australia zero» lets viewers believe Australia has never beaten the rabbits. That conflicts with D14, since calicivirus was Australia's own programme and cut numbers about 60 %, and with the omitted myxoma success (D7/D8). Title option 1, «Australia 0, Rabbits 2, FLIES 1», states this with no context at all.",
+     "fix": "Narrow the score to these rounds at no character cost: «Three rounds: Rabbits two, Flies one, Australia zero.» Prefer title option 2, «Australia vs Rabbits: 3 ROUNDS». If option 1 is used, the description should state «most likely carried by flies»."
+    },
+    {
+     "line": 2,
+     "severity": "minor",
+     "problem": "This is an implied claim in the visual. The ship docks at a «sunny Melbourne pier» and the crate pops open, sending a cascade of rabbits down the gangplank. On screen, that is the rabbits being RELEASED in Melbourne, and at a dock. FACTS A1 says only that 24 ARRIVED in Melbourne for Barwon Park, about 37 km from Geelong. The digest says not to say «released» or «docked», and NMA puts the release of 13 at Barwon Park.",
+     "fix": "Keep the crate closed on the gangplank, or let the lid lift just enough to show 24 rabbits packed inside. The crate is then carried off, with no rabbits running loose on the pier. A ship at anchor with the crate lowered by rope also avoids «docked»."
+    },
+    {
+     "line": 3,
+     "severity": "minor",
+     "problem": "The visual removes the hedge. The voice says «probably», but baby ears popping up in the hold show breeding at sea as fact. PNAS says «before or during» the voyage, and the TAP 2016 background offers a different explanation for 13 vs 24: 24 imported, at least 13 released.",
+     "fix": "Keep the deck of cards gag, but leave the hold ambiguous. For example, the crate lid jiggles and Atlas raises the magnifier with a «?», with no on-screen babies. Or have Atlas's magnifier reveal only one pair of ears."
+    },
+    {
+     "line": 11,
+     "severity": "minor",
+     "problem": "The visual overstates how far construction had got. A «half-built» fence with the camera passing its end implies the fence was well advanced, perhaps half done, and that rabbits went around it. The digest note on C4 says that in 1902 «only about 50 miles of fence had been started» out of 1,139, so the rabbits were ahead of construction. The bare-red vs green split is the 1907 grass report (C8), which is anachronistic for 1902.",
+     "fix": "Show a short, just-started stretch of netting, then survey pegs along the planned line with no netting at all. The camera then finds the rabbit already west of the pegs. Avoid the strong red/green split until line 12 (1904) or later."
+    },
+    {
+     "line": 15,
+     "severity": "minor",
+     "problem": "The visual gives flies more credit than the source does. Flies carry the virus glyphs across the strait, and their trails spread far onto the mainland under «300+ km within weeks». FACTS/digest attribute only the ESCAPE from the pens to flies: MLA found the virus on blowflies just outside the quarantine area, and CSIROpedia says «insects». FACTS gives no vector for the spread on the mainland.",
+     "fix": "Flies lift the glyphs out of the pens only. Show the mainland spread as a neutral dotted front advancing from the coast, with no flies on it, ending at the «300+ km within weeks» label."
+    },
+    {
+     "line": 18,
+     "severity": "minor",
+     "problem": "The visual places the ceremony pin «in the middle of» the virus dots, which says the virus was already at the release site. The source (WA media statement) says it had spread through «more than 30 agricultural and southern pastoral shires in WA», and that the release was «near the Great Southern town of Cranbrook». It does not say Cranbrook was already infected.",
+     "fix": "Spread the abstract dots across the south-west farm belt and put the pin near Cranbrook without dots right under it. The voice «already there» means WA, and that is supported."
+    },
+    {
+     "line": 4,
+     "severity": "minor",
+     "problem": "«Round one» may suggest the 1887 prize was Australia's first move against rabbits. Shooting, trapping and poison (D1), the 1883–84 mongooses (D2) and the 1886 cats (D3) all came earlier. This is framing, but it is an implied claim.",
+     "fix": "No VO change needed. Do not describe the prize as the «first» weapon in the description, pinned comment or titles. If space allows, the description can say «after guns, poison and mongooses…»."
+    },
+    {
+     "line": 0,
+     "severity": "minor",
+     "problem": "Title option 3, «Australia's £25,000 Rabbit PRIZE»: per D4 the prize was offered by the colony of New South Wales in 1887, before federation. The possessive suggests the nation of Australia offered it.",
+     "fix": "«A £25,000 PRIZE to Beat Australia's Rabbits»."
+    },
+    {
+     "line": 0,
+     "severity": "minor",
+     "problem": "Hook alternative 3, «Australia's rabbit virus escaped from a quarantine island.»: FACTS D12 says «quarantine pens on Wardang Island», not a quarantine island. «Australia's rabbit virus» can be read as Australian-made, and FACTS does not support that.",
+     "fix": "«A rabbit virus escaped from quarantine pens on an Australian island. Most likely on flies.»"
+    }
+   ],
+   "notes": "I checked every number and date against FACTS.md, digest_facts.md and the research.json quotes, and they all match:\n- 13 left England (family records), 24 arrived, England October 1859, Melbourne Christmas Day 1859\n- £25,000, NSW 1887, nearly 1,500 entries, nobody won\n- Pasteur, chicken cholera, Rodd Island; the protected animals (horses, sheep, camels, goats, swine, dogs) with birds left out\n- WA fence ≈1,830 km ocean to ocean, built outward from Burracoppin (Contract 1 south, Contract 2 north)\n- Rabbits on the safe side by 1902; 1904 tracks «trying to scratch through to get back to the East»\n- Wardang quarantine pens 1995, escape most likely on flies, 300+ km within weeks\n- ≈60 % nationwide; WA ceremony 18 Oct 1996, with 30+ WA shires already affected; ≈200 million today (est.)\n\nNo item from the DO-NOT-SAY list is used. Hedges are kept: «family records say», «probably» (×2), «most likely», «≈», «est.». The tool counts are correct: 112 words and 686 characters.\n\nThe two majors are both implied-claim problems, not wrong facts:\n- The order of «And it worked» suggests the 60 % cut came before the official release.\n- «They forgot birds → Nobody ever won» leaves the viewer to guess the rejection reason, and the obvious guess is the bird myth.\n\nIf all the suggested spoken fixes are taken («years early», «an official», «had it backwards», «arrived», «Three rounds:»), the narration drops to about 679 characters, which is inside the 690 limit. That leaves room for the optional «It didn't spread. Nobody won.» (+13 → about 692) only if one more cut is made.\n\nThese are well-sourced but carry some uncertainty; no change is needed:\n- The 13 come from a single 1993 family memoir. TAP 2016 offers a different 13-vs-24 reading, and «family records say» covers it.\n- The wording of the prize rules rests on an AAS paraphrase. The 1887 notice was not reached.\n- The 1904 quote's source is dated either June or December 1904. «1904» is safe.\n\nScratch narration file: /private/tmp/claude-501/-Users-khorengrigoryan-shorts/1c348364-7484-4799-a95b-8df54e91b3e8/scratchpad/vo.txt"
+  },
+  {
+   "check": "rules",
+   "verdict": "pass_with_fixes",
+   "issues": [
+    {
+     "line": 10,
+     "severity": "major",
+     "problem": "The label 'Western Australia · ≈ 1,830 km, ocean to ocean' is 46 characters on a 2.4 s line, about 2.1 s at the real pace. That is roughly 22 characters per second on top of the subtitle, so viewers cannot read it calmly. The map animation already shows the line running from ocean to ocean.",
+     "fix": "onscreen_text: \"Western Australia · ≈ 1,830 km\""
+    },
+    {
+     "line": 9,
+     "severity": "major",
+     "problem": "The label 'New South Wales, 1887 · nearly 1,500 entries' is 44 characters on a 1.9 s line, about 26 characters per second, so it cannot be read. It also sits on the 'Nobody ever won.' punchline. why_it_works counts that line as a punchline, but the script also says punchlines carry no text.",
+     "fix": "onscreen_text: \"1887 · nearly 1,500 entries\""
+    },
+    {
+     "line": 5,
+     "severity": "major",
+     "problem": "The label 'His team's lab: Rodd Island, Sydney' is 35 characters on a 1.9 s line, about 21 characters per second. It is needed, because it shows that Pasteur himself did not travel, but at this length it only flashes past. Line 6 is in the same hut set and has no text.",
+     "fix": "Keep the label 'His team's lab: Rodd Island, Sydney' as one continuous label from the start of line 5 to the end of line 6 (about 3.3 s), and fade it out before the dissolve to line 7. Line 6 then reads: text_type \"label\" (held from line 5), with the same onscreen_text."
+    },
+    {
+     "line": 20,
+     "severity": "major",
+     "problem": "The ENDING window needs Atlas on screen in lines 20 and 21, but the visual for line 20 says the camera rises over the scoreboard he stands in front of. Nothing says where Atlas goes, so he would drop out of frame before his wink in line 21. During the rise, the RABBITS 2 / FLIES 1 / AUSTRALIA 0 tiles and the new label would also be on screen together, which breaks the one-text-layer rule.",
+     "fix": "Atlas stays as a fixed 2D foreground layer in the lower left (three-quarter view, thinking, look_right) while the 3D camera rises behind him. The label 'Today: ≈ 200 million rabbits (est.)' fades in only after the score tiles have fully left the frame. On «landed», switch Atlas to the skeptical emotion (one brow raised)."
+    },
+    {
+     "line": 21,
+     "severity": "minor",
+     "problem": "«Probably.» is only 0.9 s long, but the line packs in an eyebrow raise, a wink, a camera push and the loop dissolve, so it is several visual events in one beat. The loop only works if the last frame matches frame 0 of line 1, including Atlas's pose and position.",
+     "fix": "On «Probably.» show the wink only; the brow is already raised from line 20. Run the camera push and the cross-dissolve into the exact frame 0 of line 1 in a silent tail of about 0.8 s after the word. Match Atlas to his line 1 pose (three-quarter view, left foreground, pointer) and match the gulls and rope-creak SFX, so the loop is seamless."
+    },
+    {
+     "line": 16,
+     "severity": "minor",
+     "problem": "The label '≈ 60 % fewer rabbits nationwide' is 31 characters on a 1.9 s line, about 19 characters per second. The shrinking bar with its rabbit icon already says 'rabbits'.",
+     "fix": "onscreen_text: \"≈ 60 % fewer nationwide\""
+    },
+    {
+     "line": 2,
+     "severity": "minor",
+     "problem": "The label 'Melbourne · Christmas Day 1859' is 30 characters on a 1.9 s line, about 18 characters per second, and arrives during the cross-dissolve from the line 1 label. The two labels must not overlap during the dissolve.",
+     "fix": "onscreen_text: \"Melbourne · Christmas 1859\". Fade the line 1 label out before this one fades in; never two labels at once."
+    },
+    {
+     "line": 7,
+     "severity": "minor",
+     "problem": "The voice says 'sheep, horses, dogs', but the silhouettes pop in the order horse, sheep, camel, goat, pig, dog. The pop on each spoken word therefore shows a different animal from the one being named.",
+     "fix": "Sync the pops to the words: sheep on «sheep», horse on «horses», dog on «dogs». Camel, goat and pig then pop in quickly during the pause after «dogs», so the picture shows the full list that the voice shortens."
+    },
+    {
+     "line": 11,
+     "severity": "minor",
+     "problem": "The research note in digest_facts.md (irony_rabbits_west_1902) says that in 1902 only about 50 miles of fence existed: rabbits got ahead of construction and did not jump or go round the fence ('say the planned line'). As written, a rabbit sitting just past the end of the netting reads as 'went round the end'.",
+     "fix": "Beyond the end of the netting, a line of survey pegs with a string continues the planned route to the horizon. The rabbit sits well inside the green side of the pegs, not at the end of the netting."
+    },
+    {
+     "line": 13,
+     "severity": "minor",
+     "problem": "The asset is listed as the GeoJSON for fences No. 1–3, but the voice only ever mentions one fence. Drawing fences 2 and 3 would add unexplained lines and muddle the 'backwards' joke.",
+     "fix": "asset: \"WA government GeoJSON, fence No. 1 only (same line as line 10)\""
+    },
+    {
+     "line": 14,
+     "severity": "minor",
+     "problem": "The 2019 Wardang aerial is CC BY-SA, so it needs credit. A credit pill next to the label 'Wardang Island, South Australia · 1995' would put two text layers on screen besides the subtitle, which the owner ruled out in ep. 1 notes.",
+     "fix": "Put the CC BY-SA attribution for the Wardang aerial in the video description, or show a small credit pill only after the label has faded, away from the subtitle zone. Never show both at once."
+    },
+    {
+     "line": 17,
+     "severity": "minor",
+     "problem": "This is a 3.9 s toon shot whose only action is the snip, so the stage risks sitting static for more than 2.5 s before or after it.",
+     "fix": "Slow push-in on the stage for the whole line. The scissors enter at the start and snip on «ceremony». The bunting sways gently."
+    },
+    {
+     "line": 19,
+     "severity": "minor",
+     "problem": "With commas, Silas runs the three scores together, so the three tile clacks and Atlas's shrug on 'Australia zero' crowd each other. Ep. 1's 'Humans two. Volcano zero.' used full stops for the deadpan beat.",
+     "fix": "vo: \"Score so far: Rabbits two. Flies one. Australia zero.\" Word and character counts stay the same (112 / 686); each sentence gets one tile clack."
+    },
+    {
+     "line": 5,
+     "severity": "minor",
+     "problem": "This is a TTS risk: ElevenLabs sometimes says 'Louis' as 'Lewis'.",
+     "fix": "Listen-check the take. If it says 'Lewis', feed the TTS \"Lwee Pasteur entered.\" and keep 'Louis Pasteur' in the subtitle and SRT."
+    },
+    {
+     "line": 15,
+     "severity": "minor",
+     "problem": "The label promises '300+ km within weeks', but the planned frame (Yorke Peninsula / Spencer Gulf) is too tight to show trails reaching more than 300 km inland, to the Yunta / Gum Creek area. I checked ne_10m_land: Wardang Island is there, but only as a crude 8-vertex polygon, which is fine at a wide zoom and crude up close.",
+     "fix": "Start on Wardang Island and the strait, then zoom out during the line to a frame about 450 km wide (Wardang to Yunta), so the dotted trails visibly run past 300 km. Keep the virus glyphs glowing steadily, with no pulsing or blinking."
+    }
+   ],
+   "notes": "The script passes once the fixes above are made. Nothing is a blocker.\n\n**Budget (counted with a tool)**\n- vo_text is 112 words (113 if 'Twenty-four' is split at the hyphen), within the 105–120 range.\n- It is 686 characters, with newlines counted as spaces (669 without them), within the 690 limit.\n- It has 21 sentences, matching the 21 lines.\n- The seconds_est values add up to the stated 64.4 s.\n- Calibrated on ep. 1 (153 words, 33 sentence breaks, 75.8 s), this script comes out at about 55.6 s, inside 52–60 s. It has fewer pauses than ep. 1, so there is no length risk.\n\n**Atlas**\n- He appears only in lines 1–3 (hook), line 8 (key moment) and lines 19–21 (ending).\n- All his acting exists in ~/shorts/orangutan:\n  - The animations point_stick, surprise_reaction, facepalm, shrug, look_right and wink exist.\n  - The skeptical emotion raises one brow (emotions/skeptical.json).\n  - The pointer and magnifier props are listed in ASSET_MANIFEST.md.\n\n**Text rules**\n- No label repeats a spoken word or number within ±0.6 s.\n- The scoreboard on line 19 repeats the voice on purpose, which rule 3 allows as long as its subtitle is hidden.\n- There is never more than one label per line.\n- Both KEYFACTs make sense: the £25,000 adds an unspoken number, and the final score is the episode's signature.\n- Text churn is still high: 13 labels plus 2 KEYFACTs in 21 lines. Besides the shortenings above, think about dropping 'Inspector's report, 1904' on line 12 so the text feels calmer.\n- Any transition the script leaves unspecified (6→7, 10→11, 12→13, 15→16, 16→17) should default to a smooth cross-dissolve.\n\n**Facts**\n- Every line maps to an entry in FACTS.md, and nothing on the DO-NOT-SAY list is used.\n- 'Three years early' is simple arithmetic from D12 (release planned for 1998, escape in September 1995), and the digest itself says 'three years before its planned 1998 release'.\n- The digest confirms that work started at Burracoppin with gangs going north and south.\n- 'A year later' matches September 1995 to 18 October 1996.\n- The birds point is never given as the reason Pasteur was rejected.\n\n**All ages**\n- Viruses are only glyphs, dots or a bar; the chicken is healthy, and the ceremony crate stays closed.\n- 'Weren't playing cards' is a mild innuendo that is acceptable for this audience, and the A/B fallback 'Probably.' already exists.\n\n**TTS**\n- All spoken numbers are spelled out, and no £ or km is spoken.\n- The colons and full stops give good pauses.\n- There are no «lead»-type words. 'Records' sits clearly in its noun reading in 'family records say', and the won/one homophone does no harm.\n- 'Escaped three' is the only consonant cluster, and it is fine at Silas's pace.\n\n**Visuals**\n- Everything can be made without AI: Blender toon sets, two real PD/CC images, flat diagrams, the WA fence GeoJSON and Natural Earth. Rodd Island is correctly toon only.\n- Nothing stays static for more than 2.5 s, apart from the line 17 risk noted above.\n\n**Optional retention notes**\n- The hedge 'family records say' delays the 13→24 payoff to about 4.3 s. That is acceptable because frame 0 is already moving.\n- Another option: put the plain label 'New South Wales, 1887' on line 4 and move the £25,000 KEYFACT to line 9 («Nobody ever won.»), so the unclaimed money becomes the visual punchline.\n\n**Saturated angles**\n- None of the saturated angles are used.\n- The title options fit the pattern. The in-video score order (Rabbits, Flies, Australia) differs from the first title's order; that is fine."
+  },
+  {
+   "check": "viewer",
+   "verdict": "pass_with_fixes",
+   "issues": [
+    {
+     "line": 3,
+     "severity": "major",
+     "problem": "The stakes are never set up. The voice never says «Australia», and it never says the rabbits became a problem, until the score line at 54 s. A viewer who only hears the voice gets from «Probably not playing cards» to «Round one: a prize» and wonders: round one of what, and a prize for what? Only the Melbourne label (line 2) and the title carry the premise. This is the biggest swipe risk, at about 9–12 s.",
+     "fix": "Insert a new line after line 3: «Australia fought back.» (3 words, 22 chars, about 1.5 s). Visual: dissolve to a toon hillside at violet dusk where rabbit heads pop out of dozens of burrows. Optional calm label: «Within three years: thousands» (A6). Atlas stays off. If the budget allows, «Australia's been fighting them ever since.» is better, because it also pays off «Score so far»."
+    },
+    {
+     "line": 14,
+     "severity": "major",
+     "problem": "«a virus, in quarantine» followed by «It escaped… on flies» reads like a lab leak or a human virus in 2026, until the viewer works out it was meant for rabbits. Someone could repeat it as «Australia's virus escaped on flies» and take it as false or alarming.",
+     "fix": "«Round three: a rabbit virus.» Move quarantine into the label: «Quarantine pens · Wardang Island, South Australia · 1995». The padlocked pens already show it. If there is spare budget, use «Round three: a rabbit virus, in quarantine.»"
+    },
+    {
+     "line": 12,
+     "severity": "major",
+     "problem": "«Some were scratching to get back.» Get back where? Back in? Heard on its own, «scratching» can also sound like itching. If this line is unclear, the punchline on line 13, «worked, backwards», does not land.",
+     "fix": "«Some were scratching to get back out.»"
+    },
+    {
+     "line": 1,
+     "severity": "minor",
+     "problem": "The hedge «family records say» sits between the setup and the punch. The impossible sum only lands at about 4.4 s, and «whose family?» is a small speed bump. The moving rabbits help keep viewers. The spoken hedge counts as binding (A3), so this is the owner's call.",
+     "fix": "Keep the line as it is (the safe default). If the owner accepts the hedge on screen, use «Thirteen rabbits got on a ship.» with the label «England, October 1859 · family records». «Probably» on line 3 still hedges the breeding. Do not use the on-screen version without the owner's OK."
+    },
+    {
+     "line": 3,
+     "severity": "minor",
+     "problem": "The joke lands at about 6/10. It is mild innuendo and fine for all ages, and the baby-ears visual sells it, but the line is wordy for Silas's dry delivery.",
+     "fix": "«Probably not playing cards.» (keeps the «probably» hedge and saves 9 chars)"
+    },
+    {
+     "line": 5,
+     "severity": "minor",
+     "problem": "Many young or non-French viewers will not know who Louis Pasteur is, so the «world-famous scientist» surprise falls flat. ElevenLabs may also mispronounce «Pasteur».",
+     "fix": "«Even Louis Pasteur entered.» Check the TTS says «LOO-ee pas-TUR»."
+    },
+    {
+     "line": 9,
+     "severity": "minor",
+     "problem": "«Nobody ever won.» right after «They forgot birds.» can be heard as cause and effect, as if Pasteur lost because of the birds. The real main reason was that the germ did not spread from rabbit to rabbit (D5). The risk is low, since 1,500 entries all lost.",
+     "fix": "Optional: «It didn't catch on.» (+3 chars; the pun is accurate to D5), with the label «New South Wales, 1887 · nearly 1,500 entries · no winner». Otherwise keep «Nobody ever won.»"
+    },
+    {
+     "line": 11,
+     "severity": "minor",
+     "problem": "«already» repeats «Before it was finished». It is the longest line (≈5–6 s), and the characters are needed for the fixes above.",
+     "fix": "«Before it was finished, rabbits were on the safe side.»"
+    },
+    {
+     "line": 13,
+     "severity": "minor",
+     "problem": "With a comma, the TTS may run «worked backwards» together, and the deadpan beat is lost. The 1904 bounce diagram also draws the whole ocean-to-ocean line, which suggests the fence was finished in 1904 (it was finished in 1907).",
+     "fix": "«The fence worked. Backwards.» In the diagram, show only a local netting segment for the 1904 bounce, not the complete Fence No. 1."
+    },
+    {
+     "line": 17,
+     "severity": "minor",
+     "problem": "This is the softest stretch: about 6 s of setup with no laugh after «flies». The ribbon visual already says «ceremony». The SFX «one stray fly buzz» at the WA ceremony also suggests flies carried the virus to WA, which FACTS does not say: D12 only names flies for the island escape, and D13 says «on its own».",
+     "fix": "«A year later: the official release.» Remove the stray fly buzz at line 17 and keep the fly gag only for the line 19 scoreboard."
+    },
+    {
+     "line": 18,
+     "severity": "minor",
+     "problem": "In the label «on its own: 30+ WA shires», «WA» reads as Washington for US viewers, «shires» is jargon, and «on its own:» is cryptic.",
+     "fix": "Label: «Already in 30+ shires, on its own» (the map already shows Western Australia)."
+    },
+    {
+     "line": 19,
+     "severity": "minor",
+     "problem": "Optional rhythm note: ep. 1's score landed with full stops («Humans two. Volcano zero.»). Commas rush the three tile clacks.",
+     "fix": "«Score so far: Rabbits two. Flies one. Australia zero.» Use this only if the final timing stays ≤ 60 s (about +1 s)."
+    }
+   ],
+   "notes": "COLD-VIEWER LOG. Lines are numbered as in the script. Each line gives whether I keep watching (Y or N) and what I now believe.\n1 «Thirteen rabbits got on a ship, family records say.» Y, because the rabbits are already moving on screen. I believe it's an old story about 13 rabbits on a ship. «Family records say»: whose family? It slows me before the payoff. I don't know where the ship is going unless I read the England label.\n2 «Twenty-four got off.» Y, hooked: the maths is impossible. I believe they bred on board.\n3 «They probably weren't playing cards.» Y, a small laugh; the baby ears make the innuendo clear. I believe they probably bred on the trip. Now I ask: so what? Nothing says why this matters.\n4 «Round one: a prize.» Y, but confused for a beat: round one of what, and a prize for what? £25,000 keeps me. I'm guessing it's a prize to get rid of rabbits, but nobody said they became a problem or that this is Australia vs rabbits.\n5 «Louis Pasteur entered.» Y if I know Pasteur. Otherwise it's just a name.\n6 «With chicken cholera.» Y, «wait, what?». I believe Pasteur tried to kill rabbits with a chicken disease. «Chicken cholera» is not jargon here; the absurdity explains it.\n7 «The rules protected sheep, horses, dogs.» Y. «Rules» is understood as the prize rules.\n8 «They forgot birds.» Y, the best laugh so far: chicken → bird clicks. I briefly wonder whether birds died.\n9 «Nobody ever won.» Y, a good flat button. I half-believe Pasteur lost because of the birds, which is not the real reason.\n10 «Round two: a fence.» Y, clear; the label gives Western Australia, ocean to ocean.\n11 «Before it was finished… safe side.» Y, a laugh. I believe the rabbits beat the fence before it was done.\n12 «Some were scratching to get back.» Confused: back where? It also sounds like itching. A swipe risk at about 27 s.\n13 «The fence worked, backwards.» This lands only if 12 is clear («it kept them in»).\n14 «Round three: a virus, in quarantine.» Y, but it reads as a lab leak or a human virus until I infer it was meant for rabbits.\n15 «It escaped three years early, most likely on flies.» Y, funny. «Early compared to what?» is resolved two lines later, so that's acceptable.\n16 «And it worked.» A flat but honest beat. I believe it killed many rabbits (≈60 %).\n17 «A year later: the official release ceremony.» Setup. I can see the joke coming, but it's fun.\n18 «The virus was already there.» A laugh. The label «WA shires» confuses me (Washington? shires?).\n19 Score line. A laugh. «Flies one» clicks if I remember the flies from 15 s earlier. The score adds up (3 rounds). «So far» tells me the match isn't over.\n20 «They were winning before the ship even landed.» A nice callback; the 200 million label gives the scale.\n21 «Probably.» The wink pays off the hedge and loops cleanly into line 1.\n\nSummary:\n- Swipe risks: 0–4 s (the hedge delays the punch), about 9–12 s (no premise before «Round one»), about 27 s (line 12).\n- There is no real lull in the middle. The softest stretch is the round-three setup at about 36–44 s.\n- The ending is not weak. It's a callback, not a new joke, but the wink and the loop work. Every joke lands, «cards» less strongly than the rest.\n- No jargon is spoken: myxoma, calicivirus and biocontrol are all avoided. The jargon is only on screen: «WA», «shires».\n- Accuracy: nothing from DO-NOT-SAY is used, all hedges are intact, and no line is false. The only implied errors are lines 9, 13 (diagram), 14 and 17 (SFX).\n\nREVISED VO, applying all three majors and the minors to lines 3, 5, 11, 12, 13, 14 and 17, with the spoken hedge kept:\nThirteen rabbits got on a ship, family records say.\nTwenty-four got off.\nProbably not playing cards.\nAustralia fought back.\nRound one: a prize.\nEven Louis Pasteur entered. With chicken cholera.\nThe rules protected sheep, horses, dogs. They forgot birds.\nNobody ever won.\nRound two: a fence.\nBefore it was finished, rabbits were on the safe side.\nSome were scratching to get back out.\nThe fence worked. Backwards.\nRound three: a rabbit virus.\nIt escaped three years early, most likely on flies.\nAnd it worked.\nA year later: the official release.\nThe virus was already there.\nScore so far: Rabbits two, Flies one, Australia zero.\nThey were winning before the ship even landed. Probably.\n\nBudget, counted with wc and newlines included, the same way that gives 686–687 for the original:\n- 113 words, 685 chars, 23 sentences.\n- About 56.5 s at 2.0 w/s and about 59.6 s at 11.5 c/s. That is inside 52–60 s and ≤ 690 chars.\n- The original was 112 words and 687 chars.\n- Adding the full stops on line 19, or «It didn't catch on.» on line 9, pushes the budget to the limit. Choose at most one of them.\n\nScratch counts: /private/tmp/claude-501/-Users-khorengrigoryan-shorts/1c348364-7484-4799-a95b-8df54e91b3e8/scratchpad/revA.txt"
+  }
+ ],
+ "final": {
+  "angle": "«Australia vs Rabbits», a three-round scoreboard in date order that loops back to its start. Cold open on an impossible sum: thirteen rabbits got on a ship (family records say), twenty-four got off, «probably not playing cards». A new stakes beat follows straight away: «Australia fought back.» Round one, 1887: a £25,000 prize. Louis Pasteur enters with chicken cholera. The rules protected farm animals but forgot birds. The germ «didn't catch on» (the real reason: it didn't spread rabbit to rabbit), and nobody won. Round two, 1901–07: Western Australia's fence. Rabbits were on the safe side before it was finished, and some scratched to get back out, so «the fence had it backwards». Round three, 1995: a rabbit virus escapes from quarantine pens years early, most likely on flies. Western Australia's official release ceremony the next year finds it already there, and only then «And it worked.» The score inverts episode 1: «Three rounds: Rabbits two. Flies one. Australia zero.» The last line, «They were winning before the ship even arrived. Probably.», dissolves into the opening frame. None of the saturated chronology is used: no «24 rabbits ruined Australia», no myxoma 99 %, no spread map, no foxes or cats, no «longest fence», no emus.",
+  "title_options": [
+   "Australia vs Rabbits: 3 ROUNDS",
+   "A £25,000 PRIZE to Beat Australia's Rabbits",
+   "Australia 0, Rabbits 2, FLIES 1"
+  ],
+  "hook_alternatives": [
+   "Louis Pasteur once tried to beat Australia's rabbits. With chicken cholera.",
+   "This fence wasn't even finished. The rabbits were already on the safe side.",
+   "A rabbit virus escaped from quarantine pens on an Australian island. Most likely on flies."
+  ],
+  "lines": [
+   {
+    "n": 1,
+    "vo": "Thirteen rabbits got on a ship, family records say.",
+    "seconds_est": 4.9,
+    "visual": "Frame 0 is already moving. Toon 3D English dock under a violet dusk with cream clouds, with a three-masted clipper modelled on the Lightning lithograph. Thirteen toon rabbits hop single file up the gangplank into one wooden crate. Atlas stands in the left foreground and follows the procession with his pointer. This exact frame is also the loop target for line 23.",
+    "visual_kind": "mixed",
+    "asset": "none (toon clipper modelled on the clipper Lightning lithograph, PD)",
+    "text_type": "label",
+    "onscreen_text": "England, October 1859",
+    "atlas": "HOOK window: left foreground, three-quarter view, excited, gesture point_stick (prop pointer) along the gangplank",
+    "sfx": "gulls, rope creak, soft hop thumps on wood",
+    "fact_ids": [
+     "A3",
+     "A1"
+    ]
+   },
+   {
+    "n": 2,
+    "vo": "Twenty-four got off.",
+    "seconds_est": 1.9,
+    "visual": "Cross-dissolve to the same gangplank set, relit as a sunny Melbourne pier. The crate slides down the gangplank on a rope and its lid lifts a crack, showing a tightly packed crowd of rabbit ears inside, far more than went in. No rabbit runs loose and nothing is released. Atlas does a double take at the frame edge.",
+    "visual_kind": "mixed",
+    "asset": "none (same toon dock set, relit)",
+    "text_type": "label",
+    "onscreen_text": "Melbourne · Christmas 1859",
+    "atlas": "HOOK window: surprised, gesture surprise_reaction, at the frame edge",
+    "sfx": "rope creak, wooden lid lift, a muffled crowd of soft thumps inside",
+    "fact_ids": [
+     "A1",
+     "A3"
+    ]
+   },
+   {
+    "n": 3,
+    "vo": "Probably not playing cards.",
+    "seconds_est": 2.4,
+    "visual": "Slow Ken Burns along the hull of the real clipper Lightning lithograph. A flat cutaway opens the hold and shows one crate with a neat, untouched deck of cards on its lid. The lid jiggles once. No baby rabbits appear on screen, so the 'probably' stays open. Atlas sits small in the lower-right corner and peers at the crate through his magnifier.",
+    "visual_kind": "mixed",
+    "asset": "clipper Lightning lithograph/painting (PD) + flat cutaway",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "HOOK window (ends here): small in the lower-right corner, suspicious, prop magnifier, head three-quarter",
+    "sfx": "creaking hull, waves, one muffled thump from inside the crate",
+    "fact_ids": [
+     "A3"
+    ]
+   },
+   {
+    "n": 4,
+    "vo": "Australia fought back.",
+    "seconds_est": 1.9,
+    "visual": "Smooth dissolve to a toon 3D hillside at violet dusk with cream clouds. Rabbit heads pop out of dozens of burrows in one rolling wave while the camera pulls back to show the whole hill riddled with holes.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "",
+    "sfx": "a rippling chorus of soft pops, distant wind",
+    "fact_ids": [
+     "A6",
+     "D1"
+    ]
+   },
+   {
+    "n": 5,
+    "vo": "Round one: a prize.",
+    "seconds_est": 2.4,
+    "visual": "Smooth dissolve to a toon 3D paddock at violet dusk. A golden trophy and a fat money bag rise on a pedestal into a soft spotlight. The KEYFACT big number sits above them, and the subtitle for this phrase is hidden.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "keyfact",
+    "onscreen_text": "£25,000",
+    "atlas": "",
+    "sfx": "soft round bell (the round motif), coin clink",
+    "fact_ids": [
+     "D4"
+    ]
+   },
+   {
+    "n": 6,
+    "vo": "Louis Pasteur entered.",
+    "seconds_est": 1.9,
+    "visual": "Toon 3D: a small steamer glides up to a tiny island in a stylised Sydney Harbour and unloads crates of glass flasks at a little lab hut, whose windows light up. No people are shown, because no real image of Pasteur's team exists. The label fades in here and holds through line 7. TTS: listen-check that it says 'Louis', not 'Lewis'. If it is wrong, feed the TTS 'Lwee' and keep 'Louis' in the subtitle and SRT.",
+    "visual_kind": "toon3d",
+    "asset": "none (toon island; Natural Earth cannot resolve Rodd Island)",
+    "text_type": "label",
+    "onscreen_text": "His team's lab: Rodd Island, Sydney",
+    "atlas": "",
+    "sfx": "soft ship horn, clinking glass",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 7,
+    "vo": "With chicken cholera.",
+    "seconds_est": 1.9,
+    "visual": "Same hut set. The door creaks open and a healthy, puzzled toon chicken peeks out beside a softly glowing flask with an abstract germ glyph on it. No sick animals. The label from line 6 is still the same single label, held from line 6, and fades out before the dissolve to line 8.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "His team's lab: Rodd Island, Sydney",
+    "atlas": "",
+    "sfx": "door creak, one confused cluck",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 8,
+    "vo": "The rules protected sheep, horses, dogs.",
+    "seconds_est": 3.4,
+    "visual": "Cross-dissolve to an animated flat diagram on cream. Farm-animal silhouettes pop in synced to the words: sheep on «sheep», horse on «horses», dog on «dogs». Camel, goat and pig then pop in quickly during the pause after «dogs», so the picture shows the full list the voice shortens. Each silhouette gets a little violet shield.",
+    "visual_kind": "diagram",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "New South Wales, 1887",
+    "atlas": "",
+    "sfx": "six soft shield dings",
+    "fact_ids": [
+     "D4",
+     "D5"
+    ]
+   },
+   {
+    "n": 9,
+    "vo": "They forgot birds.",
+    "seconds_est": 1.9,
+    "visual": "Atlas, front view, stands beside the row of six shields. The toon chicken struts past them with no shield of its own, and Atlas facepalms.",
+    "visual_kind": "atlas",
+    "asset": "none",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "KEY MOMENT window: front view, sarcastic, gesture facepalm",
+    "sfx": "single chicken cluck, soft palm pat",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 10,
+    "vo": "It didn't catch on.",
+    "seconds_est": 2.4,
+    "visual": "Flat diagram on cream: two rabbit icons sit side by side, with the abstract glowing germ glyph resting on the first. A dotted arrow sets off toward the second icon, slows and fizzles into a small puff halfway there. The second icon stays bright and unbothered. This shows the real reason for the rejection (no rabbit-to-rabbit spread), not birds. Abstract icons only.",
+    "visual_kind": "diagram",
+    "asset": "none",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "",
+    "sfx": "a sputtering fizz, then a tiny pfft",
+    "fact_ids": [
+     "D5"
+    ]
+   },
+   {
+    "n": 11,
+    "vo": "Nobody won.",
+    "seconds_est": 1.4,
+    "visual": "Back in the toon paddock: the trophy and money bag sit untouched on the pedestal while a tumbleweed rolls slowly past. The label holds through the pause after the line and fades before the dissolve.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "nearly 1,500 entries",
+    "atlas": "",
+    "sfx": "empty wind, tumbleweed rustle",
+    "fact_ids": [
+     "D4"
+    ]
+   },
+   {
+    "n": 12,
+    "vo": "Round two: a fence.",
+    "seconds_est": 2.4,
+    "visual": "Smooth dissolve to a map of Western Australia (Natural Earth coastlines, ochre land). Fence No. 1 from the WA GeoJSON draws itself outward from Burracoppin, north to the Indian Ocean and south to the Southern Ocean.",
+    "visual_kind": "map",
+    "asset": "WA government GeoJSON of fences No. 1–3 (Fence No. 1 only) + Natural Earth coastlines",
+    "text_type": "label",
+    "onscreen_text": "Western Australia · ≈ 1,830 km",
+    "atlas": "",
+    "sfx": "soft round bell, then a long taut-wire zip with the line",
+    "fact_ids": [
+     "C1",
+     "C2"
+    ]
+   },
+   {
+    "n": 13,
+    "vo": "Before it was finished, rabbits were on the safe side.",
+    "seconds_est": 5.4,
+    "visual": "Toon 3D tracking shot on red dirt along a short, just-started stretch of wire netting. It ends after a few posts, and a line of survey pegs with a taut string carries the planned route on to the horizon. The camera keeps going along the pegs and finds a toon rabbit sitting well west of them, calmly chewing. Both sides are the same ochre scrub, with no grass split.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "1902",
+    "atlas": "",
+    "sfx": "outback wind, faint wire jingle, then a small crunch of chewing",
+    "fact_ids": [
+     "C4"
+    ]
+   },
+   {
+    "n": 14,
+    "vo": "Some scratched to get back out.",
+    "seconds_est": 3.4,
+    "visual": "Cross-dissolve to a toon 3D close-up at the foot of a stretch of netting on its west (safe) side. A rabbit scratches at the wire, and its paw tracks in the dirt all point back east toward where it came from.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "",
+    "sfx": "scratch-scratch on wire netting, one hopeful sniff",
+    "fact_ids": [
+     "C5"
+    ]
+   },
+   {
+    "n": 15,
+    "vo": "The fence had it backwards.",
+    "seconds_est": 2.9,
+    "visual": "Flat top-down diagram of one local netting segment only, not the complete Fence No. 1. A single rabbit arrow on the west ('safe') side heads east, bonks into the netting and bounces back west. Only this one bounce is shown.",
+    "visual_kind": "diagram",
+    "asset": "none (local netting segment drawn flat)",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "",
+    "sfx": "soft boing, then a short tape-rewind zwip",
+    "fact_ids": [
+     "C5",
+     "C10"
+    ]
+   },
+   {
+    "n": 16,
+    "vo": "Round three: a rabbit virus.",
+    "seconds_est": 2.9,
+    "visual": "Cross-dissolve to a slow push-in on the real 2019 Wardang Island aerial. A flat diagram overlay draws small fenced pens with a padlock icon around an abstract violet virus glyph. The CC BY-SA credit goes in the video description, not on screen.",
+    "visual_kind": "mixed",
+    "asset": "Wardang Island aerial 2019 (CC BY-SA) + flat overlay",
+    "text_type": "label",
+    "onscreen_text": "Wardang Island quarantine · 1995",
+    "atlas": "",
+    "sfx": "soft round bell, seagulls, heavy padlock click",
+    "fact_ids": [
+     "D12"
+    ]
+   },
+   {
+    "n": 17,
+    "vo": "It escaped years early, most likely on flies.",
+    "seconds_est": 4.4,
+    "visual": "Animated flat map (Natural Earth 10m coastlines; Wardang Island and the Yorke Peninsula coast at a regional zoom). Friendly cartoon flies lift the steadily glowing virus glyphs up and out of the pens. Then a neutral dotted front with no flies on it appears on the mainland coast and starts creeping inland. No pulsing and no blinking.",
+    "visual_kind": "diagram",
+    "asset": "Natural Earth coastlines",
+    "text_type": "label",
+    "onscreen_text": "Planned release: 1998",
+    "atlas": "",
+    "sfx": "rising cartoon fly buzz that pans left to right, light whoosh",
+    "fact_ids": [
+     "D12"
+    ]
+   },
+   {
+    "n": 18,
+    "vo": "Next year: an official release ceremony.",
+    "seconds_est": 3.4,
+    "visual": "Toon 3D: a slow push-in for the whole line on a little stage with bunting on Western Australian farmland, with a closed wooden crate tied with a red ribbon. Giant ceremonial scissors enter at the start and snip the ribbon on «ceremony». The bunting sways gently. No animals are visible.",
+    "visual_kind": "toon3d",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "Western Australia · 18 October 1996",
+    "atlas": "",
+    "sfx": "scissor snip, thin polite applause (no fly buzz)",
+    "fact_ids": [
+     "D13"
+    ]
+   },
+   {
+    "n": 19,
+    "vo": "The virus was already there.",
+    "seconds_est": 2.9,
+    "visual": "The camera pulls back from the stage to a flat map of Western Australia (coastline only, no shire boundaries). Abstract violet dots already cover the south-west farm belt. The tiny ceremony pin sits near Cranbrook in a small gap, with no dot directly under it.",
+    "visual_kind": "map",
+    "asset": "Natural Earth coastlines (abstract dots; no shire data invented)",
+    "text_type": "label",
+    "onscreen_text": "In 30+ shires, on its own",
+    "atlas": "",
+    "sfx": "deflating party-horn squeak, applause trails off",
+    "fact_ids": [
+     "D13"
+    ]
+   },
+   {
+    "n": 20,
+    "vo": "And it worked.",
+    "seconds_est": 1.9,
+    "visual": "Cross-dissolve to a flat diagram: a single cream bar topped with a rabbit icon shrinks smoothly to about two-fifths of its height. Abstract, and no animals are harmed on screen.",
+    "visual_kind": "diagram",
+    "asset": "none",
+    "text_type": "label",
+    "onscreen_text": "≈ 60 % fewer nationwide",
+    "atlas": "",
+    "sfx": "soft descending whoosh",
+    "fact_ids": [
+     "D14"
+    ]
+   },
+   {
+    "n": 21,
+    "vo": "Three rounds: Rabbits two. Flies one. Australia zero.",
+    "seconds_est": 5.2,
+    "visual": "Smooth dissolve to a toon 3D outback at violet dusk with a big wooden cricket-style scoreboard. One tile clacks into place per sentence. A cartoon fly lands on the FLIES tile. The tiles are the KEYFACT, and the subtitle is hidden.",
+    "visual_kind": "mixed",
+    "asset": "none",
+    "text_type": "keyfact",
+    "onscreen_text": "RABBITS 2 · FLIES 1 · AUSTRALIA 0",
+    "atlas": "ENDING window: lower-left foreground (the same screen spot as line 1), front view, sarcastic, gesture shrug on «Australia zero»",
+    "sfx": "three wooden tile clacks, a single fly buzz that stops when it lands",
+    "fact_ids": [
+     "C10",
+     "D4",
+     "D5",
+     "D12",
+     "D13",
+     "D14"
+    ]
+   },
+   {
+    "n": 22,
+    "vo": "They were winning before the ship even arrived.",
+    "seconds_est": 4.4,
+    "visual": "Atlas stays as a fixed 2D foreground layer in the lower left while the 3D camera rises over the scoreboard, so the score tiles leave the frame. Beyond it, the outback is full of cute grazing toon rabbits all the way to a violet sea on the horizon, where the clipper's sails appear. The label fades in only after the tiles have fully left the frame.",
+    "visual_kind": "mixed",
+    "asset": "none (same toon clipper as line 1)",
+    "text_type": "label",
+    "onscreen_text": "Today: ≈ 200 million rabbits (est.)",
+    "atlas": "ENDING window: fixed lower-left layer, three-quarter view, thinking, look_right toward the rabbits and the ship; switches to the skeptical emotion (one brow raised) on «arrived»",
+    "sfx": "wind over dry grass, faint gulls fading in",
+    "fact_ids": [
+     "A3",
+     "B5"
+    ]
+   },
+   {
+    "n": 23,
+    "vo": "Probably.",
+    "seconds_est": 0.9,
+    "visual": "On the word, Atlas winks and does nothing else; his brow is already raised. In a silent tail of about 0.8 s after the word, the camera pushes toward the ship and cross-dissolves into the exact frame 0 of line 1: English dock, rabbits on the gangplank, and Atlas in the same left-foreground spot, three-quarter view, with the pointer. The Short then loops seamlessly.",
+    "visual_kind": "atlas",
+    "asset": "none (same toon dock set as line 1)",
+    "text_type": "none",
+    "onscreen_text": "",
+    "atlas": "ENDING window: three-quarter view, skeptical, gesture wink; pose matched to line 1 for the loop dissolve",
+    "sfx": "gulls and rope creak, identical to the opening, for a seamless loop",
+    "fact_ids": [
+     "A3"
+    ]
+   }
+  ],
+  "vo_text": "Thirteen rabbits got on a ship, family records say.\nTwenty-four got off.\nProbably not playing cards.\nAustralia fought back.\nRound one: a prize.\nLouis Pasteur entered. With chicken cholera.\nThe rules protected sheep, horses, dogs. They forgot birds.\nIt didn't catch on. Nobody won.\nRound two: a fence.\nBefore it was finished, rabbits were on the safe side.\nSome scratched to get back out.\nThe fence had it backwards.\nRound three: a rabbit virus.\nIt escaped years early, most likely on flies.\nNext year: an official release ceremony.\nThe virus was already there.\nAnd it worked.\nThree rounds: Rabbits two. Flies one. Australia zero.\nThey were winning before the ship even arrived. Probably.",
+  "word_count": 113,
+  "char_count": 687,
+  "est_seconds": 66.5,
+  "atlas_windows": "Times use the requested formula (words/2.0 + 0.4 s per sentence break); at ep. 1's measured pace everything lands about 15 % earlier.\n\n1) HOOK, lines 1–3 (0–9.2 s): left foreground, three-quarter view, excited, point_stick along the gangplank; then a surprise_reaction double take at the frame edge as the packed crate arrives in Melbourne; then small in the lower-right corner, suspicious, with the magnifier on the jiggling crate.\n\n2) KEY MOMENT, line 9 «They forgot birds.» (20.7–22.6 s): front view, sarcastic, facepalm as the shieldless chicken struts past the six shields.\n\n3) ENDING, lines 21–23 (56.0–66.5 s, plus a silent loop tail of about 0.8 s):\n- Line 21: lower-left foreground, front view, sarcastic shrug on «Australia zero».\n- Line 22: held as a fixed 2D layer in the lower left while the camera rises; thinking, look_right, switching to skeptical (one brow up) on «arrived».\n- Line 23: the episode's only wink on «Probably.», then a pose-matched cross-dissolve into line 1's frame 0.\n\nAtlas is off screen for lines 4–8 and 10–20.",
+  "why_it_works": "Hook: frame 0 is already moving, with toon rabbits hopping onto a ship. The impossible sum (thirteen on, twenty-four off) lands by about 6 s, and the hedge «Probably not playing cards» is the first laugh. It avoids the saturated «24 rabbits ruined Australia» opener.\n\nStakes: «Australia fought back.» puts the premise in the narration at about 9 s, so «Round one» is no longer «round one of what?».\n\nSpine: «Round one / two / three» runs in date order (1887 → 1902 → 1995), and each round ends on a flat Silas button:\n- «They forgot birds.» (Atlas facepalm), then «It didn't catch on.», a pun that is literally the real rejection reason (no rabbit-to-rabbit spread), so viewers are not left guessing the bird myth, then «Nobody won.»\n- «Some scratched to get back out.» and «The fence had it backwards.»\n- «The virus was already there.»\n\nOrder and honesty: «And it worked» now comes after the official release, so the ≈60 % is not implied to come before it. The flies get the point because the virus most likely escaped on them and spread by itself. «Three rounds:» limits the score to these three rounds, and the full stops give ep. 1's «Humans two. Volcano zero.» deadpan with one tile clack per sentence. The ≈200 million label keeps the match open. «Probably.» calls back the hook's hedge and dissolves into frame 0, so the Short loops.\n\nAccuracy:\n- Every line maps to FACTS IDs.\n- Hedges are kept: «family records say», «probably» ×2, «most likely on flies», «years early» plus the label «Planned release: 1998», «≈», «est.».\n- «Arrived», not «landed» or «released».\n- «An official», not «the official».\n- No visual shows what the voice hedges: no babies in the hold, no loose rabbits on the pier, a just-started fence with survey pegs, flies only at the escape, and no dot under the Cranbrook pin.\n- Nothing from DO-NOT-SAY is used.\n\nOwner rules:\n- 2 KEYFACTs (£25,000 and the score), each with its subtitle hidden.\n- At most one calm label at a time. Every label adds unspoken info, is shortened for reading speed, and the Rodd Island label is held across two lines.\n- The punchlines «cards», «birds», «didn't catch on» and «backwards» carry no text.\n- Viruses are only glyphs, dots or a bar, the chicken is healthy, and the ceremony crate stays closed.\n\nProduction:\n- Toon sets: one dock (relit for Melbourne), burrow hillside, paddock, island hut, fence and pegs, stage, scoreboard.\n- Two real images: the Lightning lithograph and the Wardang aerial (CC BY-SA credit in the description).\n- Flat diagrams and maps from the WA GeoJSON (Fence No. 1 only) and Natural Earth.\n\nBudget, tool-counted on a vo-only file: 113 words, 687 characters (newlines counted as spaces; 669 without them), 25 sentence breaks. The requested formula gives 66.5 s. The brief's measured rates, which already include pauses, give 56.5 s (2.0 w/s) to 59.7 s (11.5 c/s), and the pause density matches ep. 1 (0.22 breaks per word), so the real take should be about 56–58 s.\n\nIf the take runs over 60 s:\n- Switch the score line back to commas (saves about 0.8 s of pauses).\n- Use «Probably.» alone with a shrug in place of «Probably not playing cards.» if the owner finds the innuendo too adult.",
+  "resolutions": [
+   "FACTS major L16 (the 60 % implied to come before the official release): applied. Order is now escape → «Next year: an official release ceremony.» → «The virus was already there.» → «And it worked.» (label «≈ 60 % fewer nationwide») → score.",
+   "FACTS major L9 (bird myth implied as the rejection reason): applied as a spoken fix. «It didn't catch on.» (a pun that is literally D5's main reason, no rabbit-to-rabbit spread) now comes between «They forgot birds.» and «Nobody won.», over a diagram of the germ failing to jump from one rabbit icon to the next. The long label «Rejected 1889: the germ didn't spread rabbit to rabbit» was rejected because the rules check measured labels of that length as unreadable. «Nobody ever won» was shortened to «Nobody won» to pay for the line.",
+   "FACTS minor L15 («three years early» overstates): applied. Now «years early», with the label «Planned release: 1998». The «300+ km within weeks» label is dropped to keep one label per line.",
+   "FACTS minor L17 (definite article): applied. Now «an official release ceremony», with the label «Western Australia · 18 October 1996». «A year later» became «Next year» (1996) to stay under 690 characters.",
+   "FACTS minor L13 («worked, backwards» claims efficacy): applied. Now «The fence had it backwards.» The viewer check's «The fence worked. Backwards.» was rejected because facts win over style.",
+   "FACTS minor L20: applied. «landed» became «arrived».",
+   "FACTS minor L19 (score overgeneralises; FLIES tile drops the hedge): applied.\n- «Score so far:» became «Three rounds:».\n- The «Australia vs Rabbits: 3 ROUNDS» title is now option 1.\n- Production note: if title 3 (the score) is used, the description must say «most likely carried by flies».",
+   "FACTS minor L2 (visual implies release at a dock): applied. The crate slides down the gangplank and its lid lifts a crack on a packed crowd of ears. No rabbits run loose.",
+   "FACTS minor L3 (visual removes the 'probably'): applied. There are no babies on screen; the crate lid jiggles once and Atlas uses the magnifier. The deck-of-cards gag is kept.",
+   "FACTS minor L11 (visual overstates the construction; anachronistic grass split): applied. A short just-started stretch of netting, then survey pegs and a string along the planned line. The rabbit sits well west of the pegs. Both sides are the same ochre, with no red/green split.",
+   "FACTS minor L15 (flies credited for the mainland spread): applied. Flies only lift the glyphs out of the pens. The mainland spread is a neutral dotted front with no flies on it.",
+   "FACTS minor L18 (pin inside the dots implies the release site was infected): applied. Dots cover the south-west farm belt, and the pin sits near Cranbrook in a gap with no dot under it.",
+   "FACTS minor L4 («Round one» as Australia's first move): no VO change, as advised. Production note: never call the prize the «first» weapon in the description, pinned comment or titles; the description may say «after guns, poison and mongooses».",
+   "FACTS minor title 3 (the possessive implies a national prize): applied. Replaced with «A £25,000 PRIZE to Beat Australia's Rabbits».",
+   "FACTS minor hook alternative 3: applied. «A rabbit virus escaped from quarantine pens on an Australian island. Most likely on flies.»",
+   "RULES major L10 (label too long): applied. «Western Australia · ≈ 1,830 km».",
+   "RULES major L9 (44-character label on a punchline): applied.\n- «1887» moved to the line-8 label «New South Wales, 1887» on the 3.4 s rules beat, which also makes clear the prize came from the colony of NSW.\n- «Nobody won.» carries only «nearly 1,500 entries», held through the pause after the line.",
+   "RULES major L5 (Rodd Island label flashes past): applied. One continuous label across lines 6–7 (new numbering), fading out before the dissolve.",
+   "RULES major L20 (Atlas leaves frame; two text layers during the rise): applied.\n- Atlas is a fixed 2D lower-left layer while the 3D camera rises.\n- The ≈200 million label fades in only after the tiles have left the frame.\n- Skeptical brow on «arrived».",
+   "RULES minor L21 (too many events in 0.9 s; loop match): applied.\n- Wink only on the word.\n- Push and cross-dissolve in a silent tail of about 0.8 s.\n- Atlas is placed in the same left-foreground spot and three-quarter pose as line 1.\n- Gull and rope SFX match the opening.",
+   "RULES minor L16 label: applied. «≈ 60 % fewer nationwide».",
+   "RULES minor L2 label: applied. «Melbourne · Christmas 1859», fading in only after the line-1 label has faded out.",
+   "RULES minor L7 (pops out of sync with the words): applied. Sheep, horse and dog pop on their words; camel, goat and pig pop in the pause after «dogs».",
+   "RULES minor L11 (rabbit reads as going round the end): applied. Survey pegs and string continue the planned line, and the rabbit sits well west of the pegs.",
+   "RULES minor L13 (asset shows fences 1–3): applied. The bounce diagram is one local netting segment only. This also covers the viewer note that the full line would suggest the fence was complete in 1904. The line-12 map draws Fence No. 1 only.",
+   "RULES minor L14 (CC BY-SA credit): applied. The credit goes in the video description, not on screen.",
+   "RULES minor L17 (static stage): applied. Slow push-in for the whole line, the scissors enter at the start and snip on «ceremony», and the bunting sways.",
+   "RULES minor L19 (commas rush the tile clacks): applied. «Rabbits two. Flies one. Australia zero.», with one tile clack per sentence.",
+   "RULES minor L5 (TTS may say 'Lewis'): added to the line-6 notes. Listen-check, use the 'Lwee' fallback in the TTS input only, and keep 'Louis' in the subtitle and SRT.",
+   "RULES minor L15 (zoom to 450 km for the 300+ km label): no longer needed, because the 300+ km label was replaced by «Planned release: 1998». The map stays at a regional zoom where Wardang's crude Natural Earth polygon reads fine. The glyphs glow steadily, with no pulsing or blinking.",
+   "RULES notes:\n- Text churn reduced: «Inspector's report, 1904» is dropped from the scratching line, and the new stakes line carries no label.\n- Unspecified transitions default to a smooth cross-dissolve.\n- Optional idea (move £25,000 to «Nobody won») rejected: the KEYFACT adds unspoken information on the round opener, and «Nobody won.» stays a clean deadpan.",
+   "VIEWER major L3 (no stakes before «Round one»): applied. Inserted «Australia fought back.» (new line 4) over a toon hillside of popping burrows. The suggested label «Within three years: thousands» was rejected because it is too long for a 1.9 s line.",
+   "VIEWER major L14 («a virus, in quarantine» reads as a lab or human virus): applied.\n- «Round three: a rabbit virus.»\n- Quarantine moved into the label «Wardang Island quarantine · 1995» and the padlocked pens overlay.\n- The spoken «in quarantine» was cut to pay the character budget.",
+   "VIEWER major L12 («get back» where?): applied. «Some scratched to get back out.» «Were scratching» was compressed to «scratched» to stay at 687 characters.",
+   "VIEWER minor L1 (the hedge delays the punch): kept the spoken «family records say», which is the safe default and binding for A3. The on-screen-hedge variant needs the owner's OK.",
+   "VIEWER minor L3: applied. «Probably not playing cards.» keeps the hedge and saves 9 characters.",
+   "VIEWER minor L5 («Even Louis Pasteur entered.»): rejected. The extra 5 characters would break the 690 cap. The TTS pronunciation check was added instead.",
+   "VIEWER minor L9: applied. «It didn't catch on.» (see the FACTS L9 resolution).",
+   "VIEWER minor L11: applied. «already» removed from «Before it was finished, rabbits were on the safe side.»",
+   "VIEWER minor L13: «worked. Backwards.» rejected in favour of the facts fix «had it backwards». The local-segment diagram was applied.",
+   "VIEWER minor L17: kept «ceremony», because the pomp is the joke and the ribbon snip is synced to it. The stray fly buzz was removed from the ceremony, so flies are not implied to have carried the virus to WA. The fly gag appears only on the scoreboard.",
+   "VIEWER minor L18 (label jargon: WA, shires, «on its own:»): applied. «In 30+ shires, on its own»: no «WA» (the previous label and the map establish Western Australia) and no repeat of the spoken «already».",
+   "VIEWER minor L19 (full stops): applied. The formula time is 66.5 s, but the measured rates give 56.5–59.7 s. If the real take runs over 60 s, revert to commas first."
+  ]
+ }
+}

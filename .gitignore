@@ -1,0 +1,43 @@
+# Секреты — никогда не коммитить
+.env
+.env.*
+*.env
+*_token.json
+client_secret*.json
+credentials*.json
+
+# Медиа и рендеры остаются на маке
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tif
+*.gif
+*.psd
+*.blend
+*.zip
+*.7z
+*.npy
+*.npz
+*.pt
+*.bin
+
+# Окружения и сборка
+node_modules/
+__pycache__/
+.venv/
+venv/
+tools/py312/
+tools/blender_user/
+tools/bin/
+tools/models/
+tools/mpfb*/
+tools/rhubarb/
+.DS_Store

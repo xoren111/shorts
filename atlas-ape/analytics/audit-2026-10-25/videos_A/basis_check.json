@@ -1,0 +1,105 @@
+{
+ "yR42PjbnqEo": {
+  "name": "Volcano",
+  "mean_awr": 0.54,
+  "avp": 53.06999999999999,
+  "minutes_x60_over_engaged": 42.0,
+  "avd": 40,
+  "minutes_x60_over_views": 23.3,
+  "replay_proxy_awr0_minus_1": 0.202,
+  "all_viewers_pct_at": {
+   "1s": 66.6,
+   "5s": 55.9,
+   "10s": 36.9,
+   "20s": 30.5,
+   "end": 14.8
+  },
+  "pauses_ge_0.6s_first_25s": [
+   [
+    2.44,
+    3.52,
+    1.08,
+    "volcano | And"
+   ],
+   [
+    5.78,
+    6.98,
+    1.2,
+    "lava | 1935"
+   ],
+   [
+    8.56,
+    9.74,
+    1.18,
+    "Hawaii | Lava"
+   ],
+   [
+    11.35,
+    12.32,
+    0.97,
+    "city | The"
+   ],
+   [
+    13.55,
+    14.52,
+    0.97,
+    "Bombers | Planned"
+   ],
+   [
+    16.15,
+    17.12,
+    0.97,
+    "Patton | Six"
+   ],
+   [
+    18.94,
+    19.9,
+    0.96,
+    "stops | Victory"
+   ],
+   [
+    23.43,
+    24.64,
+    1.21,
+    "anything | 1992"
+   ]
+  ],
+  "n_pauses_ge_0.6s": 28
+ },
+ "w52iSlkYlOg": {
+  "name": "Rabbits",
+  "mean_awr": 0.468,
+  "avp": 45.33,
+  "minutes_x60_over_engaged": 29.4,
+  "avd": 28,
+  "minutes_x60_over_views": 18.1,
+  "replay_proxy_awr0_minus_1": 0.196,
+  "all_viewers_pct_at": {
+   "1s": 70.9,
+   "5s": 64.4,
+   "10s": 50.2,
+   "20s": 25.3,
+   "end": 9.4
+  },
+  "pauses_ge_0.6s_first_25s": [],
+  "n_pauses_ge_0.6s": 3
+ },
+ "TD53YW6dqoY": {
+  "name": "YellowFleet",
+  "mean_awr": 0.851,
+  "avp": 81.28,
+  "minutes_x60_over_engaged": 28.6,
+  "avd": 26,
+  "minutes_x60_over_views": 11.4,
+  "replay_proxy_awr0_minus_1": 0.43,
+  "all_viewers_pct_at": {
+   "1s": 53.0,
+   "5s": 44.1,
+   "10s": 36.0,
+   "20s": 30.5,
+   "end": 18.5
+  },
+  "pauses_ge_0.6s_first_25s": [],
+  "n_pauses_ge_0.6s": 0
+ }
+}

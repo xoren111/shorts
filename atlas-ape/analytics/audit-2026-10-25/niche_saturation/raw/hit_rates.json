@@ -1,0 +1,411 @@
+{
+ "animals": {
+  "uploads": 807,
+  "channels": 30,
+  "rate_ge_10k": 0.2206,
+  "rate_ge_100k": 0.0607,
+  "rate_ge_1m": 0.0173,
+  "n_ge_1m": 14,
+  "new_ch_uploads": 501,
+  "new_ch_rate_ge_100k": 0.006,
+  "new_ch_n_ge_1m": 2,
+  "channels_with_ge_100k": 6,
+  "channels_with_ge_1m": 3,
+  "ge_1m_by_channel": {
+   "FactsEditzYt": {
+    "n": 2,
+    "channel_age_d": 19,
+    "subs": 10500,
+    "example": [
+     1763825,
+     "NORMAL CATS VS THE KING 💀#shorts #viralvideo",
+     18
+    ]
+   },
+   "Arjun UK": {
+    "n": 10,
+    "channel_age_d": 3252,
+    "subs": 155000,
+    "example": [
+     1126074,
+     "What Happens When Rain Returns to the African",
+     60
+    ]
+   },
+   "Cosmic Thrust ": {
+    "n": 2,
+    "channel_age_d": 3182,
+    "subs": 6560,
+    "example": [
+     4117895,
+     "This Is Why Planes Get Inspected Before Takeo",
+     6
+    ]
+   }
+  }
+ },
+ "core_absurd_history": {
+  "uploads": 955,
+  "channels": 31,
+  "rate_ge_10k": 0.1539,
+  "rate_ge_100k": 0.0188,
+  "rate_ge_1m": 0.0052,
+  "n_ge_1m": 5,
+  "new_ch_uploads": 682,
+  "new_ch_rate_ge_100k": 0.0235,
+  "new_ch_n_ge_1m": 5,
+  "channels_with_ge_100k": 6,
+  "channels_with_ge_1m": 4,
+  "ge_1m_by_channel": {
+   "History Snap92": {
+    "n": 1,
+    "channel_age_d": 207,
+    "subs": 3170,
+    "example": [
+     3190533,
+     "Most Confusing Watch Ever #facts #history",
+     7
+    ]
+   },
+   "Jim's Wormhole": {
+    "n": 2,
+    "channel_age_d": 20,
+    "subs": 40900,
+    "example": [
+     2726004,
+     "The 13th month they don't want you to know ab",
+     172
+    ]
+   },
+   "VortexX": {
+    "n": 1,
+    "channel_age_d": 257,
+    "subs": 6040,
+    "example": [
+     1105936,
+     "The Panda Never Forgot the Man Who Raised Her",
+     8
+    ]
+   },
+   "ARCHIV | HUMAN HISTORY ": {
+    "n": 1,
+    "channel_age_d": 285,
+    "subs": 5200,
+    "example": [
+     2260170,
+     "His Arranged Marriage Surprise #history #fact",
+     11
+    ]
+   }
+  }
+ },
+ "de_geschichte": {
+  "uploads": 813,
+  "channels": 31,
+  "rate_ge_10k": 0.2546,
+  "rate_ge_100k": 0.08,
+  "rate_ge_1m": 0.0049,
+  "n_ge_1m": 4,
+  "new_ch_uploads": 506,
+  "new_ch_rate_ge_100k": 0.0455,
+  "new_ch_n_ge_1m": 3,
+  "channels_with_ge_100k": 7,
+  "channels_with_ge_1m": 3,
+  "ge_1m_by_channel": {
+   "ScreenSlice": {
+    "n": 1,
+    "channel_age_d": 447,
+    "subs": 15700,
+    "example": [
+     1109431,
+     "Egal wer du bist: Bei Ärger immer zuerst die ",
+     173
+    ]
+   },
+   "Dusch Gedanken": {
+    "n": 2,
+    "channel_age_d": 175,
+    "subs": 35800,
+    "example": [
+     1775130,
+     "Menschen, die Gott verspotteten und dann star",
+     25
+    ]
+   },
+   "Factslol": {
+    "n": 1,
+    "channel_age_d": 262,
+    "subs": 13200,
+    "example": [
+     1266045,
+     "#historisch #fakten #fyp",
+     62
+    ]
+   }
+  }
+ },
+ "es_historias": {
+  "uploads": 860,
+  "channels": 37,
+  "rate_ge_10k": 0.2779,
+  "rate_ge_100k": 0.0744,
+  "rate_ge_1m": 0.0128,
+  "n_ge_1m": 11,
+  "new_ch_uploads": 398,
+  "new_ch_rate_ge_100k": 0.0553,
+  "new_ch_n_ge_1m": 5,
+  "channels_with_ge_100k": 8,
+  "channels_with_ge_1m": 5,
+  "ge_1m_by_channel": {
+   "Cerebro Digital": {
+    "n": 1,
+    "channel_age_d": 2695,
+    "subs": 197000,
+    "example": [
+     4575880,
+     "Metió la cabeza en un acelerador de partícula",
+     64
+    ]
+   },
+   "Historia Recargada": {
+    "n": 4,
+    "channel_age_d": 512,
+    "subs": 139000,
+    "example": [
+     1136770,
+     "El secreto de la Espada Maestra de Link 😱⚔️#s",
+     24
+    ]
+   },
+   "Zoro Latino": {
+    "n": 1,
+    "channel_age_d": 141,
+    "subs": 102000,
+    "example": [
+     1018094,
+     "😱🐍 ¡Ave Secretaria vs Ejército de Cobras! Una",
+     168
+    ]
+   },
+   "Netflix Latinoamérica": {
+    "n": 1,
+    "channel_age_d": 4490,
+    "subs": 14400000,
+    "example": [
+     1058980,
+     "La caída de El Mayo | Tráiler oficial | Netfl",
+     144
+    ]
+   },
+   "Impacto Story\n\n": {
+    "n": 4,
+    "channel_age_d": 277,
+    "subs": 128000,
+    "example": [
+     5914484,
+     "🦁 ¡4 LEONAS contra una PITÓN GIGANTE! 😱 La Ba",
+     154
+    ]
+   }
+  }
+ },
+ "geo_maps": {
+  "uploads": 582,
+  "channels": 30,
+  "rate_ge_10k": 0.189,
+  "rate_ge_100k": 0.0515,
+  "rate_ge_1m": 0.0052,
+  "n_ge_1m": 3,
+  "new_ch_uploads": 373,
+  "new_ch_rate_ge_100k": 0.0107,
+  "new_ch_n_ge_1m": 0,
+  "channels_with_ge_100k": 6,
+  "channels_with_ge_1m": 1,
+  "ge_1m_by_channel": {
+   "D.I.E 404": {
+    "n": 3,
+    "channel_age_d": 1194,
+    "subs": 457000,
+    "example": [
+     1888121,
+     "Pope Leo XIV and Pope Francis 🥀 #vatican #pop",
+     15
+    ]
+   }
+  }
+ },
+ "mystery_unsolved": {
+  "uploads": 645,
+  "channels": 31,
+  "rate_ge_10k": 0.0124,
+  "rate_ge_100k": 0.0016,
+  "rate_ge_1m": 0.0,
+  "n_ge_1m": 0,
+  "new_ch_uploads": 464,
+  "new_ch_rate_ge_100k": 0.0022,
+  "new_ch_n_ge_1m": 0,
+  "channels_with_ge_100k": 1,
+  "channels_with_ge_1m": 0,
+  "ge_1m_by_channel": {}
+ },
+ "science_space": {
+  "uploads": 679,
+  "channels": 29,
+  "rate_ge_10k": 0.2401,
+  "rate_ge_100k": 0.0751,
+  "rate_ge_1m": 0.0103,
+  "n_ge_1m": 7,
+  "new_ch_uploads": 453,
+  "new_ch_rate_ge_100k": 0.0486,
+  "new_ch_n_ge_1m": 3,
+  "channels_with_ge_100k": 6,
+  "channels_with_ge_1m": 3,
+  "ge_1m_by_channel": {
+   "Galaxy Knowledge": {
+    "n": 4,
+    "channel_age_d": 516,
+    "subs": 59100,
+    "example": [
+     1407528,
+     "Alien 100% Exist! #space #universe #galaxy #a",
+     70
+    ]
+   },
+   "Jacksons Wrld": {
+    "n": 1,
+    "channel_age_d": 158,
+    "subs": 3020,
+    "example": [
+     1696450,
+     "#fyp #funny #meme #susandell",
+     8
+    ]
+   },
+   "Physorix": {
+    "n": 2,
+    "channel_age_d": 301,
+    "subs": 17400,
+    "example": [
+     8078953,
+     "sigma is now here with physics! 🤯 #shorts #ph",
+     41
+    ]
+   }
+  }
+ },
+ "survival_disaster": {
+  "uploads": 702,
+  "channels": 30,
+  "rate_ge_10k": 0.2849,
+  "rate_ge_100k": 0.0598,
+  "rate_ge_1m": 0.0028,
+  "n_ge_1m": 2,
+  "new_ch_uploads": 331,
+  "new_ch_rate_ge_100k": 0.0453,
+  "new_ch_n_ge_1m": 0,
+  "channels_with_ge_100k": 5,
+  "channels_with_ge_1m": 2,
+  "ge_1m_by_channel": {
+   "CineMyst": {
+    "n": 1,
+    "channel_age_d": 1901,
+    "subs": 326000,
+    "example": [
+     1933577,
+     "The Man Everyone Ignored Had the Kindest Hear",
+     132
+    ]
+   },
+   "Stan Browney": {
+    "n": 1,
+    "channel_age_d": 2098,
+    "subs": 4810000,
+    "example": [
+     21892230,
+     "\"we're busy\" 💀",
+     23
+    ]
+   }
+  }
+ },
+ "true_crime": {
+  "uploads": 928,
+  "channels": 35,
+  "rate_ge_10k": 0.0884,
+  "rate_ge_100k": 0.028,
+  "rate_ge_1m": 0.0129,
+  "n_ge_1m": 12,
+  "new_ch_uploads": 392,
+  "new_ch_rate_ge_100k": 0.0638,
+  "new_ch_n_ge_1m": 12,
+  "channels_with_ge_100k": 3,
+  "channels_with_ge_1m": 2,
+  "ge_1m_by_channel": {
+   "lam.van.thao0": {
+    "n": 1,
+    "channel_age_d": 13,
+    "subs": 433,
+    "example": [
+     1132860,
+     "Actors That Marvel Will Never Work With Again",
+     64
+    ]
+   },
+   "Film Cafe": {
+    "n": 11,
+    "channel_age_d": 361,
+    "subs": 42400,
+    "example": [
+     8633518,
+     "Ethan Hawke threw the script out of his car w",
+     62
+    ]
+   }
+  }
+ },
+ "whatif_history_maps": {
+  "uploads": 708,
+  "channels": 30,
+  "rate_ge_10k": 0.3588,
+  "rate_ge_100k": 0.1709,
+  "rate_ge_1m": 0.0099,
+  "n_ge_1m": 7,
+  "new_ch_uploads": 358,
+  "new_ch_rate_ge_100k": 0.1173,
+  "new_ch_n_ge_1m": 1,
+  "channels_with_ge_100k": 10,
+  "channels_with_ge_1m": 3,
+  "ge_1m_by_channel": {
+   "Supafahh": {
+    "n": 1,
+    "channel_age_d": 189,
+    "subs": 10300,
+    "example": [
+     4633644,
+     "Void Sentry Edit [Cradles] #edit #sentry #sup",
+     42
+    ]
+   },
+   "Histoflex edits": {
+    "n": 1,
+    "channel_age_d": 1360,
+    "subs": 37400,
+    "example": [
+     1098486,
+     "What if Europe🇪🇺 and Turkiye🇹🇷 swap the place",
+     20
+    ]
+   },
+   "GeoHistories": {
+    "n": 5,
+    "channel_age_d": 681,
+    "subs": 186000,
+    "example": [
+     1441172,
+     "Evolution of Russia in 1000 Years #maps #hist",
+     13
+    ]
+   }
+  }
+ }
+}

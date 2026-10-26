@@ -1,0 +1,423 @@
+{
+ "niche": "money_finance",
+ "keywords": [
+  "money facts",
+  "personal finance",
+  "investing",
+  "side hustle",
+  "money tips"
+ ],
+ "relevance": "(money|\\$\\s?\\d|\\brich\\b|wealth|invest|financ|budget|saving|debt|income|salary|hustle|millionaire|billionaire|stock|dollar|cash|retire|401|roth|credit|loan|\\btax|passive|broke\\b|paycheck|net worth|afford|crypto|bitcoin|economy)",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:20 UTC",
+ "fresh_uploads": 248,
+ "fresh_uploaders": 235,
+ "new_uploaders": 137,
+ "new_share_of_uploaders": 0.583,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 25,
+ "shorts": 480,
+ "median_views": 60,
+ "p75_views": 531,
+ "p90_views": 1298,
+ "share_10k": 0.0063,
+ "share_100k": 0.0,
+ "share_1m": 0.0,
+ "ci95_100k": [
+  -0.0,
+  0.0079
+ ],
+ "hits_100k": 0,
+ "hits_1m": 0,
+ "channels_any_100k": 0.0,
+ "channels_any_1m": 0.0,
+ "median_channel_median": 62,
+ "top": [
+  {
+   "views": 29254,
+   "title": "She’s lowkey an icon for that #techtools #aitools #corporate #storytime #tech",
+   "channel": "Michelle",
+   "ch": "UClPtNir2wX9m16CdJSw-uoA",
+   "url": "https://youtube.com/shorts/9d2QfGviJe4",
+   "age_d": 18
+  },
+  {
+   "views": 22601,
+   "title": "Make bank with launchpoint! #ugc #money #sidehustle",
+   "channel": "angie",
+   "ch": "UC0QcJni5TFqEf9KNyGVmF2A",
+   "url": "https://youtube.com/shorts/bALGUdpIhog",
+   "age_d": 105
+  },
+  {
+   "views": 12044,
+   "title": "Here’s How to Find What You Actually Make #personalfinance",
+   "channel": "Rob | Everyday Finance",
+   "ch": "UCI95xSSWtueEoSbRyT2_Ogw",
+   "url": "https://youtube.com/shorts/yP2EFE2gZ6Q",
+   "age_d": 46
+  },
+  {
+   "views": 8305,
+   "title": "how Much You Need To Invest Monthly For $1mil #personalfinance",
+   "channel": "Rob | Everyday Finance",
+   "ch": "UCI95xSSWtueEoSbRyT2_Ogw",
+   "url": "https://youtube.com/shorts/lb5w8NCcBjE",
+   "age_d": 46
+  },
+  {
+   "views": 4159,
+   "title": "How much you need to invest monthly for $2m, inflation adjusted #personalfinance",
+   "channel": "Rob | Everyday Finance",
+   "ch": "UCI95xSSWtueEoSbRyT2_Ogw",
+   "url": "https://youtube.com/shorts/a8sfjFmVS3M",
+   "age_d": 38
+  },
+  {
+   "views": 3481,
+   "title": "My 6 Streams of Income #personalfinance",
+   "channel": "Rob | Everyday Finance",
+   "ch": "UCI95xSSWtueEoSbRyT2_Ogw",
+   "url": "https://youtube.com/shorts/os1ygLxsK1k",
+   "age_d": 45
+  },
+  {
+   "views": 3470,
+   "title": "get that bag #sidehustle #ugc #money #shorts",
+   "channel": "angie",
+   "ch": "UC0QcJni5TFqEf9KNyGVmF2A",
+   "url": "https://youtube.com/shorts/tD-UOOpXzaw",
+   "age_d": 43
+  },
+  {
+   "views": 3195,
+   "title": "Launchpoint for the win #ugc #sidehustle #money",
+   "channel": "angie",
+   "ch": "UC0QcJni5TFqEf9KNyGVmF2A",
+   "url": "https://youtube.com/shorts/-DmwogbXd8o",
+   "age_d": 60
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCWtIvR3fyhsSACSjD-_v5VA",
+   "title": "MindsetMatrixHQ",
+   "created": "2026-01-06",
+   "subs": 12,
+   "shorts_aged": 8,
+   "max": 1294
+  },
+  {
+   "ch": "UCVg0p9C6h8BdK6NFPK0BRXw",
+   "title": "Sophiabuildsss",
+   "created": "2026-09-25",
+   "subs": 15,
+   "shorts_aged": 6,
+   "max": 959
+  },
+  {
+   "ch": "UC0QcJni5TFqEf9KNyGVmF2A",
+   "title": "angie",
+   "created": "2026-05-20",
+   "subs": 111,
+   "shorts_aged": 45,
+   "max": 22601
+  },
+  {
+   "ch": "UC-mmre75x8iKVqYcSTx0kIQ",
+   "title": "Numbers & Nickels",
+   "created": "2026-09-16",
+   "subs": 1,
+   "shorts_aged": 2,
+   "max": 531
+  },
+  {
+   "ch": "UCswkOKgK_ZUO7O19_jOhXuA",
+   "title": "Money tips Daily",
+   "created": "2026-10-02",
+   "subs": 8,
+   "shorts_aged": 29,
+   "max": 885
+  },
+  {
+   "ch": "UCtFkv7uQX88REkffLPimWLA",
+   "title": "Smart Money Lab",
+   "created": "2026-10-24",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC2qHfmLIz-7thJ-N2P8oG7g",
+   "title": "UsaMindsetpresents",
+   "created": "2026-10-14",
+   "subs": 7,
+   "shorts_aged": 2,
+   "max": 892
+  },
+  {
+   "ch": "UCXN6Vx5s0WrPA1-iIuuoYdw",
+   "title": "DimeWise",
+   "created": "2026-10-12",
+   "subs": 6,
+   "shorts_aged": 8,
+   "max": 45
+  },
+  {
+   "ch": "UC1Q9smOunA7HvOVWMeY2crQ",
+   "title": "About business ",
+   "created": "2026-10-18",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC3Nps58Sk_i0ZbBCcbvnLiA",
+   "title": "Nicky Stick",
+   "created": "2026-10-13",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCToHy6eui40QsA9P5UtejiQ",
+   "title": "TC Financial Tips",
+   "created": "2026-10-09",
+   "subs": 28,
+   "shorts_aged": 9,
+   "max": 341
+  },
+  {
+   "ch": "UC_SFYSCIcKFBPOcQNKrLqNg",
+   "title": "Wealth Facts USA",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCB75Q6EiNsdhw3FWC4aCcHQ",
+   "title": "Chart & State",
+   "created": "2026-04-30",
+   "subs": 9,
+   "shorts_aged": 27,
+   "max": 190
+  },
+  {
+   "ch": "UC6b7X5M2Ny0I2wTDLzoa8nw",
+   "title": "Noncents",
+   "created": "2026-10-17",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCr4X2WVCHDUMMEKyixACZaA",
+   "title": "FINZIQ",
+   "created": "2026-10-14",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCH7avABGfVD7g1bEfArj-Kw",
+   "title": "WealthSignal",
+   "created": "2026-09-28",
+   "subs": 0,
+   "shorts_aged": 16,
+   "max": 167
+  },
+  {
+   "ch": "UCB5aKD_Yo30-CXfUtL5PuUg",
+   "title": "BizVault Clips",
+   "created": "2026-10-19",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC3xv5RO3Lq-TG6ay1AjK0nA",
+   "title": "Money Shield",
+   "created": "2026-10-17",
+   "subs": 4,
+   "shorts_aged": 1,
+   "max": 225
+  },
+  {
+   "ch": "UCKa_mVYTcX461cne4hzCWvA",
+   "title": "PastShock",
+   "created": "2026-09-17",
+   "subs": 5,
+   "shorts_aged": 8,
+   "max": 685
+  },
+  {
+   "ch": "UCCcBAGH1NhhuNyv_VNu0W6g",
+   "title": "The Borrowed Wisdom",
+   "created": "2026-07-02",
+   "subs": 11,
+   "shorts_aged": 8,
+   "max": 180
+  },
+  {
+   "ch": "UC4p1KeG4qb1sVTizm917rRg",
+   "title": "Simplyfit.Explained ",
+   "created": "2026-10-19",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCuX3lF3f7OfS2WZCjxmfJCg",
+   "title": "Wealth Academy ",
+   "created": "2026-09-20",
+   "subs": 4,
+   "shorts_aged": 27,
+   "max": 401
+  },
+  {
+   "ch": "UCnJbGZs0qPgPxbza-Bitshw",
+   "title": "Money Blueprint ",
+   "created": "2026-07-23",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UClPtNir2wX9m16CdJSw-uoA",
+   "title": "Michelle",
+   "created": "2026-04-29",
+   "subs": 313,
+   "shorts_aged": 31,
+   "max": 29254
+  },
+  {
+   "ch": "UCI95xSSWtueEoSbRyT2_Ogw",
+   "title": "Rob | Everyday Finance",
+   "created": "2026-03-25",
+   "subs": 2260,
+   "shorts_aged": 43,
+   "max": 12044
+  },
+  {
+   "ch": "UCecG-OJCIXnJZfWcoaJLuuw",
+   "title": "Unhurried Money",
+   "created": "2026-10-01",
+   "subs": 9,
+   "shorts_aged": 23,
+   "max": 264
+  },
+  {
+   "ch": "UCrLtmONBIKpGm3wm2RWHkFg",
+   "title": "Rich Habits Decoded",
+   "created": "2026-10-18",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCQBlXpzkGJePfRgqdMXDV-Q",
+   "title": "Finance Tips",
+   "created": "2026-10-13",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCTI0X5KC-le57n2VpFOWJTQ",
+   "title": "Side Hustle Samie ",
+   "created": "2026-09-18",
+   "subs": 24,
+   "shorts_aged": 38,
+   "max": 1457
+  },
+  {
+   "ch": "UCtx_5H88H3nyc0tG0tnR8Bg",
+   "title": "Kuanysh Mustafin",
+   "created": "2026-10-10",
+   "subs": 24,
+   "shorts_aged": 5,
+   "max": 1450
+  },
+  {
+   "ch": "UCFqM9CBNHCfiW1M2G_pR2tg",
+   "title": "Money Tips",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCqJFOD-JUIFzcdy6ca1QjJw",
+   "title": "Mike Andrew",
+   "created": "2026-10-18",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCByurnC9n81-0R2c36VTzwg",
+   "title": "Sticky Financial tips ",
+   "created": "2026-10-15",
+   "subs": 11,
+   "shorts_aged": 3,
+   "max": 21
+  },
+  {
+   "ch": "UC5oMjD4V8sclW10FDeHrI0g",
+   "title": "Finmart Theory ",
+   "created": "2026-10-25",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCKDutAgFvcdmSwJp-T5Wdmw",
+   "title": "BrokeStick",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC4WjcN-Q17jQlejnhCQA-jg",
+   "title": "Vittorio Rigato | Everstoic",
+   "created": "2026-05-07",
+   "subs": 3100,
+   "shorts_aged": 39,
+   "max": 201
+  },
+  {
+   "ch": "UCc1QMcrCe044r9ncSgp8oSw",
+   "title": "Smart Money Daily",
+   "created": "2026-10-10",
+   "subs": 2,
+   "shorts_aged": 5,
+   "max": 26
+  },
+  {
+   "ch": "UChXlQUhaQuOYUGeWgNL8rsg",
+   "title": "Learning About Money",
+   "created": "2026-01-02",
+   "subs": 67,
+   "shorts_aged": 43,
+   "max": 122
+  },
+  {
+   "ch": "UC9nL9w9b5QVHGuD9sctoLCQ",
+   "title": "Wealth Decoded",
+   "created": "2026-10-04",
+   "subs": 1,
+   "shorts_aged": 20,
+   "max": 96
+  },
+  {
+   "ch": "UCT7wbU9-TDfYOggqDgMgHvg",
+   "title": "Jonelle's Financially Free  ",
+   "created": "2026-04-28",
+   "subs": 91,
+   "shorts_aged": 34,
+   "max": 2366
+  }
+ ]
+}

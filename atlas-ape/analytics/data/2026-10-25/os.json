@@ -1,0 +1,68 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "views",
+  "dimensions": "operatingSystem",
+  "sort": "-views"
+ },
+ "rows": [
+  {
+   "operatingSystem": "ANDROID",
+   "views": 2598
+  },
+  {
+   "operatingSystem": "IOS",
+   "views": 954
+  },
+  {
+   "operatingSystem": "WINDOWS",
+   "views": 83
+  },
+  {
+   "operatingSystem": "MACINTOSH",
+   "views": 37
+  },
+  {
+   "operatingSystem": "SMART_TV",
+   "views": 30
+  },
+  {
+   "operatingSystem": "WEBOS",
+   "views": 18
+  },
+  {
+   "operatingSystem": "PLAYSTATION",
+   "views": 9
+  },
+  {
+   "operatingSystem": "CHROME_OS",
+   "views": 8
+  },
+  {
+   "operatingSystem": "ROKUOS",
+   "views": 6
+  },
+  {
+   "operatingSystem": "XBOX",
+   "views": 5
+  },
+  {
+   "operatingSystem": "AMAZON_FIREOS",
+   "views": 5
+  },
+  {
+   "operatingSystem": "APPLE_TVOS",
+   "views": 3
+  },
+  {
+   "operatingSystem": "NINTENDO_SWITCH",
+   "views": 2
+  },
+  {
+   "operatingSystem": "VIDAA",
+   "views": 2
+  }
+ ]
+}

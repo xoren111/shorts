@@ -1,0 +1,122 @@
+{
+ "animals": {
+  "uploads": 807,
+  "ge45_n": 344,
+  "ge45_100k": 34,
+  "lt45_n": 463,
+  "lt45_100k": 15,
+  "hits100k": 49,
+  "hits100k_top3_channels": 43,
+  "lowch_uploads": 622,
+  "lowch_100k": 4,
+  "lowch_1m": 0
+ },
+ "core_absurd_history": {
+  "uploads": 955,
+  "ge45_n": 506,
+  "ge45_100k": 7,
+  "lt45_n": 449,
+  "lt45_100k": 11,
+  "hits100k": 18,
+  "hits100k_top3_channels": 13,
+  "lowch_uploads": 805,
+  "lowch_100k": 3,
+  "lowch_1m": 0
+ },
+ "de_geschichte": {
+  "uploads": 813,
+  "ge45_n": 489,
+  "ge45_100k": 33,
+  "lt45_n": 324,
+  "lt45_100k": 32,
+  "hits100k": 65,
+  "hits100k_top3_channels": 45,
+  "lowch_uploads": 607,
+  "lowch_100k": 1,
+  "lowch_1m": 0
+ },
+ "es_historias": {
+  "uploads": 861,
+  "ge45_n": 592,
+  "ge45_100k": 35,
+  "lt45_n": 269,
+  "lt45_100k": 29,
+  "hits100k": 64,
+  "hits100k_top3_channels": 42,
+  "lowch_uploads": 627,
+  "lowch_100k": 4,
+  "lowch_1m": 1
+ },
+ "geo_maps": {
+  "uploads": 582,
+  "ge45_n": 434,
+  "ge45_100k": 21,
+  "lt45_n": 148,
+  "lt45_100k": 9,
+  "hits100k": 30,
+  "hits100k_top3_channels": 27,
+  "lowch_uploads": 487,
+  "lowch_100k": 3,
+  "lowch_1m": 0
+ },
+ "mystery_unsolved": {
+  "uploads": 646,
+  "ge45_n": 290,
+  "ge45_100k": 1,
+  "lt45_n": 356,
+  "lt45_100k": 0,
+  "hits100k": 1,
+  "hits100k_top3_channels": 1,
+  "lowch_uploads": 646,
+  "lowch_100k": 1,
+  "lowch_1m": 0
+ },
+ "science_space": {
+  "uploads": 681,
+  "ge45_n": 325,
+  "ge45_100k": 30,
+  "lt45_n": 356,
+  "lt45_100k": 21,
+  "hits100k": 51,
+  "hits100k_top3_channels": 45,
+  "lowch_uploads": 496,
+  "lowch_100k": 3,
+  "lowch_1m": 1
+ },
+ "survival_disaster": {
+  "uploads": 702,
+  "ge45_n": 339,
+  "ge45_100k": 18,
+  "lt45_n": 363,
+  "lt45_100k": 24,
+  "hits100k": 42,
+  "hits100k_top3_channels": 34,
+  "lowch_uploads": 505,
+  "lowch_100k": 0,
+  "lowch_1m": 0
+ },
+ "true_crime": {
+  "uploads": 929,
+  "ge45_n": 627,
+  "ge45_100k": 12,
+  "lt45_n": 302,
+  "lt45_100k": 14,
+  "hits100k": 26,
+  "hits100k_top3_channels": 26,
+  "lowch_uploads": 873,
+  "lowch_100k": 2,
+  "lowch_1m": 1
+ },
+ "whatif_history_maps": {
+  "uploads": 710,
+  "ge45_n": 210,
+  "ge45_100k": 5,
+  "lt45_n": 500,
+  "lt45_100k": 116,
+  "hits100k": 121,
+  "hits100k_top3_channels": 89,
+  "lowch_uploads": 440,
+  "lowch_100k": 6,
+  "lowch_1m": 1
+ }
+}

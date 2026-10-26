@@ -1,0 +1,1440 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/khorengrigoryan/.cache/whisper/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,120"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 120
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,120",
+				"to": "00:00:00,330"
+			},
+			"offsets": {
+				"from": 120,
+				"to": 330
+			},
+			"text": " This"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,330",
+				"to": "00:00:00,690"
+			},
+			"offsets": {
+				"from": 330,
+				"to": 690
+			},
+			"text": " girl"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,690",
+				"to": "00:00:01,010"
+			},
+			"offsets": {
+				"from": 690,
+				"to": 1010
+			},
+			"text": " finds"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,010",
+				"to": "00:00:01,240"
+			},
+			"offsets": {
+				"from": 1010,
+				"to": 1240
+			},
+			"text": " her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,240",
+				"to": "00:00:01,470"
+			},
+			"offsets": {
+				"from": 1240,
+				"to": 1470
+			},
+			"text": " own"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,470",
+				"to": "00:00:01,780"
+			},
+			"offsets": {
+				"from": 1470,
+				"to": 1780
+			},
+			"text": " face"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,780",
+				"to": "00:00:01,930"
+			},
+			"offsets": {
+				"from": 1780,
+				"to": 1930
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,930",
+				"to": "00:00:02,610"
+			},
+			"offsets": {
+				"from": 1930,
+				"to": 2610
+			},
+			"text": " milk,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,610",
+				"to": "00:00:02,790"
+			},
+			"offsets": {
+				"from": 2610,
+				"to": 2790
+			},
+			"text": " under"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,790",
+				"to": "00:00:02,860"
+			},
+			"offsets": {
+				"from": 2790,
+				"to": 2860
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,860",
+				"to": "00:00:03,140"
+			},
+			"offsets": {
+				"from": 2860,
+				"to": 3140
+			},
+			"text": " word"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,140",
+				"to": "00:00:03,390"
+			},
+			"offsets": {
+				"from": 3140,
+				"to": 3390
+			},
+			"text": " she"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,390",
+				"to": "00:00:03,700"
+			},
+			"offsets": {
+				"from": 3390,
+				"to": 3700
+			},
+			"text": " can't"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,700",
+				"to": "00:00:04,190"
+			},
+			"offsets": {
+				"from": 3700,
+				"to": 4190
+			},
+			"text": " read,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,190",
+				"to": "00:00:04,500"
+			},
+			"offsets": {
+				"from": 4190,
+				"to": 4500
+			},
+			"text": " missing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,860",
+				"to": "00:00:04,900"
+			},
+			"offsets": {
+				"from": 4860,
+				"to": 4900
+			},
+			"text": " The"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,900",
+				"to": "00:00:04,980"
+			},
+			"offsets": {
+				"from": 4900,
+				"to": 4980
+			},
+			"text": " man"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,980",
+				"to": "00:00:05,370"
+			},
+			"offsets": {
+				"from": 4980,
+				"to": 5370
+			},
+			"text": " holding"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,370",
+				"to": "00:00:05,550"
+			},
+			"offsets": {
+				"from": 5370,
+				"to": 5550
+			},
+			"text": " it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,550",
+				"to": "00:00:05,940"
+			},
+			"offsets": {
+				"from": 5550,
+				"to": 5940
+			},
+			"text": " can."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,140",
+				"to": "00:00:06,290"
+			},
+			"offsets": {
+				"from": 6140,
+				"to": 6290
+			},
+			"text": " Hey,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,290",
+				"to": "00:00:06,700"
+			},
+			"offsets": {
+				"from": 6290,
+				"to": 6700
+			},
+			"text": " you're"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,700",
+				"to": "00:00:07,280"
+			},
+			"offsets": {
+				"from": 6700,
+				"to": 7280
+			},
+			"text": " famous,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,280",
+				"to": "00:00:07,420"
+			},
+			"offsets": {
+				"from": 7280,
+				"to": 7420
+			},
+			"text": " he"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,420",
+				"to": "00:00:07,960"
+			},
+			"offsets": {
+				"from": 7420,
+				"to": 7960
+			},
+			"text": " says."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,200",
+				"to": "00:00:08,310"
+			},
+			"offsets": {
+				"from": 8200,
+				"to": 8310
+			},
+			"text": " Is"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,310",
+				"to": "00:00:08,360"
+			},
+			"offsets": {
+				"from": 8310,
+				"to": 8360
+			},
+			"text": " that"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,360",
+				"to": "00:00:08,720"
+			},
+			"offsets": {
+				"from": 8360,
+				"to": 8720
+			},
+			"text": " me?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,960",
+				"to": "00:00:09,320"
+			},
+			"offsets": {
+				"from": 8960,
+				"to": 9320
+			},
+			"text": " Hush."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,700",
+				"to": "00:00:09,810"
+			},
+			"offsets": {
+				"from": 9700,
+				"to": 9810
+			},
+			"text": " He"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,810",
+				"to": "00:00:09,840"
+			},
+			"offsets": {
+				"from": 9810,
+				"to": 9840
+			},
+			"text": " helped"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,840",
+				"to": "00:00:10,100"
+			},
+			"offsets": {
+				"from": 9840,
+				"to": 10100
+			},
+			"text": " take"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,100",
+				"to": "00:00:10,390"
+			},
+			"offsets": {
+				"from": 10100,
+				"to": 10390
+			},
+			"text": " her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,390",
+				"to": "00:00:10,550"
+			},
+			"offsets": {
+				"from": 10390,
+				"to": 10550
+			},
+			"text": " from"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,550",
+				"to": "00:00:10,820"
+			},
+			"offsets": {
+				"from": 10550,
+				"to": 10820
+			},
+			"text": " her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,820",
+				"to": "00:00:11,180"
+			},
+			"offsets": {
+				"from": 10820,
+				"to": 11180
+			},
+			"text": " dad,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,180",
+				"to": "00:00:11,320"
+			},
+			"offsets": {
+				"from": 11180,
+				"to": 11320
+			},
+			"text": " with"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,320",
+				"to": "00:00:11,520"
+			},
+			"offsets": {
+				"from": 11320,
+				"to": 11520
+			},
+			"text": " her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,520",
+				"to": "00:00:11,700"
+			},
+			"offsets": {
+				"from": 11520,
+				"to": 11700
+			},
+			"text": " own"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,700",
+				"to": "00:00:12,180"
+			},
+			"offsets": {
+				"from": 11700,
+				"to": 12180
+			},
+			"text": " mom."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,460",
+				"to": "00:00:12,570"
+			},
+			"offsets": {
+				"from": 12460,
+				"to": 12570
+			},
+			"text": " Years"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,570",
+				"to": "00:00:12,680"
+			},
+			"offsets": {
+				"from": 12570,
+				"to": 12680
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,680",
+				"to": "00:00:12,900"
+			},
+			"offsets": {
+				"from": 12680,
+				"to": 12900
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,900",
+				"to": "00:00:13,260"
+			},
+			"offsets": {
+				"from": 12900,
+				"to": 13260
+			},
+			"text": " run,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,260",
+				"to": "00:00:13,700"
+			},
+			"offsets": {
+				"from": 13260,
+				"to": 13700
+			},
+			"text": " barely"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,700",
+				"to": "00:00:13,930"
+			},
+			"offsets": {
+				"from": 13700,
+				"to": 13930
+			},
+			"text": " let"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,930",
+				"to": "00:00:14,680"
+			},
+			"offsets": {
+				"from": 13930,
+				"to": 14680
+			},
+			"text": " outside."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,980",
+				"to": "00:00:15,090"
+			},
+			"offsets": {
+				"from": 14980,
+				"to": 15090
+			},
+			"text": " He"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,090",
+				"to": "00:00:15,210"
+			},
+			"offsets": {
+				"from": 15090,
+				"to": 15210
+			},
+			"text": " doesn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,210",
+				"to": "00:00:15,580"
+			},
+			"offsets": {
+				"from": 15210,
+				"to": 15580
+			},
+			"text": " run."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,840",
+				"to": "00:00:15,940"
+			},
+			"offsets": {
+				"from": 15840,
+				"to": 15940
+			},
+			"text": " He"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,940",
+				"to": "00:00:16,040"
+			},
+			"offsets": {
+				"from": 15940,
+				"to": 16040
+			},
+			"text": " doesn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,040",
+				"to": "00:00:16,240"
+			},
+			"offsets": {
+				"from": 16040,
+				"to": 16240
+			},
+			"text": " hide"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,240",
+				"to": "00:00:16,390"
+			},
+			"offsets": {
+				"from": 16240,
+				"to": 16390
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,390",
+				"to": "00:00:16,880"
+			},
+			"offsets": {
+				"from": 16390,
+				"to": 16880
+			},
+			"text": " carton."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,200",
+				"to": "00:00:17,310"
+			},
+			"offsets": {
+				"from": 17200,
+				"to": 17310
+			},
+			"text": " He"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,310",
+				"to": "00:00:17,390"
+			},
+			"offsets": {
+				"from": 17310,
+				"to": 17390
+			},
+			"text": " buys"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,390",
+				"to": "00:00:17,840"
+			},
+			"offsets": {
+				"from": 17390,
+				"to": 17840
+			},
+			"text": " it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,180",
+				"to": "00:00:18,290"
+			},
+			"offsets": {
+				"from": 18180,
+				"to": 18290
+			},
+			"text": " Then"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,290",
+				"to": "00:00:18,300"
+			},
+			"offsets": {
+				"from": 18290,
+				"to": 18300
+			},
+			"text": " he"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,300",
+				"to": "00:00:18,740"
+			},
+			"offsets": {
+				"from": 18300,
+				"to": 18740
+			},
+			"text": " asks,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,740",
+				"to": "00:00:18,870"
+			},
+			"offsets": {
+				"from": 18740,
+				"to": 18870
+			},
+			"text": " do"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,870",
+				"to": "00:00:18,970"
+			},
+			"offsets": {
+				"from": 18870,
+				"to": 18970
+			},
+			"text": " you"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,970",
+				"to": "00:00:19,150"
+			},
+			"offsets": {
+				"from": 18970,
+				"to": 19150
+			},
+			"text": " want"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,150",
+				"to": "00:00:19,300"
+			},
+			"offsets": {
+				"from": 19150,
+				"to": 19300
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,300",
+				"to": "00:00:19,420"
+			},
+			"offsets": {
+				"from": 19300,
+				"to": 19420
+			},
+			"text": " keep"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,420",
+				"to": "00:00:19,680"
+			},
+			"offsets": {
+				"from": 19420,
+				"to": 19680
+			},
+			"text": " it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,920",
+				"to": "00:00:20,030"
+			},
+			"offsets": {
+				"from": 19920,
+				"to": 20030
+			},
+			"text": " She"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,030",
+				"to": "00:00:20,180"
+			},
+			"offsets": {
+				"from": 20030,
+				"to": 20180
+			},
+			"text": " cuts"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,180",
+				"to": "00:00:20,390"
+			},
+			"offsets": {
+				"from": 20180,
+				"to": 20390
+			},
+			"text": " out"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,390",
+				"to": "00:00:20,610"
+			},
+			"offsets": {
+				"from": 20390,
+				"to": 20610
+			},
+			"text": " her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,610",
+				"to": "00:00:20,860"
+			},
+			"offsets": {
+				"from": 20610,
+				"to": 20860
+			},
+			"text": " own"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,860",
+				"to": "00:00:21,240"
+			},
+			"offsets": {
+				"from": 20860,
+				"to": 21240
+			},
+			"text": " face,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,240",
+				"to": "00:00:21,650"
+			},
+			"offsets": {
+				"from": 21240,
+				"to": 21650
+			},
+			"text": " tosses"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,650",
+				"to": "00:00:21,810"
+			},
+			"offsets": {
+				"from": 21650,
+				"to": 21810
+			},
+			"text": " it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,810",
+				"to": "00:00:21,950"
+			},
+			"offsets": {
+				"from": 21810,
+				"to": 21950
+			},
+			"text": " in"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,950",
+				"to": "00:00:22,210"
+			},
+			"offsets": {
+				"from": 21950,
+				"to": 22210
+			},
+			"text": " her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,210",
+				"to": "00:00:22,590"
+			},
+			"offsets": {
+				"from": 22210,
+				"to": 22590
+			},
+			"text": " Barbie"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,590",
+				"to": "00:00:23,110"
+			},
+			"offsets": {
+				"from": 22590,
+				"to": 23110
+			},
+			"text": " case,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,110",
+				"to": "00:00:23,450"
+			},
+			"offsets": {
+				"from": 23110,
+				"to": 23450
+			},
+			"text": " leaves"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,450",
+				"to": "00:00:23,610"
+			},
+			"offsets": {
+				"from": 23450,
+				"to": 23610
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,610",
+				"to": "00:00:23,820"
+			},
+			"offsets": {
+				"from": 23610,
+				"to": 23820
+			},
+			"text": " case"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,820",
+				"to": "00:00:24,110"
+			},
+			"offsets": {
+				"from": 23820,
+				"to": 24110
+			},
+			"text": " next"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,110",
+				"to": "00:00:24,460"
+			},
+			"offsets": {
+				"from": 24110,
+				"to": 24460
+			},
+			"text": " door."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,760",
+				"to": "00:00:24,870"
+			},
+			"offsets": {
+				"from": 24760,
+				"to": 24870
+			},
+			"text": " A"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,870",
+				"to": "00:00:25,030"
+			},
+			"offsets": {
+				"from": 24870,
+				"to": 25030
+			},
+			"text": " neighbor"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,030",
+				"to": "00:00:25,450"
+			},
+			"offsets": {
+				"from": 25030,
+				"to": 25450
+			},
+			"text": " reads"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,450",
+				"to": "00:00:25,540"
+			},
+			"offsets": {
+				"from": 25450,
+				"to": 25540
+			},
+			"text": " her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,540",
+				"to": "00:00:25,790"
+			},
+			"offsets": {
+				"from": 25540,
+				"to": 25790
+			},
+			"text": " real"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,790",
+				"to": "00:00:26,260"
+			},
+			"offsets": {
+				"from": 25790,
+				"to": 26260
+			},
+			"text": " name."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,540",
+				"to": "00:00:26,660"
+			},
+			"offsets": {
+				"from": 26540,
+				"to": 26660
+			},
+			"text": " Police"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,660",
+				"to": "00:00:26,910"
+			},
+			"offsets": {
+				"from": 26660,
+				"to": 26910
+			},
+			"text": " show"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,910",
+				"to": "00:00:27,260"
+			},
+			"offsets": {
+				"from": 26910,
+				"to": 27260
+			},
+			"text": " up."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,480",
+				"to": "00:00:27,560"
+			},
+			"offsets": {
+				"from": 27480,
+				"to": 27560
+			},
+			"text": " A"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,560",
+				"to": "00:00:27,590"
+			},
+			"offsets": {
+				"from": 27560,
+				"to": 27590
+			},
+			"text": " lot"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,590",
+				"to": "00:00:27,710"
+			},
+			"offsets": {
+				"from": 27590,
+				"to": 27710
+			},
+			"text": " of"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,710",
+				"to": "00:00:28,420"
+			},
+			"offsets": {
+				"from": 27710,
+				"to": 28420
+			},
+			"text": " police."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,420",
+				"to": "00:00:28,530"
+			},
+			"offsets": {
+				"from": 28420,
+				"to": 28530
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,530",
+				"to": "00:00:28,750"
+			},
+			"offsets": {
+				"from": 28530,
+				"to": 28750
+			},
+			"text": " She's"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,750",
+				"to": "00:00:29,110"
+			},
+			"offsets": {
+				"from": 28750,
+				"to": 29110
+			},
+			"text": " handed"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,110",
+				"to": "00:00:29,310"
+			},
+			"offsets": {
+				"from": 29110,
+				"to": 29310
+			},
+			"text": " back"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,310",
+				"to": "00:00:29,440"
+			},
+			"offsets": {
+				"from": 29310,
+				"to": 29440
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,440",
+				"to": "00:00:29,540"
+			},
+			"offsets": {
+				"from": 29440,
+				"to": 29540
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,540",
+				"to": "00:00:29,680"
+			},
+			"offsets": {
+				"from": 29540,
+				"to": 29680
+			},
+			"text": " dad"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,680",
+				"to": "00:00:29,890"
+			},
+			"offsets": {
+				"from": 29680,
+				"to": 29890
+			},
+			"text": " she"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,890",
+				"to": "00:00:30,280"
+			},
+			"offsets": {
+				"from": 29890,
+				"to": 30280
+			},
+			"text": " doesn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,280",
+				"to": "00:00:30,720"
+			},
+			"offsets": {
+				"from": 30280,
+				"to": 30720
+			},
+			"text": " know."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,980",
+				"to": "00:00:31,090"
+			},
+			"offsets": {
+				"from": 30980,
+				"to": 31090
+			},
+			"text": " The"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,090",
+				"to": "00:00:31,110"
+			},
+			"offsets": {
+				"from": 31090,
+				"to": 31110
+			},
+			"text": " face"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,110",
+				"to": "00:00:31,220"
+			},
+			"offsets": {
+				"from": 31110,
+				"to": 31220
+			},
+			"text": " on"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,220",
+				"to": "00:00:31,440"
+			},
+			"offsets": {
+				"from": 31220,
+				"to": 31440
+			},
+			"text": " that"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,440",
+				"to": "00:00:31,860"
+			},
+			"offsets": {
+				"from": 31440,
+				"to": 31860
+			},
+			"text": " milk?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,140",
+				"to": "00:00:32,240"
+			},
+			"offsets": {
+				"from": 32140,
+				"to": 32240
+			},
+			"text": " Her"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,240",
+				"to": "00:00:32,250"
+			},
+			"offsets": {
+				"from": 32240,
+				"to": 32250
+			},
+			"text": " dad"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,250",
+				"to": "00:00:32,480"
+			},
+			"offsets": {
+				"from": 32250,
+				"to": 32480
+			},
+			"text": " put"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,480",
+				"to": "00:00:32,560"
+			},
+			"offsets": {
+				"from": 32480,
+				"to": 32560
+			},
+			"text": " it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,560",
+				"to": "00:00:33,100"
+			},
+			"offsets": {
+				"from": 32560,
+				"to": 33100
+			},
+			"text": " there."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,400",
+				"to": "00:00:33,650"
+			},
+			"offsets": {
+				"from": 33400,
+				"to": 33650
+			},
+			"text": " Billions"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,650",
+				"to": "00:00:33,790"
+			},
+			"offsets": {
+				"from": 33650,
+				"to": 33790
+			},
+			"text": " of"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,790",
+				"to": "00:00:34,500"
+			},
+			"offsets": {
+				"from": 33790,
+				"to": 34500
+			},
+			"text": " cartons."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,820",
+				"to": "00:00:34,930"
+			},
+			"offsets": {
+				"from": 34820,
+				"to": 34930
+			},
+			"text": " Almost"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,930",
+				"to": "00:00:35,160"
+			},
+			"offsets": {
+				"from": 34930,
+				"to": 35160
+			},
+			"text": " none"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,160",
+				"to": "00:00:35,510"
+			},
+			"offsets": {
+				"from": 35160,
+				"to": 35510
+			},
+			"text": " brought"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,510",
+				"to": "00:00:35,580"
+			},
+			"offsets": {
+				"from": 35510,
+				"to": 35580
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,580",
+				"to": "00:00:35,760"
+			},
+			"offsets": {
+				"from": 35580,
+				"to": 35760
+			},
+			"text": " kid"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,760",
+				"to": "00:00:36,220"
+			},
+			"offsets": {
+				"from": 35760,
+				"to": 36220
+			},
+			"text": " home."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,940",
+				"to": "00:00:37,340"
+			},
+			"offsets": {
+				"from": 36940,
+				"to": 37340
+			},
+			"text": " Except..."
+		}
+	]
+}

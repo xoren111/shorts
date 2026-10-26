@@ -1,0 +1,54 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "views,estimatedMinutesWatched,averageViewPercentage",
+  "dimensions": "insightTrafficSourceType",
+  "sort": "-views"
+ },
+ "rows": [
+  {
+   "insightTrafficSourceType": "SHORTS",
+   "views": 3664,
+   "estimatedMinutesWatched": 990,
+   "averageViewPercentage": 56.43
+  },
+  {
+   "insightTrafficSourceType": "YT_SEARCH",
+   "views": 58,
+   "estimatedMinutesWatched": 11,
+   "averageViewPercentage": 50.74999999999999
+  },
+  {
+   "insightTrafficSourceType": "YT_OTHER_PAGE",
+   "views": 23,
+   "estimatedMinutesWatched": 7,
+   "averageViewPercentage": 53.09
+  },
+  {
+   "insightTrafficSourceType": "SUBSCRIBER",
+   "views": 12,
+   "estimatedMinutesWatched": 7,
+   "averageViewPercentage": 142.27
+  },
+  {
+   "insightTrafficSourceType": "YT_CHANNEL",
+   "views": 10,
+   "estimatedMinutesWatched": 4,
+   "averageViewPercentage": 55.7
+  },
+  {
+   "insightTrafficSourceType": "SOUND_PAGE",
+   "views": 1,
+   "estimatedMinutesWatched": 0,
+   "averageViewPercentage": 0
+  },
+  {
+   "insightTrafficSourceType": "NO_LINK_OTHER",
+   "views": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewPercentage": 0
+  }
+ ]
+}

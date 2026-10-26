@@ -1,0 +1,1741 @@
+2017
+U.S. Department of the Interior
+U.S. Geological Survey
+Pamphlet to accompany
+Scientific Investigations Map 2932–A
+Geologic Map of the Northeast Flank of Mauna Loa 
+Volcano, Island of Hawai‘i, Hawaii
+By Frank A. Trusdell and John P . Lockwood
+Aerial view towards the southwest of the 1984 eruption from the Northeast Rift Zone of Mauna Loa volcano, Island of Hawai‘i, 
+Hawaii. Photograph by Robert W. Decker, U.S. Geological Survey.
+
+
+i
+Contents
+Mauna Loa ......................................................................................................................................................1
+Mapping Project....................................................................................................................................1
+Northeast Flank Mauna Loa .........................................................................................................................1
+Mapping Methods.................................................................................................................................1
+Digital Database ....................................................................................................................................1
+Acknowledgments .........................................................................................................................................3
+Geology ............................................................................................................................................................3
+Northeast Rift Zone ..............................................................................................................................3
+Volcanic Deposits .................................................................................................................................3
+Flows  ...........................................................................................................................................3
+Age Groups ...................................................................................................................................4
+Age Group 0 (Historical period: A.D. 1843 and younger) ..............................................4
+Age Group 1 (pre-A.D. 1843–1,000 yr B.P .) ......................................................................5
+Age Group 2 (1,000–2,000 yr B.P .) .....................................................................................5
+Age Group 3 (2,000–3,000 yr B.P .) .....................................................................................5
+Age Group 4 (3,000–4,000 yr B.P .) .....................................................................................5
+Age Group 5 (4,000–5,000 yr B.P .) .....................................................................................5
+Age Group 6 (5,000–6,000 yr B.P .) .....................................................................................5
+Age Group 7 (6,000–7,000 yr B.P .) .....................................................................................5
+Age Group 8 (7,000–8,000 yr B.P .) .....................................................................................5
+Age Group 9 (8,000–9,000 yr B.P .) .....................................................................................5
+Age Group 10 (9,000–10,000 yr B.P .) .................................................................................5
+Age Group 11 (10,000–15,000 yr B.P .) ...............................................................................5
+Age Group 12 (15,000–20,000 yr B.P .) ...............................................................................6
+Age Group 13 (20,000–30,000 yr B.P .) ...............................................................................6
+Age Group 14 (30,000–100,000 yr B.P .) .............................................................................6
+Age Group 15 (>100,000 yr B.P .) ........................................................................................6
+Surficial Sedimentary Deposits ..........................................................................................................6
+Volcanic Ash ..........................................................................................................................................6
+Pahala Ash ....................................................................................................................................6
+Distal Tephra Deposits ................................................................................................................6
+Radiocarbon Data .................................................................................................................................7
+Description of Map Units ..............................................................................................................................7
+Sedimentary Deposits ..........................................................................................................................7
+Surficial Deposits (Holocene) ....................................................................................................7
+Volcanic Deposits .................................................................................................................................7
+Lava Flows and Vent Deposits ...................................................................................................7
+Kau Basalt ............................................................................................................................7
+Age Group 0 (A.D. 1843 and younger; Holocene) .................................................7
+Age Group 1 (pre-A.D. 1843–1,000 yr B.P .; Holocene) ..........................................8
+Age Group 2 (1,000–2,000 yr B.P .; Holocene) .........................................................9
+Age Group 3 (2,000–3,000 yr B.P .; Holocene) .......................................................10
+Age Group 4 (3,000–4,000 yr B.P .; Holocene) .......................................................11
+Age Group 5 (4,000–5,000 yr B.P .; Holocene) .......................................................12
+Age Group 6 (5,000–6,000 yr B.P .; Holocene) .......................................................12
+Age Group 7 (6,000–7,000 yr B.P .; Holocene) .......................................................13
+Age Group 8 (7,000–8,000 yr B.P .; Holocene) .......................................................13
+ii
+Age Group 9 (8,000–9,000 yr B.P .; Holocene) .......................................................14
+Age Group 10 (9,000–10,000 yr B.P .; Holocene) ...................................................15
+Age Group 11 (10,000–15,000 yr B.P .; Holocene and Pleistocene) ...................15
+Age Group 12 (15,000–20,000 yr B.P .; Pleistocene) .............................................16
+Age Group 13 (20,000–30,000 yr B.P .; Pleistocene) .............................................16
+Kahuku Basalt ...................................................................................................................16
+Age Group 14 (30,000–100,000 yr B.P .; Pleistocene) ...........................................16
+Ninole Basalt .....................................................................................................................16
+Age Group 15 (>100,000 yr B.P .; Pleistocene) ......................................................16
+Distal Tephra Deposits ..............................................................................................................16
+References Cited..........................................................................................................................................17
+Hawaiian Language References ...............................................................................................................17
+Appendix........................................................................................................................................................18
+Figures
+1.  Map showing subaerial volcanoes forming Island of Hawai‘i, fissures on Mauna Loa, 
+quadrangle boundaries, and study area. ............................................................................2
+Tables
+1.  Summary statistics of historical (after A.D. 1843) eruptions on Mauna Loa's northeast 
+flank, Island of Hawai‘i, Hawaii. ............................................................................................3
+2.  Radiocarbon ages of samples from the northeast flank of Mauna Loa volcano, Island of 
+Hawai‘i, Hawaii. .....................................................................................................................20
+3.  Explanation of map unit labels for Mauna Loa, Island of Hawai‘i, Hawaii. .................sheet 1
+1
+Mauna Loa
+Mauna Loa, the largest volcano on Earth, has erupted 33 
+times since written descriptions became available starting in 
+A.D. 1843. Some eruptions begin with only brief seismic unrest, 
+although others follow several months to a year of increased 
+seismicity. Once underway, an eruption sheds lava flows that 
+may reach the sea in less than 24 hr, severing roads and utili-
+ties. For example, the 1950 flows from the Southwest Rift Zone 
+eruption advanced at an average rate of 9.6 km/hr (Finch and 
+Macdonald, 1953), although the flows must have traveled much 
+faster near the eruptive vents. The flows reached the ocean in 
+approximately 3 hr from the beginning of the eruption (Finch 
+and Macdonald, 1953). In terms of eruption frequency, pre-
+eruption warning, and rapid flow emplacement, Mauna Loa 
+has great volcanic-hazard potential for the Island of Hawai‘i. 
+V olcanic hazards on Mauna Loa may be anticipated, and risk 
+substantially mitigated, by documenting the past activity to 
+refine our knowledge of the hazards and by alerting the public 
+and local government officials to our findings and their implica-
+tion for hazards assessments and risk.
+Mapping Project
+The Mauna Loa mapping project will generate detailed 
+geologic maps and associated digital databases of Mauna Loa 
+(fig. 1) on the Island of Hawai‘i, Hawaii. This temporal and 
+spatial record of Mauna Loa's eruptive activity for the last 
+10,000 yr provides a geologic framework to evaluate eruptive 
+processes at large basaltic shield volcanoes and to determine 
+the long-term frequency and style of Mauna Loa eruptions as 
+guides for volcanic-hazards appraisals and land-use decisions 
+(Trusdell, 1995). 
+The subaerial volcanic geology of Mauna Loa (fig. 1) is 
+being mapped and digitally compiled on five maps at 1:50,000 
+scale to show the extent of surface flows. Approximately 500 
+flows have been identified and their attributes compiled in a 
+large database. This temporal and spatial record of eruptive 
+activity for the last 30,000 years provides a geologic framework 
+to interpret the long-term frequency and style of Mauna Loa 
+eruptions. These data permit quantitative analysis of the distri-
+bution of eruptive products through time and improve evaluation 
+of volcanic risk and land-use decisions (Trusdell, 1995). 
+Northeast Flank Mauna Loa
+The map of the northeast flank of Mauna Loa shows the 
+distribution and relations of volcanic and surficial sedimentary 
+deposits. It incorporates previously reported work published in 
+generalized small-scale maps (Lockwood and Lipman, 1987; 
+Buchanan-Banks, 1993; Lockwood, 1995; Wolfe and Morris, 
+1996). The simplified unit labels on the map are non-unique 
+labels that provide quick access to the unit morphology, age, 
+mineralogy, and stratigraphy. This non-unique unit label 
+may be used for an entirely different unit on a different flank 
+of Mauna Loa.
+Mapping Methods
+The geology was mapped using vertical aerial photos 
+taken in 1977 and 1978. Extensive field work required walking 
+the contacts to distinguish individual flow units and intraflow 
+boundaries, including morphologic contacts between ‘a‘ä and 
+pähoehoe. Where the terrain and jungle obscured contacts, we 
+created a grid pattern of transects; the ensuing contacts were 
+extrapolated between transects from geological and botanical 
+inferences. Details from aerial photos were transferred to 
+1:24,000-scale base-stable material (greenlines) via a photo-
+grammetric stereoplotter (Kern model PG–2). After details were 
+finalized, greenlines were scanned and brought into ArcInfo to 
+create the database.
+Reliably correlating discontinuous exposures from outcrop 
+to outcrop and through heavily vegetated areas is a major chal-
+lenge in mapping a volcano that consists entirely of composi-
+tionally similar tholeiitic basalt. Criteria used for correlation 
+include phenocryst size, morphology, and proportion; ground-
+mass texture; vesicle shape; vesicle linings (magnesioferrite); 
+surface flow morphology; paleomagnetic pole directions; rock 
+chemistry; and varied evidence on relative and absolute ages. 
+Paleomagnetic poles are an indispensable tool for making 
+correlations between flows over large distances and, especially, 
+through dense jungle. Individual flows typically change from 
+pähoehoe near the vent to ‘a‘ä downslope, especially for high-
+discharge eruptions; low-discharge eruptions may result in the 
+distal emplacement of pähoehoe through efficient lava-tube 
+delivery systems.
+The pre-1843 lava flows and tephra deposits are divided 
+into 15 age groups by several methods. About half the flows 
+were dated directly (92 radiocarbon ages), using carbonized 
+organic material recovered from beneath each flow (Lockwood 
+and Lipman, 1980). For undated flows, relative ages are assigned 
+on the basis of flow and mineral weathering, surface color, 
+amount of soil and ash accumulation, degree and type of vegeta-
+tive cover, and stratigraphic relations with adjoining dated flows. 
+We use surface color effectively as an indirect indicator of 
+age. Young flows are initially black. As the rock is exposed to 
+direct sunlight, the color changes from black to dull black, pro-
+gressing to grays, browns, tans, orange, and, finally, reds hues. 
+The longer the rock is exposed to direct sunlight, the greater the 
+color progression. Lipman (1980) used this color scheme effec-
+tively to tentatively classify the ages of eruptive units. In addi-
+tion, soil and ash accumulation are used as an indirect indicator 
+of age. The thickness of ash, however, may also be a function of 
+proximity to the contributing source(s).
+Digital Database
+The digital database contains all the information shown 
+in the printed publication at 1:50,000 scale, but it is accurate 
+to 1:24,000 scale. It is structured on a unique three-digit flow 
+identification number (FID; for example, FID 831), which is 
+assigned to each flow unit mapped on Mauna Loa. The FID 
+is essential as a unique descriptor for unit identification in the 
+database; it is included at the end of each unit description in 
+2
+P ACIFIC
+OCEAN
+–156°
+20°
+19°30’
+19°
+–155°30’ –155°
+Kïlauea
+Hualälai
+Mauna Kea
+Kohala
+Mauna Loa Northeast Rift Zone
+Southwest Rift Zone
+Mauna
+Loa
+Kipuka 
+Pakekake
+Kilauea
+Crater Volcano
+Puu
+MakaalaKulani Mountain
+View
+Keaau
+RanchHiloPiihonuaUpperPiihonuaPuu Oo
+Kokoolau
+Puu Koli
+Puu Ulaula
+Figure 1. Map showing subaerial volcanoes forming Island of Hawai‘i, fissures on Mauna Loa, 
+and 7.5-minute topographic quadrangles in (shaded) and adjacent to map area.
+3
+the Description of Map Units, as well as in the List of Map 
+Units and the Correlation of Map Units on sheet 2. The data-
+base contains information on flow morphology, approximate 
+age, exact age, mineralogy, data quality, unit names, and any 
+existing overburden type. Access the database for this map at 
+https://doi.org/10.3133/sim2932A.
+Acknowledgments
+A great many individuals have contributed to the body 
+of knowledge that has made this geologic map possible. We 
+thank Meyer Rubin and Jack McGeehin and those who have 
+worked in their laboratory for radiocarbon age determina-
+tions. Duane Champion conducted the paleomagnetic studies 
+to test correlations of several geologic units. Assistants in 
+geologic mapping of the northeast flank include Lisa Peterson 
+and Marjorie L. Summers. People who worked as archivists of 
+the geologic samples and charcoal samples include Margery 
+Summers, Toni Thompson, and Vicki Taylor. The digital data-
+base containing the geologic map was initially constructed by 
+Sandi Margriter. Superintendents of Hawaii V olcanoes National 
+Park permitted work on the northeast rift. We are grateful to 
+Jane Buchanan-Banks for her geologic map of the Hilo quad-
+rangle. Thorough and helpful reviews of the map and text by 
+David Sherrod and Edward Wolfe resulted in many improve-
+ments in presentation.
+Geology
+Northeast Rift Zone
+Although most Mauna Loa eruptions begin in the summit 
+area (>12,000 ft [3,600 m] elev; Lockwood and Lipman, 1987), 
+the Northeast Rift Zone (NERZ) was the source of eight flank 
+eruptions since 1843 (table 1). The NERZ extends from the 
+13,680-ft-high (4,169 m) summit towards Hilo (population 
+~60,000; second-largest city in State of Hawaii). Hilo is built 
+entirely on flows erupted from the NERZ, although most source 
+vents are more than 30 km distant. Most of these flows are 
+older than A.D. 1843, but the A.D. 1880 flow extends into Hilo, 
+nearly reaching Hilo Bay.
+From the geologic record, we may deduce several general-
+ized facts about the geologic history of the NERZ. The middle 
+to uppermost segments of the rift zone were more active in the 
+past 4,000 years than the lower portion of the rift zone. This 
+may be due to buttressing of the lower east rift zone by Mauna 
+Kea and Kïlauea V olcano. The historical flows that erupted on 
+the north side of the rift zone advanced toward Hilo. This flank 
+of the volcano may be more vulnerable to inundation. Lockwood 
+(1990) noted that the vents of historical activity are migrating to 
+the south. The volcano appears to have a self-regulating mecha-
+nism that evenly distributes long-term activity across its flanks. 
+The geologic record also supports this notion; the time prior to 
+the historical period (Age Group 1, pre-A.D. 1843–1,000 yr B.P.) 
+is dominated by activity on the south side of the NERZ. 
+The NERZ trends N. 65º E. and is about 40 km long and 
+2–4 km wide, narrowing at the summit caldera. It becomes 
+diffuse (6–7 km wide) at its downrift terminus, which is around 
+3,400 ft (1,030 m) elevation. Its constructional crest is marked by 
+low-spatter ramparts and by spatter cones as high as 60 m. Sub-
+parallel eruptive fissures and ground cracks cut vent deposits and 
+flows in and near the rift crest. Lava typically flows to the north, 
+east, or south, depending on vent location relative to the rift crest.
+Volcanic Deposits
+Flows
+The map encompasses 1,140 km2 of the northeast flank 
+(fig. 1) of Mauna Loa from 10,880 ft (3,786 m) elevation to sea 
+level. It shows the distribution of eruptive units (flows) sepa-
+rated into 14 age groups ranging from a period prior to 30,000 
+yr B.P. to A.D. 1984. 
+Table 1.  Summary statistics of historical (after A.D. 1843) eruptions on Mauna Loa's northeast flank, Island of 
+Hawai‘i, Hawaii.
+[S, Summit; NE, Northeast Rift Zone; MKN, Moku‘äweoweo north (north flank). NA, not applicable; lava flows west]
+Year
+Eruption
+begins 
+(mo-day)
+Summit
+activity
+(days)
+Flank
+activity
+(days)
+Eruptive
+area
+of volcano
+Area
+covered
+(km2)
+Volume
+erupted
+(km3)
+Error in est.
+volume
+(%)
+Closest reach
+to Hilo Bay/
+Komohana
+(km)
+1984 Mar-26 <1 22 S, NE 48 0.220 ±20 17.5/15.4
+1942 Apr-26 2 13 S, NE 34 0.176 ±20 16/13.3
+1935 Nov-21 6 40 S, NE, MKN 33 0.087 ±20–40 28.3/26.6
+1899 Jul-1 4 21 S, NE 23 0.081 ±20–40 27/28.2
+1880 Nov-5 0 280 NE 51 0.130 ±20–40 1.9/–0.5
+1855 Aug-8 <1 ~450 S, NE 66 0.280 >±40 10.9/9.3
+1852 Feb-17 1 20 S, NE 33 0.182 ±20–40 16.1/14
+1843 Jan-10 5 ~90 S, NE, MKN 45 0.202 >±40 NA
+Total 333 km2 1.358 km3
+4
+Pähoehoe is characterized by bulbous, smooth, and ropy 
+surfaces, and the general topography can be described as hum-
+mocky. Lava tubes are common features in pähoehoe flows. 
+Most ‘a‘ä flows also start as pähoehoe flow types near the vents 
+and transition to ‘a‘ä downslope.
+‘A‘ä flows, which cover slightly more than half of the map 
+area, are generally thicker and form broader units than pähoehoe 
+flows. ‘A‘ä flows are characterized by rubbly and (or) clinkery 
+upper surfaces and have a rough texture; they are typically 3 to 
+15 m thick. 
+Effusion rates and slope influence lava morphology. High 
+effusion rates, combined with steep slopes, usually generate 
+‘a‘ä. Moderate to low effusion rates typically produce pähoehoe. 
+Not surprisingly, ‘a‘ä is abundant in the region, which has the 
+highest effusion rates and some of the steepest slopes of any 
+sector of Mauna Loa (Trusdell, 1995). The relation between 
+high effusion rates and steep slopes has momentous implica-
+tions for volcanic hazards and flow-advance rates, especially for 
+the southwest flank of Mauna Loa. 
+Vesicles are present in both pähoehoe and ‘a‘ä flows. 
+In ‘a‘ä flows, vesicles are generally fewer in number and 
+volume (<35%), irregularly distributed, commonly deformed 
+and subangular in shape, and larger in size than in pähoehoe 
+flows. In contrast, vesicles in pähoehoe flows are smaller, more 
+abundant and voluminous (40–60%), moderately distributed to 
+well distributed, and spherical to subrounded. Some age groups 
+are not represented on this map (age groups 7, 14, and 15).
+Age Groups
+The age groups are arbitrary boundaries created by the 
+authors. They are broken down into 1,000-year intervals 
+until the latter age groups. The larger age groups represent 
+time periods greater than 1,000 years. The age groups are 
+defined on the basis of radiocarbon years. Unless the flows 
+are dated, the reliability of age determinations decreases with 
+increasing age. 
+Age Group 0 (Historical period: A.D. 1843 and younger)
+Lava erupted from A.D. 1843 to 1984 covers 19 percent 
+of the map area. Eruptions occurred in 1843, 1852, 1855–56, 
+1880–81, 1899, 1935–36, 1942, and 1984. Soil or ash cover is 
+absent except in forested areas, and surficial glass is common. 
+Most lava flowed north and northeast from the NERZ.
+A.D. 1984—The 1984 eruption began on March 26 and 
+continued for 22 days. It was Mauna Loa’s fifth longest histori-
+cal  NERZ eruption; the erupted volume is 220 x 106 m3. Much 
+of the lava is ‘a‘ä. The vents were distributed along a 15-km 
+segment of the NERZ between 9,350 and 12,400 ft (2,850 and 
+3,780 m) elevation. Most fissures are west of the map area at 
+higher elevations. The main fissure is located at approximately 
+9,600 ft (2,926 m) elevation and is shown on the map. The flows 
+from this eruption came within 7 km of the greater city limits of 
+Hilo (Kaumana City). 
+A.D. 1942—The eruption began at the summit on April 26. 
+When it ended on May 9, a lava flow extended 26 km from 
+the main vents at 9,350 ft (2,850 m) elevation and came within 
+5 km of Hilo. ‘A‘ä erupted near Mauna Loa summit road and 
+extended to the northeast as far as Piihonua quadrangle. During 
+this eruption, the local government tried a second time to divert 
+Mauna Loa lava from its course toward Hilo by bombing; this 
+was first attempted in 1935. 
+A.D. 1935–36 —The 1935–36 eruption began near the 
+summit on November 21. On November 27, a new vent opened 
+on the north flank at 8,805 ft (2,685 m) elevation. This vent, 
+at the west-central edge of the map, is orthogonal to the trend 
+of the rift zone. During this eruption, local government first 
+attempted to use bombing to divert the advancing flow. 
+A.D. 1899—The 1899 eruption began with a summit 
+outbreak on July 1. It was followed on July 5 by a flank erup-
+tion on the NERZ at 10,990 ft (3,350 m) elevation, only 3 km 
+west of the map area. The flank eruption, which lasted 18 days, 
+produced about 80 x 106 m3 of lava; it was the least voluminous 
+historical eruption on the NERZ, only one-third the size of the 
+1984 eruption.
+A.D. 1880–81 —The eruption of 1880–1881 began on May 
+1, when a small, short-lived eruption at Mauna Loa's summit 
+heralded the beginning of an eruptive sequence that was fol-
+lowed 6 months later by a voluminous flank eruption, which 
+would eventually threaten Hilo. The flank phase of the eruption 
+began on November 5. The outbreak was located at 11,000 ft 
+(3,353 m) elevation, about 1.5 km above Pu‘u‘ula‘ula. High 
+lava fountains fed an ‘a‘ä flow that moved swiftly down the 
+north flank (west of the map area). Another branch of the ‘a‘ä 
+flowed southeast, stopping within 1.5 km of Kïlauea V olcano. 
+As fountains waned, a new vent opened downrift, about 450 
+m northwest of Pu‘u‘ula‘ula. From this new vent, lava simply 
+oozed up from an earth crack and moved as pähoehoe steadily 
+northeastward. There was no major concern during the winter of 
+1880–81, because the flow moved slowly. By late March 1881, 
+the flow came within 11 km of Hilo. By early June the flow 
+was within 8 km of Hilo, and concern mounted. On June 26, 
+the flow entered stream channels above Hilo and appeared to 
+accelerate. By August 10, all forward progress ceased. The 1881 
+lava came within 1.9 km of Hilo Bay. Its terminus today is at the 
+intersection of Mohouli and Pöpolo Streets.
+A.D. 1855–56 —The 1855–56 eruption began in August 
+1855 and continued for about 450 days. It was Mauna Loa's 
+longest historical eruption. The eruption included many 
+episodes of high fountaining and was characterized by highly 
+variable rates of lava production. Most of the lava erupted 
+is pähoehoe with minor amounts of ‘a‘ä. A lava tube system 
+never formed, but the flows, which attained a volume of 
+280 x 106 m3, came within 10 km of Hilo Bay. The vents were 
+distributed along a 10-km segment of the NERZ between 
+9,020 and 11,975 ft (2,750 and 3,650 m) elevation. The flow 
+is exposed south of Saddle Road (Highway 200) at 5,000 ft 
+(1,524 m) elevation and north of the road near 2,400 ft (732 m) 
+elevation. Trees on this flow are taller and grow more densely 
+than those on the 1880–81 flow, because the rougher surface 
+holds more water and nutrients. 
+A.D. 1852—The 1852 eruption began on February 17 and 
+continued for 20 days. Much of the lava is ‘a‘ä; the erupted 
+5
+volume is 182 x 106 m3. The vents were distributed along 
+an 18-km segment of the NERZ, which is mostly buried by 
+younger lava flows. The flows from this eruption came within 
+6 km of Hilo. The higher elevation vents are 8.5 km west of the 
+map area.
+A.D. 1843—The 1843 eruption began on January 10 and 
+continued for approximately 90 days. This eruption produced 
+both ‘a‘ä and pähoehoe. Surface relief on the 1843 ‘a‘ä flow is 
+more than 8 m, locally. The high-standing areas are large float-
+ing masses of cooled lava that were left behind as more fluid 
+‘a‘ä continued to move around them. The eruptive sequence 
+demonstrates a common situation: younger pähoehoe cover-
+ing older ‘a‘ä of the same eruption. Erupted volume is about 
+202 x 106 m3. Vents were distributed along a 5-km segment of 
+the NERZ; the lowest elevation vent is radial to the trend of the 
+rift zone. Most of this unit, including the source vents, is 3.5 km 
+west of the map area. 
+Age Group 1 (pre-A.D. 1843–1,000 yr B.P.)
+Spatter and flows are typically slightly weathered and have 
+negligible overlying soil or ash except in forested areas. Surficial 
+black glass is commonly present. Sixteen of eighteen flows have 
+radiocarbon ages. In contrast to flows of Group 0, these flows 
+traveled primarily southward from the NERZ. Eruptions from 
+this period cover approximately 13 percent of the map area.
+Age Group 2 (1,000–2,000 yr B.P .)
+Spatter and flows typically have some overlying soil or ash 
+at lower elevations, and any surficial glass shows slight mechan-
+ical degradation and color lightening to gray hues. Six of ten 
+flows have radiocarbon ages. Eruptions from this period cover 
+nearly 28 percent of the map area.
+Age Group 3 (2,000–3,000 yr B.P .)
+Spatter and flows are mildly weathered, and surficial glass is 
+locally preserved. One of nine flows has a radiocarbon age. Erup-
+tions from this period cover nearly 5 percent of the map area.
+Age Group 4 (3,000–4,000 yr B.P .)
+Spatter and flows are moderately weathered, and surficial 
+glass is preserved only in protected places. Two of nine flows 
+have radiocarbon ages. Eruptions from this period cover nearly 
+7 percent of the map area.
+Age Group 5 (4,000–5,000 yr B.P .)
+Spatter and flows are moderately weathered, surficial glass 
+is rare, and upper surfaces have moderate mechanical degrada-
+tion. These flows commonly have as much as 0.4 m of overlying 
+soil or ash, especially to the north adjacent to Mauna Kea and to 
+the south in close proximity to Kïlauea. Two of nine flows have 
+radiocarbon ages. Eruptions from this period cover less than 
+6 percent of the map area.
+Age Group 6 (5,000–6,000 yr B.P .)
+These rocks are becoming weathered and typically are 
+covered with 0.2–0.3 m of ash or soil, especially at lower eleva-
+tions. Two of nine flows have radiocarbon ages. Eruptions from 
+this period cover less than 10 percent of the map area.
+Age Group 7 (6,000–7,000 yr B.P .)
+Flows dated 6,000–7,000 radiocarbon yr B.P. were not 
+identified within the map area. It is possible that, with so many 
+undated flows, one or two could fall into this age category. 
+Lockwood (1995) reported that the absence of any dates of this 
+range suggests that eruptive activity may not have occurred on 
+Mauna Loa’s flanks during this time interval. It is plausible that 
+activity may have been limited to the summit (lava lake activity) 
+or the volcano's submarine flanks (Lockwood, 1995).
+Age Group 8 (7,000–8,000 yr B.P .)
+The flows are moderately weathered; upper surfaces have 
+open-vesicle texture and are broken, and red-orange surfaces occur 
+at higher elevations. Tephra is beginning to accumulate in low-
+lying areas. This age group is represented by a single dated flow. 
+Eruptions from this period cover less than 4 percent of the map area.
+Age Group 9 (8,000–9,000 yr B.P .)
+The flows are deeply weathered, showing red-orange 
+surfaces at higher elevations; mechanical disintegration of upper 
+surfaces is almost complete. Tephra is beginning to accumulate in 
+low-lying areas. Three of five flows have radiocarbon ages. Erup-
+tions from this period cover less than 1 percent of the map area.
+Age Group 10 (9,000–10,000 yr B.P .)
+These flows are found only at low elevations of the NERZ; 
+they are buried by younger flows closer to eruptive vents. 
+Tephra and soil fill low-lying areas; accumulations as thick as 
+0.50–1 m are common. Surface color approaches red. Three of 
+four flows have radiocarbon ages. Eruptions from this period 
+cover less than 4 percent of the map area.
+Age Group 11 (10,000–15,000 yr B.P .)
+These flows are found only at low elevations of the 
+NERZ; they are buried by younger flows closer to eruptive 
+vents. Flows have few if any original surfaces left. Upper 
+surfaces are commonly stained red orange, probably due to 
+hydration of glass. In the wet windward regions, the rock is 
+weakened by chemical weathering and hammer impacts often 
+leave a divot. Olivine is altered, yellowed, and (or) brown green 
+and begins to look micaceous. Units of this age have 1–3 m of 
+soil or ash cover. Groundmass is often a dull gray and looks 
+cryptocrystalline but, in actuality, is partly altered. Five of nine 
+flows have radiocarbon ages. Eruptions from this period cover 
+less than 3 percent of the map area.
+6
+Age Group 12 (15,000–20,000 yr B.P .)
+These flows are found only at low elevations of the NERZ; 
+they are buried by younger flows closer to eruptive vents. Flows 
+have no original surfaces left. Upper surfaces are commonly 
+stained red orange, probably due to hydration of glass. In the 
+wet windward regions, the rock is mushy from chemical weath-
+ering; hydrated glass turns to clay. Olivine appears micaceous 
+and (or) cloudy and is mostly altered. Units of this age have 
+2–4 m of soil and ash cover. Groundmass is altered and lined 
+with alteration products (limonite). Eruptions from this period 
+cover less than 2 percent of the map area.
+Age Group 13 (20,000–30,000 yr B.P .)
+These flows are found only at low elevations of the NERZ; 
+they are buried by younger flows closer to eruptive vents. These 
+flows are exposed just above Hilo, where they are overlain by 
+as much as 6 m of ash. The flows have no remaining original 
+surfaces. Boundaries between individual flows are blurred. In 
+the wet windward regions, the rock is mushy and olivine phe-
+nocrysts are mostly altered and generally soft. Five flows have 
+radiocarbon ages. Eruptions from this period cover less than 
+1 percent of the map area.
+Age Group 14 (30,000–100,000 yr B.P .)
+Flows with dates of 30,000–100,000 yr B.P. were not iden-
+tified within the map area. Flows from Mauna Loa with ages of 
+43,030 and 37,430 yr B.P. were dated in the Hawaii State Drill-
+ing Project. These flows are sufficiently old that all exposures 
+are buried by younger flows. On the south end of the island 
+they are exposed in fault scarps, sea cliffs, and drainages around 
+Nä‘älehu and in the Kahuku Pali. Where exposed, these flows 
+are commonly overlain by as much as 6 m of ash. 
+Age Group 15 (>100,000 yr B.P .)
+Flows with dates of >100,000 yr B.P. were not identified 
+within the map area. These flows are exposed in fault scarps and 
+drainages on the southern end of the island and in the Nïnole 
+Hills. The unit represents the oldest exposed rocks on Mauna 
+Loa. These rocks are commonly overlain by as much as 6 m of 
+ash and have no remaining original surfaces. 
+Surficial Sedimentary Deposits
+We separated the man-made (unit m) from naturally occur-
+ring deposits. Small alluvial deposits (unit Qal) are present 
+in the NERZ. Other sedimentary deposits were too small and 
+transient to map. Alluvial deposits chiefly consist of unconsoli-
+dated sand along the coast and pebble- to cobble-size gravel in 
+drainages that occur locally within portions of the map area. 
+Several man-made artificial deposits (unit m) are found near 
+Kea‘au below the old Puna Sugar Mill (now a power genera-
+tion plant for Hawaiian Electric Company, Inc.). These depos-
+its consist of mud and rock slurry from washing cane prior to 
+processing. The slurry was emptied onto adjacent younger Mauna 
+Loa lava flows in an attempt to make the land arable. This unit is 
+only mapped where the underlying rocks cannot be identified.
+Volcanic Ash
+Pahala Ash
+Pahala Ash includes beds of fallout and surge deposits that 
+represent accumulation of deposits from numerous eruptions. 
+Deposits include glassy ash and lapilli, now mostly altered to 
+clay, crystals, and lithic fragments. Phenocryst abundance is 
+difficult to estimate, owing to chemical decomposition, but 
+ranges from aphyric to moderately porphyritic, with as much as 
+8 percent olivine and fewer plagioclase phenocrysts. It is found 
+chiefly in the Punaluu, Naalehu, and Ka Lae quadrangles and in 
+adjacent upslope areas, where it overlies lava flows ranging in 
+age from 31,000 to 2,000 yr B.P.
+Pahala Ash was described by Stone (1926), Stearns and 
+Clark (1930), Wentworth (1938), Stearns and Macdonald 
+(1946), Fraser (1960), Walker (1969), and Easton (1978). The 
+term eventually came to be used for ashes from Kohala to 
+Kalae at South Point. According to Easton (1987), Wolfe (oral 
+commun., 1986) determined that the ash deposits of Kohala, 
+Waimea, Hämäkua, and North Hilo were derived locally and 
+are chemically distinct from ashes near Kïlauea and on the east 
+flank of Mauna Loa. Pahala Ash is not mapped at the surface in 
+the map area.
+Distal Tephra Deposits
+All ashes in the mapped area that are less than, and equal 
+to, late Pleistocene (16,000 yr B.P.) are incorporated into the 
+undivided tephras. Unit tn defines deposits north of the NERZ 
+and unit ts defines those adjacent to, and south of, the NERZ. 
+“Tephra” (tn or ts) is used as the unit identifier when a mostly 
+Holocene ash deposit is of sufficient thickness to mask the 
+underlying flow(s) or when the extent of the flow(s) cannot be 
+mapped with a reasonable degree of certainty. Where we are 
+able to map ash-covered flows ≤16,000 yr B.P. in age with a 
+high degree of certainty (see database for contact certainty), we 
+show a + pattern. 
+There are two main subdivisions in this group: northern 
+tephra and southern tephra. The tephras are comprised of 
+beds of ashfall deposits in the map area. The northern tephra 
+(tn, FID 996) is probably derived from Mauna Kea, and the 
+southern tephra (ts, FID 959) is most likely from Kïlauea, 
+although Mauna Loa cannot be excluded as a source.
+The ash is a mixture of yellow-brown palagonite, rare 
+vitric shards, Pele’s hair, pumice, and olivine phenocrysts. It is 
+derived from airfall deposits, weathered and reworked ash, and 
+sediments. The ash is comprised mostly of sand and silt-sized 
+fractions. Ancient soil horizons are present in some localities. 
+The appearance of the ash is greatly influenced by climate. In 
+dry areas, it is friable, in places compact, but it is mostly sandy, 
+loose, and dusty. In higher-rainfall areas, the ash appears clay-
+like and darker in color. 
+7
+Radiocarbon Data
+Table 2 reports 112 radiocarbon ages from 48 lava flows 
+(Kelley, 1979; Kelley and others, 1979; Rubin and others, 1987; 
+Buchanan-Banks and others, 1989; Buchanan-Banks, 1993). 
+Most are conventional ages analyzed by the U.S. Geological 
+Survey laboratory in Reston, Virginia; in addition, four 
+Accelerator Mass Spectrometer (AMS) ages were analyzed by 
+other laboratories. 
+Carbonized roots, twigs, or vegetative litter formed most 
+samples; rarely, unaltered wood was used. Some eruptive units 
+have multiple ages (table 2) obtained by dating samples from 
+two or more locations beneath the unit. In these cases, we report 
+a weighted mean age, whereby each age is weighted by the 
+inverse of its variance before averaging (a standard statistical 
+method; for example, Taylor, 1982).
+Each age was calibrated to calendar years using the CALIB 
+4.0 Radiocarbon Calibration Program (Stuiver and others, 1998). 
+The calibrated ages are for two standard deviations. The age 
+range in table 2 encompasses the entire age range of calendar 
+ages possible for a given radiocarbon age. Symbols indicating 
+quality show usefulness of age in stratigraphic interpretations. 
+Meaningless ages are reported in the Appendix.
+DESCRIPTION OF MAP UNITS
+[Some unit exposures on the printed or plotted map are not labeled to avoid obscuring data; use unit color or the 
+database (https://doi.org/10.3133/sim2932A) for unit identification. The simplified map unit label is not unique and 
+provides quick access to flow morphology, flow age group, phenocryst mineralogy, and flow number in an age group 
+(table 3, sheet 1); this non-unique unit label may be used for an entirely different unit on a different flank of Mauna 
+Loa. We use the term "phenocryst" for any mineral ≥1 mm in maximum diameter. Pyroxene is not an abundant pheno-
+cryst in Mauna Loa lava flows and, therefore, it is not included in phenocryst mineralogy. Multiple labels for a unit are 
+listed with the most abundant lithology first. In addition to the map unit label, a unique, three-digit flow identification 
+number (FID; for example, FID 831) is assigned to each mapped flow unit to facilitate use of the database for the entire 
+Mauna Loa edifice; therefore, the FID is essential as a unique descriptor for unit identification in the database. No age 
+group 7, 14, or 15 units were identified in the map area]
+SEDIMENTARY DEPOSITS
+SURFICIAL DEPOSITS (HOLOCENE)
+Qal Unconsolidated sedimentary deposits—Include alluvium, beach- and bay-filling deposits, gravel, 
+and sand
+m Man-made deposits—Artificial fill found 1.5 km northeast of Kea‘au and on northeast corner of 
+General Lyman Field (Hilo International Airport). Deposits consist of mud, rock slurry, sugar-
+mill effluent deposits, and artificial fill. Mapped only where underlying rock cannot be identified
+VOLCANIC DEPOSITS
+LA V A FLOWS AND VENT DEPOSITS
+Kau Basalt
+The Kau Basalt includes historic and prehistoric members. The prehistoric units range in age from pre-A.D. 
+1843 to 30,000 yr B.P. The Kau Basalt consists of tholeiitic basalt, vent deposits, and lava flows. The flows are mostly 
+aphanitic, and some have variable amounts of olivine and plagioclase phenocrysts. Pyroxene is rare in hand specimen. 
+Most of the map units are members of the Kau Basalt.
+Age Group 0 (A.D. 1843 and younger; Holocene)
+a0a1, p0a1, A.D. 1984 flow—Aphanitic ‘a‘ä with <1% olivine phenocrysts 1–2 mm in size. Vents were distrib-
+uted along 15-km segment of NERZ between 9,350- and 12,400-ft elev. Most fissures are west 
+of map area at higher elevations. FID 783 
+a0a2, s0a2 A.D. 1942 flow—Massive ‘a‘ä containing <1% olivine phenocrysts and abundant plagioclase micro-
+phenocrysts in a microcrystalline groundmass. Distinguished from A.D.1984 flow by abundant 
+plagioclase microphenocrysts. ‘A‘ä erupted near Mauna Loa access road and flowed northeast 
+as far as Piihonua quadrangle. FID 784
+p0a3, a0a3 A.D. 1935–36 flow—Flow is aphanitic with fine crystalline groundmass. Toothpaste ‘a‘ä flow, 
+commonly mixed with slabby pähoehoe, in southwest corner of Puu Oo and Upper Piihonua 
+s0a1
+8
+quadrangles. Vesicles are subrounded and may be lined with magnesioferrite. ‘A‘ä near 
+Hwy 200 in saddle between Mauna Loa and Mauna Kea is generally covered with light-gray 
+lichen. Vent at west-central edge of map is orthogonal (radial) to trend of rift zone. FID 785
+a0a4, p0a4, A.D. 1899 flow—Nearly aphanitic ‘a‘ä contains fine crystalline groundmass with <1% olivine 
+phenocrysts and 1–3% plagioclase microphenocrysts. Found along Mauna Loa summit road 
+in Puu Ulaula and Puu Oo quadrangles. Eruption began with a summit outbreak followed by a 
+flank eruption on NERZ at 10,990-ft elev, only 3 km west of map area. FID 786
+p0b5, a0b5, A.D. 1880–81 flow —Flow is fresh and glassy, with 1–3% clear olivine phenocrysts and abundant, 
+inconspicuous plagioclase microphenocrysts. Both ‘a‘ä and pähoehoe morphologies found. 
+FID 787
+p0j6, a0j6, A.D. 1855–56 flow—‘A‘ä, pähoehoe, and spatter morphologies present. Contains 2–8% clear sub-
+hedral olivine and 1–5% plagioclase phenocrysts. Trees on this flow are taller and grow more 
+densely than those on 1880–81 flow. FID 788
+a0e7, p0e7, A.D. 1852 flows—A predominantly picritic ‘a‘ä with minor pähoehoe, erupted from several 
+vents along upper NERZ. This eruption is noteworthy for its bimodal distribution of olivine 
+phenocrysts. Earlier vents at higher elevation (outside map area) tend to have more spatter and 
+to erupt olivine-poor (<<1%) lava; whereas, lower-elevation vents have 15–20% olivine in a 
+fine crystalline groundmass. FID 789
+a0k8, p0k8 A.D. 1843 flow—Spiny ‘a‘ä north of summit of Mauna Loa, in and west of Puu Oo quadrangle. 
+Most of unit is exposed west of map area. Flow has 1–3% brownish-green olivine phenocrysts 
+and 8–10% plagioclase phenocrysts. Some olivine is present as discrete crystals; others are 
+intergrown with plagioclase. This eruption produced both ‘a‘ä and pähoehoe. Surface relief on 
+‘a‘ä flow is >8 m locally. Lowest elevation vent is oblique to trend of rift zone. FID 790
+Age Group 1 (pre-A.D. 1843–1,000 yr B.P .; Holocene)
+a1g1, p1g1 Ke‘ämoku Kïpukakëkake flow—Dense, fine-grained, transitional from pähoehoe to ‘a‘ä in Kulani 
+and Puu Ulaula quadrangles. Groundmass is sparkly, dark, and feldspathic. Small olivine 
+phenocrysts (<1%) are widely scattered; 1–2% plagioclase is present as fine laths. Age, 288±36 
+radiocarbon yr B.P. FID 800
+a1k2, m1k2,  Pu‘ukupanaha flow—Mixed, dense pähoehoe and spiny ‘a‘ä flow in Puu Oo and Puu Ulaula quad-
+rangles. Flow has vesicle-poor, gray groundmass and contains 1–2% clear, subrounded olivine 
+phenocrysts and 1–8% fine, inconspicuous plagioclase. Eruption fissure is arcuate; its trend strays 
+from northeast to nearly due north at its distal end. Age, 300±50 radiocarbon yr B.P. FID 796
+p1k3, a1k3 Kïpukamauna‘iu flow—Pähoehoe in contact with and south of Pu‘u‘ula‘ula. Contains dense, 
+well-crystallized, feldspathic groundmass. Surface is medium gray to black. Flow tops, locally 
+glassy, are mostly weathered; surface glass is broken up. Flow contains 0–1% small olivine 
+phenocrysts and 1–8% anhedral laths and clots of plagioclase, commonly intergrown with oliv-
+ine. Vesicles are subrounded, commonly distorted, and may be lined with magnesioferrite. Age, 
+311±25 radiocarbon yr B.P. FID 801
+a1a4, p1a4 Kïpuka within A.D. 1899 flow field—Aphanitic ‘a‘ä near west boundary of Puu Ulaula quad-
+rangle; probable source vent buried near 10,600-ft elev. Dense, medium-gray, nearly flinty 
+groundmass with 10–15% subangular magnesioferrite-lined vesicles. FID 803
+a1a5, p1a5, ‘Äinahou flow—Dense pähoehoe to vesicular ‘a‘ä in Puu Ulaula, Upper Piihonua, and Puu Oo 
+quadrangles. Well-crystallized, bluish-gray, feldspathic groundmass with 0–1% light-green 
+olivine phenocrysts and microphenocrysts of plagioclase. Age, 410±60 radiocarbon yr B.P. 
+FID 792
+a1j6, p1j6,  Külani picrite flow—Dense ‘a‘ä with rare pähoehoe in Kulani, Puu Ulaula, and Puu Makaala quad-
+rangles. Origin is vent named Pu‘uha‘a at 9,200-ft elev. Contains 5–20% large, clear, olivine 
+phenocrysts and 2–8% fine plagioclase as laths or clots. Some plagioclase forms radiating inter-
+growths with olivine. Gabbroic xenoliths are rare to abundant. Vesicles, 6–8%, are subrounded 
+to subangular. Age, 437±46 radiocarbon yr B.P. FID 793
+m1a7, p1a7 Ke A Po‘omoku flow—Massive pähoehoe and ‘a‘ä that flooded Mauna Loa’s flank northeast of 
+caldera and southeast of rift zone. Eruptive fissures extend into NERZ and northwest of map 
+area. Contains <1% olivine phenocrysts in medium-gray, fine-grained feldspathic groundmass. 
+Age, 475±41 radiocarbon yr B.P. FID 274
+a1i8, s1i8, Mauna Loa Boys School flow—Mostly ‘a‘ä and minor pähoehoe in Puu Ulaula and Kulani quad-
+rangles. Contains 4–5% large olivine phenocrysts; 2–3% plagioclase laths, mostly intergrown 
+p1k2, s1k2
+s1a5
+s1j6, m1j6
+p1i8
+s0e7
+s0j6
+s0b5
+s0a4
+9
+with olivine; and rare olivine-pyroxene-plagioclase intergrowths. Age, 480±60 radiocarbon 
+yr B.P. FID 794
+p1g9, a1g9 Ke‘ämoku Kïpukakulalio flow—Dense, dark-gray, nearly aphanitic ‘a‘ä in Puu Ulaula quadrangle. 
+Flow contains <1%, widely scattered olivine phenocrysts and 2% plagioclase phenocrysts. Age, 
+569±53 radiocarbon yr B.P. FID 802
+p1a10 Kulaloa flow—Aphanitic pähoehoe; source vent may be in Kulani quadrangle but has not been 
+found. Found only below 4,800-ft elev; vent was probably a fissure at about this elevation. Flow 
+traverses Kulani, Puu Makaala, Piihonua, and Hilo quadrangles. Buried upslope by unit a1j6 
+(FID 793), which is fairly narrow. Unlikely that narrow overlying flow fortuitously covered all 
+upslope exposures of Kulaloa flow. Contains fresh glass and uniform, spherical vesicles. Age, 
+570±60 radiocarbon yr B.P. FID 791
+m1k11, a1k11,  Ke‘ämoku Kïpukakulalio east flow —Tube-fed pähoehoe with some ‘a‘ä, in Puu Ulaula and 
+Kulani quadrangles. Glass is fresh where protected from mechanical weathering. Contains 
+2–6% olivine phenocrysts and 5–10% plagioclase as laths, clumps, and intergrowths with 
+olivine. Vesicles are mostly rounded and coated with magnesioferrite. Hosts some of most 
+spectacular tube systems with skylights on northeast side of Mauna Loa. Tree molds are exposed 
+along Pu‘u Oo V olcano Trail where not covered by ash. Abundant charcoal samples can be found 
+where flow overlies unit a5b7 (FID 870). Age, 575±38 radiocarbon yr B.P. FID 799
+a1j12, p1j12, Keawewai Camp flow—Weathered ‘a‘ä flow, which has lost most surface glass, is in Puu Ulaula 
+and Kulani quadrangles. Variable mineralogy; 0–10% olivine phenocrysts and 2–3% plagio-
+clase laths. Contains rare, small, rounded gabbroic xenoliths. Age, 590±50 radiocarbon yr B.P. 
+FID 797
+p1l13, a1l13 Keauhou Ranch flow—Large tube-fed pähoehoe and minor ‘a‘ä on Keauhou Ranch in Kulani 
+quadrangle. The 6–20% olivine forms phenocrysts and microphenocrysts; 4–6% plagioclase 
+mostly microphenocrysts and groundmass. Age, 760±70 radiocarbon yr B.P. FID 833
+p1b14, m1b14 Flow north of southeast A.D. 1880 lobe—Mixed ‘a‘ä and pähoehoe flows southeast of 
+Pu‘u‘ula‘ula cone and extends into Kipuka Pakekake quadrangle (south of map area). Contains 
+4% inconspicuous round olivine phenocrysts. Age, 780±70 radiocarbon yr B.P. FID 840
+a1l15, s1l15 ‘Öla‘a Uka flow—In Kulani quadrangle, this ‘a‘ä flow is covered by rich soil (ash deposit) that 
+supports ‘öhi‘a, häpu‘u, and koa forest so dense that it betrays the young flow age. Soil/ash 
+source is probably alluvium washed in from older surrounding units. Contains 3–10% anhedral 
+olivine phenocrysts and 8–15% plagioclase phenocrysts. Sugary intergrowths of olivine and 
+plagioclase form 5–12% of rock. Age, 880±60 radiocarbon yr B.P. FID 795
+p1e16, m1e16, Pu‘uwähi picrite flow—Dense picrite straddling NERZ in Puu Ulaula quadrangle near Pu‘u‘ula‘ula 
+cone. Spatter and reticulite are 750 m northeast of Pu‘u‘ula‘ula. Pähoehoe and ‘a‘ä with 
+medium-gray groundmass, containing 10–20% clear, fresh olivine phenocrysts as much as 
+6 mm across. Weathered surfaces are orange brown with protruding olivine minerals. Age, 
+955±24 radiocarbon yr B.P. FID 837
+p1a17 Flow 839—Aphanitic pähoehoe, found isolated within 1935–36 flow in Puu Oo quadrangle and 
+farther west. Dense and well crystallized, with thick covering of surface glass as much as 5 mm 
+thick. Vesicles are spherical and uniform size. FID 839
+m1i18, a1i18, Ke‘ämoku Kïpukakulalio west flow—Both pähoehoe and ‘a‘ä in Puu Ulaula quadrangle. Flow 
+contains 3–8% subhedral, sugary olivine phenocrysts and 0–2% plagioclase phenocrysts. 
+Vesicles are subrounded to elongate and may be magnesioferrite lined. FID 838
+Age Group 2 (1,000–2,000 yr B.P .; Holocene)
+p2a1, a2a1 Küküau flow—Tube-fed, nearly aphanitic pähoehoe and rare ‘a‘ä in Puu Ulaula, Puu Makaala, 
+Upper Piihonua, Piihonua, and Hilo quadrangles. Contains well-crystallized groundmass, 0–2% 
+olivine phenocrysts, and <1–2% very fine plagioclase microphenocrysts. Groundmass has well-
+sorted spherical vesicles, which may have diktytaxitic, magnesioferrite-lined cavities. Some 
+vugs are 3 cm diameter and lined with plagioclase and clinopyroxene. Flowed within 1 km of 
+Hilo Bay. Age, 1,333±26 radiocarbon yr B.P. FID 829
+a2l2, p2l2, Pana‘ewa picrite flow —Widespread, vesicular, olivine- and plagioclase-rich ‘a‘ä and pähoe -
+hoe in Kulani, Puu Makaala, Mountain View, and Hilo quadrangles. Lava erupted from a 
+cinder cone at 6,020-ft elev. Flow has wide range of modal mineralogy. Large, euhedral, 
+light-green olivine phenocrysts (2–20%) are as large as 7 mm. Contains 5–15% clots and 
+rare laths of plagioclase occurring as phenocrysts and microphenocrysts. Sparse gabbroic 
+p1k11, s1k11
+s1j12, m1j12
+s1e16, a1e16
+p1i18
+s2l2
+10
+microxenoliths are found locally. Groundmass is well crystallized and light bluish gray. 
+Large, subangular to spherical vesicles form 30–40% of groundmass and are lined with 
+magnesioferrite, which is unaltered or stained red. Flow is commonly covered with brown 
+soil. Reticulite as much as 0.4 m thick from this eruption mantles older units downwind of 
+vent. This flow is the most voluminous and widespread unit in map area. It covers 173 sq km 
+and forms coastline from Hä‘ena (Shipman's Estate) to Bayfront (Hilo Bay). Age, 1,470±50 
+radiocarbon yr B.P. FID 828
+a2b3, s2b3, Flow 830—Mixed ‘a‘ä and minor pähoehoe flow in Puu Ulaula, Upper Piihonua, and Kulani 
+quadrangles. Contains subrounded vesicles; 2% clear, subhedral, olivine phenocrysts; and 
+groundmass full of anhedral plagioclase microlites. Erupted from fissures oblique to rift zone at 
+9,760–8,800-ft elev. FID 830
+a2k4, p2k4, Upper Waiäkea flow—Mixed pähoehoe and ‘a‘ä flows in Puu Ulaula, Puu Makaala, Piihonua, and 
+Kulani quadrangles. Lava contains 0–2% olivine phenocrysts, commonly as intergrowths with 
+plagioclase, and 5–12% very fine plagioclase as laths and blebs. Vesicles are subrounded, elon-
+gate, and commonly magnesioferrite lined. ‘A‘ä is crumbly and weathered to yellow orange. 
+Flow is covered with thin to thick layer of soil and ash; consequently, outcrops range from 
+abundant to rare. This eruption sent flows over both sides of rift zone. Age, 1,638±32 radiocar-
+bon yr B.P. FID 864
+p2k5, a2k5, Pu‘ukähilikü flow—‘A‘ä and pähoehoe flows in Puu Oo, Upper Piihonua, and Puu Ulaula quad-
+rangles. Originates from two discontinuous radial vent fissures upslope and one fissure vent on 
+top of Pu‘uhuluhulu (Mauna Kea Cone). First fissure erupted lava from 7,820-ft elev; second, 
+lower fissure is found at 7,360-ft elev. The third fissure has been removed by quarrying activites 
+and is represented by a dike within and two remnant ‘a‘ä flows flanking the cone on the west 
+side. Flow contains 0–2% anhedral, dark-green olivine and 2–8% anhedral plagioclase pheno-
+crysts. Conspicuous intergrowths of olivine and plagioclase are present and form 1–2% of rock. 
+Groundmass is light gray and feldspathic, with diktytaxitic vugs. Subrounded to subangular 
+vesicles form large, open pockets at surface and may be magnesioferrite lined. Many outcrops 
+exposed, although most surfaces are covered with soil supporting scattered ‘öhi‘a trees as tall as 
+20 m. Age, 1,838±94 radiocarbon yr B.P. FID 866
+p2b6, a2b6, ‘Äinakahiko flow—‘A‘ä and pähoehoe commonly in small isolated patches surrounded by younger 
+flows in Puu Oo and Puu Ulaula quadrangles. Large exposure in central Puu Oo quadrangle. 
+Flow is very sparsely phyric, with approximately 1% olivine phenocrysts and 0–2% plagio-
+clase microphenocrysts. Groundmass is light gray, with some diktytaxitic and open vug textures. 
+Vesicles are elongate, round, and subangular. Surface is broken and weathered to reddish, tan, or 
+orange. Black lichen commonly present on surface. Age, 1,880±200 radiocarbon yr B.P. FID 867
+p2g7, a2g7 Upper Strip Road flow—Minor ‘a‘ä and extensive pähoehoe and related tube system, characterized 
+by bulbous toes, south of Pu‘ukulua in Puu Ulaula quadrangle. Contains <<1% olivine 
+phenocrysts and ~2% plagioclase as microphenocrysts and phenocrysts. Vesicles are spherical 
+to subrounded. Age, 1,993±43 radiocarbon yr B.P. FID 883
+a2d8 Flow 834—Small unnamed flow near west edge of Kulani quadrangle, west of Solomons Waterhole. 
+Unit is olivine-rich ‘a‘ä that contains 10–15% olivine and is quite vesicular for ‘a‘ä. FID 834
+p2h9  Flow 832—Tiny kïpuka of pähoehoe surrounded by flow a1k11 (FID 799) in southwestern Kulani 
+quadrangle. Contains 8–10% large plagioclase phenocrysts as much as 3 mm across. No glass 
+present, yet ropy surfaces are preserved. No significant soil and ash accumulation. FID 832
+a2d10  Flow 831—‘A‘ä within Kulani and Puu Makaala quadrangles, south of Külani Cone Complex. Oliv-
+ine rich and highly vesicular. Contains 12–16% large olivine phenocrysts, commonly oxidized. 
+FID 831
+Age Group 3 (2,000–3,000 yr B.P .; Holocene)
+p3b1 Solomons Waterhole flow—Tube-fed pähoehoe in Kulani quadrangle, north of Külani Cone and 
+south of Pu‘ukïpü. Groundmass is light gray, well crystallized, and feldspathic. Contains 0–8% 
+olivine phenocrysts and scattered plagioclase as microlaths. Outcrops are obscured by soil that 
+supports a mature ‘öhi‘a forest. Age, 2,550±80 radiocarbon yr B.P. FID 874
+a3g2, p3g2, Flow 836—Loose slabby ‘a‘ä west of A.D. 1880 flow, in Puu Ulaula quadrangle, that flowed in 
+southeasterly direction. Contains dark-gray groundmass that is flinty because of abundant 
+fine plagioclase microlites. Vesicles are subangular to subrounded. Weathered surfaces are tan 
+orange. FID 836
+s2k5
+s2b6, m2b6
+m3g2
+m2k4, s2k4
+p2b3, m2b3
+11
+p3l3, a3l3 Flow 865—Mixed pähoehoe and ‘a‘ä in central Upper Piihonua and Piihonua quadrangles. Found 
+between A.D. 1855–56 and A.D. 1880 flows. Groundmass is well crystallized and dense. Unit 
+contains 2–8% yellow, anhedral olivine phenocrysts and 8–10% fine anhedral plagioclase.   
+FID 865
+s3g4, a3g4 Pu‘u 7996—Spatter and cinder cone and minor ‘a‘ä at 7,996-ft elev on NERZ in Puu Ulaula quad-
+rangle. Contains <1% olivine, commonly intergrown with plagioclase, and 1% plagioclase 
+microphenocrysts and phenocrysts. Groundmass is well crystallized and full of plagioclase 
+microlites. FID 896
+m3a5, s3a5, Flow 888—Mixed flow of pähoehoe and ‘a‘ä (west of Pu‘ukupanaha; a1k2, FID 796) in 
+Puu Ulaula quadrangle. Nearly aphanitic with inconspicuous plagioclase microphenocrysts. 
+Weathers to yellow-tan-gray color. Contains rare gabbroic microxenoliths. FID 888
+a3h6 Flow 885—Dense ‘a‘ä looks fresher than Upper Waiäkea ‘a‘ä (a2k4, FID 864) in Puu Ulaula 
+and Kulani quadrangles near central part of shared boundary, sandwiched between two 
+southernmost lobes of A.D. 1984 flow. Contains ~10% fine plagioclase laths as large as 
+0.5 mm. FID 885
+p3i7, a3i7, Flow 884—Dense, weathered ‘a‘ä and tube-fed pähoehoe in southeast corner of Puu Ulaula and 
+southwest corner of Kulani quadrangles. Contains dark-gray groundmass, 2–5% olivine pheno-
+crysts, and 1–2% plagioclase as microphenocrysts and rare phenocrysts. Vesicles are subangular 
+to subrounded and may be magnesioferrite lined. Surface is broken and weathered red. FID 884
+a3g8, s3g8 Flow 881—Dense, red-stained ‘a‘ä 4.3 km east-southeast of Pu‘u‘ula‘ula cone. Flow has 4–5% 
+plagioclase microphenocrysts and phenocrysts in fine-grained sparkly groundmass. FID 881
+a3a9, m3a9, Flow 894—Kïpuka between most downrift part of A.D. 1942 flow and main lobe of A.D. 1984 
+fissure in Puu Ulaula quadrangle. Contains mildly feldspathic, medium-gray groundmass. 
+Contains <1% olivine-plagioclase intergrowths and <1% each of olivine and plagioclase 
+phenocrysts. FID 894
+Age Group 4 (3,000–4,000 yr B.P .; Holocene)
+p4a1, a4a1 Punahoa flow—Widespread, nearly aphanitic, tube-fed pähoehoe and rare ‘a‘ä in Upper Piihonua, 
+Piihonua, Kulani, and Hilo quadrangles. Groundmass varies from diktytaxitic to flinty. Contains 
+<1% olivine phenocrysts and fine plagioclase microlites. Vesicles are subrounded to spherical, 
+uniformly sized, locally magnesioferrite lined, and commonly weathered to red. Covered with 
+thin soil 5–8 cm thick. Bogs are common in western Piihonua quadrangle. Dense ‘öhi‘a forests 
+with much ‘öhi‘a dieback are common. Age, 3,404±25 radiocarbon yr B.P. FID 863
+p4f2, a4f2, Kïpuka ‘Äinahou flow—Mixed pähoehoe and ‘a‘ä in Puu Oo, Upper Piihonua, and Puu Ulaula 
+quadrangles. Content of subhedral to euhedral olivine phenocrysts ranges from 15–25% in 
+center of flow to 4–6% near surface. Vesicles are subangular to spherical, poorly to moderately 
+sorted, and include rare pipe vesicles. In contrast to thick ‘öhi‘a forests on adjoining flows, this 
+unit characteristically supports thick stands of brushy pükiawe and open canopies of koa trees, 
+probably owing to climatic conditions and past disturbance of forest by fire. Age, 3,433±44 
+radiocarbon yr B.P. FID 868
+a4l3 Flow 882—‘A‘ä in southeast corner of Puu Ulaula quadrangle. Contains 8–12% olivine phenocrysts, 
+8–15% plagioclase phenocrysts, and 5–6% olivine-plagioclase intergrowths. Plagioclase is 
+more conspicuous than olivine. Covered by layers of yellow ash, probably from Kïlauea, in 
+low-lying areas. FID 882
+a4a4, p4a4 Flow 878—‘A‘ä flow and pähoehoe in southeastern Puu Oo and southwestern Upper Piihonua quad-
+rangles, surrounded by A.D. 1880–81 flow. Dark-gray groundmass. Contains <1% olivine and 
+1–2% plagioclase laths, both as microphenocrysts. Flow surface has many round lava balls as 
+much as 0.5 m across. Weathered surfaces range from shades of gray to orange. FID 878
+a4h5, p4h5 Flow 873—‘A‘ä flow with minor pähoehoe in north-central Puu Ulaula quadrangle, sandwiched 
+between A.D. 1855–56 and A.D. 1880–81 flows. Pähoehoe is slabby and crunchy. ‘A‘ä is dense 
+and almost nonvesicular, with light-gray, feldspathic groundmass. Vesicles are subrounded to 
+subangular. Contains 0–1% olivine phenocrysts, commonly intergrown with plagioclase, and 
+5–8% fine-grained, conspicuous plagioclase laths. Surfaces are severely broken, weathered, and 
+covered with orange-yellow clay (altered tephra). FID 873
+p4a6, a4a6 Flow 879—Aphanitic ‘a‘ä and pähoehoe exposed in a kïpuka within the Kïpukamauna‘iu flow 
+(p1k3, FID 801) ~200 m southwest of Pu‘u‘ula‘ula cone. Contains mildly feldspathic ground-
+mass. FID 879
+p3a5
+p3a9
+m4f2, s4f2
+s3i7, m3i7
+12
+m4j7, a4j7 Lava north of Keawewai Camp—Olivine-rich pähoehoe and ‘a‘ä flow north of Keawewai Camp 
+in Kulani quadrangle. Contains 3–20% (avg 8%) olivine phenocrysts. Minor, sugary plagio-
+clase microphenocrysts, as intergrowths with olivine, form 0–3% of rock. Covered by moderate 
+amount of soil and ash. Unusually fresh glass for a flow of this age is found in some localities, 
+probably preserved by ash cover. FID 875
+p4g8, a4g8, Flow 877—‘A‘ä and pähoehoe between A.D. 1880–81 and A.D. 1942 flows in central Puu Ulaula 
+quadrangle and ‘a‘ä in northwest corner of Kulani quadrangle northeast of distal end of A.D. 
+1852 flow. Contains 0.5–1% scattered, subhedral, very fine, clear olivine in a light-gray, feld-
+spathic, groundmass. Felt-like groundmass with anhedral plagioclase microlites makes plagio-
+clase abundance ~5%. Vesicles mostly angular but tend toward rounded in center of flow core. 
+‘Öhi‘a trees as tall as 6 m. FID 877
+m4a9, p4a9, Flow 895—‘A‘ä and pähoehoe flows originate from spatter ramparts uprift of Pu‘u‘ula‘ula cone in 
+Kokoolau quadrangle (west of map area). Represents only flows found in Puu Ulaula quadran-
+gle. Nearly aphyric, with rare phenocrysts of olivine and plagioclase. Groundmass is medium 
+gray, microcrystalline, and mildly feldspathic with abundant plagioclase microlites. A very 
+large tube system lies within pähoehoe. Surface is tan. FID 895
+Age Group 5 (4,000–5,000 yr B.P .; Holocene)
+p5a1, a5a1 Wilder Road flow—Nearly aphanitic pähoehoe flow in Upper Piihonua, Kulani, Piihonua, and Hilo 
+quadrangles. This lengthy flow, found between A.D. 1942 and A.D. 1984 flows, has <1% sub-
+hedral olivine phenocrysts in well-crystallized, fine-grained, plagioclase-rich groundmass. Age, 
+4,173±21 radiocarbon yr B.P. FID 954
+a5a2, p5a2 Waiakeawaena flow—Dense ‘a‘ä with minor amounts of pähoehoe in Upper Piihonua quadrangle. 
+Contains dark groundmass that appears aphanitic when wet. Sparse, subhedral, clear olivine 
+phenocrysts form 0.5–1% of rock; plagioclase microphenocrysts form 1–2%. Characterized by 
+great local relief (1–2 m), large ‘a‘ä blocks, and patchy soil cover. Age, 4,695±58 radiocarbon 
+yr B.P. FID 876
+p5a3, m5a3, Flow 880—Aphanitic pähoehoe and dense, fluid ‘a‘ä flow 2 km south of Pu‘u‘ula‘ula cone inter-
+fingers with A.D. 1880–81 flow. Contains medium-gray, feldspathic groundmass that sparkles. 
+Flow is characterized by well-crystallized, flinty groundmass. FID 880
+a5b4 Flow 870—‘A‘ä and slabby, with minor tube-fed pähoehoe in southwestern Kulani quadrangle. In 
+contact with and isolated by Ke‘ämoku Kïpukakëkake flow ( a1g1, FID 800). Rare toothpaste 
+and ‘a‘ä phases exist in southernmost reach of flow. Contains 0–2% widely scattered olivine 
+phenocrysts in gray, feldspathic groundmass. Soil/ash coverage is nearly continuous. FID 870
+m5j5, p5j5 Flow 869—Mixed ‘a‘ä and pähoehoe surrounding Külani Cone in Kulani quadrangle. Contains 
+3–7% scattered, large, clear olivine phenocrysts and 0–4% plagioclase as phenocrysts and fine 
+laths in feldspathic groundmass. Vesicles are subrounded to subangular and lined with magne-
+sioferrite. Commonly covered with deposits of soil and ash ranging from several centimeters to 
+0.5 m thick. Covered by reticulite and tephra of Pana‘ewa picrite flow (s2l2, FID 828) down-
+wind from Külani Cone. FID 869
+s5g6, p5g6 Pu‘u 8400—Spatter and tephra cones at 8,400-ft and 8,600-ft elev on NERZ near contact of A.D. 
+1942 and A.D. 1984 flows. Contains 1–2% scattered plagioclase laths and phenocrysts; plagio-
+clase ranges from 1 to 2 mm long. Groundmass is dark gray and flinty. FID 898
+m5b7, p5b7, Flow 972—Mixed ‘a‘ä and pähoehoe flow units in north-central Puu Ulaula quadrangle between 
+A.D. 1855 and A.D. 1880–81 flows. Unit characterized by 1–2% subhedral and clear oliv -
+ine phenocrysts. Well-developed tube and channel system. Upper surface color is orange tan. 
+FID 972
+s5b8 Pu‘u 7520—Spatter and tephra cone at 7,520-ft elev on NERZ. Surrounded by A.D. 1984 flow. 
+Contains 1–2% scattered, light-green, clear olivine phenocrysts, as much as 8 mm across. 
+Groundmass is light gray and finely crystalline. FID 897
+a5a9, s5a9 Pu‘ukïpü flow—Poorly exposed, widely scattered ‘a‘ä kïpuka within other flows and spatter cone 
+Pu‘ukïpü (6,289-ft elev) in north-central Kulani quadrangle. Flow is fine grained and aphanitic. 
+FID 871
+Age Group 6 (5,000–6,000 yr B.P .; Holocene)
+p6e1, s6e1, Pu‘umaka‘ala picrite flow—Picritic pähoehoe and ‘a‘ä in Puu Makaala, Mountain View, and Hilo 
+quadrangles covers 72 sq km. Underlies Kurtistown and Kea‘au. Dark groundmass, bluish to 
+a4a9
+a5a3
+a5b7, s5b7
+a6e1
+s4g8
+13
+greenish gray, and fine grained. Contains 10–30% large, clear, yellow-green, subhedral olivine 
+and 0–2% plagioclase phenocrysts. Xenoliths of gabbro and dunite as much as 1.5 cm across 
+are common. Where flow is weathered, olivine phenocrysts protrude above rock surface. Char-
+acteristically covered with deep layers of soil and ash containing angular rock fragments. Also 
+includes former Puna sugarcane fields. Age, 5,455±25 radiocarbon yr B.P. FID 947
+p6b2, s6b2 Mountain View flow—Pähoehoe with wide range of olivine content in Puu Makaala and Mountain 
+View quadrangles. Fresh rock is very dense and dark gray. Contains 3–5% anhedral olivine 
+phenocrysts. Source vent is one of six that defines lowest exposed extent of NERZ. Flow is 
+covered with average thickness of 60 cm of orange ash; rock fractures are stained orange. Age, 
+5,534±70 radiocarbon yr B.P. FID 976
+p6i3 Flow 998—Small pähoehoe kïpuka in central Puu Ulaula quadrangle north of NERZ. Surrounded 
+by Pu‘ukupanaha flow (m1k2, FID 796). Contains 3% plagioclase microlites and phenocrysts 
+and 1–2% olivine phenocrysts and microphenocrysts. Groundmass is well crystallized, feld-
+spathic, and light gray. FID 998
+a6k4 Waikahe Road flow—‘A‘ä flow with 7% plagioclase and 3% olivine phenocrysts and micropheno-
+crysts. Found in Hilo, Piihonua, and Kulani quadrangles. FID 951
+m6h5, a6h5 Waikoloa Ponds flow—Mixed pähoehoe and ‘a‘ä flow, commonly in transitional state, in contact 
+with rocks erupted from Mauna Kea in northwest corner of Upper Piihonua and northeast 
+corner of Puu Oo quadrangles. Contains fine-grained, light-gray groundmass with <1%, sugary, 
+fine olivine phenocrysts and 8–12% fine plagioclase phenocrysts. FID 982
+a6a6 Flow 961—Aphanitic ‘a‘ä unit preserved between lobes of A.D. 1984 flow in Upper Piihonua quad-
+rangle and at distal end of A.D. 1852 flow in Piihonua quadrangle. Flow is dense, with light-
+gray, slightly feldspathic groundmass. Covered with ~25 cm of yellow-brown ash probably 
+from Mauna Kea. FID 961
+p6i7, a6i7 Flow 970—Vesicular tube-fed pähoehoe abutting Külani Cone and south of Keawewai Camp, in 
+southwest corner of Kulani quadrangle. Flow has 1–3% each of olivine and plagioclase pheno-
+crysts. Vesicles are subrounded and magnesioferrite lined. Supports thick stands of pükiawe, 
+mesic forest that makes hiking difficult. Flow near Külani Cone covered by slope wash (ash and 
+tephra) from the cone (colluvium). FID 970
+a6j8 ‘Öla‘a Plantation flow—‘A‘ä with 4–8% olivine phenocrysts. Contains minor pähoehoe. Underlies 
+Pu‘umaka‘ala picrite flow (a6e1, FID 947) near its distal end. In addition to olivine, flow has 
+3% plagioclase and rare microgabbroic clots (<1 cm). FID 955
+a6a9 Pu‘umaka‘ala Natural Area Reserve flow—Nearly aphyric ‘a‘ä in Kulani and Puu Makaala quad-
+rangles south of Pana‘ewa picrite flow (p2l2, FID 828). Dense, medium- to dark-gray ground-
+mass. Contains <1% phenocrysts of olivine. Covered by soil 0–25 cm thick. FID 971
+Age Group 7 (6,000–7,000 yr B.P .; Holocene)
+[No units of this age group are found at the surface in the map area]
+Age Group 8 (7,000–8,000 yr B.P .; Holocene)
+p8e1 Palakea Flat flow—Picritic pähoehoe west of Pu‘ulala‘au in southern Kulani and Puu Makaala 
+quadrangles. Characterized by 25–30% clear, large, subhedral to anhedral olivine and 0–2% 
+plagioclase phenocrysts, mostly intergrown with olivine. Vesicles are highly irregular in dis-
+tribution, subrounded, and commonly magnesioferrite lined. Flow is commonly covered with 
+as much as 2 m of tan ash; outcrops are fairly common. Dzurisin and others (1995) map distal 
+extent of Uwekahuna Ash member of Puna Basalt to this unit, a distance of 9 km from Kïlauea. 
+Age, 7,960±110 radiocarbon yr B.P. FID 962
+s8a2 Pu‘u 5400 —Cone of deeply weathered aphanitic spatter, 1.6 km west of Pana‘ewa picrite cone 
+(s2l2, FID 828). Surrounded by Külani picrite flow ( a1j6, FID 793) in Kulani quadrangle. 
+FID 964
+s8c3 Pu‘u 6920 and Pu‘u 6480—Two small outcrops (kïpuka) of deeply weathered spatter west and 
+southwest of Solomons Waterhole and associated flow on west boundary of Kulani quadrangle. 
+Both spatter outcrops are in contact with Upper Waiäkea flow (a2k4, FID 864) near its uprift 
+margin. Characterized by 5–10% olivine phenocrysts. Covered with deep layer of orange-red 
+soil from younger ashfall event of unknown age. FID 965
+a8b4 Flow 994—‘A‘ä flows in Kulani quadrangle between Külani picrite (a1j6, FID 793) and Keawewai 
+Camp flow (a1j12, FID 797) flows. Dense, with no surface glass. Contains 2–3% scattered 
+14
+olivine phenocrysts and abundant, conspicuous, narrow microlaths of plagioclase. Covered by 
+red ash >1 m thick that supports a koa forest. FID 994
+p8k5, a8k5 Flow 983—Tube-fed pähoehoe in contact with A.D. 1880–81 flow along relay-station road in 
+northeast Puu Ulaula quadrangle. Flow surface severely broken and weathered, retaining very 
+little surface glass and stained orange. Minor olivine phenocrysts form 1–2% of rock and are 
+mostly intergrown with plagioclase. Abundant, large plagioclase makes up 6–10% of rock. Rich 
+soil/ash horizons support ‘öhi‘a trees as tall as 4 m. FID 983
+a8i6, p8i6, Flow 979—‘A‘ä and minor amounts of tube-fed pähoehoe in southeast corner of Puu Ulaula quad-
+rangle. Flow contains 1–2% of clear, inconspicuous olivine and 0–2% very fine plagioclase 
+phenocrysts. Few fresh surfaces. Overlain by pockets of yellow-brown ash as thick as 25 cm. 
+Deep orange rind where not mechanically weathered. FID 979
+p8a7 Flow 945—Aphanitic tube-fed pähoehoe near boundary between Puu Ulaula and Puu Oo quadran-
+gles. Unit is between lobes of A.D. 1899 flow. FID 945
+m8k8, a8k8, Flow 872—Plagioclase-rich ‘a‘ä and pähoehoe along north border of Kulani quadrangle and into 
+Upper Piihonua quadrangle; another kïpuka on west boundary of Puu Makaala quadrangle. 
+Contains medium, dark-gray groundmass, round vesicles, 0.5–2% olivine intergrown with 
+plagioclase, and 10–20% plagioclase in anhedral and subhedral phenocrysts. Pähoehoe surface 
+is commonly weathered away to reveal a large vesicle zone below the skin; ‘a‘ä is weathered to 
+completely rounded blocks. FID 872
+p8b9 Flow 975 —Tube-fed pähoehoe in central Upper Piihonua quadrangle. In contact with south margin 
+of A.D. 1855–56 flow. Contains well-crystallized, nearly feldspathic groundmass with 2% 
+anhedral olivine phenocrysts and abundant plagioclase microphenocrysts. Vesicles are sub-
+rounded to spherical, irregularly distributed, and magnesioferrite lined. FID 975
+p8e10 Flow 963—Scattered pähoehoe flows north and west of Külani Cone Complex. Deeply weathered, 
+with dense, dark-gray groundmass and elongate vesicles. Contains large, euhedral olivine phe-
+nocrysts forming 10–20% of rock. Overlain by as much as 1 m of yellow ash. Standing water 
+and ‘öhi‘a dieback found at some sites. FID 963
+s8a11 Upper ‘Öla‘a flow—Spatter cone in contact with ‘Öla‘a Uka flow (a1l15; FID 795) east of Külani 
+Cone Complex (s11k6, FID 980). Younger tephra and ash overlie this cone's spatter deposits. 
+‘Öhi‘a dieback at some locations. FID 969
+s8a12 Flow 968—Small outcrop west of Pu‘ulala‘au (s11j8; FID 967) in Kulani quadrangle. Approxi-
+mately 80 cm of yellow-orange ash overlies aphyric spatter composed of black clasts with 
+sparse plagioclase microphenocrysts. FID 968
+Age Group 9 (8,000–9,000 yr B.P .; Holocene)
+p9l1 Alawaena Road flow—Pähoehoe flow in Piihonua and Hilo quadrangles. Contains 8% clear subhe-
+dral olivine phenocrysts and 10–12% subhedral plagioclase phenocrysts, commonly intergrown 
+with olivine. Flow is deeply weathered and stained. Poorly exposed outcrops underlie 20–30 cm 
+of ash. Age, 8,030±70 radiocarbon yr B.P. FID 952
+p9g2, s9g2, Pu‘u‘ula‘ula flow—Pähoehoe, minor ‘a‘ä, and spatter from Pu‘u‘ula‘ula, one of largest cones on 
+NERZ. A distinct unit, containing 3–4% fine plagioclase phenocrysts. Black and scoriaceous 
+where fresh, otherwise oxidized to red brown. Flow groundmass is light gray and orange 
+stained, with many inconspicuous needles of plagioclase. Flow is commonly covered with 
+as much as 1 m of tan ash especially at lower elevations; outcrops are fairly common. Age, 
+8,645±71 radiocarbon yr B.P. FID 978
+a9j3 Kino‘ole Street flow—‘A‘ä on northwest side of Waiäkea Stream bank above Kino‘ole Street 
+Bridge in Hilo. Flow has dense flinty groundmass with small, sparse, angular vesicles. Con-
+tains 2–8% subhedral olivine phenocrysts and 2–5% fine, anhedral plagioclase phenocrysts 
+and microphenocrysts, generally intergrown with olivine. Overlies ‘Äinaola Drive picrite flow 
+(a10e1, FID 953); contact is marked by clasts of picritic ‘a‘ä and brown soil. Age, 8,673±55 
+radiocarbon yr B.P. FID 948
+s9a4 Pu‘u 6480—Deeply weathered aphanitic spatter at vent in southwest corner of Kulani quadrangle 
+at 6,480-ft elev. Sandwiched between Keauhou Ranch flow (p1l13, FID 833) on northeast and 
+Ke‘ämoku Kïpukakëkake flow (a1g1, FID 800) on southwest. FID 966
+a9a5 Flow 956—Small aphanitic ‘a‘ä outcrop surrounded by Pana‘ewa picrite (a2l2, FID 828) flow 
+south of the Pana‘ewa Zoo. FID 956
+p8k8
+a9g2, m9g2
+s8i6
+15
+Age Group 10 (9,000–10,000 yr B.P .; Holocene)
+p10e1, a10e1, ‘Äinaola Drive picrite flow—Picritic pähoehoe and ‘a‘ä underlying most of south Hilo and 
+University of Hawai‘i campus. Found in Kulani, Puu Makaala, Piihonua, and Hilo quadrangles. 
+Characterized by 15–20% large, clear, yellow-green olivine phenocrysts and 0–2% plagioclase 
+phenocrysts. Flow consists of massive ‘a‘ä, commonly >5 m thick. Interior of flow typically 
+contains large, round, magnesioferrite-lined vesicles; pipe vesicles at base of flow. Age, 
+9,020±88 radiocarbon yr B.P. FID 953
+p10b2 Waiäkea Homesteads flow—Deeply weathered, tube-fed pähoehoe flow in Piihonua, Puu Makaala, 
+and Hilo quadrangles. Contains slightly feldspathic groundmass. Vesicles are spherical, uni-
+formly sized, and magnesioferrite lined. Ranges from aphanitic to slightly porphyritic, with 
+scattered olivine phenocrysts (2%) and abundant plagioclase microphenocrysts. Age, 9,672±40 
+radiocarbon yr B.P. FID 957
+s10l3 Pu‘u 3500—Cone and associated flow on Stainback Highway at 3,400-ft elev in Puu Makaala 
+quadrangle. Contains 5–7% olivine phenocrysts and 4–7% plagioclase. One of a few vents, of 
+differing ages, that help define lower limits of NERZ. FID 946
+Age Group 11 (10,000–15,000 yr B.P .; Holocene and Pleistocene)
+a11d1, p11d1 Waikoloa Ponds of Wailuku flow—Pähoehoe and ‘a‘ä along Wailuku River in Upper Piihonua 
+quadrangle. Contains 10–15% inconspicuous olivine phenocrysts and microphenocrysts. Age, 
+10,161±29 radiocarbon yr B.P. FID 981
+p11j2 Flow north of Pu‘ulala‘au—Pähoehoe in contact with north side of Pu‘ulala‘au in Kulani quadran-
+gle. Contains 5–10% fine, light-green olivine phenocrysts and 1–2% fine anhedral plagioclase. 
+Covered with average of 0.5 m of yellow-orange ash. Age, 10,400±150 radiocarbon yr B.P. 
+FID 974
+a11c3 ‘Änuenue flow—Dense, olivine-rich ‘a‘ä in Upper Piihonua, Piihonua, and Hilo quadrangles. 
+Forms most of Wailuku River bed in Upper Piihonua and Piihonua quadrangles at Boiling 
+Pots. Contains medium-gray, flinty, well-crystallized, fine-grained groundmass contain -
+ing 5–12% large, clear, subhedral olivine phenocrysts. Steep flow foliations are visible 
+in valley- and stream-plastering flows and levees south of Wailuku River. Commonly 
+overlain by 2–3 m of deeply sculpted ash from Mauna Kea. Age, 10,405±37 radiocarbon 
+yr B.P. FID 950
+p11f4, a11f4 Mauna Hu‘ihu‘i flow—Vesicular picritic pähoehoe and ‘a‘ä in southeastern Puu Makaala and 
+southwestern Mountain View quadrangles. Flow is vesicular, generally oxidized to orange-
+yellow color, with dark-blue-gray groundmass where fresh. Contains 5–30% altered, light-
+green, equant olivine phenocrysts and 0–2% plagioclase laths. In some areas, olivine crystals 
+are so abundant that they are easily removed from rock when rubbed. Pähoehoe unit contains 
+a very large (>7 m diam) tube system. Commonly overlain by 2.5 m of ash. Age, 10,660±400 
+radiocarbon yr B.P. FID 985
+p11a5  Waiänuenue flow —Aphanitic tube-fed pähoehoe flow in Piihonua and Hilo quadrangles. Forms 
+streambed of Kahoama Stream and base of several plunge pools in Wailuku River. Contains 
+near-flinty groundmass and small, spherical, uniformly sized vesicles. Ranges from 3 to 5 m 
+thick and consists of several flow units. Enters ocean on south bank of Wailuku River near 
+sewage outfall. Forms prominent outcrop at mouth of river called Mäui's Canoe. Where pre -
+served, unit is overlain by yellow-brown ash as thick as 2–3 m. Age, 14,173±37 radiocarbon 
+yr B.P. FID 949
+s11k6 Külani Cone Complex—Spatter and lava bombs from largest cone complex on NERZ. Spatter 
+contains 8–10% subhedral plagioclase laths and 1–3% olivine phenocrysts. Buried by >2 m of 
+ash. Source is fissure vent 300 m northeast of base of cone. High fountaining created off-center 
+cone complex, which formed by downwind accumulation of tephra. Another small cone 7 km 
+downrift has similar mineralogy and age characteristic and, therefore, is combined with this 
+unit. FID 980
+a11e7 Laulä Road flow—Dense ‘a‘ä olivine picrite in Waiäkea area of Hilo. Contains fine-grained, 
+dark-gray groundmass and randomly distributed, spherical vesicles. Clear, green, subhedral 
+olivine phenocrysts form 25–35% of rock. Numerous, round, olivine-plagioclase xenoliths 
+(0.5–1.5 cm) are found locally. Deeply weathered yellow surfaces are almost completely 
+decomposed at some sites. FID 958
+s10e1
+16
+s11j8 Pu‘ulala‘au cone—Spatter rampart at Pu‘ulala‘au covered with ~0.5 m of yellow ash containing 
+lithic fragments as much as 2 cm diam (Uwekahuna Ash Member of Puna Basalt). Variable 
+olivine mineralogy contains 1–10% phenocrysts and microphenocrysts and 4–5% plagioclase 
+phenocrysts. Overlain by unit p11j2 (FID 974). FID 967
+p11h9 Flow 984—Small areas of tube-fed pähoehoe surrounded by Kïlauea flows dated at 750–400 yr B.P. 
+(Wolfe and Morris, 1996) in Mountain View quadrangle, ~4 km southeast of Kea‘au. Contains 
+8% plagioclase phenocrysts. Characterized by light-gray, well-crystallized groundmass and 
+round, orange-stained vesicles. FID 984
+Age Group 12 (15,000–20,000 yr B.P .; Pleistocene)
+s12e1 Häla‘i Hills flows —Formerly three tephra cones that trend northeast at crest of Hilo. Two were 
+almost entirely lost to cinder quarrying. Contains 15–25% large, green, clear olivine pheno -
+crysts. Eruptive products include spatter, rootless flows, and local pähoehoe. FID 997
+Age Group 13 (20,000–30,000 yr B.P .; Pleistocene)
+p13a1 Kaluiiki flow—Aphanitic pähoehoe of eastern Piihonua quadrangle is covered by as much as 2 m of 
+ash (tn) in map area. Age, 28,145±333 radiocarbon yr B.P. FID 960
+Kahuku Basalt
+The Kahuku Basalt consists of units with an age range of 30,000 to 100,000 years. The Kahuku Basalt com-
+prises tholeiitic basalt, tuffs, vent deposits, and lava flows that rest unconformably on the Ninole Basalt. The flows are 
+mostly aphyric and some have variable amounts of olivine and plagioclase phenocrysts. The Kahuku Basalt type local-
+ity is the Kahuku Pali or Kahuku Fault near South Point (Kalae). Kahuku Basalt rocks are also exposed in scarps north 
+of Wai‘öhinu and at the coast from Waikapuna to Honu‘apo, at Mäniania Pali.
+Age Group 14 (30,000–100,000 yr B.P .; Pleistocene)
+[No units of this age group are found at the surface in the map area]
+Ninole Basalt
+The Ninole Basalt includes the oldest exposed rocks on Mauna Loa at greater than 100,000 yr B.P. These 
+rocks are exposed in the Ka‘ü District. The Ninole Basalt consists of tholeiitic basalt, tuffs, vent deposits, and lava 
+flows. The flows are mostly aphyric and some have variable amounts of olivine and plagioclase phenocrysts.
+Age Group 15 (>100,000 yr B.P .; Pleistocene)
+[No units of this age group are found at the surface in the map area]
+DISTAL TEPHRA DEPOSITS
+ Tephra (Holocene and Pleistocene)
+tn     Northern tephra —Beds of fallout and surge deposits in northern map area are chiefly from 
+Mauna Kea with minor contributions from Kïlauea and possibly Mauna Loa. Hilo area depos -
+its were mapped previously as Homelani ash deposits (Buchanan-Banks, 1993). FID 996 
+ts     Southern tephra—Beds of fallout and surge deposits near Külani Cone and in southern map area 
+are chiefly from Kïlauea V olcano and likely include contributions from Mauna Loa and Mauna 
+Kea. Kïlauea deposits include 14C ages of 2,110±120 yr B.P., 2,265±50 yr B.P., and 2,770±70 yr 
+B.P., all dating Uwekahuna Ash Member of Puna Basalt (Dzurisin and others, 1995). Another 
+age of 4,135±49 was obtained from tephra on the east flank of the volcano. Distributions of 
+ash near Kïlauea seem to be influenced by the inversion layer on windward coast of Island 
+of Hawai‘i, which seems to extend as high as 26,240–29,520 ft. This meteoric phenomenon 
+appears to limit distribution of ash to lower elevations; therefore, overlay patterns for tephra 
+deposits may vary with elevation within flows or on flows of similar age. Possibly, tephra 
+deposited at higher elevations (alpine and above) lack vegetative cover that preserves it, allow-
+ing combined wind and rainfall to strip deposits from higher elevations. FID 959
+17
+References Cited
+Buchanan-Banks, J.M., 1983, Map showing thicknesses of vol-
+canic ash deposits, greater Hilo area, Hawaii: U.S. Geolog-
+ical Survey Miscellaneous Field Studies Map MF–1499, 
+scale 1:24,000. 
+Buchanan-Banks, J.M., 1993, Geologic map of Hilo 7 1/2' 
+quadrangle, Island of Hawaii: U.S. Geological Survey 
+Miscellaneous Investigations Series Map I–2274, scale 
+1:24,000, 17 p.
+Buchanan-Banks, J.M., Lockwood, J.P., and Rubin, Meyer, 
+1989, Radiocarbon dates for lava flows from northeast rift 
+zone of Mauna Loa volcano, Hilo 7 1/2' quadrangle, Island 
+of Hawaii: Radiocarbon, v. 31, p. 179–186. 
+Dzurisin, D., Lockwood, J.P., Casadevall, T.J., and Rubin, 
+Meyer, 1995, The Uwekahuna Ash Member of the Puna 
+Basalt—Product of violent phreatomagmatic eruptions 
+at Kilauea V olcano, Hawaii, between 2,800 and 2,100 
+14C years ago: Journal of V olcanology and Geothermal 
+Research, v. 66, p. 163–184.
+Easton, M., 1987, Stratigraphy of Kilauea V olcano, in Decker, 
+R.W., Wright, T.L., and Stauffer, P.H., eds., V olcanism in 
+Hawaii: U.S. Geological Survey Professional Paper 1350, 
+v. 1, chap. 11, p. 243–260. 
+Finch, R.H., and Macdonald, G.A., 1953, Hawaiian volcanoes 
+during 1950: U.S. Geological Survey Bulletin 996–B, 
+p. 27–89. 
+Fraser, G.D., 1960, Pahala ash—An unusual deposit from 
+Kilauea V olcano, Hawaii: U.S. Geological Survey Profes-
+sional Paper 400–B, p. 354–355.
+Kelley, M.L., 1979, Radiocarbon dates from the Hawaiian 
+Islands—A compilation: U.S. Geological Survey Open-
+File Report 79–1700, 37 p.
+Kelley, M.L., Spiker, E.C., Lipman, P.W., and 3 others, 1979, 
+U.S. Geological Survey, Reston, Virginia, radiocarbon 
+dates XV—Mauna Loa and Kilauea volcanoes, Hawaii: 
+Radiocarbon, v. 21, no. 2, p. 306–320. 
+Lipman, P.W., 1980, Rates of volcanic activity along the south-
+west rift zone of Mauna Loa V olcano, Hawaii: Bulletin 
+V olcanologique, v. 43, p. 703–725.
+Lockwood, J.P., 1984, Geologic map of Mauna Loa V olcano, 
+Hawaii—Kulani quadrangle: U.S. Geological Survey 
+Open-File Report 84–12, scale 1:24,000.
+Lockwood, J.P., 1990, Implications of historical eruptive-vent 
+migration on the northeast rift zone of Mauna Loa volcano, 
+Hawaii: Geology, v. 15, p. 611–613.
+Lockwood, J.P., 1995, Mauna Loa eruptive history—The 
+preliminary radiocarbon record, in Rhodes, J.M., and 
+Lockwood, J.P., eds., Mauna Loa revealed—Structure, 
+composition, history, and hazards: American Geophysical 
+Union Geophysical Monograph, 92, p. 81–94.
+Lockwood, J.P., and Lipman, P.W., 1980, Recovery of datable 
+charcoal from beneath young lava flows—Lessons from 
+Hawaii: Bulletin V olcanologique, v. 43, p. 609–615. 
+Lockwood, J.P., and Lipman, P.W., 1987, Holocene eruptive his-
+tory of Mauna Loa volcano, in Decker, R.W., Wright, T.L., 
+and Stauffer, P.H., eds., V olcanism in Hawaii: U.S. Geo-
+logical Survey Professional Paper 1350, v. 1, p. 509–536.
+Lockwood, J.P., Lipman, P.W, Petersen, L.D., and 
+Warshauer, F.R., 1988, Generalized ages of surface 
+flows of Mauna Loa volcano, Hawaii: U.S. Geologi -
+cal Survey Miscellaneous Investigations Series Map 
+I–1908, scale 1:250,000.
+Reimer, P.J., Baillie, M.G.L., Bard, E., and 25 others, 2009, 
+IntCal09 and Marine09 radiocarbon age calibration 
+curves, 0–50,000 years cal B.P.: Radiocarbon, v. 51, no. 4, 
+p. 1111–1150.
+Rubin, Meyer, Gargulinski, L.K., and McGeehin, J.P., 1987, 
+Hawaiian radiocarbon dates, in Decker, R.W, Wright, T.L., 
+and Stauffer, P.H., eds., V olcanism in Hawaii: U.S. Geo-
+logical Survey Professional Paper 1350, v. 1, p. 213–242.
+Stearns, H.T., and Clark, W.O., 1930, Geology and water 
+resources of the Kau District, Hawaii: U.S. Geological 
+Survey Water-Supply Paper 616, 194 p.
+Stearns, H.T., and Macdonald, G.A., 1946, Geology and 
+groundwater resources of the island of Hawaii: Hawaii 
+Division of Hydrography, Bulletin 9, 363 p.
+Stone, J.B., 1926, The products and structure of Kilauea: Bernice 
+P. Bishop Museum, Bulletin 33, 59 p., includes plates.
+Stuiver, M., Reimer, P.J., Bard, E., and 7 others, 1998, 
+INTCAL98 radiocarbon age calibration 0–24,000 B.P.: 
+Radiocarbon, v. 40, no. 3, p. 1041–1083.
+Stuiver, M., Reimer, P.J., and Reimer, R.W. 2005, CALIB 
+Radiocarbon Calibration: Marine Reservoir Correc-
+tion Database (program and documentation), v. 6.0, 
+http://calibqub.ac.ik/calib/. 
+Taylor, J.R., 1982, An introduction to error analysis: Mill Valley, 
+Calif., University Science Books, 270 p.
+Trusdell, F.A., 1995, Lava flow hazards and risk assessment on 
+Mauna Loa V olcano, Hawaii, in Rhodes, J.M., and Lock-
+wood, J.P., eds., Mauna Loa revealed—Structure, composi-
+tion, history, and hazards: American Geophysical Union, 
+Monograph 92, p. 327–336.
+Walker, G.W., 1969, Geologic map of the Kau Desert quadran-
+gle, Hawaii: U.S. Geological Survey Geologic Quadrangle 
+Map GQ–827.
+Wentworth, C.K., 1938, Ash formation of the Island of Hawaii: 
+Honolulu, Hawaiian V olcano Observatory of Hawaii 
+National Park and Hawaiian V olcano Research Association, 
+3rd special report, 183 p.
+Wolfe, E.W., and Morris, Jean, 1996, Geologic map of the 
+Island of Hawaii: U.S. Geological Survey Miscellaneous 
+Investigations Series Map I–2524–A, scale 1:100,000.
+Hawaiian Language References
+Pukui, M.K., Elbert, S.H., and Mookini, E.T., 1974, Place names 
+of Hawaii: Honolulu, University of Hawaii Press, 289 p.
+United States Board on Geographic Names, 2016, Geographic_
+names database: U.S. Geological Survey, accessed February 
+5, 2016, at http://geonames.usgs.gov/domestic/index.html.
+University of Hawaii Geography Department, 1974, Atlas of 
+Hawaii: Honolulu, University of Hawaii Press, 250 p.
+18
+Appendix
+This appendix contains radiocarbon ages that were rejected and not used in the study of the northeast flank of Mauna 
+Loa, Island of Hawai‘i, Hawaii. Reasons for rejection include age too old or too young, and age not consistent with 
+stratigraphy, suggesting contamination.
+FID1  Field No.  Lab No. Quadrangle name
+(1:24,000)
+ Age2
+(yr B.P.)
+ S.D.2
+(yr)
+Reason for 
+rejection3
+Data
+source4
+795 KUd-160 W4813 Kulani 1,380 60 A 2
+799 KUc-103 W4341 Kulani 330 60 A 2
+799 L-77-42A W3879 Kilauea Crater 830 60 A 2
+799 KUc-130 W4870 Kulani 1,100 70 A 1, 2
+801 77L-09 W3836 Kilauea Crater 2,830 60 B 1, 2
+801 L-80-126 W4801 Kilauea Crater 730 70 B 1, 2
+828 L-78-13 W4174 Hilo 2,890 70 A 1, 2
+829 KUc-130 W4882 Kulani 430 70 B 2, 3
+838 L-78-01 W4049 Kipuka Pakekake 420 70 B 2
+838 PUd-135 W4571 Puu Ulaula 440 70 B 2
+863 KUa-154 W4985 Kulani 1,760 60 A 2
+863 L-91-183 WW845 Upper Piihonua 4,520 50 A 2
+874 KUc-125 W4807 Kulani 620 70 B 2
+1Unique three-digit flow identification number (FID) assigned to each mapped surface flow, vent, and ash unit is necessary to 
+utilize database (https://doi.org/10.3133/sim2932A).
+2Each age was calibrated to calendar years using CALIB 4.0 Radiocarbon Calibration Program (Stuiver and others, 1998); cali-
+brated ages are for two standard deviations (S.D.). Samples were processed at U.S. Geological Survey, 14C laboratory, Reston, Va.
+3A, age too old based on stratigraphic constraints, possibly contaminated; B, age too young based on stratigraphic constraints, 
+possibly contaminated.
+4Sources: 1, Kelley and others (1979); 2, Rubin and others (1987); 3, Buchanan-Banks and others (1989).
+19
+20
+Table 2.  Radiocarbon ages of samples from the northeast flank of Mauna Loa, Island of Hawai‘i, Hawaii.
+[All ages are reported as radiocarbon years before present (yr B.P ., before the calendar year datum of A.D. 1950); meaningless (large analytical error) 
+or incorrect (using all age data and regional stratigraphic relations) ages are reported in the Appendix. Dated materials include charcoal, roots, twigs, 
+vegetative litter, or unaltered wood (rarely). A variance is reported as one standard deviation, in years. See figure 1 for quadrangle locations. Note 
+quadrangles were published 1980–82]
+Unit
+ label1 FID2 Age1 Group Unit name Field No. Lab No.3 Quadrangle name       (1:24,000) Latitude4 (degree) Longitude4 (degree) Elevation (ft) Age5(yr B.P.) S.D.5  (yr) Weighted average6(yr B.P.) S.D.6    (yr) Quality7 Age range8(calendaryears) Source9
+a1g1 800 1 Ke‘ämoku Kïpukakëkake flow 77L-24 A11 W3871 Kilauea Crater 19.44550 –155.31870 4,200 230 60 288 36 + 1491 to 1953 1, 2
+a1g1 800 1 Ke‘ämoku Kïpukakëkake flow L-78-2611 W4360 Kilauea Crater 19.49374 –155.34480 5,500 300 60 288 36 + 1448 to 1951 2
+a1g1 800 1 Ke‘ämoku Kïpukakëkake flow 77L-24 B11 W4919 Kilauea Crater 19.44556 –155.31861 4,203 350 70 288 36 0 1433 to 1790 2
+a1k2 796 1 Pu‘ukupanaha flow L-78-20 W4175 Puu Ulaula 19.58656 –155.42234 7,520 300 50   + 1462 to 1795 1, 2
+p1k3 801 1 Kïpukamauna‘iu flow 77L-0611 W3843 Kilauea Crater 19.40900 –155.34350 3,500 290 50 311 25  1460 to 1950 1, 2
+p1k3 801 1 Kïpukamauna‘iu flow 77L-2911 W4006 Kilauea Crater 19.41211 –155.34209 3,590 290 70 311 25 + 1447 to 1951 1, 2
+p1k3 801 1 Kïpukamauna‘iu flow L-78-1411 W4183 Kipuka Pakekake 19.49547 –155.44440 8,360 300 60 311 25 + 1448 to 1951 1, 2
+p1k3 801 1 Kïpukamauna‘iu flow L-82-0111 W5106 Kilauea Crater 19.41648 –155.34947 3,825 300 80 311 25 + 1437 to 1952 2
+p1k3 801 1 Kïpukamauna‘iu flow F01-37-01c11 WW3541 Kilauea Crater 19.41100 –155.34185 3,570 340 40 311 25 + 1462 to 1642 3
+p1a5 792 1 ‘Äinahou flow L-81-58 W5079 Puu Oo 19.66047 –155.46599 6,755 410 60   + 1419 to 1635 2
+a1j6 793 1 Külani picrite flow L-77-01 W3790 Kulani 19.55343 –155.30112 5,165 420 70 437 46 + 1402 to 1642 1, 2
+a1j6 793 1 Külani picrite flow L-77-02 W3793 Kulani 19.55197 –155.30115 5,165 450 60 437 46 + 1334 to 1627 1, 2
+p1a7 274 1 Ke A Po‘omoku flow L-80-10011 W4790 Kipuka Pakekake 19.44033 –155.40200 5,280 540 70 475 41 + 1285 to 1464 2
+p1a7 274 1 Ke A Po‘omoku flow L-80-16511 W4805 Kilauea Crater 19.39717 –155.37120 3,790 340 60 475 41 0 1445 to 1653 2
+p1a7 274 1 Ke A Po‘omoku flow L-87-0711 W6001 Kipuka Pakekake 19.40033 –155.38550 4,350 720 100 475 41 0 1048 to 1422 3
+a1i8 794 1 Mauna Loa Boys' School flows PUd-105 W4576 Puu Ulaula 19.55400 –155.40606 7,920 480 60   + 1306 to 1624 2
+p1g9 802 1 Ke‘ämoku Kïpukakulalio flow L-78-04R W4916 Puu Ulaula 19.50320 –155.38600 6,815 560 70 569 53 + 1287 to 1446 3
+p1g9 802 1 Ke‘ämoku Kïpukakulalio flow L-78-04 W4118 Puu Ulaula 19.50320 –155.38600 6,815 580 80 569 53 + 1274 to 1449 1, 2
+p1a10 791 1 Kulaloa flow L-81-14 W5098 Piihonua 19.62689 –155.14057 1,520 570 60   + 1293 to 1436 2, 4
+m1k11 799 1 Ke‘ämoku Kïpukakulalio east flow L-77-42B11 W3880 Kilauea Crater 19.46330 –155.28450 4,100 530 60 575 38 + 1296 to 1453 1, 2
+m1k11 799 1 Ke‘ämoku Kïpukakulalio east flow MP-78-0711 W4367 Kilauea Crater 19.44250 –155.27470 4,060 570 70 575 38 + 1286 to 1442 2
+m1k11 799 1 Ke‘ämoku Kïpukakulalio east flow L-80-2411 W4845 Kilauea Crater 19.47130 –155.29582 4,425 640 70 575 38 0 1262 to 1424 2
+a1j12 797 1 Keawewai Camp flow KUc-102 W4338 Kulani 19.52871 –155.34626 6,190 590 50   + 1291 to 1422 2
+p1l13 833 1 Keauhou Ranch flow L-78-2711 W4345 Kilauea Crater 19.49270 –155.34350 5,450 760 70   + 1050 to 1392 2
+p1b14 840 1 Flow north of A.D. 1880 south lobe L-80-9011 W4863 Kipuka Pakekake 19.46670 –155.41900 7,395 780 70   + 1045 to 1387 2
+a1l15 795 1 ‘Öla‘a Uka flow KUd-130 W4794 Kulani 19.51961 –155.30145 5,030 880 60   + 1032 to 1256 2
+p1e16 837 1 Pu‘uwähi picrite flow L-77-4511 W4047 Kipuka Pakekake 19.48713 –155.38640 6,350 910 70 955 24 + 1016 to 1259 1, 2
+p1e16 837 1 Pu‘uwähi picrite flow L-77-45R11 SUERC-5409 Kipuka Pakekake 19.48713 –155.38640 6,350 961 25 955 24 + 1020 to 1155 3
+p2a1 829 2 Küküau flow HCB-79-39 W4631 Hilo 19.70639 –155.08611 135 1,110 60 1,333 26 + 778 to 1022 4
+p2a1 829 2 Küküau flow HB-79-53A W5597 Hilo 19.71575 –155.09520 150 1,140 300 1,333 26 0 260 to 1409 2, 4, 5
+p2a1 829 2 Küküau flow L-78-34 W4343 Hilo 19.66969 –155.12245 760 1,280 70 1,333 26 + 639 to 936 2, 4, 5
+p2a1 829 2 Küküau flow L-78-18 W4237 Kulani 19.56323 –155.34484 6,180 1,320 50 1,333 26 + 618 to 856 2
+p2a1 829 2 Küküau flow KUa-113 W4340 Kulani 19.59510 –155.34744 5,835 1,400 70 1,333 26 + 442 to 776 2
+p2a1 829 2 Küküau flow KUa-116 W4357 Kulani 19.58410 –155.34835 5,945 1,490 50 1,333 26 0 433 to 650 2
+p2a1 829 2 Küküau flow HCB-85-06 W5670 Hilo 19.66473 –155.12236 780 1,500 200 1,333 26 0 88 to 968 4, 5
+a2l2 828 2 Pana‘ewa picrite flow L-81-54 W4981 Hilo 19.64286 –155.05660 360 1,470 50   + 436 to 659 2, 4, 5
+a2k4 864 2 Upper Waiäkea flow KUc-101 W4344 Kulani 19.53253 –155.35345 6,440 1,690 70 1,638 32 + 143 to 539 2
+a2k4 864 2 Upper Waiäkea flow GAM-01 W477 Piihonua 19.67830 –155.12170 800 2,000 250 1,638 32 0 –748 to 558 2
+a2k4 864 2 Upper Waiäkea flow GAM-02 W478 Piihonua 19.67830 –155.12170 800 2,070 250 1,638 32 0 –769 to 428 2
+a2k4 864 2 Upper Waiäkea flow HCB-83-15 W5278 Hilo 19.66867 –155.60867 660 1,740 100 1,638 32 + 78 to 535 2
+a2k4 864 2 Upper Waiäkea flow L-92-237 USGS3463 Piihonua 19.62000 –155.14400 1,740 1,585 40 1,638 32 + 398 to 564 2
+p2k5 866 2 Pu‘ukähilikü flow L-86-156 W5985 Puu Oo 19.69001 –155.46750 6,600 1,580 120 1,838 94 + 173 to 668 3
+p2k5 866 2 Pu‘ukähilikü flow L-84-32 W5566 Puu Oo 19.70170 –155.39007 5,715 2,240 150 1,838 94 + –758 to 49 2
+p2b6 867 2 ‘Äinakahiko flow L-87-93 W5949 Puu Oo 19.63938 –155.46071 6,855 1,880 200   + –362 to 550 3
+p2g7 883 2 Upper Strip Road flow L-78-0211 W4116 Kipuka Pakekake 19.48600 –155.38550 6,280 1,840 60 1,993 43 + 32 to 336 1
+p2g7 883 2 Upper Strip Road flow PUD-136 W4579 Puu Ulaula 19.50900 –155.39580 7,260 2,120 70 1,993 43 + –366 to 16 2
+p2g7 883 2 Upper Strip Road flow L-86-0211 W5815 Kilauea Crater 19.45280 –155.34970 4,770 2,270 130 1,993 43 + –767 to –6 2
+p3b1 874 3 Solomons Waterhole flow KUd-117 W4810 Kulani 19.53479 –155.28852 4,750 2,550 80   + –508 to –57 2
+21
+Unit
+ label1 FID2 Age1 Group Unit name Field No. Lab No.3 Quadrangle name       (1:24,000) Latitude4 (degree) Longitude4 (degree) Elevation (ft) Age5(yr B.P.) 5  S.D.(yr) Weighted average6(yr B.P.) 6    S.D.(yr) Quality7 Age range8(calendaryears) Source9
+19.44550 –155.31870 4,200 230 60 288 36 + 1491 to 1953 1, 2
+19.49374 –155.34480 5,500 300 60 288 36 + 1448 to 1951 2
+19.44556 –155.31861 4,203 350 70 288 36 0 1433 to 1790 2
+19.58656 –155.42234 7,520 300 50   + 1462 to 1795 1, 2
+19.40900 –155.34350 3,500 290 50 311 25  1460 to 1950 1, 2
+19.41211 –155.34209 3,590 290 70 311 25 + 1447 to 1951 1, 2
+19.49547 –155.44440 8,360 300 60 311 25 + 1448 to 1951 1, 2
+19.41648 –155.34947 3,825 300 80 311 25 + 1437 to 1952 2
+19.41100 –155.34185 3,570 340 40 311 25 + 1462 to 1642 3
+19.66047 –155.46599 6,755 410 60   + 1419 to 1635 2
+19.55343 –155.30112 5,165 420 70 437 46 + 1402 to 1642 1, 2
+19.55197 –155.30115 5,165 450 60 437 46 + 1334 to 1627 1, 2
+19.44033 –155.40200 5,280 540 70 475 41 + 1285 to 1464 2
+19.39717 –155.37120 3,790 340 60 475 41 0 1445 to 1653 2
+19.40033 –155.38550 4,350 720 100 475 41 0 1048 to 1422 3
+19.55400 –155.40606 7,920 480 60   + 1306 to 1624 2
+19.50320 –155.38600 6,815 560 70 569 53 + 1287 to 1446 3
+19.50320 –155.38600 6,815 580 80 569 53 + 1274 to 1449 1, 2
+19.62689 –155.14057 1,520 570 60   + 1293 to 1436 2, 4
+19.46330 –155.28450 4,100 530 60 575 38 + 1296 to 1453 1, 2
+19.44250 –155.27470 4,060 570 70 575 38 + 1286 to 1442 2
+19.47130 –155.29582 4,425 640 70 575 38 0 1262 to 1424 2
+19.52871 –155.34626 6,190 590 50   + 1291 to 1422 2
+19.49270 –155.34350 5,450 760 70   + 1050 to 1392 2
+19.46670 –155.41900 7,395 780 70   + 1045 to 1387 2
+19.51961 –155.30145 5,030 880 60   + 1032 to 1256 2
+19.48713 –155.38640 6,350 910 70 955 24 + 1016 to 1259 1, 2
+19.48713 –155.38640 6,350 961 25 955 24 + 1020 to 1155 3
+19.70639 –155.08611 135 1,110 60 1,333 26 + 778 to 1022 4
+19.71575 –155.09520 150 1,140 300 1,333 26 0 260 to 1409 2, 4, 5
+19.66969 –155.12245 760 1,280 70 1,333 26 + 639 to 936 2, 4, 5
+19.56323 –155.34484 6,180 1,320 50 1,333 26 + 618 to 856 2
+19.59510 –155.34744 5,835 1,400 70 1,333 26 + 442 to 776 2
+19.58410 –155.34835 5,945 1,490 50 1,333 26 0 433 to 650 2
+19.66473 –155.12236 780 1,500 200 1,333 26 0 88 to 968 4, 5
+19.64286 –155.05660 360 1,470 50   + 436 to 659 2, 4, 5
+19.53253 –155.35345 6,440 1,690 70 1,638 32 + 143 to 539 2
+19.67830 –155.12170 800 2,000 250 1,638 32 0 –748 to 558 2
+19.67830 –155.12170 800 2,070 250 1,638 32 0 –769 to 428 2
+19.66867 –155.60867 660 1,740 100 1,638 32 + 78 to 535 2
+19.62000 –155.14400 1,740 1,585 40 1,638 32 + 398 to 564 2
+19.69001 –155.46750 6,600 1,580 120 1,838 94 + 173 to 668 3
+19.70170 –155.39007 5,715 2,240 150 1,838 94 + –758 to 49 2
+19.63938 –155.46071 6,855 1,880 200   + –362 to 550 3
+19.48600 –155.38550 6,280 1,840 60 1,993 43 + 32 to 336 1
+19.50900 –155.39580 7,260 2,120 70 1,993 43 + –366 to 16 2
+19.45280 –155.34970 4,770 2,270 130 1,993 43 + –767 to –6 2
+19.53479 –155.28852 4,750 2,550 80   + –508 to –57 2
+a1g1 800 1 Ke‘ämoku Kïpukakëkake flow 77L-24 A11 W3871 Kilauea Crater
+a1g1 800 1 Ke‘ämoku Kïpukakëkake flow L-78-2611 W4360 Kilauea Crater
+a1g1 800 1 Ke‘ämoku Kïpukakëkake flow 77L-24 B11 W4919 Kilauea Crater
+a1k2 796 1 Pu‘ukupanaha flow L-78-20 W4175 Puu Ulaula
+p1k3 801 1 Kïpukamauna‘iu flow 77L-0611 W3843 Kilauea Crater
+p1k3 801 1 Kïpukamauna‘iu flow 77L-2911 W4006 Kilauea Crater
+p1k3 801 1 Kïpukamauna‘iu flow L-78-1411 W4183 Kipuka Pakekake
+p1k3 801 1 Kïpukamauna‘iu flow L-82-0111 W5106 Kilauea Crater
+p1k3 801 1 Kïpukamauna‘iu flow F01-37-01c11 WW3541 Kilauea Crater
+p1a5 792 1 ‘Äinahou flow L-81-58 W5079 Puu Oo
+a1j6 793 1 Külani picrite flow L-77-01 W3790 Kulani
+a1j6 793 1 Külani picrite flow L-77-02 W3793 Kulani
+p1a7 274 1 Ke A Po‘omoku flow L-80-10011 W4790 Kipuka Pakekake
+p1a7 274 1 Ke A Po‘omoku flow L-80-16511 W4805 Kilauea Crater
+p1a7 274 1 Ke A Po‘omoku flow L-87-0711 W6001 Kipuka Pakekake
+a1i8 794 1 Mauna Loa Boys' School flows PUd-105 W4576 Puu Ulaula
+p1g9 802 1 Ke‘ämoku Kïpukakulalio flow L-78-04R W4916 Puu Ulaula
+p1g9 802 1 Ke‘ämoku Kïpukakulalio flow L-78-04 W4118 Puu Ulaula
+p1a10 791 1 Kulaloa flow L-81-14 W5098 Piihonua
+m1k11 799 1 Ke‘ämoku Kïpukakulalio east flow L-77-42B11 W3880 Kilauea Crater
+m1k11 799 1 Ke‘ämoku Kïpukakulalio east flow MP-78-0711 W4367 Kilauea Crater
+m1k11 799 1 Ke‘ämoku Kïpukakulalio east flow L-80-2411 W4845 Kilauea Crater
+a1j12 797 1 Keawewai Camp flow KUc-102 W4338 Kulani
+p1l13 833 1 Keauhou Ranch flow L-78-2711 W4345 Kilauea Crater
+p1b14 840 1 Flow north of A.D. 1880 south lobe L-80-9011 W4863 Kipuka Pakekake
+a1l15 795 1 ‘Öla‘a Uka flow KUd-130 W4794 Kulani
+p1e16 837 1 Pu‘uwähi picrite flow L-77-4511 W4047 Kipuka Pakekake
+p1e16 837 1 Pu‘uwähi picrite flow L-77-45R11 SUERC-5409 Kipuka Pakekake
+p2a1 829 2 Küküau flow HCB-79-39 W4631 Hilo
+p2a1 829 2 Küküau flow HB-79-53A W5597 Hilo
+p2a1 829 2 Küküau flow L-78-34 W4343 Hilo
+p2a1 829 2 Küküau flow L-78-18 W4237 Kulani
+p2a1 829 2 Küküau flow KUa-113 W4340 Kulani
+p2a1 829 2 Küküau flow KUa-116 W4357 Kulani
+p2a1 829 2 Küküau flow HCB-85-06 W5670 Hilo
+a2l2 828 2 Pana‘ewa picrite flow L-81-54 W4981 Hilo
+a2k4 864 2 Upper Waiäkea flow KUc-101 W4344 Kulani
+a2k4 864 2 Upper Waiäkea flow GAM-01 W477 Piihonua
+a2k4 864 2 Upper Waiäkea flow GAM-02 W478 Piihonua
+a2k4 864 2 Upper Waiäkea flow HCB-83-15 W5278 Hilo
+a2k4 864 2 Upper Waiäkea flow L-92-237 USGS3463 Piihonua
+p2k5 866 2 Pu‘ukähilikü flow L-86-156 W5985 Puu Oo
+p2k5 866 2 Pu‘ukähilikü flow L-84-32 W5566 Puu Oo
+p2b6 867 2 ‘Äinakahiko flow L-87-93 W5949 Puu Oo
+p2g7 883 2 Upper Strip Road flow L-78-0211 W4116 Kipuka Pakekake
+p2g7 883 2 Upper Strip Road flow PUD-136 W4579 Puu Ulaula
+p2g7 883 2 Upper Strip Road flow L-86-0211 W5815 Kilauea Crater
+p3b1 874 3 Solomons Waterhole flow KUd-117 W4810 Kulani
+22
+Table 2. Radiocarbon ages of samples from the northeast flank of Mauna Loa, Island of Hawai‘i, Hawaii.—Continued
+Unit
+ label1 FID2 Age1 Group Unit name Field No. Lab No.3 Quadrangle name       (1:24,000) Latitude4 (degree) Longitude4 (degree) Elevation (ft) Age5(yr B.P.) S.D.5  (yr) Weighted average6(yr B.P.) S.D.6    (yr) Quality7 Age range8(calendaryears) Source9
+p4a1 863 4 Punahoa flow L-82-33 W5112 Upper Piihonua 19.70961 –155.27281 3,625 3,110 60 3,404 25 0 –1505 to –1213 2
+p4a1 863 4 Punahoa flow HCB-79-19 W4621 Hilo 19.70522 –155.11671 555 3,140 70 3,404 25 0 –1606 to –1215 2, 5
+p4a1 863 4 Punahoa flow HCB-79-55 W4629 Hilo 19.69773 –155.12492 710 3,360 80 3,404 25 + –1879 to –1462 2, 4, 5
+p4a1 863 4 Punahoa flow PCB-09-78 W4624 Piihonua 19.71529 –155.13588 840 3,380 80 3,404 25 + –1885 to –1499 2, 4, 5
+p4a1 863 4 Punahoa flow L-81-78 W5107 Piihonua 19.71558 –155.15315 980 3,450 60 3,404 25 + –1920 to –1618 2
+p4a1 863 4 Punahoa flow HCB-79-33R W5604 Hilo 19.71383 –155.09883 220 3,450 200 3,404 25 + –2341 to –1301 4
+p4a1 863 4 Punahoa flow L-92-230E WW849 Piihonua 19.71610 –155.15150 1,080 3,660 60 3,404 25 0 –2201 to –1889 3
+p4a1 863 4 Punahoa flow L-79-67 W4574 Piihonua 19.71801 –155.13851 863 3,700 70 3,404 25 0 –2290 to –1899 2
+p4f2 868 4 Kïpuka ‘Äinahou flow L-84-79 W5565 Upper Piihonua 19.71550 –155.31470 4,310 3,790 200 3,433 44 0 –2864 to –1694 2
+p4f2 868 4 Kïpuka ‘Äinahou flow L-84-79R WW3715 Upper Piihonua 19.71550 –155.31470 4,310 3,415 45 3,433 44 + –1879 to –1615 3
+ts 959 5 Undivided tephra L-91-62411 W6477 Keaiwa Reservoir 19.34300 –155.52620 6800 4020 60 4135 49 + –2856 to –2352 3
+ts 959 5 Undivided tephra 77L-0511 W3844 Wood Valley 19.36450 –155.38770 3020 4340 80 4135 49 + –3328 to –2710 3
+p5a1 954 5 Wilder Road flow KUa-117 W4358 Kulani 19.59460 –155.34485 5,780 4,070 70 4,173 21 + –2872 to –2471 2
+p5a1 954 5 Wilder Road flow L-80-174 W4957 Piihonua 19.68495 –155.14573 1,160 4,170 90 4,173 21 + –2919 to –2489 2
+p5a1 954 5 Wilder Road flow L-81-22 W4993 Piihonua 19.69175 –155.15203 1,220 4,210 80 4,173 21 + –3011 to –2505 2
+p5a1 954 5 Wilder Road flow L-81-22R SUERC-5410 Piihonua 19.69175 –155.15203 1,220 4,128 26 4,173 21 + –2869 to –2582 3
+p5a1 954 5 Wilder Road flow L-96-01 WW880 Hilo 19.72380 –155.08780 70 4,410 60 4,173 21 + –3334 to –2906 3
+p5a1 954 5 Wilder Road flow HCB-81-45 W5077 Hilo 19.69048 –155.12012 600 4,410 120 4,173 21 0 –3497 to –2701 2, 4, 5
+a5a2 876 5 Waiakeawaena flow L-81-34 W4982 Upper Piihonua 19.71870 –155.27474 3,630 4,690 60 4,695 58 + –3638 to –3354 2
+a5a2 876 5 Waiakeawaena flow L-84-80 W5567 Upper Piihonua 19.71554 –155.30811 4,240 4,790 250 4,695 58 + –4217 to –2897 2
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-79-37 W4536 Mountain View 19.61100 –155.03200 320 5,250 100 5,455 25 + –4330 to –3806 2, 5
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-79-37R WW3712 Mountain View 19.61100 –155.03200 320 5,480 30 5,455 25 + –4435 to –4260 3
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-88-120A W6173 Puumakaala 19.56506 –155.12863 1,660 5,520 170 5,455 25 + –4718 to –3979 3
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-98-01 WW1935 Mountain View 19.61680 –155.03930 359 5,425 55 5,455 25 + –4363 to –4060 3
+s6b2 976 6 Mountain View flow L-89-01 W6224 Mountain View 19.55023 –155.10518 1,420 5,360 110 5,534 70 + –4447 to –3961 3
+s6b2 976 6 Mountain View flow 77L-20 W3862 Mountain View 19.54285 –155.12443 1,730 5,650 90 5,534 70 + –4710 to –4335 1, 2
+p8e1 962 8 Palakea Flats flow KUc-177 W4991 Kulani 19.51236 –155.32634 5,440 7,960 110 + –7174 to –6593 2
+p9l1 952 9 Alawaena Road flow L-81-02 W4969 Piihonua 19.65428 –155.13903 1,220 8,030 70 + –7142 to –6692 2, 5
+p9g2 978 9 Pu‘u‘ula‘ula flow 77L-1011 W3853 Kilauea Crater 19.41967 –155.33883 3,680 8,550 100 8,645 71 + –7865 to –7379 1, 2
+p9g2 978 9 Pu‘u‘ula‘ula flow L-80-13811 W4803 Kilauea Crater 19.43567 –155.32917 4,000 8,740 100 8,645 71 + –8207 to –7581 2
+a9j3 948 9 Kino‘ole Street flow L-92-125 AA9771 Hilo 19.71430 –155.08330 45 8,365 140 8,673 55 + –7631 to –7053 3
+a9j3 948 9 Kino‘ole Street flow A-119 WW883 Hilo 19.72110 –155.08960 60 8,730 60 8,673 55 + –8160 to –7595 3
+p10e1 953 10 ‘Äinaola Drive picrite flow L-81-03 W4975 Piihonua 19.66064 –155.12770 900 9,020 130 9,020 88 + –8549 to –7756 2, 4, 5
+p10e1 953 10 ‘Äinaola Drive picrite flow L-89-06 W6226 Hilo 19.68732 –155.07227 170 9,020 120 9,020 88 + –8543 to –7790 5
+p10b2 957 10 Waiäkea Homesteads flow L-92-240 WW850 Piihonua 19.65059 –155.14646 1,440 9,480 60 9,672 40 + –9130 to –8623 3
+p10b2 957 10 Waiäkea Homesteads flow L-79-23 W4529 Piihonua 19.65395 –155.13933 1,242 9,540 110 9,672 40 0 –9236 to –8626 2
+p10b2 957 10 Waiäkea Homesteads flow HCB-80-27A W4884 Hilo 19.65891 –155.10083 660 9,780 140 9,672 40 + –9753 to –8767 2, 4, 5
+p10b2 957 10 Waiäkea Homesteads flow L-81-01 W5087 Piihonua 19.65549 –155.13789 1,180 9,960 70 9,672 40 + –9761 to –9285 2
+p11d1 981 11 Waikoloa Ponds of Wailuku flow L-81-33 W5092 Upper Piihonua 19.71833 –155.27300 3,600 10,090 120 10,161 29 + –10124 to –9304 2
+p11d1 981 11 Waikoloa Ponds of Wailuku flow L-81-33R WW3713 Upper Piihonua 19.71833 –155.27300 3,600 10,165 30 10,161 29 + –10073 to –9763 3
+p11j2 974 11 Flow north of Pu‘ulala‘au KUc-176 W4995 Kulani 19.51457 –155.31963 5,365 10,400 150 + –10838 to –9808 2
+a11c3 950 11 ‘Änuenue flow L-92-46 USGS3460 Upper Piihonua 19.72166 –155.26759 3,600 10,140 60 10,405 37 + –10096 to –9458 3
+a11c3 950 11 ‘Änuenue flow L-81-70 W5103 Piihonua 19.70652 –155.20067 2,175 10,150 80 10,405 37 + –10128 to –9451 2
+a11c3 950 11 ‘Änuenue flow L-92-230B AA10601 Piihonua 19.71622 –155.15037 1,065 10,480 145 10,405 37 + –10868 to –9894 3
+a11c3 950 11 ‘Änuenue flow HWCB-80-06H W4623 Hilo 19.72330 –155.11624 460 10,610 150 10,405 37 0 –10913 to –10161 2, 4, 5
+a11c3 950 11 ‘Änuenue flow L-95-04 WW875 Hilo 19.72210 –155.11290 400 10,900 70 10,405 37 0 –11018 to –10851 3
+p11f4 985 11 Mauna Hu‘ihu‘i flow L-86-234 W5942 Puu Makaala 19.51606 –155.12799 1,875 10,660 400 + –11308 to –9329 2
+p11a5 949 11 Waiänuenue flow HCB-80-37 W4627 Hilo 19.71990 –155.10853 325 13,530 180 14,173 37 + –14733 to –13544 2, 4, 5
+p11a5 949 11 Waiänuenue flow HCB-81-19 W4971 Hilo 19.72034 –155.12002 530 14,080 150 14,173 37 + –15421 to –14305 2, 4, 5
+p11a5 949 11 Waiänuenue flow L-81-07 W5091 Piihonua 19.71164 –155.16796 1,480 14,080 160 14,173 37 + –15452 to –14289 2
+23
+Unit
+ label1 FID2 Age1 Group Unit name Field No. Lab No.3 Quadrangle name       (1:24,000) Latitude4 (degree) Longitude4 (degree) Elevation (ft) Age5(yr B.P.) 5  S.D.(yr) Weighted average6(yr B.P.) 6    S.D.(yr) Quality7 Age range8(calendaryears) Source9
+19.70961 –155.27281 3,625 3,110 60 3,404 25 0 –1505 to –1213 2
+19.70522 –155.11671 555 3,140 70 3,404 25 0 –1606 to –1215 2, 5
+19.69773 –155.12492 710 3,360 80 3,404 25 + –1879 to –1462 2, 4, 5
+19.71529 –155.13588 840 3,380 80 3,404 25 + –1885 to –1499 2, 4, 5
+19.71558 –155.15315 980 3,450 60 3,404 25 + –1920 to –1618 2
+19.71383 –155.09883 220 3,450 200 3,404 25 + –2341 to –1301 4
+19.71610 –155.15150 1,080 3,660 60 3,404 25 0 –2201 to –1889 3
+19.71801 –155.13851 863 3,700 70 3,404 25 0 –2290 to –1899 2
+19.71550 –155.31470 4,310 3,790 200 3,433 44 0 –2864 to –1694 2
+19.71550 –155.31470 4,310 3,415 45 3,433 44 + –1879 to –1615 3
+19.34300 –155.52620 6800 4020 60 4135 49 + –2856 to –2352 3
+19.36450 –155.38770 3020 4340 80 4135 49 + –3328 to –2710 3
+19.59460 –155.34485 5,780 4,070 70 4,173 21 + –2872 to –2471 2
+19.68495 –155.14573 1,160 4,170 90 4,173 21 + –2919 to –2489 2
+19.69175 –155.15203 1,220 4,210 80 4,173 21 + –3011 to –2505 2
+19.69175 –155.15203 1,220 4,128 26 4,173 21 + –2869 to –2582 3
+19.72380 –155.08780 70 4,410 60 4,173 21 + –3334 to –2906 3
+19.69048 –155.12012 600 4,410 120 4,173 21 0 –3497 to –2701 2, 4, 5
+19.71870 –155.27474 3,630 4,690 60 4,695 58 + –3638 to –3354 2
+19.71554 –155.30811 4,240 4,790 250 4,695 58 + –4217 to –2897 2
+19.61100 –155.03200 320 5,250 100 5,455 25 + –4330 to –3806 2, 5
+19.61100 –155.03200 320 5,480 30 5,455 25 + –4435 to –4260 3
+19.56506 –155.12863 1,660 5,520 170 5,455 25 + –4718 to –3979 3
+19.61680 –155.03930 359 5,425 55 5,455 25 + –4363 to –4060 3
+19.55023 –155.10518 1,420 5,360 110 5,534 70 + –4447 to –3961 3
+19.54285 –155.12443 1,730 5,650 90 5,534 70 + –4710 to –4335 1, 2
+19.51236 –155.32634 5,440 7,960 110 + –7174 to –6593 2
+19.65428 –155.13903 1,220 8,030 70 + –7142 to –6692 2, 5
+19.41967 –155.33883 3,680 8,550 100 8,645 71 + –7865 to –7379 1, 2
+19.43567 –155.32917 4,000 8,740 100 8,645 71 + –8207 to –7581 2
+19.71430 –155.08330 45 8,365 140 8,673 55 + –7631 to –7053 3
+19.72110 –155.08960 60 8,730 60 8,673 55 + –8160 to –7595 3
+19.66064 –155.12770 900 9,020 130 9,020 88 + –8549 to –7756 2, 4, 5
+19.68732 –155.07227 170 9,020 120 9,020 88 + –8543 to –7790 5
+19.65059 –155.14646 1,440 9,480 60 9,672 40 + –9130 to –8623 3
+19.65395 –155.13933 1,242 9,540 110 9,672 40 0 –9236 to –8626 2
+19.65891 –155.10083 660 9,780 140 9,672 40 + –9753 to –8767 2, 4, 5
+19.65549 –155.13789 1,180 9,960 70 9,672 40 + –9761 to –9285 2
+19.71833 –155.27300 3,600 10,090 120 10,161 29 + –10124 to –9304 2
+19.71833 –155.27300 3,600 10,165 30 10,161 29 + –10073 to –9763 3
+19.51457 –155.31963 5,365 10,400 150 + –10838 to –9808 2
+19.72166 –155.26759 3,600 10,140 60 10,405 37 + –10096 to –9458 3
+19.70652 –155.20067 2,175 10,150 80 10,405 37 + –10128 to –9451 2
+19.71622 –155.15037 1,065 10,480 145 10,405 37 + –10868 to –9894 3
+19.72330 –155.11624 460 10,610 150 10,405 37 0 –10913 to –10161 2, 4, 5
+19.72210 –155.11290 400 10,900 70 10,405 37 0 –11018 to –10851 3
+19.51606 –155.12799 1,875 10,660 400 + –11308 to –9329 2
+19.71990 –155.10853 325 13,530 180 14,173 37 + –14733 to –13544 2, 4, 5
+19.72034 –155.12002 530 14,080 150 14,173 37 + –15421 to –14305 2, 4, 5
+19.71164 –155.16796 1,480 14,080 160 14,173 37 + –15452 to –14289 2
+p4a1 863 4 Punahoa flow L-82-33 W5112 Upper Piihonua
+p4a1 863 4 Punahoa flow HCB-79-19 W4621 Hilo
+p4a1 863 4 Punahoa flow HCB-79-55 W4629 Hilo
+p4a1 863 4 Punahoa flow PCB-09-78 W4624 Piihonua
+p4a1 863 4 Punahoa flow L-81-78 W5107 Piihonua
+p4a1 863 4 Punahoa flow HCB-79-33R W5604 Hilo
+p4a1 863 4 Punahoa flow L-92-230E WW849 Piihonua
+p4a1 863 4 Punahoa flow L-79-67 W4574 Piihonua
+p4f2 868 4 Kïpuka ‘Äinahou flow L-84-79 W5565 Upper Piihonua
+p4f2 868 4 Kïpuka ‘Äinahou flow L-84-79R WW3715 Upper Piihonua
+ts 959 5 Undivided tephra L-91-62411 W6477 Keaiwa Reservoir
+ts 959 5 Undivided tephra 77L-0511 W3844 Wood Valley
+p5a1 954 5 Wilder Road flow KUa-117 W4358 Kulani
+p5a1 954 5 Wilder Road flow L-80-174 W4957 Piihonua
+p5a1 954 5 Wilder Road flow L-81-22 W4993 Piihonua
+p5a1 954 5 Wilder Road flow L-81-22R SUERC-5410 Piihonua
+p5a1 954 5 Wilder Road flow L-96-01 WW880 Hilo
+p5a1 954 5 Wilder Road flow HCB-81-45 W5077 Hilo
+a5a2 876 5 Waiakeawaena flow L-81-34 W4982 Upper Piihonua
+a5a2 876 5 Waiakeawaena flow L-84-80 W5567 Upper Piihonua
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-79-37 W4536 Mountain View
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-79-37R WW3712 Mountain View
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-88-120A W6173 Puumakaala
+p6e1 947 6 Pu‘umaka‘ala picrite flow L-98-01 WW1935 Mountain View
+s6b2 976 6 Mountain View flow L-89-01 W6224 Mountain View
+s6b2 976 6 Mountain View flow 77L-20 W3862 Mountain View
+p8e1 962 8 Palakea Flats flow KUc-177 W4991 Kulani
+p9l1 952 9 Alawaena Road flow L-81-02 W4969 Piihonua
+p9g2 978 9 Pu‘u‘ula‘ula flow 77L-1011 W3853 Kilauea Crater
+p9g2 978 9 Pu‘u‘ula‘ula flow L-80-13811 W4803 Kilauea Crater
+a9j3 948 9 Kino‘ole Street flow L-92-125 AA9771 Hilo
+a9j3 948 9 Kino‘ole Street flow A-119 WW883 Hilo
+p10e1 953 10 ‘Äinaola Drive picrite flow L-81-03 W4975 Piihonua
+p10e1 953 10 ‘Äinaola Drive picrite flow L-89-06 W6226 Hilo
+p10b2 957 10 Waiäkea Homesteads flow L-92-240 WW850 Piihonua
+p10b2 957 10 Waiäkea Homesteads flow L-79-23 W4529 Piihonua
+p10b2 957 10 Waiäkea Homesteads flow HCB-80-27A W4884 Hilo
+p10b2 957 10 Waiäkea Homesteads flow L-81-01 W5087 Piihonua
+p11d1 981 11 Waikoloa Ponds of Wailuku flow L-81-33 W5092 Upper Piihonua
+p11d1 981 11 Waikoloa Ponds of Wailuku flow L-81-33R WW3713 Upper Piihonua
+p11j2 974 11 Flow north of Pu‘ulala‘au KUc-176 W4995 Kulani
+a11c3 950 11 ‘Änuenue flow L-92-46 USGS3460 Upper Piihonua
+a11c3 950 11 ‘Änuenue flow L-81-70 W5103 Piihonua
+a11c3 950 11 ‘Änuenue flow L-92-230B AA10601 Piihonua
+a11c3 950 11 ‘Änuenue flow HWCB-80-06H W4623 Hilo
+a11c3 950 11 ‘Änuenue flow L-95-04 WW875 Hilo
+p11f4 985 11 Mauna Hu‘ihu‘i flow L-86-234 W5942 Puu Makaala
+p11a5 949 11 Waiänuenue flow HCB-80-37 W4627 Hilo
+p11a5 949 11 Waiänuenue flow HCB-81-19 W4971 Hilo
+p11a5 949 11 Waiänuenue flow L-81-07 W5091 Piihonua
+24
+Table 2. Radiocarbon ages of samples from the northeast flank of Mauna Loa, Island of Hawai‘i, Hawaii.—Continued
+Unit
+ label1 FID2 Age1 Group Unit name Field No. Lab No.3 Quadrangle name       (1:24,000) Latitude4 (degree) Longitude4 (degree) Elevation (ft) Age5(yr B.P.) S.D.5  (yr) Weighted average6(yr B.P.) S.D.6    (yr) Quality7 Age range8(calendaryears) Source9
+p11a5 949 11 Waiänuenue flow L-87-278 W6062 Piihonua 19.71200 –155.22050 2,560 14,240 400 14,173 37 + –16537 to –14063 2, 4, 5
+p11a5 949 11 Waiänuenue flow L-87-278R WW3744 Piihonua 19.71200 –155.22050 2,560 14,150 45 14,173 37 + –15302 to –14513 3
+p11a5 949 11 Waiänuenue flow HCB-81-25 W4973 Hilo 19.71582 –155.12325 610 14,370 190 14,173 37 + –16002 to –14653 2, 4, 5
+p11a5 949 11 Waiänuenue flow HWCB-80-17 W4620 Hilo 19.72221 –155.12426 535 14,500 200 14,173 37 + –16478 to –14707 2, 4, 5
+p11a5 949 11 Waiänuenue flow HCB-81-21 W4977 Hilo 19.71808 –155.11627 480 14,530 120 14,173 37 + –16032 to –15015 2, 4, 5
+p13a1 960 13 Kaluiiki flow L-80-171 W5094 Piihonua 19.69817 –155.13360 840 28,120 400 28,145 333 + NAC12 2
+p13a1 960 13 Kaluiiki flow L-81-79 W5452 Piihonua 19.69725 –155.13719 940 28,200 600 28,145 333 + NAC12 2
+NAS10 NAS10 11 PCB-81-40 W5072 Piihonua 19.65794 –155.13173 1,000 10,320 70 + –10617 to –9876 2, 4, 5
+NAS10 NAS10 13 PCB-80-102 W4894 Piihonua 19.65888 –155.13083 1,000 21,900 270 + NAC12 2, 4, 5
+NAS10 NAS10 13 HCB-80-100 W4890 Hilo 19.69743 –155.12411 680 23,840 600  + NAC12 2, 4, 5
+NAS10 NAS10 13 PCB-81-41 W5075 Piihonua 19.66132 –155.12742 880 24,240 500 + NAC12 2, 4, 5
+NAS10 NAS10 13  L-81-71 W5105 Piihonua 19.41648 –155.34947 2,180 >38,000   0 NAC12 2
+NAS10 NAS10 13 Hilo drill-hole sample L-93-366 AA12737 Hilo 19.73433 –155.05200 –599.92 37,430 1,050 38,598 907 + NAC12 3
+NAS10 NAS10 13 Hilo drill-hole sample L-93-365 AA12736 Hilo 19.73433 –155.05200 –595.6 42,030 1,800 38,598 907 + NAC12 3
+1See table 3 for explanation of unit labels and definition of age groups.
+2Unique, three-digit flow identification number (FID) assigned to each mapped surface-flow unit correlates with database (https://doi.org/10.3133/sim2932A).
+3Initial letter(s) identifies analytical laboratory: A, University of Arizona, Tucson, Ariz; SUERC, NERC radiocarbon laboratory, Kilbride, Scotland, UK; USGS, 
+U.S. Geological Survey 14C laboratory, Menlo Park, Calif.; W, U.S. Geological Survey 14C laboratory, Reston, Va..
+4 Transverse Mercator projection; Old Hawaiian Datum. See base Information below left corner of map.
+5Calibrated ages are for two standard deviations.
+6Weighted average, each age is weighted by the inverse of its variance before averaging (for example, Taylor 1982).  A variance is reported as one standard 
+deviation, in years.
+7Quality: +, age considered meaningful; 0, age probably meaningful but accuracy may be poorer than indicated by the reported precision.
+8Each age was calibrated to calendar years using CALIB 4.0 Radiocarbon Calibration Program (Stuiver and others, 1998); calibrated ages are for two standard 
+deviations. Entire age range of calendar ages are possible for a given sample. Unspecified ages, A.D.; negative (–) ages, B.C.
+9Sources: 1, Kelley and others, 1979; 2, Rubin and others, 1987; 3, this study; 4, Buchanan-Banks and others, 1989; 5, Buchanan-Banks, 1993.
+10NAS, flows not found at surface are exposed in drainages, fault scarps, and (or) sea cliffs.
+11Samples collected outside of map area.
+12 NAC, not able to calibrate 14C age because too old for CALIB program.
+25
+Unit
+ label1 FID2 Age1 Group Unit name Field No. Lab No.3 Quadrangle name       (1:24,000) Latitude4 (degree) Longitude4 (degree) Elevation (ft) Age5(yr B.P.) 5  S.D.(yr) Weighted average6(yr B.P.) 6    S.D.(yr) Quality7 Age range8(calendaryears) Source9
+19.71200 –155.22050 2,560 14,240 400 14,173 37 + –16537 to –14063 2, 4, 5
+19.71200 –155.22050 2,560 14,150 45 14,173 37 + –15302 to –14513 3
+19.71582 –155.12325 610 14,370 190 14,173 37 + –16002 to –14653 2, 4, 5
+19.72221 –155.12426 535 14,500 200 14,173 37 + –16478 to –14707 2, 4, 5
+19.71808 –155.11627 480 14,530 120 14,173 37 + –16032 to –15015 2, 4, 5
+19.69817 –155.13360 840 28,120 400 28,145 333 + NAC12 2
+19.69725 –155.13719 940 28,200 600 28,145 333 + NAC12 2
+19.65794 –155.13173 1,000 10,320 70 + –10617 to –9876 2, 4, 5
+19.65888 –155.13083 1,000 21,900 270 + NAC12 2, 4, 5
+19.69743 –155.12411 680 23,840 600  + NAC12 2, 4, 5
+19.66132 –155.12742 880 24,240 500 + NAC12 2, 4, 5
+19.41648 –155.34947 2,180 >38,000   0 NAC12 2
+19.73433 –155.05200 –599.92 37,430 1,050 38,598 907 + NAC12 3
+19.73433 –155.05200 –595.6 42,030 1,800 38,598 907 + NAC12 3
+p11a5 949 11 Waiänuenue flow L-87-278 W6062 Piihonua
+p11a5 949 11 Waiänuenue flow L-87-278R WW3744 Piihonua
+p11a5 949 11 Waiänuenue flow HCB-81-25 W4973 Hilo
+p11a5 949 11 Waiänuenue flow HWCB-80-17 W4620 Hilo
+p11a5 949 11 Waiänuenue flow HCB-81-21 W4977 Hilo
+p13a1 960 13 Kaluiiki flow L-80-171 W5094 Piihonua
+p13a1 960 13 Kaluiiki flow L-81-79 W5452 Piihonua
+NAS10 NAS10 11 PCB-81-40 W5072 Piihonua
+NAS10 NAS10 13 PCB-80-102 W4894 Piihonua
+NAS10 NAS10 13 HCB-80-100 W4890 Hilo
+NAS10 NAS10 13 PCB-81-41 W5075 Piihonua
+NAS10 NAS10 13  L-81-71 W5105 Piihonua
+NAS10 NAS10 13 Hilo drill-hole sample L-93-366 AA12737 Hilo
+NAS10 NAS10 13 Hilo drill-hole sample L-93-365 AA12736 Hilo

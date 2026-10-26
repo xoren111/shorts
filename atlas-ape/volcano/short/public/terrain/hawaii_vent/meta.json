@@ -1,0 +1,39 @@
+{
+ "region": "hawaii_vent",
+ "bbox": {
+  "s": 19.555,
+  "n": 19.625,
+  "w": -155.535,
+  "e": -155.46
+ },
+ "nx": 1024,
+ "ny": 1014,
+ "width_m": 7865.7,
+ "height_m": 7792.4,
+ "h_min": 2172.56396484375,
+ "h_max": 3074.118896484375,
+ "dem_zoom": 14,
+ "sat_zoom": 15,
+ "sat_size": [
+  1747,
+  1731
+ ],
+ "mercator": {
+  "x0": 0.06795833333333334,
+  "y0": 0.44438780751324325,
+  "x1": 0.06816666666666664,
+  "y1": 0.4445941987246601
+ },
+ "credits": [
+  "Elevation: AWS Terrain Tiles (Mapzen terrarium; SRTM, GMTED, ETOPO1, ArcticDEM et al.)",
+  "Imagery: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0"
+ ],
+ "normal_map": "normal.png",
+ "dem_source": "USGS 3DEP 1 m lidar (HI Hawaii Island NOAA 2017)",
+ "imagery_source": "USDA NAIP 2021 Hawaii 0.6 m",
+ "credits_hr": [
+  "Elevation: U.S. Geological Survey, 3D Elevation Program (3DEP) 1 m lidar DEM, HI Hawaii Island Lidar NOAA 2017 (public domain)",
+  "Imagery: U.S. Department of Agriculture, Farm Service Agency \u2013 National Agriculture Imagery Program (NAIP) 2021 (public domain)"
+ ],
+ "cloud_removal": false
+}

@@ -1,0 +1,1 @@
+This is the demo of our Short template. Every phrase gets its own visual event. Big text never repeats the voice. Three transitions, one twist, and a calm ending that loops back.

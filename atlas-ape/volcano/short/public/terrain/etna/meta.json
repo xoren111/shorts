@@ -1,0 +1,35 @@
+{
+ "region": "etna",
+ "bbox": {
+  "s": 37.6,
+  "n": 37.83,
+  "w": 14.88,
+  "e": 15.22
+ },
+ "nx": 1024,
+ "ny": 876,
+ "width_m": 29940.7,
+ "height_m": 25603.5,
+ "h_min": -31.0,
+ "h_max": 3319.96875,
+ "dem_zoom": 13,
+ "sat_zoom": 14,
+ "sat_size": [
+  3961,
+  3387
+ ],
+ "mercator": {
+  "x0": 0.5413333333333333,
+  "y0": 0.3863272270785748,
+  "x1": 0.5422777777777777,
+  "y1": 0.38713486123796337
+ },
+ "credits": [
+  "Elevation: AWS Terrain Tiles (Mapzen terrarium; SRTM, GMTED, ETOPO1, ArcticDEM et al.)",
+  "Imagery: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0",
+  "Elevation (land): TINITALY/1.1, Tarquini S. et al. (2023), INGV, https://doi.org/10.13127/tinitaly/1.1, CC BY 4.0 (resampled to Web Mercator; normal map derived)"
+ ],
+ "normal_map": "normal.png",
+ "dem_source": "TINITALY/1.1 (INGV, 10 m)",
+ "imagery_source": "EOX Sentinel-2 cloudless 2016"
+}

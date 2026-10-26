@@ -1,0 +1,115 @@
+{
+ "region": "heimaey",
+ "dem": {
+  "name": "ÍslandsDEM v1.0 (Hæðarlíkan útgáfa 1.0), 2 x 2 m tiles 80 + 81, ISN2016 (EPSG:8088), metres above sea level",
+  "provider": "Náttúrufræðistofnun / Natural Science Institute of Iceland (former Landmælingar Íslands); produced with Veðurstofa Íslands and the Polar Geospatial Center (ArcticDEM)",
+  "resolution_m": 2.0,
+  "licence": "CC BY 4.0 — metadata record (gatt.lmi.is / gatt.natt.is, id e6712430-a63c-4ae5-9158-c89d16da6361): licence \"Attribution 4.0 International (CC BY 4.0)\", public access \"no limitations to public access\"",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "metadata_url": "https://gatt.lmi.is/geonetwork/srv/api/records/e6712430-a63c-4ae5-9158-c89d16da6361",
+  "source_urls": [
+   "https://gis.lmi.is/gisdata/public/IslandsDEM/v1.0/IslandsDEMv1.0_2x2m_zmasl_isn2016_80.tif",
+   "https://gis.lmi.is/gisdata/public/IslandsDEM/v1.0/IslandsDEMv1.0_2x2m_zmasl_isn2016_81.tif",
+   "tile index: https://gis.natt.is/geoserver/LMI_vektor/wfs (layer LMI_vektor:islandsdem_footprint, used by the official viewer https://kort.gis.is/mapview/?app=DEM «Sækja gögn, smelltu á reit»)"
+  ],
+  "attribution": "Elevation: ÍslandsDEM v1.0 © Náttúrufræðistofnun (Natural Science Institute of Iceland), Veðurstofa Íslands, Polar Geospatial Center — CC BY 4.0 (modified: resampled, coastline-masked, vertical exaggeration). Based on ArcticDEM (DEM courtesy of the Polar Geospatial Center).",
+  "raw_files": [
+   "data/hr/heimaey/raw/IslandsDEMv1.0_2x2m_zmasl_isn2016_80.tif",
+   "data/hr/heimaey/raw/IslandsDEMv1.0_2x2m_zmasl_isn2016_81.tif",
+   "data/hr/heimaey/raw/islandsdem_footprint_heimaey.json"
+  ]
+ },
+ "imagery": null,
+ "notes": "DEM: ÍslandsDEM 2 m (ArcticDEM mosaic, median of multi-date strips; it is a surface model, so buildings in the town and the harbour piers are in it) mosaicked from tiles 80+81 and sampled in Web-Mercator space with pyproj (EPSG:8088 -> WGS84). height.bin = 1024x1002 grid at the linspace nodes of meta.mercator (as tools/terrain.py), Gaussian area prefilter (sigma 3.3 m) + normalised bilinear sampling; land = the DEM's own nodata coastline (sea is nodata in ÍslandsDEM), components < 2 cells dropped, land floor 1.0 m; sea = -min(2 + 0.08*dist_m, 60) as in tools/coast_fix.py. Harbour basin, east-of-pier water and the entrance channel are water and connected to the open sea (see checks.harbour). The new coastline adds land mainly on the north/west cliffs that the old EOX-colour mask (land.png) had classified as sea because the cliffs are in shadow; land.png was left untouched and is now stale for heimaey. normal.png = 4096x4006 px at pixel centres over the same bbox as sat.jpg, from the 2 m DEM (bilinear, Gaussian 0.6 px), heights x 1.35, spacing width_m/W x height_m/H (mercator scale x cos(lat_c)), sea surface at 0 m for the gradient, water pixels = (0,1,0) -> rgb (128,255,128). Old height.bin kept as height_v1.bin (height_raw.bin = original terrarium also kept). WARNING: re-running tools/coast_fix.py heimaey would rebuild height.bin from height_raw.bin and undo this. meta.json: added normal_map / dem_source / imagery_source / coast_source, updated h_min/h_max, appended the ÍslandsDEM credit (the terrarium credit is now obsolete for heimaey; the coast_fix key is stale). Imagery not replaced: (1) Náttúrufræðistofnun «Grunnkort Loftmynd NÁTT» 25 cm orthophoto is CC BY 4.0, but its tile index (17,211 tiles, WFS loftmyndir:grunnkort_loftmynd_nidurhal) and the 607 single frames (…_nidurhal_stakar) reach no further south than 63.76 N — Heimaey is not covered; (2) OpenAerialMap: no images in the bbox; (3) Loftmyndir ehf orthophotos are commercial — skipped; (4) newer EOX s2cloudless years are CC BY-NC-SA — not allowed. ArcticDEM 2 m mosaic (PGC, AWS pgc-opendata-dems) not used: its Dataverse terms say \"Creative Commons CC4 license\" with unspecified \"additional/modified terms\", and OpenTopography restricts 2 m products to education/research users — unclear for commercial video; ÍslandsDEM is the same data with a clear CC BY 4.0 licence. sat.jpg stays EOX Sentinel-2 cloudless 2016 (~10 m), so colour stays soft; the sharpness gain comes from geometry + lighting (normal.png).",
+ "checks": {
+  "height_bin": {
+   "shape": [
+    1002,
+    1024
+   ],
+   "nan": 0,
+   "land_cells": 225947,
+   "sea_cells": 800101,
+   "h_min": -60.0,
+   "h_max": 280.5607604980469,
+   "land_min": 1.0,
+   "sea_max": -2.6230146884918213
+  },
+  "coast_vs_old_eox_mask": {
+   "agree_frac": 0.9838,
+   "old_land_only": 5239,
+   "new_land_only": 11409
+  },
+  "harbour": {
+   "inner_basin": {
+    "lat": 63.4452,
+    "lon": -20.28,
+    "h": -5.115073204040527,
+    "water": true,
+    "connected_to_open_sea": true
+   },
+   "basin_mid": {
+    "lat": 63.4455,
+    "lon": -20.2705,
+    "h": -6.98411750793457,
+    "water": true,
+    "connected_to_open_sea": true
+   },
+   "east_of_pier": {
+    "lat": 63.4462,
+    "lon": -20.262,
+    "h": -8.230146408081055,
+    "water": true,
+    "connected_to_open_sea": true
+   },
+   "channel": {
+    "lat": 63.4478,
+    "lon": -20.2548,
+    "h": -11.96823501586914,
+    "water": true,
+    "connected_to_open_sea": true
+   },
+   "box_63.4451-63.4475N_20.28-20.25W_water_frac": 0.535
+  },
+  "normal_png": {
+   "size": [
+    4096,
+    4006
+   ],
+   "water_px": 12788624,
+   "water_rgb": [
+    128,
+    255,
+    128
+   ],
+   "mean_up_land": 0.8938,
+   "min_up": 0.0153,
+   "px_m": [
+    1.945,
+    1.945
+   ],
+   "exag": 1.35
+  },
+  "consistency": {
+   "land_frac_height_bin": 0.2202,
+   "land_frac_normal_png": 0.2205,
+   "normal_png_matches_sat_aspect": [
+    [
+     3728,
+     3647
+    ],
+    [
+     4096,
+     4006
+    ]
+   ],
+   "dem_vs_EOX_alignment": "NCC of DEM shaded relief vs sat.jpg luminance (band-pass) peaks at <=2 px east, <=1 px south (~2-4 m) in 3 windows (Eldfell, north cliffs, south) -> no re-registration needed"
+  },
+  "height_v1_backup": true,
+  "sha1": {
+   "height.bin": "2c20c4c290a4",
+   "height_v1.bin": "fcca68122ad5",
+   "normal.png": "3ef4d22bb6c2"
+  }
+ }
+}

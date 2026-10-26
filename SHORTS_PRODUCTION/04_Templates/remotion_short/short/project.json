@@ -1,0 +1,63 @@
+{
+ "slug": "template-demo",
+ "channel": "atlas-ape",
+ "level": "L2",
+ "library_root": "/Users/khorengrigoryan/shorts/SHORTS_PRODUCTION",
+ "vo": "vo_demo.wav",
+ "vo_note": "DEMO ONLY: macOS `say` voice for testing the pipeline; never publish it (system voices are licensed for personal, non-commercial use). Real VO = ElevenLabs PAID.",
+ "music": "03_Assets/Music/documentary_neutral/music_gymnopedie_1_satie_alciatore_musopen_commons.ogg",
+ "music_license": "PD recording (Musopen via Wikimedia Commons)",
+ "music_gain_db": 8,
+ "music_out_word": 23,
+ "music_in_word": 26,
+ "music_end_word": null,
+ "tail_s": 0.9,
+ "loop_s": 0.4,
+ "vo_end": null,
+ "duration": null,
+ "allow_over_60": false,
+ "gold_words": [
+  3,
+  13,
+  20,
+  24,
+  27
+ ],
+ "teal_words": [],
+ "break_after": [],
+ "hide_subs": [
+  [
+   21,
+   22
+  ]
+ ],
+ "atlas": null,
+ "ab": {
+  "enabled": false,
+  "variants": {
+   "A": {
+    "atlas_hook": false
+   },
+   "B": {
+    "atlas_hook": true,
+    "atlas_hook_pose": "shock",
+    "atlas_hook_corner": "tr",
+    "atlas_hook_h": 300,
+    "atlas_hook_until": 1.0
+   }
+  }
+ },
+ "variety": {
+  "window": 5
+ },
+ "out_name": "template_demo.mp4",
+ "align": {
+  "dtw_shift": 0.25,
+  "expand": {},
+  "homophones": {
+   "comm": "calm"
+  },
+  "numwords": {}
+ },
+ "srt_translations": {}
+}

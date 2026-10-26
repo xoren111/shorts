@@ -1,0 +1,77 @@
+{
+ "channel": {
+  "kind": "youtube#channel",
+  "etag": "tKt_pw-os0OBvSnYLf9mkfHa2i8",
+  "id": "UCwO_S1ViZf0gerlyb7GjZlw",
+  "snippet": {
+   "title": "Heisenberg",
+   "description": "🪙 business stories",
+   "customUrl": "@heisenberg-101",
+   "publishedAt": "2026-04-29T15:51:19.456732Z",
+   "thumbnails": {
+    "default": {
+     "url": "https://yt3.ggpht.com/-331N5LPd29jKCPfAureFhR_2cJE00VS7uFF3Hb360_7UA2-FxvWOHyUKzhb1Bac1KwbbvNj=s88-c-k-c0x00ffffff-no-rj",
+     "width": 88,
+     "height": 88
+    },
+    "medium": {
+     "url": "https://yt3.ggpht.com/-331N5LPd29jKCPfAureFhR_2cJE00VS7uFF3Hb360_7UA2-FxvWOHyUKzhb1Bac1KwbbvNj=s240-c-k-c0x00ffffff-no-rj",
+     "width": 240,
+     "height": 240
+    },
+    "high": {
+     "url": "https://yt3.ggpht.com/-331N5LPd29jKCPfAureFhR_2cJE00VS7uFF3Hb360_7UA2-FxvWOHyUKzhb1Bac1KwbbvNj=s800-c-k-c0x00ffffff-no-rj",
+     "width": 800,
+     "height": 800
+    }
+   },
+   "localized": {
+    "title": "Heisenberg",
+    "description": "🪙 business stories"
+   },
+   "country": "AZ"
+  },
+  "contentDetails": {
+   "relatedPlaylists": {
+    "likes": "",
+    "uploads": "UUwO_S1ViZf0gerlyb7GjZlw"
+   }
+  },
+  "statistics": {
+   "viewCount": "70396",
+   "subscriberCount": "424",
+   "hiddenSubscriberCount": false,
+   "videoCount": "4"
+  }
+ },
+ "videos": [
+  [
+   "2026-05-01",
+   "PT44S",
+   6996,
+   232,
+   "Where are entry level jobs?!"
+  ],
+  [
+   "2026-05-03",
+   "PT31S",
+   35471,
+   1139,
+   "Reading books to escape prison 🗿"
+  ],
+  [
+   "2026-05-05",
+   "PT39S",
+   15135,
+   344,
+   "Why Yamaha makes everything 🎹"
+  ],
+  [
+   "2026-05-09",
+   "PT56S",
+   13369,
+   537,
+   "How to change a country's culture"
+  ]
+ ]
+}

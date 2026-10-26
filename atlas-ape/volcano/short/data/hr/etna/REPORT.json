@@ -1,0 +1,71 @@
+{
+ "region": "etna",
+ "dem": {
+  "name": "TINITALY/1.1 (10 m DEM of Italy)",
+  "provider": "Istituto Nazionale di Geofisica e Vulcanologia (INGV), Pisa — tinitaly.pi.ingv.it",
+  "resolution_m": 10,
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "licence_quote": "TINITALY 1.1 is published with a CC BY 4.0 license and can be used freely, even partly, but it must be cited as follows. (https://tinitaly.pi.ingv.it/Download_Area1_1.html)",
+  "source_urls": [
+   "https://tinitaly.pi.ingv.it/Download_Area1_1.html",
+   "https://tinitaly.pi.ingv.it/data_1.1/w41510_s10/w41510_s10.zip",
+   "https://tinitaly.pi.ingv.it/data_1.1/w42010_s10/w42010_s10.zip",
+   "https://doi.org/10.13127/tinitaly/1.1"
+  ],
+  "attribution": "Tarquini S., I. Isola, M. Favalli, A. Battistini, G. Dotta (2023). TINITALY, a digital elevation model of Italy with a 10 meters cell size (Version 1.1). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/tinitaly/1.1 — CC BY 4.0; modified (reprojected UTM32→Web Mercator, resampled, normal map derived)."
+ },
+ "imagery": null,
+ "notes": "DEM: two TINITALY/1.1 tiles (EPSG:32632, 10 m, sea = nodata) mosaicked; 21 one/two-pixel inland voids filled from nearest cells. height.bin: anti-aliased (normalised Gaussian, sigma 0.42×cell/10 m) then cubic-sampled at the existing 1024×876 mercator cell centres; land = TINITALY coverage ≥ 0.5, land min 0.5 m; sea = min(old terrarium value, 0, −1 − 0.02×distance-to-coast) (≤ −31 m); the last 18 cells along the bbox border are smoothstep-feathered back to height_v1 so the seam with etna_wide is unchanged (border change 0 m). Median land difference vs v1 −4.4 m (terrarium is SRTM-based, includes canopy/buildings). normal.png: 4096×3503 (7.31 m/px) cubic resample of the 10 m DEM in mercator space (pixel-centre convention, same bbox as sat.jpg), facet softening sigma 0.8 px (TINITALY is TIN-derived), normals from central differences × EXAG 1.5, ground spacing width_m/W, height_m/H; water (TINITALY nodata, 1-px land fringe kept) = (0,1,0). Orientation verified: W flank n.x<0, S flank n.z>0, N flank n.z<0; coastline matches sat.jpg. meta.json: added normal_map/dem_source/imagery_source, updated h_min/h_max to the new height.bin (as coast_fix.py does), appended a TINITALY credit line. TINITALY summit is older than the current summit (max 3323 m; the 2011–2021 SE-Crater growth is not in it). Rejected candidates: (1) Regione Siciliana SITR MDT 2 m ATA 2012-2013 (map.sitr.regione.sicilia.it …/modelli_digitali/mdt_2013/ImageServer): metadata useLimitation 'soggetto a costo di cessione come indicato nel sito www.sitr.regione.sicilia.it'; the SITR CC BY 4.0 statement (sitr.regione.sicilia.it/licenza-duso) covers only data 'non sottoposti a costi di cessione', and D.A. 209/2011 lists the 2x2 DTM at €150/section, allows OGC-service use only for non-commercial purposes and requires consent for publication → not open for a monetised video. (2) SITR orthophotos ATA 2012-2013 25 cm: same cessione regime (metadata: use right granted after payment under L.R. 2/2007 art. 49). (3) SITR ortofoto 2019/2022 20 cm: AGEA imagery (copyright AGEA), no open licence. (4) Geoportale Nazionale/PCN orthophotos: AGEA-derived, no explicit open licence found. (5) PANGAEA.899176 (2 m Pléiades DEMs 2015/16) and PANGAEA.899140 (4 m DEM 2015): PANGAEA lists CC BY-NC-ND 4.0 (INGV data portal shows CC BY 4.0 for the latter — conflicting, so skipped). (6) USGS 2 m Pléiades DSM 2015 (doi:10.5066/P9IGLDYE): no explicit licence and ScienceBase is behind a bot challenge → skipped. (7) MASE PST LiDAR 1 m (CC BY 4.0) covers river corridors/coasts only. (8) OpenAerialMap: no imagery in bbox. Imagery therefore kept: EOX Sentinel-2 cloudless 2016 (CC BY 4.0); no clearly open imagery sharper than 10 m was found.",
+ "checks": {
+  "height_bin": {
+   "shape": [
+    876,
+    1024
+   ],
+   "finite": true,
+   "min": -31.0,
+   "max": 3319.97,
+   "mean": 991.15,
+   "sea_cells": 40779,
+   "sea_cells_gt0_outside_feather": 0,
+   "land_cells_le0_outside_feather": 0
+  },
+  "height_v1": {
+   "min": -5.58,
+   "max": 3298.24,
+   "mean": 996.26
+  },
+  "new_minus_v1_on_land_m": {
+   "median": -4.43,
+   "p05": -13.62,
+   "p95": 3.19,
+   "abs_max": 94.0
+  },
+  "border_max_abs_change_vs_v1_m": 0.0,
+  "feather_cells": 18,
+  "normal_png": {
+   "size": [
+    4096,
+    3503
+   ],
+   "m_per_px": 7.31,
+   "water_px_frac": 0.0449,
+   "unit_len_min": 0.993,
+   "unit_len_max": 1.007,
+   "ny_min": 0.202
+  },
+  "dem_hr_land_frac": 0.9549,
+  "summit_max_m": 3322.5,
+  "inland_voids_filled_px": 21,
+  "normal_soften_sigma_px": 0.8
+ },
+ "files": {
+  "height.bin": "public/terrain/etna/height.bin (new)",
+  "height_v1.bin": "public/terrain/etna/height_v1.bin (original terrarium copy)",
+  "normal.png": "public/terrain/etna/normal.png",
+  "meta.json": "public/terrain/etna/meta.json",
+  "compare": "data/hr/etna/compare.jpg",
+  "raw": "data/hr/etna/raw/tinitaly/ (zips + extracted GeoTIFFs)"
+ }
+}

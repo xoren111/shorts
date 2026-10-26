@@ -1,0 +1,126 @@
+{
+ "pulled": "2026-10-25T11:44:57",
+ "range": [
+  "2026-10-01",
+  "2026-10-25"
+ ],
+ "channel": {
+  "subscriberCount": "4",
+  "viewCount": "5239",
+  "videoCount": "6"
+ },
+ "videos": [
+  {
+   "id": "yR42PjbnqEo",
+   "title": "Humans Picked a Fight With a Volcano · 11.ai",
+   "published": "2026-10-19T20:08:39Z",
+   "duration": "PT1M17S",
+   "data_api_views": 663,
+   "data_api_likes": 13,
+   "data_api_comments": 0,
+   "analytics": {
+    "video": "yR42PjbnqEo",
+    "engagedViews": 367,
+    "views": 662,
+    "estimatedMinutesWatched": 257,
+    "averageViewDuration": 40,
+    "averageViewPercentage": 53.06999999999999,
+    "likes": 13,
+    "dislikes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 1,
+    "subscribersLost": 0
+   }
+  },
+  {
+   "id": "w52iSlkYlOg",
+   "title": "Australia Lost to 24 Rabbits · 11.ai",
+   "published": "2026-10-20T20:19:27Z",
+   "duration": "PT1M3S",
+   "data_api_views": 1154,
+   "data_api_likes": 12,
+   "data_api_comments": 0,
+   "analytics": {
+    "video": "w52iSlkYlOg",
+    "engagedViews": 706,
+    "views": 1150,
+    "estimatedMinutesWatched": 346,
+    "averageViewDuration": 28,
+    "averageViewPercentage": 45.33,
+    "likes": 12,
+    "dislikes": 0,
+    "shares": 0,
+    "comments": 0,
+    "subscribersGained": 0,
+    "subscribersLost": 0
+   }
+  },
+  {
+   "id": "TD53YW6dqoY",
+   "title": "The Longest Traffic Jam in History: 8 YEARS  · 11.ai",
+   "published": "2026-10-21T20:20:48Z",
+   "duration": "PT33S",
+   "data_api_views": 2312,
+   "data_api_likes": 18,
+   "data_api_comments": 1,
+   "analytics": {
+    "video": "TD53YW6dqoY",
+    "engagedViews": 465,
+    "views": 1168,
+    "estimatedMinutesWatched": 222,
+    "averageViewDuration": 26,
+    "averageViewPercentage": 81.28,
+    "likes": 9,
+    "dislikes": 0,
+    "shares": 0,
+    "comments": 2,
+    "subscribersGained": 0,
+    "subscribersLost": 0
+   }
+  },
+  {
+   "id": "Eoxim0DO2g4",
+   "title": "USA vs BRITISH EMPIRE… Over ONE Pig",
+   "published": "2026-10-22T21:10:12Z",
+   "duration": "PT42S",
+   "data_api_views": 1407,
+   "data_api_likes": 36,
+   "data_api_comments": 1,
+   "analytics": {
+    "video": "Eoxim0DO2g4",
+    "engagedViews": 385,
+    "views": 788,
+    "estimatedMinutesWatched": 197,
+    "averageViewDuration": 29,
+    "averageViewPercentage": 70.38,
+    "likes": 23,
+    "dislikes": 0,
+    "shares": 0,
+    "comments": 1,
+    "subscribersGained": 1,
+    "subscribersLost": 0
+   }
+  },
+  {
+   "id": "06A_mm0ZkGw",
+   "title": "He Sold Everything to Meet Her",
+   "published": "2026-10-23T22:28:54Z",
+   "duration": "PT33S",
+   "data_api_views": 125,
+   "data_api_likes": 2,
+   "data_api_comments": 0,
+   "analytics": {}
+  },
+  {
+   "id": "kP_YrKlOel8",
+   "title": "He Escaped Prison Dressed as a Doctor",
+   "published": "2026-10-24T21:39:03Z",
+   "duration": "PT44S",
+   "data_api_views": 1174,
+   "data_api_likes": 24,
+   "data_api_comments": 1,
+   "analytics": {}
+  }
+ ]
+}

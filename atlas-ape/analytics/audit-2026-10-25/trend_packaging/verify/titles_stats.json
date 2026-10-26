@@ -1,0 +1,132 @@
+{
+ "groups": {
+  ">=1M": {
+   "n": 201,
+   "median_words": 6,
+   "median_chars": 43,
+   "emoji_pct": 34.3,
+   "emoji_end_pct": 25.9,
+   "digit_pct": 11.4,
+   "question_pct": 7.0,
+   "caps_word_pct": 17.9,
+   "hashtag_pct": 32.3,
+   "pronoun_start_pct": 8.0,
+   "suffix_sep_pct": 9.5,
+   "ellipsis_pct": 4.5
+  },
+  "100K-1M": {
+   "n": 89,
+   "median_words": 9,
+   "median_chars": 53,
+   "emoji_pct": 12.4,
+   "emoji_end_pct": 11.2,
+   "digit_pct": 24.7,
+   "question_pct": 18.0,
+   "caps_word_pct": 41.6,
+   "hashtag_pct": 6.7,
+   "pronoun_start_pct": 6.7,
+   "suffix_sep_pct": 7.9,
+   "ellipsis_pct": 1.1
+  },
+  "<100K": {
+   "n": 169,
+   "median_words": 10,
+   "median_chars": 60,
+   "emoji_pct": 16.6,
+   "emoji_end_pct": 11.8,
+   "digit_pct": 32.0,
+   "question_pct": 2.4,
+   "caps_word_pct": 21.3,
+   "hashtag_pct": 22.5,
+   "pronoun_start_pct": 17.8,
+   "suffix_sep_pct": 6.5,
+   "ellipsis_pct": 3.0
+  }
+ },
+ "ours": [
+  {
+   "title": "Humans Picked a Fight With a Volcano · 11.ai",
+   "emoji": false,
+   "emoji_end": false,
+   "words": 9,
+   "chars": 44,
+   "digit": true,
+   "question": false,
+   "caps_word": false,
+   "hashtag": false,
+   "pronoun_start": false,
+   "suffix_sep": true,
+   "ellipsis": false
+  },
+  {
+   "title": "Australia Lost to 24 Rabbits · 11.ai",
+   "emoji": false,
+   "emoji_end": false,
+   "words": 7,
+   "chars": 36,
+   "digit": true,
+   "question": false,
+   "caps_word": false,
+   "hashtag": false,
+   "pronoun_start": false,
+   "suffix_sep": true,
+   "ellipsis": false
+  },
+  {
+   "title": "The Longest Traffic Jam in History: 8 YEARS  · 11.ai",
+   "emoji": false,
+   "emoji_end": false,
+   "words": 10,
+   "chars": 52,
+   "digit": true,
+   "question": false,
+   "caps_word": true,
+   "hashtag": false,
+   "pronoun_start": false,
+   "suffix_sep": true,
+   "ellipsis": false
+  },
+  {
+   "title": "USA vs BRITISH EMPIRE… Over ONE Pig",
+   "emoji": false,
+   "emoji_end": false,
+   "words": 7,
+   "chars": 35,
+   "digit": false,
+   "question": false,
+   "caps_word": true,
+   "hashtag": false,
+   "pronoun_start": false,
+   "suffix_sep": false,
+   "ellipsis": true
+  },
+  {
+   "title": "He Sold Everything to Meet Her",
+   "emoji": false,
+   "emoji_end": false,
+   "words": 6,
+   "chars": 30,
+   "digit": false,
+   "question": false,
+   "caps_word": false,
+   "hashtag": false,
+   "pronoun_start": true,
+   "suffix_sep": false,
+   "ellipsis": false
+  },
+  {
+   "title": "He Escaped Prison Dressed as a Doctor",
+   "emoji": false,
+   "emoji_end": false,
+   "words": 7,
+   "chars": 37,
+   "digit": false,
+   "question": false,
+   "caps_word": false,
+   "hashtag": false,
+   "pronoun_start": true,
+   "suffix_sep": false,
+   "ellipsis": false
+  }
+ ]
+}

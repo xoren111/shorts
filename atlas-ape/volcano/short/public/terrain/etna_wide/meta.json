@@ -1,0 +1,31 @@
+{
+ "region": "etna_wide",
+ "bbox": {
+  "s": 37.05,
+  "n": 38.3,
+  "w": 14.2,
+  "e": 15.75
+ },
+ "nx": 754,
+ "ny": 768,
+ "width_m": 136567.9,
+ "height_m": 139155.4,
+ "h_min": -2682.199462890625,
+ "h_max": 3297.452392578125,
+ "dem_zoom": 10,
+ "sat_zoom": 11,
+ "sat_size": [
+  2258,
+  2300
+ ],
+ "mercator": {
+  "x0": 0.5394444444444444,
+  "y0": 0.38466897210981044,
+  "x1": 0.54375,
+  "y1": 0.3890561051853952
+ },
+ "credits": [
+  "Elevation: AWS Terrain Tiles (Mapzen terrarium; SRTM, GMTED, ETOPO1, ArcticDEM et al.)",
+  "Imagery: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0"
+ ]
+}

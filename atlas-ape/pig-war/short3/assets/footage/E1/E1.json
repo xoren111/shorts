@@ -1,0 +1,36 @@
+{
+  "shot": "E1",
+  "file": "E1.mp4",
+  "variant": "E1",
+  "source_page": "https://www.pexels.com/video/farm-pig-roaming-freely-outdoors-37659261/",
+  "direct_url": "https://videos.pexels.com/video-files/37659261/15964166_3840_2160_25fps.mp4",
+  "title": "Farm Pig Roaming Freely Outdoors",
+  "author": "Magda Ehlers",
+  "author_url": "https://www.pexels.com/@magda-ehlers-pexels/",
+  "licence": "Pexels License (free for commercial use, no attribution required)",
+  "licence_url": "https://www.pexels.com/license/",
+  "attribution": null,
+  "source_file": "assets/raw/A/pexels-37659261/src.mp4",
+  "source_resolution": "3840x2160",
+  "source_fps": "25/1",
+  "segment": {
+    "t0": 9.0,
+    "t1": 16.4
+  },
+  "crop": {
+    "x": 1536,
+    "y": 0,
+    "w": 1215,
+    "h": 2160
+  },
+  "upscale": 1.067,
+  "output": {
+    "w": 1296,
+    "h": 2304,
+    "fps": "25/1",
+    "duration": 7.4,
+    "codec": "h264 crf16",
+    "audio": false
+  },
+  "description": "Same black-and-white pot-bellied pig lying calmly on warm sand, head on the right, almost static (4K)."
+}

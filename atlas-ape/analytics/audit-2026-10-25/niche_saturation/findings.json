@@ -1,0 +1,95 @@
+{
+ "analyst": "niche_saturation",
+ "date": "2026-10-25",
+ "summary": "The core niche (absurd/weird true history in English) is crowded on supply but NOT saturated at the top. At least 138 channels uploaded a matching Short in the last 48 h, 83 % of them under 10K subscribers, yet 24 English core Shorts passed 1M views in the last 90 days (7 from channels under a year old). The 2026 top 50 for «weird history» still has 47 Shorts at ≥1M (vs 43 in 2024). The real problem is the base rate: an honest panel of 40 random active uploaders shows a median of about 630 views per Short, 1.9 % of uploads reaching ≥100K and 0.5 % reaching ≥1M, and most of those 1M hits are 7–11 s clips, not 30–70 s narrated stories. ATLAS APE sits at the 68th percentile of that panel: an above-average newcomer, not a breakout. Breakout newcomers own one repeatable series promise (e.g. «10 Weird Things You Didn't Know About X», median 1.0M per Short), while one-hit mixed-topic channels fall back to 2–10K medians, and copying a title template alone flops (median 1,570). ATLAS has no such signature: Atlas's screen-time fell from 31 % to 0 % across the 6 uploads, there are 5+ visual styles in 6 Shorts, and the banner promises geography. What-if history maps give newcomers 9× more ≥100K hits per upload than the core niche (17 % vs 1.9 %), but fewer 1M slots. The owner's German channel runs at the 95th–97th percentile of a German market whose newcomer baseline matches the English one, so the edge is the format and execution, not an easy market. German, however, has almost no 1M ceiling (1 hit in 90 days). Bottom line: 1M is possible in English, but not by adding topics to the current mixed format. Pick one series format (the proven WWW map-question execution ported to English is the best-evidenced candidate) and one look, and decide Atlas's role. Caveats: panels are 29–37 channels per niche, subscriber counts are post-hit, search keyword matching is loose, and Shorts view counting changed in 2025.",
+ "findings": [
+  {
+   "id": "S-1",
+   "severity": "high",
+   "confidence": "high",
+   "claim": "The core niche (absurd/weird true history, English) is crowded on supply but not closed at the top. A 1M view count is still being reached in 2026, including by channels less than a year old.",
+   "evidence": "Supply: at least 138 distinct channels uploaded a matching English Short in the last 48 h. The median keyword had at least 32 Data-API-verified uploads per 24 h. 83 % of fresh supply comes from channels <10K subs and 56 % from channels <1 y old (results.json, raw/panel.json). Ceiling: 24 English core Shorts reached ≥1M in the last 90 d, from 20 channels; 7 of them from channels <1 y old (results.json ceiling_hits; raw/d90_1M_list.txt). The Data API top 50 for «weird history» has 47 Shorts ≥1M in 2026 YTD vs 43 in 2024 (raw/dapi_search.json).",
+   "action": "Stop asking whether the niche allows 1M; it does. The question is whether our execution can reach the top decile, because the median newcomer is stuck at about 600 views."
+  },
+  {
+   "id": "S-2",
+   "severity": "critical",
+   "confidence": "medium",
+   "claim": "The newcomer base rate in the core niche is brutal, and ATLAS APE sits inside the crowd: an above-average newcomer, not a breakout. At the panel's per-upload rate, a 1M hit would take about 190 uploads, and the 1M hits that do appear in this niche are mostly 7–11 s clips, not narrated stories like ours.",
+   "evidence": "Uploader panel (40 random channels that uploaded in the last 48 h, their own Shorts aged 3–30 d): median 632 views per Short, channel median 471. Per upload in the last 90 d: ≥10K 15.4 %, ≥100K 1.9 %, ≥1M 0.52 % (5 of 955 uploads, 4 channels) (raw/hit_rates.json). Our 3 Shorts aged 3–5 d (663 / 1,154 / 2,312 views) sit at the 51st / 65th / 76th percentiles; our channel median sits at the 68th percentile of channel medians (raw/own_vs_panel.json). P(≥1 hit at 1M) = 27 % in 60 uploads and 41 % in 100 at the panel rate. 3 of the 4 core panel 1M hits are 7–11 s clips (History Snap92 7 s, VortexX 8 s, ARCHIV 11 s); the median length of panel ≥100K hits in core is 11 s vs 46 s for all panel Shorts.",
+   "action": "Do not expect 1M from volume alone with the current story format. The odds for 30–70 s narrated stories are likely below the 0.52 % average (hypothesis, N=5 hits). Execution has to move to the top decile, where channel medians are ≥10K."
+  },
+  {
+   "id": "S-3",
+   "severity": "high",
+   "confidence": "medium",
+   "claim": "Among the adjacent niches, what-if history maps give a newcomer the fattest middle tail: 9× more ≥100K hits per upload than the core niche. The 1M ceiling is thinner there, though. Mystery/unsolved is dead for newcomers.",
+   "evidence": "Per-upload rates for ≥10K / ≥100K / ≥1M (raw/hit_rates.json): what-if maps 35.9 % / 17.1 % / 0.99 %; core 15.4 % / 1.9 % / 0.52 %; science 24.0 % / 7.5 % / 1.03 %; animals 22.1 % / 6.1 % / 1.73 %; geo 18.9 % / 5.1 % / 0.52 %; survival 28.5 % / 6.0 % / 0.28 %; true crime 8.8 % / 2.8 % / 1.29 % (12 of those hits come from 2 channels, one a film-clip channel); mystery 1.2 % / 0.16 % / 0. Brand-new what-if channels in the panel: What If Bro (16 d old, 1,070 subs) has a 561K Short; Loco Brain Maps (15 d, 1,490 subs) has 425K (raw/panel_videos.json). 90-d ≥1M found: what-if 11 vs core 24 (results.json). The median length of what-if panel ≥100K hits is 14 s.",
+   "action": "If the goal is a fast floor of 10K–100K per Short, map what-if/why formats have the best newcomer odds measured. For 1M specifically, the core and animal/science niches have more 1M hits in absolute terms. Avoid mystery/unsolved."
+  },
+  {
+   "id": "S-4",
+   "severity": "medium",
+   "confidence": "medium",
+   "claim": "From 2024 to 2026 the 10M mega-tail thinned in fact niches, but the 1M tier held or grew in core, survival, animals and Spanish stories.",
+   "evidence": "Data API search.list, same query, Jan 1–Oct 25 of each year, top 50 (raw/dapi_search.json; results.json year_compare). Count ≥1M, 2024 → 2026: core 43 → 47, survival 44 → 47, animals 48 → 48, es 42 → 48, what-if 17 → 23, mystery 8 → 16, geo 50 → 38, science 50 → 30, true crime 40 → 28. Count ≥10M, 2024 → 2026: core 18 → 10, geo 25 → 3, science 24 → 5. Top-10 median: geo 31.1M → 6.9M, science 43.8M → 10.9M. In the innertube pop_all results, 72 of 185 core «popular» Shorts were published in 2026 (results.json pop_all_publish_years).",
+   "action": "Treat 1M as a realistic per-Short target in core English. Treat 10M+ as rare. Caveats: 2024 videos had 12 more months to collect views, and the Shorts view-count change of 31.03.2025 inflates 2026 numbers. Both make the 2026 decline conservative, not exaggerated."
+  },
+  {
+   "id": "S-5",
+   "severity": "high",
+   "confidence": "medium",
+   "claim": "Breakout newcomers own one repeatable promise: a fixed series format, title shape and look. Channels that got one 1M hit with mixed topics fall back to a median of 2K–10K. One hit is luck; a series is a system.",
+   "evidence": "raw/breakouts_summary.json (yt-dlp metadata, Shorts tab). Template channels: FGtheexplainer (285 d) has 48/109 titles «10 Weird Things You Didn't Know About [famous person]», median 1.0M, 50 % ≥1M. Why Guy (299 d) uses the same template: median 1.1M, 57 % ≥1M. World Ji Ke (168 d), country-shape lists: median 1.6M, 71 % ≥1M. Meridian Anatomy (58 d), «X in 1000 years» maps: median 272K. Mixed-topic channels with one 1M hit: History Explorer (210 d), newest-20 median 1,850; GeoGlobeFiles (142 d), 5,300; Helivox (65 d), 2,800; Nikhil Panwar (196 d), 18,500. Survivorship bias: all 28 channels were selected because they had a 1M hit.",
+   "action": "Give the channel one series promise that a viewer recognises in 1 s (same title shape, same visual system, same host role) before chasing more topics."
+  },
+  {
+   "id": "S-6",
+   "severity": "medium",
+   "confidence": "medium",
+   "claim": "Copying a winning template alone does not win. A copied title formula flops; a copied visual/sound gimmick does better. What is on screen carries the promise.",
+   "evidence": "raw/copycats.json, last 30 d, originator excluded. Copycats of «10 weird things you didn't know about»: 16 uploads by 12 channels, median 1,570 views, 6 % ≥100K (the originator's median is 1.0M). «Countries that look the same»: 41 uploads, median 7,034, 17 % ≥100K. «If history had sound»: 61 uploads, median 25,224, 31 % ≥100K. This agrees with the 23.10 viral-vs-flop finding (same words ≠ same result).",
+   "action": "When defining the series, define the visual event per second and the first frame, not only the title wording. Measure every cut with measure.py against the viral medians."
+  },
+  {
+   "id": "S-7",
+   "severity": "high",
+   "confidence": "high",
+   "claim": "ATLAS APE has no recognisable signature yet. The orangutan is not used as a differentiator: he is an intro/outro host whose screen-time shrank to zero. Every Short uses a different visual language, and the banner promises a different channel (geography/maps).",
+   "evidence": "1-fps contact sheets (sheets/*_1fps.jpg; raw/own_atlas_screen_census.json). Atlas share of seconds, in upload order: Volcano 16/77 = 21 %, Rabbits 19/63 = 31 %, Yellow Fleet 6/33 = 19 %, Pig War 4/42 = 10 %, farm girl 2/33 = 6 % (tiny map icon), Russell 0/44 = 0 %. He is in frame 0 only in the first two. Visual styles: DEM satellite + toy 3D, low-poly 3D, toy-3D ships, AI-photoreal + flat vector, AI Pixar-like, flat vector (5+ systems in 6 Shorts). Channel: banner «GEOGRAPHY · MAPS · FACTS», description empty, 4 subscribers from 5,239 views (data/2026-10-25/summary.json, channel.json). N=6 shows no relation between Atlas screen-time and views (best: Yellow Fleet, 2,312 views, Atlas 19 %; Russell, 1,174 views at 10 h, Atlas 0 %).",
+   "action": "Decide once. Either make Atlas the protagonist of the series format (reacting inside the story in the first 2 s, the same role every time) or drop him from the Shorts and keep him as the avatar only. Lock one visual system across uploads, and fix the banner and description to the actual promise."
+  },
+  {
+   "id": "S-8",
+   "severity": "high",
+   "confidence": "high",
+   "claim": "The owner's German channel shows his execution can beat the market base rate by a wide margin. It does so in a fixed-promise format (one history/geo question per Short on an animated map), not in a softer market: the German newcomer baseline is about the same as the English one.",
+   "evidence": "Was Wäre Wenn, October 2026: 29 Shorts, median 87,587, min 17,653, max 511,363, 13 ≥100K, 0 ≥1M, total 4.22M (raw/wwW_shorts_dapi.json; Data API). The German uploader panel's median Short is 1,175 (3–30 d), close to English core 632 and what-if 944 (results.json panel). The WWW median Short sits at the 95th percentile of German panel uploads; its channel median at the 97th percentile (raw/own_vs_panel.json). Its worst October Short (17.6K) beats the best ATLAS Short (2.3K) by 7.6×. Its October Shorts are 60–74 s long, so length is not the issue.",
+   "action": "Port the proven WWW execution (one question per Short on an animated map, a fixed title shape, the same look every time) into English as the ATLAS series format, or as a parallel A/B series. Language and format are confounded (N=1 channel), so test before betting the channel."
+  },
+  {
+   "id": "S-9",
+   "severity": "medium",
+   "confidence": "medium",
+   "claim": "German has a high floor but a low 1M ceiling for history Shorts. English has a lower floor for us but many more 1M slots. For the stated 1M goal, English is the right market, not German.",
+   "evidence": "German-language history Shorts ≥1M in 90 d (Innertube popularity buckets, 4 keywords): 1, max 1.63M. English core with the same method: 9; with the Data API added: 24 (raw/innertube_ceiling_90d.json, results.json). German panel ≥1M per upload: 0.49 % (4 uploads, 3 channels, partly off-topic). WWW's own maximum after 37 Shorts is 511K.",
+   "action": "Keep German for reliable reach and revenue. Aim for 1M with English, using the format that already works in German."
+  },
+  {
+   "id": "S-10",
+   "severity": "medium",
+   "confidence": "high",
+   "claim": "Search-based samples of «fresh uploads» over-represent winners by 7–131×. Earlier conclusions drawn from search results (e.g. «fresh uploads get 1–2K») need this correction, and the uploader panel should be the baseline.",
+   "evidence": "Search-sample median at 3–30 d vs panel median: core 10,576 vs 632 (×17), what-if 45,286 vs 944 (×48), survival ×38, true crime ×47, mystery ×131, es ×7, de ×9 (results.json views_age_3_30d vs panel). Panel N = 29–37 channels with qualifying Shorts per niche; subscriber counts are from today (after any hit).",
+   "action": "Use scripts/panel.py + hit_rates.py (about 80 Data API units per niche) as the baseline for future niche and format decisions; do not use search-ranked samples."
+  }
+ ],
+ "files": {
+  "report": "niche_saturation.md",
+  "results": "results.json",
+  "raw": "raw/",
+  "scripts": "scripts/",
+  "contact_sheets": "sheets/"
+ },
+ "quota_units_used": 4118
+}

@@ -1,0 +1,6 @@
+Volcano words 151 span 75.58 wps 2.0 gaps>=0.5s 6 silence_s 3.8 share 0.05
+  first 25s: [(2.98, 3.52, 0.54, 'volcano.|And'), (6.23, 6.94, 0.71, 'lava.|1935,'), (9.17, 9.67, 0.5, 'Hawaii.|Lava'), (23.81, 24.63, 0.82, 'anything.|1992,')]
+Rabbits words 119 span 60.96 wps 1.95 gaps>=0.5s 13 silence_s 7.2 share 0.12
+  first 25s: [(3.27, 3.83, 0.56, 'say.|Twenty-four'), (5.39, 5.89, 0.5, 'off.|Turns'), (11.15, 11.77, 0.62, 'millions.|Australia'), (13.33, 13.94, 0.61, 'back.|Round'), (15.81, 16.35, 0.54, 'prize.|Louis'), (19.4, 19.9, 0.5, 'cholera.|The'), (23.13, 23.64, 0.51, 'dogs.|They'), (24.74, 25.26, 0.52, 'birds.|It')]
+YF_bf words 85 span 31.18 wps 2.73 gaps>=0.5s 1 silence_s 0.5 share 0.02
+  first 25s: []

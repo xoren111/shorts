@@ -1,0 +1,215 @@
+{
+ "slug": "conman-russell",
+ "channel": "atlas-ape",
+ "level": "L2",
+ "library_root": "/Users/khorengrigoryan/shorts/SHORTS_PRODUCTION",
+ "vo": "vo_constantino_C1_loop.wav",
+ "vo_note": "ElevenLabs PAID (atlas-ape/.env.elevenlabs_paid), Constantino ApsbCjXt5HguctE80a0i, eleven_v4, speed 1.0, pauses 0.15 s (vo_paid/tight.py) — take C1 picked by the owner 24.10; cut after «Because» (43.535 s) for a seamless loop — owner 25.10",
+ "music": "short/public/music/music_mischief_maker_kevin_macleod_incompetech_usuan1700009.mp3",
+ "music_license": "Creative Commons Attribution 4.0 International (CC BY 4.0) — credit in the description",
+ "music_gain_db": -21.6,
+ "music_out_word": 96,
+ "music_in_word": 98,
+ "music_end_word": null,
+ "tail_s": 0.12,
+ "loop_s": 0.35,
+ "vo_end": null,
+ "duration": null,
+ "allow_over_60": false,
+ "gold_words": [
+  6,
+  8,
+  19,
+  24,
+  36,
+  44,
+  58,
+  65,
+  80,
+  97,
+  101,
+  112,
+  124,
+  133
+ ],
+ "teal_words": [],
+ "break_after": [],
+ "hide_subs": [
+  [
+   47,
+   52
+  ],
+  [
+   92,
+   95
+  ],
+  [
+   128,
+   131
+  ]
+ ],
+ "atlas": null,
+ "ab": {
+  "enabled": false,
+  "variants": {
+   "A": {
+    "atlas_hook": false
+   },
+   "B": {
+    "atlas_hook": true,
+    "atlas_hook_pose": "shock",
+    "atlas_hook_corner": "tr",
+    "atlas_hook_h": 300,
+    "atlas_hook_until": 1.0
+   }
+  }
+ },
+ "variety": {
+  "window": 5
+ },
+ "out_name": "conman_russell.mp4",
+ "align": {
+  "dtw_shift": 0.25,
+  "expand": {
+   "900,000": [
+    "nine",
+    "hundred",
+    "thousand"
+   ],
+   "45,000": [
+    "forty-five",
+    "thousand"
+   ],
+   "144": [
+    "one",
+    "hundred",
+    "forty-four"
+   ]
+  },
+  "homophones": {},
+  "numwords": {},
+  "el_words": "vo_constantino_C1_loop_el_words.json",
+  "drop_zero_tail": true
+ },
+ "srt_translations": {
+  "es": [
+   "Este hombre salió caminando de una",
+   "prisión de máxima seguridad cuatro veces.",
+   "Los guardias le sostenían la puerta.",
+   "Primera:",
+   "vestido de obrero, golpeó con una radio",
+   "de policía la ventana de los guardias — y salió.",
+   "Segunda:",
+   "haciéndose pasar por juez, llamó a la cárcel y se bajó",
+   "la fianza de 900.000 a 45.000 dólares.",
+   "Tercera:",
+   "pintó su uniforme de verde con rotuladores.",
+   "El guardia vio a un médico — y",
+   "le abrió la puerta principal.",
+   "Cuarta:",
+   "con historiales médicos falsos convenció",
+   "a la prisión de que se estaba muriendo.",
+   "Lo enviaron a un centro de cuidados paliativos.",
+   "Luego Texas recibió la noticia:",
+   "Steven Russell había muerto.",
+   "No era cierto.",
+   "Haciéndose pasar por médico, se dio",
+   "de alta él mismo — y se declaró muerto.",
+   "¿El único error que lo delató?",
+   "No podía alejarse del hombre que amaba.",
+   "Texas le dio 144 años de condena.",
+   "Una hora al día fuera de su celda.",
+   "Porque…"
+  ],
+  "pt-BR": [
+   "Este homem saiu andando de uma",
+   "prisão de segurança máxima quatro vezes.",
+   "Os guardas seguravam a porta.",
+   "Primeira:",
+   "vestido de operário, bateu com um rádio",
+   "da polícia na janela dos guardas — e saiu.",
+   "Segunda:",
+   "fingindo ser juiz, ligou para a cadeia e baixou",
+   "a própria fiança de US$ 900 mil para US$ 45 mil.",
+   "Terceira:",
+   "pintou o uniforme de verde com canetinhas.",
+   "O guarda viu um médico — e",
+   "abriu a porta da frente.",
+   "Quarta:",
+   "prontuários médicos falsos convenceram",
+   "a prisão de que ele estava morrendo.",
+   "Mandaram ele para uma casa de cuidados paliativos.",
+   "Aí o Texas recebeu a notícia:",
+   "Steven Russell estava morto.",
+   "Não estava.",
+   "Fingindo ser médico, ele deu",
+   "alta a si mesmo — e se declarou morto.",
+   "O único erro que o entregou?",
+   "Ele não conseguia ficar longe do homem que amava.",
+   "O Texas deu a ele 144 anos.",
+   "Uma hora por dia fora da cela.",
+   "Porque…"
+  ],
+  "fr": [
+   "Cet homme est sorti à pied d'une",
+   "prison de haute sécurité quatre fois.",
+   "Les gardiens lui tenaient la porte.",
+   "1 :",
+   "habillé en ouvrier, il a tapé avec une radio",
+   "de police sur la vitre des gardiens — et il est sorti.",
+   "2 :",
+   "se faisant passer pour un juge, il a appelé la prison et réduit",
+   "sa propre caution de 900 000 à 45 000 dollars.",
+   "3 :",
+   "il a coloré son uniforme en vert au feutre.",
+   "Le gardien a vu un médecin — et",
+   "lui a ouvert la porte d'entrée.",
+   "4 :",
+   "de faux dossiers médicaux ont convaincu",
+   "la prison qu'il était mourant.",
+   "On l'a envoyé dans un centre de soins palliatifs.",
+   "Puis le Texas a appris la nouvelle :",
+   "Steven Russell était mort.",
+   "Il ne l'était pas.",
+   "Se faisant passer pour un médecin, il a signé",
+   "sa propre sortie — et s'est déclaré mort.",
+   "La seule erreur qui l'a fait tomber ?",
+   "Il ne pouvait pas rester loin de l'homme qu'il aimait.",
+   "Le Texas lui a donné 144 ans.",
+   "Une heure par jour hors de sa cellule.",
+   "Parce que…"
+  ],
+  "de": [
+   "Dieser Mann spazierte viermal aus einem",
+   "Hochsicherheitsgefängnis.",
+   "Die Wärter hielten ihm die Tür auf.",
+   "Erstens:",
+   "als Arbeiter verkleidet, klopfte er mit einem",
+   "Polizeifunkgerät ans Wärterfenster — und ging raus.",
+   "Zweitens:",
+   "als Richter getarnt rief er im Gefängnis an und senkte",
+   "seine eigene Kaution von 900.000 auf 45.000 Dollar.",
+   "Drittens:",
+   "er färbte seine Uniform mit Filzstiften grün.",
+   "Der Wärter sah einen Arzt — und",
+   "öffnete ihm die Vordertür.",
+   "Viertens:",
+   "gefälschte Krankenakten überzeugten",
+   "das Gefängnis, dass er im Sterben lag.",
+   "Man verlegte ihn in ein Hospiz.",
+   "Dann bekam Texas die Nachricht:",
+   "Steven Russell war tot.",
+   "War er nicht.",
+   "Als Arzt getarnt entließ er sich",
+   "selbst — und erklärte sich für tot.",
+   "Der eine Fehler, der ihn verriet?",
+   "Er kam nicht los von dem Mann, den er liebte.",
+   "Texas gab ihm 144 Jahre.",
+   "Eine Stunde am Tag außerhalb seiner Zelle.",
+   "Denn…"
+  ]
+ },
+ "music_fade_in": 0.15,
+ "music_end_lead": 0.14,
+ "music_fade_out": 0.12
+}

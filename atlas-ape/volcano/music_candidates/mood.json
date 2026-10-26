@@ -1,0 +1,62 @@
+[
+ {
+  "key": "D minor",
+  "major_vs_minor": -0.246,
+  "brightness_hz": 426,
+  "low_share": 0.188,
+  "rough": 0.856,
+  "stingers": 0,
+  "track": "End Of Valor - Density & Time",
+  "bpm": 99
+ },
+ {
+  "key": "F major",
+  "major_vs_minor": 0.22,
+  "brightness_hz": 346,
+  "low_share": 0.594,
+  "rough": 0.982,
+  "stingers": 1,
+  "track": "The Marble Cinematic University - Ezra Lipp",
+  "bpm": 112
+ },
+ {
+  "key": "C major",
+  "major_vs_minor": 0.162,
+  "brightness_hz": 154,
+  "low_share": 0.717,
+  "rough": 0.847,
+  "stingers": 1,
+  "track": "Rogue Force - Jimena Contreras",
+  "bpm": 118
+ },
+ {
+  "key": "F major",
+  "major_vs_minor": 0.184,
+  "brightness_hz": 415,
+  "low_share": 0.567,
+  "rough": 0.983,
+  "stingers": 2,
+  "track": "Man Versus Tank - The Soundings",
+  "bpm": 89
+ },
+ {
+  "key": "B minor",
+  "major_vs_minor": -0.052,
+  "brightness_hz": 377,
+  "low_share": 0.602,
+  "rough": 0.915,
+  "stingers": 0,
+  "track": "Battle Of The Beast - The Soundings",
+  "bpm": 123
+ },
+ {
+  "key": "E major",
+  "major_vs_minor": 0.198,
+  "brightness_hz": 260,
+  "low_share": 0.636,
+  "rough": 0.834,
+  "stingers": 7,
+  "track": "Sagas - The Grey Room _ Density & Time",
+  "bpm": 129
+ }
+]

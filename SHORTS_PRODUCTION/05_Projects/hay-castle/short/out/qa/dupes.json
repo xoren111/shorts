@@ -1,0 +1,595 @@
+[
+ {
+  "t": 0.0,
+  "subtitle": "HE'S HIDING",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 0.5,
+  "subtitle": "WHOLE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 1.0,
+  "subtitle": "WHOLE CASTLE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 1.5,
+  "subtitle": "WHOLE CASTLE BEHIND",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 2.0,
+  "subtitle": "ID SO IT",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 2.5,
+  "subtitle": "CAN NEVER",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 3.0,
+  "subtitle": "TORN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 3.5,
+  "subtitle": "TORN DOWN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 4.0,
+  "subtitle": "HIS BET",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 4.5,
+  "subtitle": "STAY-UNSEEN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 5.0,
+  "subtitle": "STAY UNSEEN FOR",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 5.5,
+  "subtitle": "",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 6.0,
+  "subtitle": "",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 6.5,
+  "subtitle": "ONE LOOK FROM",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 7.0,
+  "subtitle": "THE COUNCIL",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 7.5,
+  "subtitle": "AND THEYCAN",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 8.0,
+  "subtitle": "",
+  "overlays": [
+   "!!"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 8.5,
+  "subtitle": "ORDER IT GONE",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 9.0,
+  "subtitle": "BATTLEMENTS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 9.5,
+  "subtitle": "CANNONS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 10.0,
+  "subtitle": "HIS",
+  "overlays": [
+   "VV"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 10.5,
+  "subtitle": "HIS FAMILY",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 11.0,
+  "subtitle": "HIS FAMILY LIVING",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 11.5,
+  "subtitle": "INSIDE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 12.0,
+  "subtitle": "THE COUNCIL",
+  "overlays": [
+   "IEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 12.5,
+  "subtitle": "THE COUNCIL NEVER",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 13.0,
+  "subtitle": "SEES A THING",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 13.5,
+  "subtitle": "",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 14.0,
+  "subtitle": "LATER",
+  "overlays": [],
+  "credits": [
+   "START"
+  ],
+  "flags": []
+ },
+ {
+  "t": 14.5,
+  "subtitle": "THE BALES",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 15.0,
+  "subtitle": "DOWN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 15.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [
+   "HE"
+  ],
+  "flags": []
+ },
+ {
+  "t": 16.0,
+  "subtitle": "HE THINKS HE'S",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 16.5,
+  "subtitle": "WON",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 17.0,
+  "subtitle": "THEN THE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 17.5,
+  "subtitle": "RULES",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 18.0,
+  "subtitle": "",
+  "overlays": [
+   "HIDING IT"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 18.5,
+  "subtitle": "",
+  "overlays": [
+   "HIDING IT •"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 19.0,
+  "subtitle": "",
+  "overlays": [
+   "HIDING IT = / BUILDING IT"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 19.5,
+  "subtitle": "",
+  "overlays": [
+   "HIDINGIT = / BUILDING IT"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 20.0,
+  "subtitle": "SO IT WASN'T",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 20.5,
+  "subtitle": "FINISHED",
+  "overlays": [],
+  "credits": [
+   "COMPLETED"
+  ],
+  "flags": []
+ },
+ {
+  "t": 21.0,
+  "subtitle": "THE",
+  "overlays": [
+   "COMPLETED"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 21.5,
+  "subtitle": "DOWN",
+  "overlays": [
+   "COMPLETED"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 22.0,
+  "subtitle": "THE",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 22.5,
+  "subtitle": "THE CLOCK HADN'T",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 23.0,
+  "subtitle": "EVEN STARTED",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 23.5,
+  "subtitle": "EVEN STARTED",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 24.0,
+  "subtitle": "HIS LAST",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 24.5,
+  "subtitle": "HIS LAST STAND3",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 25.0,
+  "subtitle": "BATS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 25.5,
+  "subtitle": "AND NEWTS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 26.0,
+  "subtitle": "AND NEWTS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 26.5,
+  "subtitle": "APPARENTLY",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 27.0,
+  "subtitle": "MOVED IN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 27.5,
+  "subtitle": "KNOCK",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 28.0,
+  "subtitle": "HE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 28.5,
+  "subtitle": "AND",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 29.0,
+  "subtitle": "AND YOU'D BREAK",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 29.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [
+   "NILDLIEE",
+   "LAW"
+  ],
+  "flags": []
+ },
+ {
+  "t": 30.0,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [
+   "ILDLIEE",
+   "LAW"
+  ],
+  "flags": []
+ },
+ {
+  "t": 30.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 31.0,
+  "subtitle": "",
+  "overlays": [
+   "EJECTE"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 31.5,
+  "subtitle": "THE JUDGE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 32.0,
+  "subtitle": "TEAR",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 32.5,
+  "subtitle": "TEAR IT DOWN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 33.0,
+  "subtitle": "OR FACE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 33.5,
+  "subtitle": "OR FACE JAIL",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 34.0,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 34.5,
+  "subtitle": "SO HE TEARS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 35.0,
+  "subtitle": "DOWN HIS 'OWN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 35.5,
+  "subtitle": "CASTLE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 36.0,
+  "subtitle": "BEATEN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 36.5,
+  "subtitle": "BEATEN BY THE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 37.0,
+  "subtitle": "I HE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 37.5,
+  "subtitle": "IT WITH®",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 38.0,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ }
+]

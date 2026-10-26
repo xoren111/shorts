@@ -1,0 +1,423 @@
+{
+ "niche": "motivation",
+ "keywords": [
+  "motivation",
+  "motivational speech",
+  "discipline",
+  "mindset",
+  "success quotes"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:22 UTC",
+ "fresh_uploads": 165,
+ "fresh_uploaders": 129,
+ "new_uploaders": 60,
+ "new_share_of_uploaders": 0.465,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 34,
+ "shorts": 994,
+ "median_views": 19133,
+ "p75_views": 59338,
+ "p90_views": 271470,
+ "share_10k": 0.6227,
+ "share_100k": 0.1781,
+ "share_1m": 0.0312,
+ "ci95_100k": [
+  0.1555,
+  0.2031
+ ],
+ "hits_100k": 177,
+ "hits_1m": 31,
+ "channels_any_100k": 0.559,
+ "channels_any_1m": 0.235,
+ "median_channel_median": 18021,
+ "top": [
+  {
+   "views": 28117968,
+   "title": "When Brain Meet Money 🧠💸 : #selfimprovement #mindset #grind #brain #money",
+   "channel": "ZONE90-YT",
+   "ch": "UCDe26Qgyemiflb8-DbTGyMw",
+   "url": "https://youtube.com/shorts/54WtPNNE3b0",
+   "age_d": 13
+  },
+  {
+   "views": 8809861,
+   "title": "Never miss your next chance",
+   "channel": "Simply Animated",
+   "ch": "UCQeKU3-SyI5gioUe-3KO-0w",
+   "url": "https://youtube.com/shorts/J1q70DHZ3ao",
+   "age_d": 12
+  },
+  {
+   "views": 7388458,
+   "title": "Make yourself proud",
+   "channel": "Simply Animated",
+   "ch": "UCQeKU3-SyI5gioUe-3KO-0w",
+   "url": "https://youtube.com/shorts/oawcYAJdKc4",
+   "age_d": 66
+  },
+  {
+   "views": 6885157,
+   "title": "Don't be perfect, be authentic",
+   "channel": "Simply Animated",
+   "ch": "UCQeKU3-SyI5gioUe-3KO-0w",
+   "url": "https://youtube.com/shorts/t-15nNECidg",
+   "age_d": 14
+  },
+  {
+   "views": 6307564,
+   "title": "bro is making the impossible possible 💀 #mindset #selfimprovement #motivation #discipline",
+   "channel": "Bizo Fan",
+   "ch": "UCQAEzeFycWA5TpQ_RMXRz9w",
+   "url": "https://youtube.com/shorts/1C4Ex1udqJQ",
+   "age_d": 22
+  },
+  {
+   "views": 5611884,
+   "title": "When instant karma 10x 🗿⚡: #selfimprovement #mindset #mindsetminute #grind #karma #instant",
+   "channel": "ZONE90-YT",
+   "ch": "UCDe26Qgyemiflb8-DbTGyMw",
+   "url": "https://youtube.com/shorts/yWwDjn8bjnw",
+   "age_d": 8
+  },
+  {
+   "views": 4967101,
+   "title": "DISCIPLINED MENTALITY #discipline #motivation #success #mindset  #consistency #fyp #reels #shorts",
+   "channel": "DISCIPLINE4YOU",
+   "ch": "UC7dp-1U8Ycq82QGIdG0RBew",
+   "url": "https://youtube.com/shorts/YzZWnYqhKE4",
+   "age_d": 9
+  },
+  {
+   "views": 4620694,
+   "title": "Work in silence. Let results speak",
+   "channel": "Simply Animated",
+   "ch": "UCQeKU3-SyI5gioUe-3KO-0w",
+   "url": "https://youtube.com/shorts/5yoy9rg5kGk",
+   "age_d": 60
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UC6gqSiv-RqM5Qn97zLULfjw",
+   "title": "Invictus motive",
+   "created": "2026-03-19",
+   "subs": 7500,
+   "shorts_aged": 40,
+   "max": 768333
+  },
+  {
+   "ch": "UCoGxoFFoalTkxhmnwy9zwLA",
+   "title": "Built",
+   "created": "2026-10-10",
+   "subs": 79,
+   "shorts_aged": 13,
+   "max": 1123
+  },
+  {
+   "ch": "UCNsYnot2E0GLXeXd4QTH55w",
+   "title": "MrVibes65",
+   "created": "2026-08-03",
+   "subs": 1630,
+   "shorts_aged": 30,
+   "max": 61933
+  },
+  {
+   "ch": "UCMbISfoLYese4CldrEIviVA",
+   "title": "Abeeha Quotes ",
+   "created": "2026-09-24",
+   "subs": 756,
+   "shorts_aged": 20,
+   "max": 89757
+  },
+  {
+   "ch": "UCfCfhwF1xzRb5pkiQYS3GSA",
+   "title": "BREAK THE CYCLE",
+   "created": "2026-08-29",
+   "subs": 868,
+   "shorts_aged": 43,
+   "max": 43581
+  },
+  {
+   "ch": "UCSd40zvY-_8mCH5gG4mxksw",
+   "title": "Moona-quotes ",
+   "created": "2026-06-22",
+   "subs": 862,
+   "shorts_aged": 41,
+   "max": 99126
+  },
+  {
+   "ch": "UCZ4VrX3mYqwwrH6WsCr2qIQ",
+   "title": "Goggins Arc",
+   "created": "2026-09-01",
+   "subs": 8530,
+   "shorts_aged": 42,
+   "max": 716318
+  },
+  {
+   "ch": "UCy2prdNKUPJ7TnEfLZx6Z4Q",
+   "title": "FF editor zoom b2k ",
+   "created": "2026-08-13",
+   "subs": 9560,
+   "shorts_aged": 33,
+   "max": 3042694
+  },
+  {
+   "ch": "UCDe26Qgyemiflb8-DbTGyMw",
+   "title": "ZONE90-YT",
+   "created": "2026-07-23",
+   "subs": 80800,
+   "shorts_aged": 30,
+   "max": 28117968
+  },
+  {
+   "ch": "UCW7gy6yEnxDlqeRl7Y8flTA",
+   "title": "Ven Inspire ",
+   "created": "2026-08-04",
+   "subs": 544,
+   "shorts_aged": 36,
+   "max": 83048
+  },
+  {
+   "ch": "UC55O6N9vX5Fwqb2AtGS9jNw",
+   "title": "One More Step",
+   "created": "2026-07-25",
+   "subs": 12600,
+   "shorts_aged": 12,
+   "max": 84054
+  },
+  {
+   "ch": "UChSkWYQpKA48K-87FsQyGUw",
+   "title": "AK VIBES 2",
+   "created": "2026-09-04",
+   "subs": 6130,
+   "shorts_aged": 37,
+   "max": 98154
+  },
+  {
+   "ch": "UCQeKU3-SyI5gioUe-3KO-0w",
+   "title": "Simply Animated",
+   "created": "2026-02-25",
+   "subs": 251000,
+   "shorts_aged": 45,
+   "max": 8809861
+  },
+  {
+   "ch": "UCg93NcxksbYxVlz1zeekmUg",
+   "title": "Salmah Tv Info",
+   "created": "2026-10-20",
+   "subs": 520,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCAEro9TVRCyUDn8rtfEfc5w",
+   "title": "Kane Cross",
+   "created": "2025-11-01",
+   "subs": 6360,
+   "shorts_aged": 37,
+   "max": 74896
+  },
+  {
+   "ch": "UC-7rtd2VIvwV3zPmObOpVdQ",
+   "title": "Soul lines 86",
+   "created": "2026-10-08",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCGbaitvTWzj3540LWAU2pDw",
+   "title": "RICH_AURA X",
+   "created": "2026-06-23",
+   "subs": 9480,
+   "shorts_aged": 33,
+   "max": 2476598
+  },
+  {
+   "ch": "UC7dp-1U8Ycq82QGIdG0RBew",
+   "title": "DISCIPLINE4YOU",
+   "created": "2026-01-17",
+   "subs": 22600,
+   "shorts_aged": 37,
+   "max": 4967101
+  },
+  {
+   "ch": "UC2KGyOTFPtnG3fDrpem_36Q",
+   "title": "Mind Decode English",
+   "created": "2026-08-18",
+   "subs": 359,
+   "shorts_aged": 19,
+   "max": 1109
+  },
+  {
+   "ch": "UCiVXAeWaKIDHkbVdNV2ENbg",
+   "title": "onlydiscipline-0745",
+   "created": "2025-12-14",
+   "subs": 28,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC8swAiL3LyVwYFyNClnIRqw",
+   "title": "TwoTalk News ",
+   "created": "2026-10-12",
+   "subs": 2970,
+   "shorts_aged": 16,
+   "max": 731124
+  },
+  {
+   "ch": "UCN8wL4nb-1MRHVDP_OBS9ow",
+   "title": "Yt Editz",
+   "created": "2026-09-30",
+   "subs": 1190,
+   "shorts_aged": 18,
+   "max": 260792
+  },
+  {
+   "ch": "UCPG_dk64j4H6tved2zPrEKQ",
+   "title": "_tahaa.thoughts ",
+   "created": "2026-04-03",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCuHGs0uKCALkSaoUjJ1pEag",
+   "title": "Ali Hedar",
+   "created": "2026-04-24",
+   "subs": 7960,
+   "shorts_aged": 26,
+   "max": 1231975
+  },
+  {
+   "ch": "UCQAEzeFycWA5TpQ_RMXRz9w",
+   "title": "Bizo Fan",
+   "created": "2026-05-05",
+   "subs": 216000,
+   "shorts_aged": 41,
+   "max": 6307564
+  },
+  {
+   "ch": "UCRd0pkdo7134jK8BL6U8_aw",
+   "title": "Awesome speed",
+   "created": "2026-01-25",
+   "subs": 21100,
+   "shorts_aged": 7,
+   "max": 1512841
+  },
+  {
+   "ch": "UClCxc7fW-a3WulFpjiQg8mQ",
+   "title": "Discipline Mindset ",
+   "created": "2026-08-11",
+   "subs": 5940,
+   "shorts_aged": 36,
+   "max": 430044
+  },
+  {
+   "ch": "UCRH17pvnIdqgqqThRCtnCxg",
+   "title": "TheWhybehindliving",
+   "created": "2026-10-22",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCKAN1mr0P0wrZRZ0_5z0xDw",
+   "title": "Dsf Motivation",
+   "created": "2025-12-24",
+   "subs": 6180,
+   "shorts_aged": 18,
+   "max": 19318
+  },
+  {
+   "ch": "UCRdIS08cjLh9rkySUmitWqQ",
+   "title": "Umar saying",
+   "created": "2026-03-23",
+   "subs": 11100,
+   "shorts_aged": 36,
+   "max": 497947
+  },
+  {
+   "ch": "UC66Pl1c1VP_KouoDkTcaMwg",
+   "title": "SilentTruth",
+   "created": "2026-04-15",
+   "subs": 1440,
+   "shorts_aged": 27,
+   "max": 39472
+  },
+  {
+   "ch": "UCLYDmNNVkGmMuGwffYcyW1w",
+   "title": "World Pulse News 🌍📰\n",
+   "created": "2026-09-25",
+   "subs": 27900,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCmlgEGkvRzd4Gi9PL7-MbUA",
+   "title": "Life Plained",
+   "created": "2026-10-10",
+   "subs": 867,
+   "shorts_aged": 10,
+   "max": 77412
+  },
+  {
+   "ch": "UCaMaw7eNV26Vpvdjgd-qWkg",
+   "title": "Voice of Impact",
+   "created": "2026-10-06",
+   "subs": 276,
+   "shorts_aged": 8,
+   "max": 2623
+  },
+  {
+   "ch": "UCJvtF0fRza-QeUn6tCY1xzQ",
+   "title": "Youngish Cartel ",
+   "created": "2026-01-13",
+   "subs": 6200,
+   "shorts_aged": 26,
+   "max": 224088
+  },
+  {
+   "ch": "UCIKn-2hvtubN4j4-DitfPQA",
+   "title": "Built By Susmita",
+   "created": "2026-06-25",
+   "subs": 976,
+   "shorts_aged": 36,
+   "max": 461849
+  },
+  {
+   "ch": "UCwBldBatnUe13EY2Smla1zg",
+   "title": "DailyQuteo",
+   "created": "2026-01-28",
+   "subs": 70,
+   "shorts_aged": 45,
+   "max": 1269
+  },
+  {
+   "ch": "UCuZcyq7lbnnrR38fHwMOmYA",
+   "title": "Ali Raza Information",
+   "created": "2026-09-21",
+   "subs": 13500,
+   "shorts_aged": 30,
+   "max": 586132
+  },
+  {
+   "ch": "UCNq5bRE6TLJsyl41lkrsxfw",
+   "title": "Volarin",
+   "created": "2026-06-26",
+   "subs": 11200,
+   "shorts_aged": 36,
+   "max": 536449
+  },
+  {
+   "ch": "UChs4E55QRvoOkXLyyusnvvw",
+   "title": "Imran Tv Info",
+   "created": "2026-09-04",
+   "subs": 1200,
+   "shorts_aged": 30,
+   "max": 652555
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "niche": "illusions_puzzles",
+ "keywords": [
+  "optical illusion",
+  "spot the difference",
+  "find the difference",
+  "eye test challenge",
+  "find the odd one out",
+  "hidden object"
+ ],
+ "relevance": "illusion|spot the|differen|odd one|eye ?test|hidden|can you (find|spot|see)|find the|look closely|only \\d+ ?% ?(can|of|find|see|spot)|sharp eyes|\\bmaze\\b",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:27 UTC",
+ "fresh_uploads": 277,
+ "fresh_uploaders": 226,
+ "new_uploaders": 139,
+ "new_share_of_uploaders": 0.615,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 22,
+ "shorts": 474,
+ "median_views": 2742,
+ "p75_views": 24322,
+ "p90_views": 47981,
+ "share_10k": 0.3544,
+ "share_100k": 0.0443,
+ "share_1m": 0.0084,
+ "ci95_100k": [
+  0.0292,
+  0.0668
+ ],
+ "hits_100k": 21,
+ "hits_1m": 4,
+ "channels_any_100k": 0.227,
+ "channels_any_1m": 0.136,
+ "median_channel_median": 1241,
+ "top": [
+  {
+   "views": 4058525,
+   "title": "#countryballs #tiktok",
+   "channel": "Fbadi Badi",
+   "ch": "UCNHJ_fCmlytGRc_DaE28v3w",
+   "url": "https://youtube.com/shorts/y4uIPNz0vAQ",
+   "age_d": 25
+  },
+  {
+   "views": 3106423,
+   "title": "Nokia Users Never Even Needed a Charger🗿",
+   "channel": "MivZ",
+   "ch": "UCWqltbrXnmUu1NcXwR39Jyg",
+   "url": "https://youtube.com/shorts/6A-hR1OL9jM",
+   "age_d": 9
+  },
+  {
+   "views": 1592561,
+   "title": "Only 0.1% people have these abilities😱",
+   "channel": "ObbyByte",
+   "ch": "UCx9Mww8nCi-YvQ3ESbwXs-g",
+   "url": "https://youtube.com/shorts/8rJ939qhaYo",
+   "age_d": 20
+  },
+  {
+   "views": 1008186,
+   "title": "Nokia vs LEGO 🗿",
+   "channel": "MivZ",
+   "ch": "UCWqltbrXnmUu1NcXwR39Jyg",
+   "url": "https://youtube.com/shorts/MFS8BzcnIXI",
+   "age_d": 10
+  },
+  {
+   "views": 854116,
+   "title": "CALL THE DOCTOR ANIMAL HOSPITAL ROBLOX | PART 1",
+   "channel": "PaperHand Craftdd",
+   "ch": "UC2M0LzmxMIyOIHXUF4apmFQ",
+   "url": "https://youtube.com/shorts/_PYqNo-uA1g",
+   "age_d": 21
+  },
+  {
+   "views": 779590,
+   "title": "Which Gif Is Correct?  Baldi's Basics part 7#baldi #baldisbasics #roblox",
+   "channel": "PaperHand Craftdd",
+   "ch": "UC2M0LzmxMIyOIHXUF4apmFQ",
+   "url": "https://youtube.com/shorts/1N04Cpo4VjU",
+   "age_d": 9
+  },
+  {
+   "views": 451750,
+   "title": "Amazing 3D Wall Painting Illusion 🎨🔥 #3DWallPainting #3DWallArt #WallPainting #illusion #shorts",
+   "channel": "waqar 3d art",
+   "ch": "UC3eKnnpogQ7zj3wdVv2YB3Q",
+   "url": "https://youtube.com/shorts/Ymn7s0frbxc",
+   "age_d": 28
+  },
+  {
+   "views": 448386,
+   "title": "Amezing 3d wall painting design 😍 #shorts #3dwallpainting #illusionart #walldesign #wallpainting",
+   "channel": "waqar 3d art",
+   "ch": "UC3eKnnpogQ7zj3wdVv2YB3Q",
+   "url": "https://youtube.com/shorts/ZbcWYmXOlHI",
+   "age_d": 29
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCO5QPYDUrTNUp1_Z4pI2Bow",
+   "title": "Fun to The Facts",
+   "created": "2026-04-23",
+   "subs": 1610,
+   "shorts_aged": 25,
+   "max": 30869
+  },
+  {
+   "ch": "UCmnaGPrk-qhKRvOzel6nsTg",
+   "title": "CurioRiddle",
+   "created": "2026-02-02",
+   "subs": 14,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCDvRHtRkKsLsXKAw5l89Udg",
+   "title": "mini master kids",
+   "created": "2026-09-04",
+   "subs": 3,
+   "shorts_aged": 9,
+   "max": 1213
+  },
+  {
+   "ch": "UCZQhyxFk0xJ_j2GuBMC3mzQ",
+   "title": "CLAWLOYAL",
+   "created": "2026-09-15",
+   "subs": 1,
+   "shorts_aged": 1,
+   "max": 34
+  },
+  {
+   "ch": "UC1yg4c9lXRAKVKhJvspsy1g",
+   "title": "Brain Break Puzzles",
+   "created": "2026-10-21",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCcRqHkgZ-ZoGFmmAL5tSzMg",
+   "title": "QuizHokage",
+   "created": "2026-10-17",
+   "subs": 97,
+   "shorts_aged": 3,
+   "max": 48
+  },
+  {
+   "ch": "UC2M0LzmxMIyOIHXUF4apmFQ",
+   "title": "PaperHand Craftdd",
+   "created": "2026-10-01",
+   "subs": 5080,
+   "shorts_aged": 35,
+   "max": 854116
+  },
+  {
+   "ch": "UCOvFPUS-KBBln3_1N4uOFng",
+   "title": "FramePanic",
+   "created": "2026-10-05",
+   "subs": 13,
+   "shorts_aged": 10,
+   "max": 2612
+  },
+  {
+   "ch": "UCofrUVRYWOWWILjCLnEVSyA",
+   "title": "Vibe-Unlocked! ",
+   "created": "2026-08-03",
+   "subs": 142,
+   "shorts_aged": 37,
+   "max": 2518
+  },
+  {
+   "ch": "UCePIlu4cDIY13FxgnivUgQA",
+   "title": "DiffFinder Lab ",
+   "created": "2026-01-30",
+   "subs": 152,
+   "shorts_aged": 25,
+   "max": 6669
+  },
+  {
+   "ch": "UC3eKnnpogQ7zj3wdVv2YB3Q",
+   "title": "waqar 3d art",
+   "created": "2026-06-30",
+   "subs": 19300,
+   "shorts_aged": 44,
+   "max": 451750
+  },
+  {
+   "ch": "UCahXQodUsWqp_gHkyWDkI1g",
+   "title": "Littluma Studio",
+   "created": "2026-10-24",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCScEl1Jzhg4409jbbRGABUA",
+   "title": "Brainy kids-Learning & Games",
+   "created": "2026-09-25",
+   "subs": 2,
+   "shorts_aged": 16,
+   "max": 212
+  },
+  {
+   "ch": "UCeh8QWpMG-KmCIhy90kU1uA",
+   "title": "Quizora | Daily Quiz",
+   "created": "2026-09-30",
+   "subs": 1,
+   "shorts_aged": 19,
+   "max": 361
+  },
+  {
+   "ch": "UC5clHfVVXSDjP3I13jogb_Q",
+   "title": "Quiz Draggy",
+   "created": "2026-10-11",
+   "subs": 92,
+   "shorts_aged": 9,
+   "max": 1131
+  },
+  {
+   "ch": "UCTVmQnIKdK2M8m_-lbEF2Aw",
+   "title": "Impirial X ",
+   "created": "2025-12-21",
+   "subs": 316,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCjiKrwv_pr4Kc6QeCC4SOxA",
+   "title": "Pixji Puzzles",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCIRsQP1oFXhRkX2X7c_oY7A",
+   "title": "PURE INTUITION",
+   "created": "2026-10-17",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCuyJaft68H1iSQCBMCBwVQg",
+   "title": "Planetcorious ",
+   "created": "2026-07-04",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCQVU4MSU-POjGB3XsPXYZig",
+   "title": "tap zone stop",
+   "created": "2025-11-29",
+   "subs": 9,
+   "shorts_aged": 5,
+   "max": 1466
+  },
+  {
+   "ch": "UCP_xLnZ2n5unrsXmg1uMuww",
+   "title": "Grigi Show",
+   "created": "2026-10-21",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCvwWrG0vHM8B8BP_4bJ1MlQ",
+   "title": "Genius Challenge",
+   "created": "2026-10-13",
+   "subs": 128,
+   "shorts_aged": 16,
+   "max": 1418
+  },
+  {
+   "ch": "UCxr_FQlxvMteiMcdSWY2_BQ",
+   "title": "Find 3 Differences",
+   "created": "2026-09-27",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCVcAU3FcsnJuMsl_BzFKYpA",
+   "title": "Software Adventure Network",
+   "created": "2026-09-19",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCQ6RIow8Lppnd4C283g5Qrg",
+   "title": "Mysterious Spot",
+   "created": "2026-04-02",
+   "subs": 5330,
+   "shorts_aged": 34,
+   "max": 15987
+  },
+  {
+   "ch": "UCWqltbrXnmUu1NcXwR39Jyg",
+   "title": "MivZ",
+   "created": "2026-09-26",
+   "subs": 1300,
+   "shorts_aged": 32,
+   "max": 3106423
+  },
+  {
+   "ch": "UCpgoQjJqIipd_hUW-IcXxZw",
+   "title": "infinityIQ",
+   "created": "2026-01-04",
+   "subs": 270,
+   "shorts_aged": 43,
+   "max": 33429
+  },
+  {
+   "ch": "UC5j9Ry-S43yGlV96HS8O2ow",
+   "title": "Witty Puzzler",
+   "created": "2026-10-22",
+   "subs": 15,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCm1wnzhDlr9TlMlETQGweuA",
+   "title": "EyeGem Focus",
+   "created": "2026-10-19",
+   "subs": 10,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCD-iExHFdHGe1gT8zITte3g",
+   "title": "ODD HUNT",
+   "created": "2026-10-18",
+   "subs": 20,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCNHJ_fCmlytGRc_DaE28v3w",
+   "title": "Fbadi Badi",
+   "created": "2026-07-21",
+   "subs": 5840,
+   "shorts_aged": 17,
+   "max": 4058525
+  },
+  {
+   "ch": "UCdacnDEOY53gGn_vzIV2dvQ",
+   "title": "Guess What You See",
+   "created": "2026-10-24",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCJym91aKc2oCptgxQZ3ldCg",
+   "title": "Eyes Challenge",
+   "created": "2026-10-12",
+   "subs": 13,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCg_Z0iHxcyUKulCUt-MqsDA",
+   "title": "Find It Challenge ",
+   "created": "2026-10-20",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCeyGqb-ZmO0aTHv-wrEHu5w",
+   "title": "Chalo Do ",
+   "created": "2026-10-09",
+   "subs": 192,
+   "shorts_aged": 5,
+   "max": 6234
+  },
+  {
+   "ch": "UCOTI4HjWGOVKZgipAEY9zFg",
+   "title": "BrainTap",
+   "created": "2026-09-12",
+   "subs": 61,
+   "shorts_aged": 32,
+   "max": 2643
+  },
+  {
+   "ch": "UCmOWGzepsHwJ0TPIGnYNjEg",
+   "title": "Pixel Hunt",
+   "created": "2026-10-21",
+   "subs": 11,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCzxUii4PcmwKPKuZoySt_SQ",
+   "title": "QuickQuiz1",
+   "created": "2026-10-25",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCx9Mww8nCi-YvQ3ESbwXs-g",
+   "title": "ObbyByte",
+   "created": "2026-08-22",
+   "subs": 113000,
+   "shorts_aged": 35,
+   "max": 1592561
+  },
+  {
+   "ch": "UC1yFbQbxIby7KUQLt0iQ3Hg",
+   "title": "CyanDonut",
+   "created": "2026-07-11",
+   "subs": 4200,
+   "shorts_aged": 22,
+   "max": 39580
+  }
+ ]
+}

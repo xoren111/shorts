@@ -1,0 +1,1341 @@
+{
+ "duration": 43.62,
+ "vo_end": 43.65,
+ "loop_t": 43.27,
+ "level": "L2",
+ "ab": [],
+ "events": [
+  {
+   "id": "hook",
+   "t": 0.02,
+   "what": "frame 0: he strides out of the swinging steel door, crash-zoom 2.0→1.12, searchlights, dust at the camera",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -10,
+     "at": -0.02,
+     "from": 0
+    },
+    {
+     "name": "whoosh_zoom",
+     "gain": -12,
+     "at": 0.15000000000000002,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "cell_door",
+     "gain": -13,
+     "at": 0.4,
+     "from": 3.54,
+     "dur": 1.1
+    }
+   ]
+  },
+  {
+   "id": "secure",
+   "t": 1.171,
+   "what": "bars slam down on the windows, razor wire rolls along the top, the alarm lamp spins",
+   "sfx": [
+    {
+     "name": "impact_stomp",
+     "gain": -10,
+     "at": 0.06999999999999999,
+     "from": 1.5,
+     "dur": 1.2
+    },
+    {
+     "name": "cell_door",
+     "gain": -18,
+     "at": 0.15000000000000002,
+     "from": 3.54,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "four",
+   "t": 2.654,
+   "what": "hard cut to a long prison wall with four steel doors: they burst open one after another, he walks out of every one; on «times.» all four wink",
+   "sfx": [
+    {
+     "name": "cell_door",
+     "gain": -15,
+     "at": 0.06999999999999999,
+     "from": 3.54,
+     "dur": 0.35
+    },
+    {
+     "name": "cell_door",
+     "gain": -16,
+     "at": 0.16999999999999998,
+     "from": 3.54,
+     "dur": 0.35
+    },
+    {
+     "name": "cell_door",
+     "gain": -17,
+     "at": 0.27,
+     "from": 3.54,
+     "dur": 0.35
+    },
+    {
+     "name": "cell_door",
+     "gain": -18,
+     "at": 0.37,
+     "from": 3.54,
+     "dur": 0.35
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -16,
+     "at": 0.3270000000000001,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "doorman",
+   "t": 3.62,
+   "what": "PUNCH: the guard bows like a hotel doorman, daylight from the door",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -16,
+     "at": 0,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "impact_quick",
+     "gain": -17,
+     "at": 0.009999999999999995,
+     "from": 0.09999999999999999,
+     "dur": 0.8
+    }
+   ]
+  },
+  {
+   "id": "ding",
+   "t": 4.448,
+   "what": "desk-bell ding + gold burst; his shadow crosses the light",
+   "sfx": [
+    {
+     "name": "desk_bell",
+     "gain": -13,
+     "at": -0.05,
+     "from": 0.13,
+     "dur": 1.5
+    }
+   ]
+  },
+  {
+   "id": "wall1",
+   "t": 4.99,
+   "what": "WHIP to the cell wall: tally I scratched, glowing orange",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -11,
+     "at": 0.11,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "workman",
+   "t": 5.66,
+   "what": "ZOOM through the mark: prison whites puff → workman tee + sweatpants",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -14,
+     "at": 0.18,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "radio",
+   "t": 6.155,
+   "what": "a police radio drops into his hand",
+   "sfx": [
+    {
+     "name": "pop_lips",
+     "gain": -16,
+     "at": 0.2,
+     "from": 0.15000000000000002
+    }
+   ]
+  },
+  {
+   "id": "tapcut",
+   "t": 6.79,
+   "what": "PUNCH to the guard booth: radio at the glass",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -17,
+     "at": 0,
+     "from": 1.03,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "tap1",
+   "t": 6.967,
+   "what": "tap on the glass — ripples",
+   "sfx": [
+    {
+     "name": "knock_glass",
+     "gain": -9,
+     "at": -0.03,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "tap2",
+   "t": 7.295,
+   "what": "second tap, radio LED blinks, the guard looks up",
+   "sfx": [
+    {
+     "name": "knock_glass",
+     "gain": -10,
+     "at": -0.03,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -20,
+     "at": 0.11,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "squint",
+   "t": 8.249,
+   "what": "the guard squints at the radio and nods",
+   "sfx": [
+    {
+     "name": "blip_select",
+     "gain": -18,
+     "at": -0.01,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "buzz",
+   "t": 8.532,
+   "what": "green lamp, the lock buzzes",
+   "sfx": [
+    {
+     "name": "buzzer",
+     "gain": -15,
+     "at": -0.05,
+     "from": 0.05,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "walkout",
+   "t": 9.26,
+   "what": "CIRCLE from the door: the barred gate slides away, he walks out waving",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.15000000000000002,
+     "from": 0
+    },
+    {
+     "name": "cell_door",
+     "gain": -14,
+     "at": 0.5499999999999999,
+     "from": 3.54,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "wall2",
+   "t": 10.11,
+   "what": "WHIP to the wall: tally II",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -17,
+     "at": 0,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "chalk",
+     "gain": -11,
+     "at": 0.11,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "judge",
+   "t": 10.7,
+   "what": "ZOOM through the mark: payphone, he puffs into a judge wig + robe",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -14,
+     "at": 0.18,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "gavel",
+   "t": 11.434,
+   "what": "the gavel bangs on the payphone shelf",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -9,
+     "at": -0.05,
+     "from": 0.12000000000000001
+    }
+   ]
+  },
+  {
+   "id": "jail",
+   "t": 11.899,
+   "what": "torn print of the real Harris County jail (PD) + dotted call line + caption",
+   "sfx": [
+    {
+     "name": "phone_ring",
+     "gain": -17,
+     "at": 0.05,
+     "from": 0.009999999999999995,
+     "dur": 1.1
+    },
+    {
+     "name": "paper_slide",
+     "gain": -20,
+     "at": 0,
+     "from": 1.0899999999999999,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "clerk",
+   "t": 12.443,
+   "what": "marker ring around a window of the jail",
+   "sfx": [
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -18,
+     "at": 0,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "bail",
+   "t": 12.813,
+   "what": "PUSH UP to the bail-bond form",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -16,
+     "at": 0.12000000000000001,
+     "from": 0.19,
+     "dur": 0.9
+    },
+    {
+     "name": "paper_slide",
+     "gain": -16,
+     "at": 0.25,
+     "from": 1.0899999999999999,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "pen",
+   "t": 13.512,
+   "what": "the pen flies to the amount box",
+   "sfx": [
+    {
+     "name": "pen_sign",
+     "gain": -18,
+     "at": 0,
+     "from": 0.48000000000000004,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "n900",
+   "t": 14.081,
+   "what": "$900,000 slams into the box (subtitle hidden)",
+   "sfx": [
+    {
+     "name": "impact_quick",
+     "gain": -10,
+     "at": -0.030000000000000002,
+     "from": 0.09999999999999999,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "n45",
+   "t": 15.27,
+   "what": "marker strikes $900,000 through, $45,000 pops below",
+   "sfx": [
+    {
+     "name": "pen_sign",
+     "gain": -13,
+     "at": -0.05,
+     "from": 0.48000000000000004,
+     "dur": 0.4
+    },
+    {
+     "name": "pop_lips",
+     "gain": -14,
+     "at": 0.09000000000000001,
+     "from": 0.15000000000000002
+    }
+   ]
+  },
+  {
+   "id": "paid",
+   "t": 15.87,
+   "what": "✓ stamp; the tiny conman hops off the paper",
+   "sfx": [
+    {
+     "name": "impact_quick",
+     "gain": -9,
+     "at": -0.05,
+     "from": 0.09999999999999999,
+     "dur": 0.9
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -20,
+     "at": 0.29,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "wall3",
+   "t": 16.51,
+   "what": "WHIP to the wall: tally III",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -11,
+     "at": 0.11,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "marker",
+   "t": 17.04,
+   "what": "ZOOM through the mark: close-up of the white uniform, the green marker uncaps",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -15,
+     "at": 0.15,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "scribble",
+   "t": 17.695,
+   "what": "the marker scribbles, green fill runs across the uniform",
+   "sfx": [
+    {
+     "name": "pen_sign",
+     "gain": -12,
+     "at": -0.05,
+     "from": 0.48000000000000004,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "scrubs",
+   "t": 18.203,
+   "what": "all green: V-neck + pocket = surgical scrubs, green burst",
+   "sfx": [
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -15,
+     "at": 0,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "pile",
+   "t": 18.702,
+   "what": "a pile of empty markers clatters down",
+   "sfx": [
+    {
+     "name": "chips_stack",
+     "gain": -12,
+     "at": 0,
+     "from": 0.03
+    },
+    {
+     "name": "chips_stack",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0.03
+    }
+   ]
+  },
+  {
+   "id": "desk",
+   "t": 19.3,
+   "what": "PUNCH: the guard at the front desk looks up",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -16,
+     "at": 0,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "impact_quick",
+     "gain": -18,
+     "at": 0.009999999999999995,
+     "from": 0.09999999999999999,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "thought",
+   "t": 20.012,
+   "what": "the guard's thought bubble: a doctor (mask + head mirror)",
+   "sfx": [
+    {
+     "name": "desk_bell",
+     "gain": -16,
+     "at": -0.05,
+     "from": 0.13,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "frontdoor",
+   "t": 20.71,
+   "what": "the front door swings open, daylight; caption Estelle Unit · Huntsville, Texas",
+   "sfx": [
+    {
+     "name": "cell_door",
+     "gain": -13,
+     "at": 0.3,
+     "from": 3.54,
+     "dur": 1.1
+    },
+    {
+     "name": "whoosh_long_windy",
+     "gain": -21,
+     "at": 0.35000000000000003,
+     "from": 1,
+     "dur": 1.4
+    }
+   ]
+  },
+  {
+   "id": "sunlight",
+   "t": 21.391,
+   "what": "he walks into the light, waving like a doctor",
+   "sfx": [
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -17,
+     "at": 0,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "wall4",
+   "t": 21.84,
+   "what": "WHIP to the wall: tally IIII",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -17,
+     "at": 0,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "chalk",
+     "gain": -11,
+     "at": 0.11,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "records",
+   "t": 22.44,
+   "what": "ZOOM through the mark: medical chart on a clipboard, his hand forges it",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "pen_sign",
+     "gain": -14,
+     "at": 0.25,
+     "from": 0.48000000000000004,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "dip",
+   "t": 23.17,
+   "what": "the chart line plunges red",
+   "sfx": [
+    {
+     "name": "blip_error",
+     "gain": -15,
+     "at": -0.01,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "prisondoc",
+   "t": 23.51,
+   "what": "the prison doctor slides in, reads, nods sadly",
+   "sfx": [
+    {
+     "name": "page_turn",
+     "gain": -14,
+     "at": 0,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "monitor",
+   "t": 24.827,
+   "what": "heart monitor: beep… beep… slower",
+   "sfx": [
+    {
+     "name": "monitor_beep",
+     "gain": -15,
+     "at": -0.05,
+     "from": 0.22000000000000003,
+     "dur": 1.4
+    }
+   ]
+  },
+  {
+   "id": "hospice",
+   "t": 25.3,
+   "what": "PUSH UP: the van drives from the prison gate to the hospice house",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -15,
+     "at": 0.12000000000000001,
+     "from": 0.19,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "bed",
+   "t": 26.087,
+   "what": "he lies in the hospice bed, waves weakly — and winks",
+   "sfx": [
+    {
+     "name": "pop_mouth",
+     "gain": -16,
+     "at": -0.01,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "letter",
+   "t": 26.73,
+   "what": "DIAG: a typewriter types a State of Texas letter",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -15,
+     "at": 0.14,
+     "from": 0
+    },
+    {
+     "name": "typewriter",
+     "gain": -17,
+     "at": 0.15000000000000002,
+     "from": 0.44,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "news",
+   "t": 27.843,
+   "what": "the letter rises out of the typewriter, star seal",
+   "sfx": [
+    {
+     "name": "paper_slide",
+     "gain": -15,
+     "at": 0.09999999999999999,
+     "from": 1.0899999999999999,
+     "dur": 0.5
+    },
+    {
+     "name": "type_bell",
+     "gain": -16,
+     "at": 0.010000000000000002,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "name",
+   "t": 28.31,
+   "what": "STEVEN RUSSELL typed letter by letter (subtitle hidden)",
+   "sfx": [
+    {
+     "name": "typewriter",
+     "gain": -14,
+     "at": -0.05,
+     "from": 0.44,
+     "dur": 0.75
+    }
+   ]
+  },
+  {
+   "id": "deceased",
+   "t": 29.341,
+   "what": "red DECEASED stamp slams; flatline; slow push in the pause, music out",
+   "sfx": [
+    {
+     "name": "impact_quick",
+     "gain": -7,
+     "at": -0.05,
+     "from": 0.09999999999999999,
+     "dur": 1.1
+    },
+    {
+     "name": "flatline",
+     "gain": -20,
+     "at": 0.15000000000000002,
+     "from": 0.009999999999999995,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "tear",
+   "t": 30.1,
+   "what": "JAGGED: the letter tears open from the stamp",
+   "sfx": [
+    {
+     "name": "paper_crumple",
+     "gain": -10,
+     "at": 0.09999999999999999,
+     "from": 0.14,
+     "dur": 0.8
+    },
+    {
+     "name": "swish_quick",
+     "gain": -17,
+     "at": 0.09999999999999999,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "twist",
+   "t": 30.271,
+   "what": "he pops out of the hole grinning, finger guns; 2-frame flash, 8 px shake",
+   "sfx": [
+    {
+     "name": "boom_cine",
+     "gain": -10,
+     "at": -0.05,
+     "from": 0.22000000000000003,
+     "dur": 1.8
+    }
+   ]
+  },
+  {
+   "id": "rewind",
+   "t": 30.85,
+   "what": "WHIP into a sepia flashback: hospice room, he pulls on a doctor's coat; on «doctor,» he picks up the internal phone",
+   "sfx": [
+    {
+     "name": "tape_rewind",
+     "gain": -15,
+     "at": -0.01,
+     "from": 0,
+     "dur": 0.6
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -19,
+     "at": 0.09000000000000001,
+     "from": 1.03,
+     "dur": 0.8
+    },
+    {
+     "name": "pop_lips",
+     "gain": -18,
+     "at": 0.5879999999999994,
+     "from": 0.15000000000000002
+    }
+   ]
+  },
+  {
+   "id": "checkout",
+   "t": 32.05,
+   "what": "walks past the nurse's desk, the sign-out sheet gets a signature",
+   "sfx": [
+    {
+     "name": "pen_sign",
+     "gain": -15,
+     "at": 0.15000000000000002,
+     "from": 0.48000000000000004,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "selfstamp",
+   "t": 33.4,
+   "what": "outside, he stamps DECEASED on his own letter and winks",
+   "sfx": [
+    {
+     "name": "impact_quick",
+     "gain": -11,
+     "at": -0.05,
+     "from": 0.09999999999999999,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "mail",
+   "t": 34.141,
+   "what": "the letter flies into a mailbox with the Texas star",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -18,
+     "at": 0.15000000000000002,
+     "from": 0.19,
+     "dur": 0.8
+    },
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -18,
+     "at": 0.45,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "board",
+   "t": 34.85,
+   "what": "hard cut: police evidence board, drawn WANTED poster",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -12,
+     "at": -0.030000000000000002,
+     "from": 0.12000000000000001
+    }
+   ]
+  },
+  {
+   "id": "string",
+   "t": 35.129,
+   "what": "red string runs to a «?» card, a magnifier slides over",
+   "sfx": [
+    {
+     "name": "blip_select",
+     "gain": -18,
+     "at": -0.01,
+     "from": 0
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -21,
+     "at": 0.3,
+     "from": 0.19,
+     "dur": 0.8
+    }
+   ]
+  },
+  {
+   "id": "motel",
+   "t": 36.02,
+   "what": "CIRCLE from the «?» into police binoculars: a motel at night, neon MOTEL, the view pans to the one lit window",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -16,
+     "at": 0.15000000000000002,
+     "from": 0.19,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "focus",
+   "t": 36.383,
+   "what": "the binoculars lock on the window and focus: two silhouettes inside",
+   "sfx": [
+    {
+     "name": "click_tiny",
+     "gain": -12,
+     "at": 0,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -17,
+     "at": 0.11,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "love",
+   "t": 37.273,
+   "what": "zoom in: the two silhouettes lean together, a heart rises from the window + caption «Phillip Morris»; on «loved» red-blue lights, a police car rolls in, handcuffs click",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -18,
+     "at": -0.1,
+     "from": 0.19,
+     "dur": 0.6
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -15,
+     "at": 0.29,
+     "from": 0
+    },
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -18,
+     "at": 0.35,
+     "from": 0
+    },
+    {
+     "name": "buzzer",
+     "gain": -24,
+     "at": 0.36199999999999904,
+     "from": 0.05,
+     "dur": 0.5
+    },
+    {
+     "name": "cuffs",
+     "gain": -12,
+     "at": 0.921999999999999,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "gavel2",
+   "t": 38.44,
+   "what": "PUNCH: the judge gavel slams in front of the Texas flag",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -17,
+     "at": 0,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "wood_thud",
+     "gain": -7,
+     "at": 0.06,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "impact_sub_boom_kenney",
+     "gain": -14,
+     "at": 0.06,
+     "from": 0.16999999999999998
+    }
+   ]
+  },
+  {
+   "id": "tallies",
+   "t": 39.497,
+   "what": "the cell wall fills with tally marks, the counter runs to 144 (≤ 1.1 s, subtitle hidden)",
+   "sfx": [
+    {
+     "name": "chalk",
+     "gain": -17,
+     "at": -0.01,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -17.6,
+     "at": 0.13,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -18.2,
+     "at": 0.27,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -18.8,
+     "at": 0.41,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -19.4,
+     "at": 0.55,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -20,
+     "at": 0.69,
+     "from": 0
+    },
+    {
+     "name": "chalk",
+     "gain": -20.6,
+     "at": 0.83,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "n144",
+   "t": 40.671,
+   "what": "144 lands big in orange, YEARS under it",
+   "sfx": [
+    {
+     "name": "impact_quick",
+     "gain": -8,
+     "at": -0.05,
+     "from": 0.09999999999999999,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "cell",
+   "t": 41.21,
+   "what": "FADE: the day as a clock — 23 dark hours with a bars icon; he stands behind the cell bars",
+   "sfx": [
+    {
+     "name": "whoosh_dark_tail",
+     "gain": -22,
+     "at": 0.2,
+     "from": 1.14,
+     "dur": 1.6
+    }
+   ]
+  },
+  {
+   "id": "clock",
+   "t": 41.417,
+   "what": "one hour of the clock lights orange, a sun pops beside it; on «outside» a strip of sunlight falls through the bars onto him, he smiles",
+   "sfx": [
+    {
+     "name": "clock_tick",
+     "gain": -21,
+     "at": -0.05,
+     "from": 0.39,
+     "dur": 1.6
+    },
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -19,
+     "at": 0.05,
+     "from": 0
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -22,
+     "at": 0.7889999999999957,
+     "from": 0.19,
+     "dur": 0.8
+    }
+   ]
+  },
+  {
+   "id": "door",
+   "t": 43.11,
+   "what": "FADE: the steel door of frame 0 swings open — the loop runs into «this man walked out…»",
+   "sfx": [
+    {
+     "name": "cell_door",
+     "gain": -19,
+     "at": 0.05,
+     "from": 1.4,
+     "dur": 0.6
+    },
+    {
+     "name": "swell_rev",
+     "gain": -22,
+     "at": 0.459999999999998,
+     "from": 2.93
+    }
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "k": "hook",
+   "t0": 0,
+   "t1": 3.62,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Hook"
+  },
+  {
+   "k": "doorman",
+   "t0": 3.62,
+   "t1": 4.99,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Doorman"
+  },
+  {
+   "k": "wall1",
+   "t0": 4.99,
+   "t1": 5.66,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "Wall1"
+  },
+  {
+   "k": "workman",
+   "t0": 5.66,
+   "t1": 6.79,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "Workman"
+  },
+  {
+   "k": "tap",
+   "t0": 6.79,
+   "t1": 9.26,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Tap"
+  },
+  {
+   "k": "walkout",
+   "t0": 9.26,
+   "t1": 10.11,
+   "tr": "circle",
+   "subY": 1250,
+   "scene": "Walkout"
+  },
+  {
+   "k": "wall2",
+   "t0": 10.11,
+   "t1": 10.7,
+   "tr": "whipR",
+   "subY": 1250,
+   "scene": "Wall2"
+  },
+  {
+   "k": "judge",
+   "t0": 10.7,
+   "t1": 12.813,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "Judge"
+  },
+  {
+   "k": "bail",
+   "t0": 12.813,
+   "t1": 16.51,
+   "tr": "up",
+   "subY": 1280,
+   "scene": "Bail"
+  },
+  {
+   "k": "wall3",
+   "t0": 16.51,
+   "t1": 17.04,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "Wall3"
+  },
+  {
+   "k": "marker",
+   "t0": 17.04,
+   "t1": 19.3,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "MarkerScene"
+  },
+  {
+   "k": "doctor",
+   "t0": 19.3,
+   "t1": 21.84,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Doctor"
+  },
+  {
+   "k": "wall4",
+   "t0": 21.84,
+   "t1": 22.44,
+   "tr": "whipR",
+   "subY": 1250,
+   "scene": "Wall4"
+  },
+  {
+   "k": "records",
+   "t0": 22.44,
+   "t1": 25.3,
+   "tr": "zoomthru",
+   "subY": 1280,
+   "scene": "Records"
+  },
+  {
+   "k": "hospice",
+   "t0": 25.3,
+   "t1": 26.73,
+   "tr": "up",
+   "subY": 1250,
+   "scene": "Hospice"
+  },
+  {
+   "k": "news",
+   "t0": 26.73,
+   "t1": 30.1,
+   "tr": "diag",
+   "subY": 1280,
+   "scene": "News"
+  },
+  {
+   "k": "twist",
+   "t0": 30.1,
+   "t1": 30.85,
+   "tr": "jagged",
+   "subY": 1250,
+   "scene": "Twist"
+  },
+  {
+   "k": "checkout",
+   "t0": 30.85,
+   "t1": 34.85,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "Checkout"
+  },
+  {
+   "k": "wanted",
+   "t0": 34.85,
+   "t1": 36.02,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Wanted"
+  },
+  {
+   "k": "motel",
+   "t0": 36.02,
+   "t1": 38.44,
+   "tr": "circle",
+   "subY": 1290,
+   "scene": "Binoculars"
+  },
+  {
+   "k": "sentence",
+   "t0": 38.44,
+   "t1": 41.21,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Sentence"
+  },
+  {
+   "k": "cell",
+   "t0": 41.21,
+   "t1": 43.11,
+   "tr": "fade",
+   "subY": 1250,
+   "scene": "Cell"
+  },
+  {
+   "k": "door",
+   "t0": 43.11,
+   "t1": 43.62,
+   "tr": "fade",
+   "subY": 1250,
+   "scene": "DoorLoop"
+  }
+ ]
+}

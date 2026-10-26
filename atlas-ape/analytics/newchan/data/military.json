@@ -1,0 +1,423 @@
+{
+ "niche": "military",
+ "keywords": [
+  "military facts",
+  "military history",
+  "fighter jet",
+  "tank facts",
+  "weapons explained"
+ ],
+ "relevance": "\\b(military|army|navy|naval|air force|marines?|soldiers?|troops?|warships?|battleships?|submarines?|aircraft carriers?|fighter jets?|jets?|bombers?|tanks?|artillery|cannons?|howitzers?|mortars?|missiles?|nukes?|nuclear|rifles?|guns?|firearms?|grenades?|machine guns?|weapons?|ww(i|ii|1|2)|world war|f-\\d+|b-\\d+|ak-?47|m16|m4|abrams|sniper|warfare|combat|battlefield|special forces|navy seals?|rations?|mre)\\b",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:35 UTC",
+ "fresh_uploads": 218,
+ "fresh_uploaders": 187,
+ "new_uploaders": 88,
+ "new_share_of_uploaders": 0.471,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 32,
+ "shorts": 762,
+ "median_views": 3970,
+ "p75_views": 29733,
+ "p90_views": 84444,
+ "share_10k": 0.4068,
+ "share_100k": 0.0814,
+ "share_1m": 0.0157,
+ "ci95_100k": [
+  0.064,
+  0.1029
+ ],
+ "hits_100k": 62,
+ "hits_1m": 12,
+ "channels_any_100k": 0.406,
+ "channels_any_1m": 0.156,
+ "median_channel_median": 2605,
+ "top": [
+  {
+   "views": 8687306,
+   "title": "What Baby Strollers Looked Like in the 1920s",
+   "channel": "Daily Dose Of History Facts",
+   "ch": "UCYiNexH7DFdaA_LQRpGiU-Q",
+   "url": "https://youtube.com/shorts/coC862tPShQ",
+   "age_d": 20
+  },
+  {
+   "views": 5694927,
+   "title": "They Hid Their Faces to Make Music",
+   "channel": "Daily Dose Of History Facts",
+   "ch": "UCYiNexH7DFdaA_LQRpGiU-Q",
+   "url": "https://youtube.com/shorts/WZVxF3DQTxg",
+   "age_d": 32
+  },
+  {
+   "views": 5556780,
+   "title": "Opening an 81-Year-Old Military Ration (It Gets Gross) | #usmilitary #mre #militarysurplus | #shorts",
+   "channel": "Trenchline Tactics",
+   "ch": "UCbfZ_CnSc9YB0a1zOr6utXQ",
+   "url": "https://youtube.com/shorts/BaCYfRT69Gw",
+   "age_d": 36
+  },
+  {
+   "views": 5160146,
+   "title": "Why the WWII Willys Jeep Was a Tactical Masterpiece. 🇺🇸 | #willysjeep #wwii #militarytech | #shorts",
+   "channel": "Trenchline Tactics",
+   "ch": "UCbfZ_CnSc9YB0a1zOr6utXQ",
+   "url": "https://youtube.com/shorts/mrrl6dAANLY",
+   "age_d": 112
+  },
+  {
+   "views": 4124192,
+   "title": "The WWII Pencil Trick That Trained U.S. Army Pistol Shooters #shorts | Dark History",
+   "channel": "Dark History",
+   "ch": "UCmkAC3OgpgCGOv6pPQVDS7A",
+   "url": "https://youtube.com/shorts/pdMkNqdMMIU",
+   "age_d": 10
+  },
+  {
+   "views": 3447631,
+   "title": "3 WAR STORIES THAT REALLY HAPPENED #war #military #worldwar2 #worldwar #militaryhistory",
+   "channel": "War facts",
+   "ch": "UC_TgWFQ1fE8FLbmVTrkFpPA",
+   "url": "https://youtube.com/shorts/0NuGQ5F4Qcc",
+   "age_d": 32
+  },
+  {
+   "views": 3087321,
+   "title": "The Cat Trained Like a Guard Dog",
+   "channel": "Daily Dose Of History Facts",
+   "ch": "UCYiNexH7DFdaA_LQRpGiU-Q",
+   "url": "https://youtube.com/shorts/6bWWjx4Ixas",
+   "age_d": 38
+  },
+  {
+   "views": 2197602,
+   "title": "Opening 90-Year-Old U.S. Military Rations (It Gets Weird) 🥫| #mre #usarmy #usmilitary | #shorts",
+   "channel": "Trenchline Tactics",
+   "ch": "UCbfZ_CnSc9YB0a1zOr6utXQ",
+   "url": "https://youtube.com/shorts/ioJSUg3XvXg",
+   "age_d": 48
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCJNEKT8epYXCY50Zyh7Gglg",
+   "title": "Guild and Gear",
+   "created": "2026-10-11",
+   "subs": 37,
+   "shorts_aged": 2,
+   "max": 850
+  },
+  {
+   "ch": "UCKl6V4oJMzW9pmW2qfhuKMQ",
+   "title": "Live Fire Explained",
+   "created": "2026-10-12",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCq0Lg_j3ZIYRFF7a-CCGcZw",
+   "title": "Kryptaven",
+   "created": "2026-10-11",
+   "subs": 7,
+   "shorts_aged": 3,
+   "max": 835
+  },
+  {
+   "ch": "UCUC3C4ZSXC94slSo4EvFC1A",
+   "title": "Echoes of Valor",
+   "created": "2026-04-30",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCG0XYVrwyY-Q1WuEvayo0xg",
+   "title": "JetMix Aviation",
+   "created": "2026-10-14",
+   "subs": 209,
+   "shorts_aged": 4,
+   "max": 23634
+  },
+  {
+   "ch": "UCly3VcCmvxs27mKtxqOpHeA",
+   "title": "HeroMovix",
+   "created": "2026-08-02",
+   "subs": 5680,
+   "shorts_aged": 34,
+   "max": 174345
+  },
+  {
+   "ch": "UCUlJkCf1g92QuBEhF-PMKFA",
+   "title": "GameExplainer",
+   "created": "2026-06-29",
+   "subs": 56,
+   "shorts_aged": 43,
+   "max": 2545
+  },
+  {
+   "ch": "UCr0bQgymsT9saQpNbxfVRfw",
+   "title": "TrekTok",
+   "created": "2026-05-27",
+   "subs": 402,
+   "shorts_aged": 14,
+   "max": 23482
+  },
+  {
+   "ch": "UCmkAC3OgpgCGOv6pPQVDS7A",
+   "title": "Dark History",
+   "created": "2025-12-26",
+   "subs": 1420,
+   "shorts_aged": 16,
+   "max": 4124192
+  },
+  {
+   "ch": "UCjo4-BK_oxwadlvIJ19BsiA",
+   "title": "BritishMil",
+   "created": "2026-05-12",
+   "subs": 10900,
+   "shorts_aged": 29,
+   "max": 337376
+  },
+  {
+   "ch": "UCZJRsfiKmmIV7GW7sRxlMJA",
+   "title": "Owlbloop",
+   "created": "2026-10-22",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCpQ9Q2oOyLTLuH_dFzoVgHw",
+   "title": "Useful History Tidbits",
+   "created": "2026-02-16",
+   "subs": 12600,
+   "shorts_aged": 42,
+   "max": 630480
+  },
+  {
+   "ch": "UCErjCNQ2AnMampVXEAl2UGQ",
+   "title": "Bet You Didn’t Know",
+   "created": "2026-08-23",
+   "subs": 3570,
+   "shorts_aged": 4,
+   "max": 142525
+  },
+  {
+   "ch": "UCkzVFdvRhN5bE0juWF4sbYg",
+   "title": "Think Thoughts",
+   "created": "2026-04-05",
+   "subs": 183,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC_E9TDDyvNBkzLzJ6gIStNg",
+   "title": "U.S. Military Forces",
+   "created": "2025-12-02",
+   "subs": 44,
+   "shorts_aged": 45,
+   "max": 995
+  },
+  {
+   "ch": "UCO2DJXFr9UXO0XAOnoljysg",
+   "title": "Past in Command",
+   "created": "2026-08-22",
+   "subs": 184,
+   "shorts_aged": 9,
+   "max": 1183
+  },
+  {
+   "ch": "UCowL-mBtJmUUosMIJ8PJmJQ",
+   "title": "History Unsealed",
+   "created": "2026-03-19",
+   "subs": 4200,
+   "shorts_aged": 29,
+   "max": 204415
+  },
+  {
+   "ch": "UCrc1KwU0L0nvBUxhme1Rihg",
+   "title": "Battle Eye",
+   "created": "2025-12-11",
+   "subs": 33000,
+   "shorts_aged": 35,
+   "max": 30630
+  },
+  {
+   "ch": "UCbfZ_CnSc9YB0a1zOr6utXQ",
+   "title": "Trenchline Tactics",
+   "created": "2026-02-12",
+   "subs": 59200,
+   "shorts_aged": 22,
+   "max": 5556780
+  },
+  {
+   "ch": "UCR7N8DSmJR0xqazDxdcQSBQ",
+   "title": "THE GREY INK ARCHIVE",
+   "created": "2026-09-30",
+   "subs": 17,
+   "shorts_aged": 10,
+   "max": 2983
+  },
+  {
+   "ch": "UCAUNzn1TSlxrGWrtNfKlfzA",
+   "title": "Anemap",
+   "created": "2025-12-09",
+   "subs": 10500,
+   "shorts_aged": 31,
+   "max": 95101
+  },
+  {
+   "ch": "UC0auXxg2SZLu94zOPzNkIyQ",
+   "title": "US Fighter Zone",
+   "created": "2026-08-12",
+   "subs": 8,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCJHg77VpLjIZ8B3J09l0pow",
+   "title": "Military-Info",
+   "created": "2025-12-31",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCPmCdGim79EvVvQGREkb1Dg",
+   "title": "Archive Cut",
+   "created": "2026-09-08",
+   "subs": 9,
+   "shorts_aged": 19,
+   "max": 1613
+  },
+  {
+   "ch": "UCCk31pkVOxgTIApwbkJOpjw",
+   "title": "kratos",
+   "created": "2026-09-13",
+   "subs": 2060,
+   "shorts_aged": 36,
+   "max": 435579
+  },
+  {
+   "ch": "UCNS8cnygyiuJkG_gKYUSg2g",
+   "title": "The Unseen Archive | Aviation Engineering",
+   "created": "2026-10-12",
+   "subs": 45,
+   "shorts_aged": 4,
+   "max": 5492
+  },
+  {
+   "ch": "UC5mwLK-adJGvxX7H3SIvWEw",
+   "title": "Military Facts",
+   "created": "2026-06-16",
+   "subs": 3290,
+   "shorts_aged": 45,
+   "max": 34283
+  },
+  {
+   "ch": "UCpwKFI_Q38565wdu0HmGhsQ",
+   "title": "The Folded Past",
+   "created": "2026-09-15",
+   "subs": 39,
+   "shorts_aged": 34,
+   "max": 1023
+  },
+  {
+   "ch": "UCGPlcWePb2DqDEOdI6OfvWg",
+   "title": "Jack Mcgurn",
+   "created": "2026-10-08",
+   "subs": 22,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCXkWqsPKSJdrJhBgRaC1vCQ",
+   "title": "StopScrolling! 🚨",
+   "created": "2026-03-26",
+   "subs": 7080,
+   "shorts_aged": 47,
+   "max": 1359867
+  },
+  {
+   "ch": "UC48BqNFfGhu-yyMOzq_kOig",
+   "title": "AeroZ Gaming",
+   "created": "2026-01-30",
+   "subs": 18200,
+   "shorts_aged": 29,
+   "max": 538769
+  },
+  {
+   "ch": "UCzcy8rTSgqaAq392EwtyeTQ",
+   "title": "The Moron Scientist",
+   "created": "2026-09-30",
+   "subs": 99,
+   "shorts_aged": 2,
+   "max": 3726
+  },
+  {
+   "ch": "UC1qTFowTRgkYr77ck-Wufmw",
+   "title": "FactsFyne",
+   "created": "2026-09-28",
+   "subs": 31,
+   "shorts_aged": 12,
+   "max": 4146
+  },
+  {
+   "ch": "UCuFxxkwpaauNNwkgXmEumJA",
+   "title": "Brain Snack",
+   "created": "2026-10-02",
+   "subs": 28,
+   "shorts_aged": 31,
+   "max": 1664
+  },
+  {
+   "ch": "UC7sJGasM_jgJgST_b905oPQ",
+   "title": "The Stickman Files",
+   "created": "2026-10-06",
+   "subs": 26,
+   "shorts_aged": 9,
+   "max": 34117
+  },
+  {
+   "ch": "UCYiNexH7DFdaA_LQRpGiU-Q",
+   "title": "Daily Dose Of History Facts",
+   "created": "2026-04-05",
+   "subs": 50100,
+   "shorts_aged": 41,
+   "max": 8687306
+  },
+  {
+   "ch": "UCEavFf4muR_C6BpkH9_kbMg",
+   "title": "AeroVanguard 🇺🇸",
+   "created": "2026-10-19",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC1igJDeXW-sNkObkRX_Mp6A",
+   "title": "WAR VAULT HISTORY",
+   "created": "2025-11-24",
+   "subs": 1360,
+   "shorts_aged": 3,
+   "max": 1582
+  },
+  {
+   "ch": "UCGIDB_OZBGX8dEjd0zw-QtQ",
+   "title": "Mr Hat Films",
+   "created": "2026-01-11",
+   "subs": 38500,
+   "shorts_aged": 43,
+   "max": 786456
+  },
+  {
+   "ch": "UC_TgWFQ1fE8FLbmVTrkFpPA",
+   "title": "War facts",
+   "created": "2026-08-30",
+   "subs": 3420,
+   "shorts_aged": 35,
+   "max": 3447631
+  }
+ ]
+}

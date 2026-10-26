@@ -1,0 +1,7 @@
+frame 203  t=3.383  score 0.7  (local 0.14)
+frame 206  t=3.433  score 0.72  (local 0.15)
+frame 209  t=3.483  score 0.66  (local 0.08)
+frame 212  t=3.533  score 0.69  (local 0.06)
+frame 215  t=3.583  score 0.7  (local 0.08)
+frame 290  t=4.833  score 25.85  (local 5.49)
+6 glitch frames in 662

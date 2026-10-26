@@ -1,0 +1,36 @@
+{
+  "shot": "F1",
+  "file": "F1.mp4",
+  "variant": "F1",
+  "source_page": "https://pixabay.com/videos/wool-pig-pig-piglet-agriculture-72323/",
+  "direct_url": "https://cdn.pixabay.com/video/2021/04/26/72323-541904817_large.mp4",
+  "title": "Wool Pig, pig, piglet (Pixabay 72323)",
+  "author": "RoyBuri",
+  "author_url": "https://pixabay.com/users/royburi-3128024/",
+  "licence": "Pixabay Content License (free for commercial use, no attribution required)",
+  "licence_url": "https://pixabay.com/service/license-summary/",
+  "attribution": null,
+  "source_file": "assets/raw/A/pixabay-72323/src.mp4",
+  "source_resolution": "3840x2160",
+  "source_fps": "25/1",
+  "segment": {
+    "t0": 4.0,
+    "t1": 10.0
+  },
+  "crop": {
+    "x": 2158,
+    "y": 0,
+    "w": 1215,
+    "h": 2160
+  },
+  "upscale": 1.067,
+  "output": {
+    "w": 1296,
+    "h": 2304,
+    "fps": "25/1",
+    "duration": 6.0,
+    "codec": "h264 crf16",
+    "audio": false
+  },
+  "description": "Ground-level close-up: spotted farm pigs rooting and digging in loose field soil with their snouts, blue sky behind (4K)."
+}

@@ -1,0 +1,108 @@
+{
+ "date": "2026-10-25",
+ "question": "Can a new channel still reach a 1M Short in the English weird-true-history Shorts niche, how often, after how many uploads?",
+ "sample": {
+  "searches": 144,
+  "searches_returning_shorts": 106,
+  "shorts_discovered": 2335,
+  "channels_discovered": 2004,
+  "channels_listed_full": 718,
+  "shorts_listed": 136602,
+  "exact_dates_fetched": 24112,
+  "data_api_units_approx": 600
+ },
+ "new_entrants_created_2025plus": {
+  "ABG_all_history": {
+   "n": 500,
+   "ever_100k": 75,
+   "ever_1m": 51,
+   "ever_10m": 19,
+   "median_best_short": 1700,
+   "share_best_below_5k": 0.664
+  },
+  "AG_story_format": {
+   "n": 177,
+   "ever_100k": 24,
+   "ever_1m": 14
+  },
+  "A_story_only": {
+   "n": 172,
+   "ever_1m": 9
+  },
+  "cohort_created_aug_oct_2026": {
+   "n": 248,
+   "median_best": 1200,
+   "ever_100k": 12,
+   "ever_1m": 2,
+   "1m_names": [
+    "PolySoldier",
+    "War facts"
+   ]
+  }
+ },
+ "p_first_1m_by_upload_k_ABG": {
+  "6": 0.037,
+  "10": 0.063,
+  "20": 0.114,
+  "30": 0.159,
+  "50": 0.212,
+  "100": 0.301
+ },
+ "p_first_1m_by_upload_k_AG": {
+  "6": 0.035,
+  "10": 0.065,
+  "20": 0.112,
+  "30": 0.14,
+  "50": 0.155,
+  "100": 0.222
+ },
+ "winners_first_1m_index": {
+  "ABG_median": 12,
+  "ABG_IQR": [
+   5,
+   27.5
+  ],
+  "AG_median": 10,
+  "AG_IQR": [
+   2.75,
+   19
+  ],
+  "ABG_days_median": 15,
+  "AG_days_median": 14.5
+ },
+ "slow_starters_first6_below_5k": {
+  "AG": {
+   "by30": "0/63",
+   "by50": "0/42",
+   "by100": "1/19"
+  },
+  "ABG": {
+   "by30": "1/166",
+   "by50": "2/116",
+   "by100": "2/59"
+  }
+ },
+ "fast_starters_first6_has_100k": {
+  "ABG": "27/32 later 1M",
+  "AG": "9/11"
+ },
+ "established_fatigue": {
+  "n_active_with_12mo_window": 47,
+  "last20_below_12mo": 36,
+  "below_half": 15,
+  "median_ratio": 0.66
+ },
+ "estimate_atlas_ape": {
+  "same_execution_1m_within_50_uploads": "1-3% (95% upper ~7%)",
+  "same_execution_within_150": "3-7%",
+  "rebuilt_breakout_format_fresh_launch": "~5-10% by upload 30, ~8-12% by upload 50 (upper-bound base rates 16%/21% discounted x0.5)",
+  "typical_uploads_to_first_1m_for_winners": "median 10-12, IQR ~3-28, ~2 weeks after first Short"
+ },
+ "files": {
+  "raw_channel_table": "census_channels.csv / census_channels.json",
+  "summary": "census_summary.json",
+  "breakouts": "breakouts.json",
+  "report": "census.md",
+  "thumbs": "breakout_thumbs_sheet.jpg"
+ }
+}

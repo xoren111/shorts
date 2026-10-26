@@ -1,0 +1,423 @@
+{
+ "niche": "psychology_facts",
+ "keywords": [
+  "psychology facts",
+  "dark psychology",
+  "psychology tricks",
+  "human behavior psychology",
+  "body language psychology"
+ ],
+ "relevance": "psycholog|phycholog|human (behaviou?r|nature)|manipulat|narcissis|body language|mind (tricks?|games?|control)|mindset|signs (you|someone|of)|toxic|emotional|overthink|subconscious|personality|attraction|introvert|red flags?|gaslight|cognitive bias",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:20 UTC",
+ "fresh_uploads": 184,
+ "fresh_uploaders": 151,
+ "new_uploaders": 82,
+ "new_share_of_uploaders": 0.543,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 29,
+ "shorts": 637,
+ "median_views": 1324,
+ "p75_views": 15771,
+ "p90_views": 64661,
+ "share_10k": 0.2904,
+ "share_100k": 0.0612,
+ "share_1m": 0.0016,
+ "ci95_100k": [
+  0.0451,
+  0.0826
+ ],
+ "hits_100k": 39,
+ "hits_1m": 1,
+ "channels_any_100k": 0.241,
+ "channels_any_1m": 0.034,
+ "median_channel_median": 1048,
+ "top": [
+  {
+   "views": 3301215,
+   "title": "Thế mà lại hay 😃 #badminton #caulong #shortvideo #sports",
+   "channel": "Triet Mindset",
+   "ch": "UC4tf4DVqIyqGGjjz3Dn2zEw",
+   "url": "https://youtube.com/shorts/OL21rZWat5E",
+   "age_d": 86
+  },
+  {
+   "views": 596087,
+   "title": "10 Foods You’re Eating WRONG! 🍍😱 Healthy Food Tips You Should Know #Shorts #welness #healthyway",
+   "channel": "the mind unlocked 🔓",
+   "ch": "UCAb66L4CDp3-3LO3gXlArTQ",
+   "url": "https://youtube.com/shorts/GwlwwFZ8_J0",
+   "age_d": 8
+  },
+  {
+   "views": 489661,
+   "title": "Savage Comebacks That Leave Everyone speechless 😶 🔥 | Best Insult Replies #Shorts",
+   "channel": "YOUR TUTOR CORNER",
+   "ch": "UCQ2FXX2BAGWmoYeg3T1rawQ",
+   "url": "https://youtube.com/shorts/nmMwt-ICq2E",
+   "age_d": 9
+  },
+  {
+   "views": 458382,
+   "title": "Tum Kaise Haste Ho? 😆🤔 #shorts #smile #ytshorts",
+   "channel": "Mindset",
+   "ch": "UCcMTXgKw0EVAe4WsV8FO8Lw",
+   "url": "https://youtube.com/shorts/_WThfoeZO7I",
+   "age_d": 43
+  },
+  {
+   "views": 451807,
+   "title": "How To Become Unstoppable In Your Class | #shorts #aura #ytshorts",
+   "channel": "Mindset",
+   "ch": "UCcMTXgKw0EVAe4WsV8FO8Lw",
+   "url": "https://youtube.com/shorts/futRmEopb_M",
+   "age_d": 8
+  },
+  {
+   "views": 432838,
+   "title": "Always Silent In 5 Place Power Of Silence Psychology🎭  #shorts #shortsfeed",
+   "channel": "Mindset",
+   "ch": "UCcMTXgKw0EVAe4WsV8FO8Lw",
+   "url": "https://youtube.com/shorts/PxCREwaglmM",
+   "age_d": 33
+  },
+  {
+   "views": 413173,
+   "title": "Build Dengerous Aura In Your Class 🔥#shorts #aura #ytshorts",
+   "channel": "Mindset",
+   "ch": "UCcMTXgKw0EVAe4WsV8FO8Lw",
+   "url": "https://youtube.com/shorts/SGeRelxy7iA",
+   "age_d": 45
+  },
+  {
+   "views": 380317,
+   "title": "4 mistakes to avoid in your professional life 🧠✨#lifelessons #motivation #successmindset #growthmind",
+   "channel": "Mind Unlocked",
+   "ch": "UCarqnQWdSlWSt6V-lR7ZnnA",
+   "url": "https://youtube.com/shorts/RoyLOSckAFQ",
+   "age_d": 28
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCOb6r-R3LSXLLtEyevk36ww",
+   "title": "Quoteously",
+   "created": "2026-05-25",
+   "subs": 1940,
+   "shorts_aged": 19,
+   "max": 56356
+  },
+  {
+   "ch": "UCk88Yb5fPogz8Nk9mUOafBg",
+   "title": "Mind Within",
+   "created": "2026-04-27",
+   "subs": 31,
+   "shorts_aged": 16,
+   "max": 1211
+  },
+  {
+   "ch": "UCbixs_f-eyOdyX3DxMP4Qew",
+   "title": "silent damm",
+   "created": "2026-10-01",
+   "subs": 845,
+   "shorts_aged": 11,
+   "max": 11610
+  },
+  {
+   "ch": "UCfUMm_IFHZPsSAtpISjzlXw",
+   "title": "Human Mind flow ",
+   "created": "2026-01-18",
+   "subs": 73,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCcMTXgKw0EVAe4WsV8FO8Lw",
+   "title": "Mindset",
+   "created": "2026-07-08",
+   "subs": 57300,
+   "shorts_aged": 42,
+   "max": 458382
+  },
+  {
+   "ch": "UCQ2FXX2BAGWmoYeg3T1rawQ",
+   "title": "YOUR TUTOR CORNER",
+   "created": "2026-03-23",
+   "subs": 20200,
+   "shorts_aged": 16,
+   "max": 489661
+  },
+  {
+   "ch": "UCv2igpofDO76MqJNU0GhUig",
+   "title": "Valor Nest",
+   "created": "2026-07-22",
+   "subs": 8,
+   "shorts_aged": 37,
+   "max": 1201
+  },
+  {
+   "ch": "UCr_dwEo715dfd11kd3TBj4g",
+   "title": "Knowledge of Philosophy",
+   "created": "2026-10-19",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCdOVcrkhAC6i6yVs3HzZXGw",
+   "title": "Curio Vault",
+   "created": "2026-09-21",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCXLZ_t64rZ11N33iWHRLOBA",
+   "title": "Cogninest",
+   "created": "2026-06-16",
+   "subs": 4850,
+   "shorts_aged": 26,
+   "max": 46078
+  },
+  {
+   "ch": "UCzKpkLky9bvzr6xeIRdZzpw",
+   "title": "THE HUMAN CODE",
+   "created": "2026-08-24",
+   "subs": 101,
+   "shorts_aged": 24,
+   "max": 1138
+  },
+  {
+   "ch": "UCgk12wCPqYq3z1yOGQJsSvw",
+   "title": "Mind Anatomy",
+   "created": "2026-03-07",
+   "subs": 39,
+   "shorts_aged": 7,
+   "max": 2708
+  },
+  {
+   "ch": "UCwezCkO0VdeN3tPvtKLuxbA",
+   "title": "The Blueprint Thinker",
+   "created": "2026-02-12",
+   "subs": 54,
+   "shorts_aged": 3,
+   "max": 1396
+  },
+  {
+   "ch": "UCDIoS88MjK1d81DCHWrf4Fg",
+   "title": "Architect of Minds",
+   "created": "2026-10-24",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCKSubeJ_DeeARat5P8seE3Q",
+   "title": "Daily Pod",
+   "created": "2026-04-29",
+   "subs": 128,
+   "shorts_aged": 6,
+   "max": 13335
+  },
+  {
+   "ch": "UCVzP0kRVxkUKOJIKj4Qqtww",
+   "title": "Silent Influence ",
+   "created": "2026-02-26",
+   "subs": 68,
+   "shorts_aged": 11,
+   "max": 1276
+  },
+  {
+   "ch": "UC-nNnOCipZtiNp2w3ty9dAw",
+   "title": "ViaPsych",
+   "created": "2026-10-16",
+   "subs": 20,
+   "shorts_aged": 2,
+   "max": 994
+  },
+  {
+   "ch": "UCAb66L4CDp3-3LO3gXlArTQ",
+   "title": "the mind unlocked 🔓",
+   "created": "2026-09-10",
+   "subs": 8800,
+   "shorts_aged": 25,
+   "max": 596087
+  },
+  {
+   "ch": "UCB_YM_vO0xYUIY10ZAFQqNA",
+   "title": "MINDZT",
+   "created": "2026-10-23",
+   "subs": 139,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCBGqqAmnb6y-2DC8NaVpmAQ",
+   "title": "MindSKetch",
+   "created": "2026-10-04",
+   "subs": 24,
+   "shorts_aged": 10,
+   "max": 1372
+  },
+  {
+   "ch": "UC4uTDQbPUGwrYqwYfyo0S5g",
+   "title": "Dark Social Psy",
+   "created": "2026-10-24",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC6TjGWafZMEqxj_E1yGSvUA",
+   "title": "Mind & Mystery ",
+   "created": "2026-09-04",
+   "subs": 15,
+   "shorts_aged": 32,
+   "max": 1017
+  },
+  {
+   "ch": "UCU7xs2gF9scIhJyQzEVaOyg",
+   "title": "VORTEX Official3000",
+   "created": "2026-10-21",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCauFN_gwFi9VTHTAD95fgxg",
+   "title": "Brain Melt University",
+   "created": "2026-07-02",
+   "subs": 24,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC-ggQejvsVxrpAqhHYbcbXg",
+   "title": "Peak_Mindset_",
+   "created": "2026-02-28",
+   "subs": 2030,
+   "shorts_aged": 39,
+   "max": 292620
+  },
+  {
+   "ch": "UCf5Ufzay8Y1HtLq4FGuzaCA",
+   "title": "Psychology Unlocked",
+   "created": "2026-10-24",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCB_gkwCd-pwfMNlwV7uLZ_g",
+   "title": "WonderByte Stories",
+   "created": "2026-10-17",
+   "subs": 12,
+   "shorts_aged": 1,
+   "max": 153
+  },
+  {
+   "ch": "UC8QLUvtqQnEqqHDVzsD9sng",
+   "title": "mind pop",
+   "created": "2026-09-09",
+   "subs": 80,
+   "shorts_aged": 23,
+   "max": 3120
+  },
+  {
+   "ch": "UC7b7bBsgazv8ZdBUEEsyhkg",
+   "title": "MINDSETLY",
+   "created": "2026-04-11",
+   "subs": 1210,
+   "shorts_aged": 36,
+   "max": 69491
+  },
+  {
+   "ch": "UCNXCaKlmk_Onya5H4OGoU9g",
+   "title": "Inner Theory",
+   "created": "2026-09-27",
+   "subs": 10,
+   "shorts_aged": 1,
+   "max": 51
+  },
+  {
+   "ch": "UCny3D2MUat6zIiVWv5U5vjQ",
+   "title": "Mind Decode",
+   "created": "2026-08-13",
+   "subs": 5320,
+   "shorts_aged": 38,
+   "max": 137679
+  },
+  {
+   "ch": "UC1Cg-Hst-ndDfX0w99YrfYQ",
+   "title": "The Psyche Files",
+   "created": "2026-10-22",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC1vEEDRRtsIHR5SetuAuULA",
+   "title": "Psych Dark Facts",
+   "created": "2026-05-08",
+   "subs": 274,
+   "shorts_aged": 40,
+   "max": 2252
+  },
+  {
+   "ch": "UCVUbxeW4QbxcDIqeErBloTA",
+   "title": "The Silent Signal",
+   "created": "2026-08-04",
+   "subs": 208,
+   "shorts_aged": 36,
+   "max": 2108
+  },
+  {
+   "ch": "UCNC_ScgnGhXFs4feIJiPLUQ",
+   "title": "MindUnlocked ",
+   "created": "2026-09-11",
+   "subs": 72,
+   "shorts_aged": 11,
+   "max": 5474
+  },
+  {
+   "ch": "UCcPH9d-lyFCPPy1BSH6AzXw",
+   "title": "Tube Inspire",
+   "created": "2026-10-22",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCNvBMGljagVC5Zu3UwR_kbw",
+   "title": "HumanDecodemindset",
+   "created": "2026-10-02",
+   "subs": 46,
+   "shorts_aged": 32,
+   "max": 1674
+  },
+  {
+   "ch": "UCarqnQWdSlWSt6V-lR7ZnnA",
+   "title": "Mind Unlocked",
+   "created": "2026-07-30",
+   "subs": 15000,
+   "shorts_aged": 39,
+   "max": 380317
+  },
+  {
+   "ch": "UC4tf4DVqIyqGGjjz3Dn2zEw",
+   "title": "Triet Mindset",
+   "created": "2026-07-28",
+   "subs": 1440,
+   "shorts_aged": 8,
+   "max": 3301215
+  },
+  {
+   "ch": "UCH2wf2mK8fhfvxDIueT9HnA",
+   "title": "The Psychlume",
+   "created": "2026-06-07",
+   "subs": 146,
+   "shorts_aged": 46,
+   "max": 972
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "channel": {
+  "kind": "youtube#channel",
+  "etag": "g8VmnV9um_3hrdZGTAjrrs9K7kM",
+  "id": "UCdHJ0uWdPkqHaevYJ6u6jng",
+  "snippet": {
+   "title": "Was Wäre Wenn",
+   "description": "Willkommen bei Was Wäre Wenn! \n",
+   "customUrl": "@waswarewenn4k",
+   "publishedAt": "2025-08-26T04:33:26.782849Z",
+   "thumbnails": {
+    "default": {
+     "url": "https://yt3.ggpht.com/UtKWH0BCmsM6HFVndpoXSpWJLhe3HfZubPOV2LxjeI_BvwwqKWZZf5g8Rzj_HH4qYdfC1_dD=s88-c-k-c0x00ffffff-no-rj",
+     "width": 88,
+     "height": 88
+    },
+    "medium": {
+     "url": "https://yt3.ggpht.com/UtKWH0BCmsM6HFVndpoXSpWJLhe3HfZubPOV2LxjeI_BvwwqKWZZf5g8Rzj_HH4qYdfC1_dD=s240-c-k-c0x00ffffff-no-rj",
+     "width": 240,
+     "height": 240
+    },
+    "high": {
+     "url": "https://yt3.ggpht.com/UtKWH0BCmsM6HFVndpoXSpWJLhe3HfZubPOV2LxjeI_BvwwqKWZZf5g8Rzj_HH4qYdfC1_dD=s800-c-k-c0x00ffffff-no-rj",
+     "width": 800,
+     "height": 800
+    }
+   },
+   "localized": {
+    "title": "Was Wäre Wenn",
+    "description": "Willkommen bei Was Wäre Wenn! \n"
+   },
+   "country": "DE"
+  },
+  "contentDetails": {
+   "relatedPlaylists": {
+    "likes": "",
+    "uploads": "UUdHJ0uWdPkqHaevYJ6u6jng"
+   }
+  },
+  "statistics": {
+   "viewCount": "4401965",
+   "subscriberCount": "4240",
+   "hiddenSubscriberCount": false,
+   "videoCount": "40"
+  },
+  "brandingSettings": {
+   "channel": {
+    "title": "Was Wäre Wenn",
+    "description": "Willkommen bei Was Wäre Wenn! \n",
+    "country": "DE"
+   }
+  }
+ },
+ "videos": [
+  {
+   "id": "MU3NZl_hzhM",
+   "title": "Sd.Kfz. 251: Der Panzer, der die Infanterie veränderte",
+   "published": "2026-05-25T12:00:36Z",
+   "dur": 56,
+   "views": 88299,
+   "likes": 1507,
+   "comments": 42,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "cqP0B4zaUo4",
+   "title": "Der lautlose Jäger – 20.000 Panzer auf dem Konto",
+   "published": "2026-05-26T11:29:26Z",
+   "dur": 53,
+   "views": 62713,
+   "likes": 1136,
+   "comments": 33,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "9RgrVW57qY4",
+   "title": "Horten 229 – Deutschlands geheimer Stealth-Bomber. 40 Jahre vor den Amerikanern.",
+   "published": "2026-05-27T17:05:43Z",
+   "dur": 49,
+   "views": 32382,
+   "likes": 675,
+   "comments": 54,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "VIZQn-lLnCI",
+   "title": "Warum nannten Soldaten diesen Panzer \"Möbelwagen\"?",
+   "published": "2026-05-28T07:36:58Z",
+   "dur": 38,
+   "views": 76006,
+   "likes": 958,
+   "comments": 10,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "l0b4ybhNPCc",
+   "title": "Panther – der gefährlichste mittlere Panzer des Zweiten Weltkriegs?",
+   "published": "2026-06-01T12:57:02Z",
+   "dur": 57,
+   "views": 71081,
+   "likes": 1516,
+   "comments": 65,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "sAoXRzepwng",
+   "title": "Deutsche Ingenieurskunst, die die Welt veränderte — Me 323 Gigant",
+   "published": "2026-06-04T07:24:19Z",
+   "dur": 59,
+   "views": 20487,
+   "likes": 613,
+   "comments": 23,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "9tSYsaE6Zv0",
+   "title": "Der deutsche Pilot, der seinen Feind rettete",
+   "published": "2026-08-31T11:44:18Z",
+   "dur": 45,
+   "views": 5745,
+   "likes": 133,
+   "comments": 3,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "N-EJsaA31kg",
+   "title": "Hitlers Aufklärung getäuscht? Die geheime GUMMI-Armee der USA (1944)",
+   "published": "2026-09-16T12:49:48Z",
+   "dur": 51,
+   "views": 3640,
+   "likes": 45,
+   "comments": 1,
+   "is_short_tab": true,
+   "lang": "de"
+  },
+  {
+   "id": "B7ucmSzgp_A",
+   "title": "188 Tonnen Wahnsinn: Was wäre, wenn der Maus 1942 gekommen wäre?",
+   "published": "2026-10-08T04:55:58Z",
+   "dur": 67,
+   "views": 105873,
+   "likes": 1369,
+   "comments": 72,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "jPy_yKoB_jU",
+   "title": "Warum war die deutsche Artillerie die STÄRKSTE der Welt?",
+   "published": "2026-10-09T05:23:23Z",
+   "dur": 529,
+   "views": 1237,
+   "likes": 9,
+   "comments": 0,
+   "is_short_tab": false,
+   "lang": null
+  },
+  {
+   "id": "eDfrZ8bC3Os",
+   "title": "Wie ein bankrottes Land halb Europa überrannte?",
+   "published": "2026-10-09T13:08:48Z",
+   "dur": 73,
+   "views": 511336,
+   "likes": 5066,
+   "comments": 979,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "IU82ZJWEMlQ",
+   "title": "Was wäre, wenn Deutschland die Sowjetunion NIE angegriffen hätte?",
+   "published": "2026-10-10T15:11:17Z",
+   "dur": 60,
+   "views": 260246,
+   "likes": 1989,
+   "comments": 278,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "8xi-g533y6U",
+   "title": "Warum Berlin NIE römisch wurde",
+   "published": "2026-10-11T14:14:02Z",
+   "dur": 61,
+   "views": 79521,
+   "likes": 1064,
+   "comments": 64,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "RuQw0wSUjLk",
+   "title": "Wie aus einem Mini-Fürstentum ein Weltreich wurde?",
+   "published": "2026-10-12T07:32:30Z",
+   "dur": 65,
+   "views": 122649,
+   "likes": 1283,
+   "comments": 269,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "-7s1gdB5ghg",
+   "title": "Von einer kleinen Stadt zum Weltreich – so eroberte Rom die Welt",
+   "published": "2026-10-12T12:27:57Z",
+   "dur": 71,
+   "views": 87583,
+   "likes": 955,
+   "comments": 90,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "TujJhuGaV7U",
+   "title": "Hitlers schlimmster Verbündeter? 🇮🇹",
+   "published": "2026-10-13T07:02:15Z",
+   "dur": 72,
+   "views": 409424,
+   "likes": 5394,
+   "comments": 740,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "NHyLt-_PW9A",
+   "title": "Unternehmen Barbarossa: Der Fehler, der Deutschland den Krieg kostetebarbarossa",
+   "published": "2026-10-13T17:57:55Z",
+   "dur": 1021,
+   "views": 1415,
+   "likes": 14,
+   "comments": 2,
+   "is_short_tab": false,
+   "lang": null
+  },
+  {
+   "id": "oWXGh81dmHM",
+   "title": "Die Bismarck: Größtes Schlachtschiff",
+   "published": "2026-10-14T05:38:37Z",
+   "dur": 72,
+   "views": 81099,
+   "likes": 890,
+   "comments": 53,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "up9UpDVbiww",
+   "title": "Warum durfte man die MP40 nicht am Magazin halten?",
+   "published": "2026-10-14T10:14:40Z",
+   "dur": 61,
+   "views": 234495,
+   "likes": 3556,
+   "comments": 35,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "W6f_MZWnJI4",
+   "title": "Molotow-Cocktail: Der Name war ein Witz über Brot",
+   "published": "2026-10-15T06:25:57Z",
+   "dur": 70,
+   "views": 83280,
+   "likes": 1485,
+   "comments": 25,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "k84NF-_P2tQ",
+   "title": "Warum liegt Berlin nicht in der Mitte von Deutschland?",
+   "published": "2026-10-15T10:10:38Z",
+   "dur": 66,
+   "views": 60575,
+   "likes": 838,
+   "comments": 77,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "ylGIJiPVFlg",
+   "title": "Dieses Stück Land will niemand – aus einem absurden Grund",
+   "published": "2026-10-16T07:15:58Z",
+   "dur": 63,
+   "views": 181489,
+   "likes": 1800,
+   "comments": 142,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "iXQ4ivm2R4s",
+   "title": "Warum griff Hitler zuerst Polen an?",
+   "published": "2026-10-16T12:25:16Z",
+   "dur": 69,
+   "views": 273444,
+   "likes": 2077,
+   "comments": 611,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "_yL98Z0e8F8",
+   "title": "Was, wenn Moskau 1941 gefallen wäre?",
+   "published": "2026-10-17T08:00:30Z",
+   "dur": 65,
+   "views": 249709,
+   "likes": 2696,
+   "comments": 256,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "UnzacFsGn5E",
+   "title": "Wie Spanien dem Zweiten Weltkrieg entkam",
+   "published": "2026-10-17T14:30:12Z",
+   "dur": 68,
+   "views": 61698,
+   "likes": 899,
+   "comments": 23,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "sduqQ03riGc",
+   "title": "Russland eroberte Sibirien – wegen eines Tieres",
+   "published": "2026-10-18T08:30:26Z",
+   "dur": 62,
+   "views": 96095,
+   "likes": 1278,
+   "comments": 215,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "Xjra7N9oLws",
+   "title": "1941: Warum Briten und Sowjets den Iran überfielen 🇮🇷я",
+   "published": "2026-10-18T14:32:57Z",
+   "dur": 65,
+   "views": 219215,
+   "likes": 2919,
+   "comments": 208,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "yipD-SnwJyE",
+   "title": "Warum die Maginot-Linie Frankreich NICHT retten konnte",
+   "published": "2026-10-19T09:20:10Z",
+   "dur": 71,
+   "views": 258530,
+   "likes": 2615,
+   "comments": 175,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "YvV8N5n7ik8",
+   "title": "Großbritannien wollte seinen ältesten Verbündeten angreifen?!",
+   "published": "2026-10-19T14:30:30Z",
+   "dur": 73,
+   "views": 105229,
+   "likes": 1070,
+   "comments": 62,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "b_VXZCNLk3A",
+   "title": "Was, wenn Stalingrad gefallen wäre?",
+   "published": "2026-10-20T10:06:32Z",
+   "dur": 64,
+   "views": 72930,
+   "likes": 918,
+   "comments": 150,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "M0yGMwhC1QA",
+   "title": "Warum hat Spanien Portugal nie geschluckt?",
+   "published": "2026-10-20T14:30:14Z",
+   "dur": 74,
+   "views": 273805,
+   "likes": 3522,
+   "comments": 109,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "q0gANG9JYsg",
+   "title": "Warum die Wehrmacht Mussolini retten musste",
+   "published": "2026-10-21T09:20:39Z",
+   "dur": 74,
+   "views": 73237,
+   "likes": 971,
+   "comments": 90,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "zeMUiuIoApA",
+   "title": "Warum griff Japan Pearl Harbor an? Es ging um Öl",
+   "published": "2026-10-21T14:30:07Z",
+   "dur": 71,
+   "views": 45975,
+   "likes": 619,
+   "comments": 33,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "jnF64k_U59E",
+   "title": "Wie Napoleon zwei Großmächte in 10 Wochen zerschlug?",
+   "published": "2026-10-22T10:11:52Z",
+   "dur": 649,
+   "views": 528,
+   "likes": 6,
+   "comments": 0,
+   "is_short_tab": false,
+   "lang": null
+  },
+  {
+   "id": "-M8UGg_Icys",
+   "title": "Eine Müllinsel 4,5 × so groß wie Deutschland?!",
+   "published": "2026-10-22T12:50:38Z",
+   "dur": 66,
+   "views": 30880,
+   "likes": 399,
+   "comments": 27,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "PXfw9aqtwRQ",
+   "title": "Atomrakete auf Deutschland – wer merkt es zuerst?",
+   "published": "2026-10-22T17:30:06Z",
+   "dur": 69,
+   "views": 65358,
+   "likes": 719,
+   "comments": 30,
+   "is_short_tab": true,
+   "lang": null
+  },
+  {
+   "id": "X0_liaqMehw",
+   "title": "Hitlers wichtigster Verbündeter – in 6 Wochen sein Feind",
+   "published": "2026-10-23T09:58:18Z",
+   "dur": 69,
+   "views": 66492,
+   "likes": 1105,
+   "comments": 83,
+   "is_short_tab": true,
+   "lang": "de"
+  },
+  {
+   "id": "X3Mku4_pi3M",
+   "title": "Warum hat Hitler die Schweiz NIE angegriffen?",
+   "published": "2026-10-23T16:30:23Z",
+   "dur": 64,
+   "views": 59862,
+   "likes": 1009,
+   "comments": 64,
+   "is_short_tab": true,
+   "lang": "de"
+  },
+  {
+   "id": "HR5O-5TgrlI",
+   "title": "Kleiner als Deutschland – und herrschte über ein Viertel der Welt",
+   "published": "2026-10-24T10:30:25Z",
+   "dur": 71,
+   "views": 17623,
+   "likes": 316,
+   "comments": 18,
+   "is_short_tab": true,
+   "lang": "de"
+  },
+  {
+   "id": "BJXITrr2bF0",
+   "title": "Mehr Panzer als Deutschland – und trotzdem nach 6 Wochen kapituliert?!",
+   "published": "2026-10-24T16:30:36Z",
+   "dur": 67,
+   "views": 33274,
+   "likes": 556,
+   "comments": 32,
+   "is_short_tab": true,
+   "lang": "de"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+  "shot": "A2",
+  "file": "A2.mp4",
+  "variant": "A2",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Pigs_Love_Watermelon.webm",
+  "direct_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pigs_Love_Watermelon.webm",
+  "title": "Pigs Love Watermelon",
+  "author": "Two Drs Homestead (YouTube, via Wikimedia Commons)",
+  "author_url": "https://www.youtube.com/@twodrshomestead",
+  "licence": "CC BY 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by/3.0",
+  "attribution": "\"Pigs Love Watermelon\" by Two Drs Homestead, CC BY 3.0, via Wikimedia Commons",
+  "source_file": "assets/raw/A/commons-Pigs_Love_Watermelon/src.webm",
+  "source_resolution": "2160x3840",
+  "source_fps": "30000/1001",
+  "segment": {
+    "t0": 3.6,
+    "t1": 9.6
+  },
+  "crop": {
+    "x": 0,
+    "y": 0,
+    "w": 2160,
+    "h": 3840
+  },
+  "upscale": 0.6,
+  "output": {
+    "w": 1296,
+    "h": 2304,
+    "fps": "30000/1001",
+    "duration": 6.006,
+    "codec": "h264 crf16",
+    "audio": false
+  },
+  "description": "Same watermelon pigs as H3: extreme close-up munching watermelon; at clip 2.1-2.6 s the pig lifts its wet snout right into the lens (sniff), then goes back to eating.",
+  "attribution_required": true,
+  "youtube_original": "https://www.youtube.com/watch?v=RY_8iRuQ7GQ",
+  "note": "Callback to H3 (same video, different shot). Snout-in-lens moment = source 5.7-6.2 s."
+}

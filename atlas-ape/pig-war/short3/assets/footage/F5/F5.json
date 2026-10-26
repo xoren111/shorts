@@ -1,0 +1,36 @@
+{
+  "shot": "F5",
+  "file": "F5.mp4",
+  "variant": "F5",
+  "source_page": "https://pixabay.com/videos/pig-pork-mammal-animal-park-176712/",
+  "direct_url": "https://cdn.pixabay.com/video/2023/08/18/176712-856056300_large.mp4",
+  "title": "Pig, Pork, Mammal (Pixabay 176712)",
+  "author": "Kaffeesüchtig",
+  "author_url": "https://pixabay.com/users/kaffeesüchtig-19168820/",
+  "licence": "Pixabay Content License (free for commercial use, no attribution required)",
+  "licence_url": "https://pixabay.com/service/license-summary/",
+  "attribution": null,
+  "source_file": "assets/raw/A/pixabay-176712/src.mp4",
+  "source_resolution": "3840x2160",
+  "source_fps": "30/1",
+  "segment": {
+    "t0": 0.3,
+    "t1": 7.3
+  },
+  "crop": {
+    "x": 1198,
+    "y": 0,
+    "w": 1215,
+    "h": 2160
+  },
+  "upscale": 1.067,
+  "output": {
+    "w": 1296,
+    "h": 2304,
+    "fps": "30/1",
+    "duration": 7.0,
+    "codec": "h264 crf16",
+    "audio": false
+  },
+  "description": "Frontal close-up of a black pig standing in the sun, looking straight into the camera (4K)."
+}

@@ -1,0 +1,4262 @@
+{
+ "now_utc": "2026-10-25T08:10",
+ "niches": {
+  "animals": {
+   "keywords": [
+    "animal facts",
+    "animal story",
+    "wild animals",
+    "nature facts"
+   ],
+   "fresh_sample_30d": 318,
+   "fresh_sample_30d_lang": 262,
+   "fresh_distinct_channels": 233,
+   "views_per_day_age_ge_1d": {
+    "n": 173,
+    "median": 2918,
+    "p75": 17232,
+    "p90": 46801,
+    "share_ge_1k": 0.607,
+    "share_ge_10k": 0.329,
+    "share_ge_100k": 0.058,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 95,
+    "median": 27814,
+    "p75": 168768,
+    "p90": 952608,
+    "share_ge_1k": 0.884,
+    "share_ge_10k": 0.663,
+    "share_ge_100k": 0.316,
+    "share_ge_1m": 0.095
+   },
+   "views_age_1_6d": {
+    "n": 115,
+    "median": 8852,
+    "p75": 35417,
+    "p90": 98316,
+    "share_ge_1k": 0.73,
+    "share_ge_10k": 0.487,
+    "share_ge_100k": 0.104,
+    "share_ge_1m": 0.0
+   },
+   "small_channels_lt10k_share": 0.695,
+   "small_channels_vpd": {
+    "n": 110,
+    "median": 733,
+    "p75": 4070,
+    "p90": 18762,
+    "share_ge_1k": 0.409,
+    "share_ge_10k": 0.173,
+    "share_ge_100k": 0.018,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 63,
+    "median": 17232,
+    "p75": 44487,
+    "p90": 145300,
+    "share_ge_1k": 0.952,
+    "share_ge_10k": 0.603,
+    "share_ge_100k": 0.127,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.576,
+   "new_channels_vpd": {
+    "n": 100,
+    "median": 1475,
+    "p75": 7624,
+    "p90": 31023,
+    "share_ge_1k": 0.52,
+    "share_ge_10k": 0.24,
+    "share_ge_100k": 0.03,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "animal facts": {
+     "today_returned": 70,
+     "verified_24h": 34,
+     "verified_24h_lang": 24,
+     "verified_7d": 64,
+     "distinct_channels_7d": 59,
+     "pages_exhausted_today": false
+    },
+    "animal story": {
+     "today_returned": 77,
+     "verified_24h": 28,
+     "verified_24h_lang": 22,
+     "verified_7d": 60,
+     "distinct_channels_7d": 59,
+     "pages_exhausted_today": false
+    },
+    "wild animals": {
+     "today_returned": 95,
+     "verified_24h": 25,
+     "verified_24h_lang": 20,
+     "verified_7d": 76,
+     "distinct_channels_7d": 67,
+     "pages_exhausted_today": false
+    },
+    "nature facts": {
+     "today_returned": 71,
+     "verified_24h": 35,
+     "verified_24h_lang": 28,
+     "verified_7d": 70,
+     "distinct_channels_7d": 67,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 23.0,
+   "ceiling_90d_ge1m_all_lang": 64,
+   "ceiling_90d_ge1m_lang": 47,
+   "ceiling_90d_ge1m_lang_distinct_channels": 33,
+   "ceiling_from_channels_lt365d": 16,
+   "ceiling_from_channels_lt10k_subs_now": 3,
+   "ceiling_from_channels_lt100k_subs_now": 16,
+   "ceiling_hits": [
+    {
+     "id": "rYIw6PGb8v0",
+     "views": 74502867,
+     "published": "2026-08-02",
+     "secs": 24,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time! 🦎 #shorts #learn #animals #kids"
+    },
+    {
+     "id": "ZC9YaEnpCpI",
+     "views": 72259837,
+     "published": "2026-08-14",
+     "secs": 31,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time! What Can Cats Eat? 🐱 #kids #learn #shorts  #animals"
+    },
+    {
+     "id": "ZlwnX-P0kOQ",
+     "views": 37491028,
+     "published": "2026-08-15",
+     "secs": 27,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time! 🪲 #shorts #kids #learn #animals"
+    },
+    {
+     "id": "4uwD64JzLyE",
+     "views": 34032924,
+     "published": "2026-08-28",
+     "secs": 117,
+     "lang": "en",
+     "channel": "We Love Animals",
+     "channel_age_d": 2775,
+     "subs": 6860000,
+     "title": "Talons ripped, but she didn't flinch. #FearlessRescue #Wildlife"
+    },
+    {
+     "id": "SqvtLWz9eDg",
+     "views": 26456583,
+     "published": "2026-09-03",
+     "secs": 36,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time! 🦑 #learn #animals #kids #shorts"
+    },
+    {
+     "id": "1RDSXeRgC_Q",
+     "views": 20713028,
+     "published": "2026-09-18",
+     "secs": 23,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time! Let's Count Eyes! #learn #kids #shorts #animals"
+    },
+    {
+     "id": "ng_lEcAHxok",
+     "views": 19980151,
+     "published": "2026-08-08",
+     "secs": 63,
+     "lang": "en-US",
+     "channel": "Hoodie Guy",
+     "channel_age_d": 524,
+     "subs": 2120000,
+     "title": "Animals That Are Secretly Friends... (pt.2)"
+    },
+    {
+     "id": "NgHWSz1U6_4",
+     "views": 18439918,
+     "published": "2026-09-30",
+     "secs": 21,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time! 🥚 #learn #kids #shorts"
+    },
+    {
+     "id": "BffIITO6VRM",
+     "views": 13635346,
+     "published": "2026-08-13",
+     "secs": 51,
+     "lang": "en-US",
+     "channel": "AiEngineer",
+     "channel_age_d": 91,
+     "subs": 49000,
+     "title": "How Does a Chick Develop Inside an Egg? 🐣 | 21 Days Explained"
+    },
+    {
+     "id": "njJ9HAMmvfE",
+     "views": 10716537,
+     "published": "2026-08-07",
+     "secs": 28,
+     "lang": "en",
+     "channel": "Inkori",
+     "channel_age_d": 495,
+     "subs": 4440000,
+     "title": "ROBLOX ANIMAL HOSPITAL #22 - Intern's Sad Story, I'm Not a Monster!!!"
+    },
+    {
+     "id": "kkou2QV7t5U",
+     "views": 10597167,
+     "published": "2026-09-25",
+     "secs": 51,
+     "lang": "en-US",
+     "channel": "Infinite Fact",
+     "channel_age_d": 678,
+     "subs": 161000,
+     "title": "5 Skinniest & Weirdest Dog Breeds In The World 🐶#animalfacts #wildlife #factshindi"
+    },
+    {
+     "id": "7BC8MyBYfjk",
+     "views": 9257963,
+     "published": "2026-08-24",
+     "secs": 36,
+     "lang": "en-US",
+     "channel": "Infinite Fact",
+     "channel_age_d": 678,
+     "subs": 161000,
+     "title": "The Unluckiest Animals In The World 😭#animalfacts #wildlife #facts"
+    },
+    {
+     "id": "L33E6hWdGzQ",
+     "views": 8035988,
+     "published": "2026-08-07",
+     "secs": 21,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time! 🦔 #learning #shorts #kids"
+    },
+    {
+     "id": "zqdQN87B3lM",
+     "views": 6674783,
+     "published": "2026-08-02",
+     "secs": 131,
+     "lang": "en-US",
+     "channel": "My Amazing World",
+     "channel_age_d": 779,
+     "subs": 387000,
+     "title": "5 Fish That Even Professional Scuba Divers Fear! #AnimalFacts #Animals"
+    },
+    {
+     "id": "OTE7AO3dio0",
+     "views": 6540146,
+     "published": "2026-08-18",
+     "secs": 20,
+     "lang": "en",
+     "channel": "Mystery History ",
+     "channel_age_d": 87,
+     "subs": 62000,
+     "title": "How do animals sleep? 🐾😴#"
+    },
+    {
+     "id": "kRJePtJRGbg",
+     "views": 6466245,
+     "published": "2026-07-29",
+     "secs": 41,
+     "lang": "en-US",
+     "channel": "Wild Blip",
+     "channel_age_d": 1908,
+     "subs": 114000,
+     "title": "The Weirdest Animal Behaviors You'll Ever See"
+    },
+    {
+     "id": "KvOOhdCWRyc",
+     "views": 6021157,
+     "published": "2026-09-28",
+     "secs": 45,
+     "lang": "en",
+     "channel": "Facts' Mine",
+     "channel_age_d": 1789,
+     "subs": 19300000,
+     "title": "This Animal Might Be Living On The Moon"
+    },
+    {
+     "id": "6Ij0mL5vmM8",
+     "views": 4780350,
+     "published": "2026-09-15",
+     "secs": 41,
+     "lang": "en-US",
+     "channel": "EcoplanturUSA",
+     "channel_age_d": 337,
+     "subs": 34600,
+     "title": "How Does a Chicken Make an Egg? The Incredible Process 🥚 #science #chicken #egg #facts #experiment"
+    },
+    {
+     "id": "wM8cTH_3NT0",
+     "views": 4661361,
+     "published": "2026-08-06",
+     "secs": 39,
+     "lang": "en",
+     "channel": "Facts' Mine",
+     "channel_age_d": 1789,
+     "subs": 19300000,
+     "title": "Loneliest Animal In The World"
+    },
+    {
+     "id": "BneG3bVSJ54",
+     "views": 4412722,
+     "published": "2026-10-18",
+     "secs": 70,
+     "lang": "en",
+     "channel": "Unique Fact Official",
+     "channel_age_d": 99,
+     "subs": 867000,
+     "title": "The Weirdest Bird Nests You’ve Ever Seen!🙄#facts #shorts #birds #new #tending #shortvideo"
+    },
+    {
+     "id": "RxmHik2RisQ",
+     "views": 4315834,
+     "published": "2026-07-30",
+     "secs": 136,
+     "lang": "en-US",
+     "channel": "Beast tier",
+     "channel_age_d": 966,
+     "subs": 198000,
+     "title": "5 Animals That Suffer From Heartbreak💔#animals #wildlife #animalfacts"
+    },
+    {
+     "id": "ue8IbB1Cncs",
+     "views": 4308329,
+     "published": "2026-10-08",
+     "secs": 150,
+     "lang": "en",
+     "channel": "Rare Wild Moments ",
+     "channel_age_d": 523,
+     "subs": 137000,
+     "title": "Heartwarming Animal Rescue Stories | Incredible Rescues & Happy Endings part 28"
+    },
+    {
+     "id": "gLQBMsiGf0M",
+     "views": 4129029,
+     "published": "2026-08-29",
+     "secs": 26,
+     "lang": "en",
+     "channel": "Animal Explainer ",
+     "channel_age_d": 303,
+     "subs": 10700,
+     "title": "Baby Kangaroo’s Toilet Secret! 😂🦘#facts #wildlife #kangaroo #animals"
+    },
+    {
+     "id": "rCJKGb0t09A",
+     "views": 3680652,
+     "published": "2026-08-24",
+     "secs": 41,
+     "lang": "en-US",
+     "channel": "ZooLife",
+     "channel_age_d": 94,
+     "subs": 23000,
+     "title": "Animals That Eat Their Own Babies 💀 #shorts"
+    },
+    {
+     "id": "lxbNyF9bUI8",
+     "views": 3594778,
+     "published": "2026-08-10",
+     "secs": 27,
+     "lang": "en",
+     "channel": "Fact Maze Telugu ",
+     "channel_age_d": 1677,
+     "subs": 1120000,
+     "title": "Top 2 Amazing Animals 🔥|#telugu #telugufacts #shorts"
+    },
+    {
+     "id": "Bq2uTmNm4bk",
+     "views": 3488503,
+     "published": "2026-09-06",
+     "secs": 104,
+     "lang": "en-US",
+     "channel": "FaunaPedia",
+     "channel_age_d": 2680,
+     "subs": 6360,
+     "title": "Incredible animal movement caught on camera that nobody could believe 🎣🦅🐙 #shorts"
+    },
+    {
+     "id": "NuBMzEBaxrk",
+     "views": 3294728,
+     "published": "2026-10-01",
+     "secs": 136,
+     "lang": "en-US",
+     "channel": "My Amazing World",
+     "channel_age_d": 779,
+     "subs": 387000,
+     "title": "5 Birds Created By Humans, Not Nature! #Animals #AnimalFacts"
+    },
+    {
+     "id": "NTkeFMkzLmU",
+     "views": 3079270,
+     "published": "2026-10-07",
+     "secs": 121,
+     "lang": "en-US",
+     "channel": "SnowClaw",
+     "channel_age_d": 196,
+     "subs": 37100,
+     "title": "Wild Animal Moments That Look Like Straight-Up Cheat Codes #wildlife #savageanimals"
+    },
+    {
+     "id": "jSNq-rr6Au8",
+     "views": 2966599,
+     "published": "2026-10-17",
+     "secs": 11,
+     "lang": "en",
+     "channel": "Ruben Namibia",
+     "channel_age_d": 1005,
+     "subs": 643000,
+     "title": "A baboon mom and meerkat son 🥰😂 #animals #animalshorts #funny #wildlife"
+    },
+    {
+     "id": "0D2c613pvBA",
+     "views": 2815517,
+     "published": "2026-08-29",
+     "secs": 19,
+     "lang": "en",
+     "channel": "DarDar - SuperHero",
+     "channel_age_d": 3446,
+     "subs": 3400000,
+     "title": "Animal Fact Time!🪼 #kids #learn #animals #shorts"
+    },
+    {
+     "id": "mvmN6rRBuTM",
+     "views": 2793626,
+     "published": "2026-08-24",
+     "secs": 35,
+     "lang": "en",
+     "channel": "Nava mysterious ",
+     "channel_age_d": 829,
+     "subs": 127000,
+     "title": "“Lion ni kuda Challenge chese Animal 😱 | Honey Badger 🦡”😱 ll# #facts #ytshorts #honeybadger"
+    },
+    {
+     "id": "OB3BnKBx254",
+     "views": 2747859,
+     "published": "2026-10-17",
+     "secs": 66,
+     "lang": "en",
+     "channel": "We Love Animals",
+     "channel_age_d": 2775,
+     "subs": 6860000,
+     "title": "He was trapped under the wood… then this happened #rescue #monkey #animals"
+    },
+    {
+     "id": "2-TPH91gYj8",
+     "views": 2677844,
+     "published": "2026-10-16",
+     "secs": 31,
+     "lang": "en",
+     "channel": "Info Nest",
+     "channel_age_d": 2303,
+     "subs": 19400,
+     "title": "What Is This Bird Removing From Its Eye? 😳👁️ #wildlife"
+    },
+    {
+     "id": "aJ-XN2NdQog",
+     "views": 2456393,
+     "published": "2026-08-25",
+     "secs": 26,
+     "lang": "en",
+     "channel": "CrackWise",
+     "channel_age_d": 143,
+     "subs": 25200,
+     "title": "5 Weird Things About Horses🐴"
+    },
+    {
+     "id": "DQV7CdaQPVs",
+     "views": 2143127,
+     "published": "2026-10-05",
+     "secs": 118,
+     "lang": "en-US",
+     "channel": "SnowClaw",
+     "channel_age_d": 196,
+     "subs": 37100,
+     "title": "Wild Animals That Thought They Had an Easy Win #wildlife #savageanimals"
+    },
+    {
+     "id": "tY7jRWbPBTU",
+     "views": 2134793,
+     "published": "2026-08-07",
+     "secs": 52,
+     "lang": "en-US",
+     "channel": "Paws Explore",
+     "channel_age_d": 176,
+     "subs": 240000,
+     "title": "Nature's Most Amazing Animal Births Caught on Camera #facts"
+    },
+    {
+     "id": "_u-4lRdw2Gk",
+     "views": 2056156,
+     "published": "2026-09-19",
+     "secs": 58,
+     "lang": "en",
+     "channel": "Unique Fact Official",
+     "channel_age_d": 99,
+     "subs": 867000,
+     "title": "Some of the world's deadliest animals !🙄#animals #dangerous #facts #shorts"
+    },
+    {
+     "id": "lmALnx8QYPI",
+     "views": 1901693,
+     "published": "2026-08-14",
+     "secs": 142,
+     "lang": "en-US",
+     "channel": "My Amazing World",
+     "channel_age_d": 779,
+     "subs": 387000,
+     "title": "5 Animals That Were Discovered Completely by ACCIDENT! #Animals #AnimalFacts"
+    },
+    {
+     "id": "jbmEsDjnTco",
+     "views": 1768999,
+     "published": "2026-07-31",
+     "secs": 15,
+     "lang": "en",
+     "channel": "Curious Coala",
+     "channel_age_d": 101,
+     "subs": 7490,
+     "title": "Baby Animals That Grew Into GIANTS! #wildlife  #animals"
+    },
+    {
+     "id": "LThPjl_KIdA",
+     "views": 1603517,
+     "published": "2026-08-23",
+     "secs": 52,
+     "lang": "en",
+     "channel": "MashMomentum",
+     "channel_age_d": 76,
+     "subs": 856000,
+     "title": "3 Animals That Never Stop Growing 😲 #shorts #wildlife #nature #facts #animals #animalfacts"
+    },
+    {
+     "id": "Z-7kI3plWbk",
+     "views": 1595735,
+     "published": "2026-09-28",
+     "secs": 19,
+     "lang": "en-US",
+     "channel": "Fossil Facts",
+     "channel_age_d": 765,
+     "subs": 412000,
+     "title": "Before Dinosaurs Ruled Earth…😳🦖  #dinosaur #prehistoric"
+    },
+    {
+     "id": "JXZVc9MNbIw",
+     "views": 1587652,
+     "published": "2026-10-11",
+     "secs": 53,
+     "lang": "en",
+     "channel": "Factopus",
+     "channel_age_d": 1270,
+     "subs": 82700,
+     "title": "Why Did Massive Animals Got Smaller In Size"
+    },
+    {
+     "id": "C7Il6dyy0Jg",
+     "views": 1498709,
+     "published": "2026-10-09",
+     "secs": 18,
+     "lang": "en",
+     "channel": "BeastAlpha_Shorts",
+     "channel_age_d": 1305,
+     "subs": 2050,
+     "title": "Crocodile vs Wild Animals: Who is the Real KING? 🐊🦁 (Wait for Lion) #shorts #animals #wildlife"
+    },
+    {
+     "id": "RtmlgOCEvKI",
+     "views": 1346257,
+     "published": "2026-09-25",
+     "secs": 30,
+     "lang": "en",
+     "channel": "RankingRealm",
+     "channel_age_d": 259,
+     "subs": 58700,
+     "title": "🤯Ranking INSANE Wild Animals Transformations🐘🦅"
+    },
+    {
+     "id": "GcrmcXmeLPQ",
+     "views": 1091083,
+     "published": "2026-10-18",
+     "secs": 130,
+     "lang": "en",
+     "channel": "ANIMAL WILD",
+     "channel_age_d": 493,
+     "subs": 488000,
+     "title": "Oh my gosh, is this really how you take care of kids? #wildlife #animals #shortvideo"
+    },
+    {
+     "id": "OgrTiluGioo",
+     "views": 1088713,
+     "published": "2026-10-24",
+     "secs": 31,
+     "lang": "en",
+     "channel": "MorphX 01",
+     "channel_age_d": 306,
+     "subs": 95000,
+     "title": "Shocking Animal Transformation!🐾😱 #animals #wildanimals"
+    },
+    {
+     "id": "268V2rB93I4",
+     "views": 1045915,
+     "published": "2026-09-11",
+     "secs": 7,
+     "lang": "en",
+     "channel": "Ankit Pathshala",
+     "channel_age_d": 271,
+     "subs": 11500,
+     "title": "Wild Animals Name in Hindi and English | Wild Animals Name | Jangali Janwar ke Naam | Wild Animals |"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2023": 2,
+    "2024": 6,
+    "2025": 25,
+    "2026": 76
+   }
+  },
+  "core_absurd_history": {
+   "keywords": [
+    "weird history",
+    "crazy history",
+    "history facts",
+    "true story history",
+    "absurd history"
+   ],
+   "fresh_sample_30d": 339,
+   "fresh_sample_30d_lang": 325,
+   "fresh_distinct_channels": 286,
+   "views_per_day_age_ge_1d": {
+    "n": 163,
+    "median": 727,
+    "p75": 10524,
+    "p90": 22337,
+    "share_ge_1k": 0.448,
+    "share_ge_10k": 0.27,
+    "share_ge_100k": 0.031,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 59,
+    "median": 10576,
+    "p75": 97924,
+    "p90": 276975,
+    "share_ge_1k": 0.729,
+    "share_ge_10k": 0.508,
+    "share_ge_100k": 0.237,
+    "share_ge_1m": 0.034
+   },
+   "views_age_1_6d": {
+    "n": 120,
+    "median": 1202,
+    "p75": 25144,
+    "p90": 47167,
+    "share_ge_1k": 0.542,
+    "share_ge_10k": 0.325,
+    "share_ge_100k": 0.058,
+    "share_ge_1m": 0.008
+   },
+   "small_channels_lt10k_share": 0.828,
+   "small_channels_vpd": {
+    "n": 121,
+    "median": 272,
+    "p75": 2074,
+    "p90": 18100,
+    "share_ge_1k": 0.331,
+    "share_ge_10k": 0.174,
+    "share_ge_100k": 0.008,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 42,
+    "median": 10410,
+    "p75": 16487,
+    "p90": 71919,
+    "share_ge_1k": 0.786,
+    "share_ge_10k": 0.548,
+    "share_ge_100k": 0.095,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.563,
+   "new_channels_vpd": {
+    "n": 94,
+    "median": 412,
+    "p75": 4051,
+    "p90": 19187,
+    "share_ge_1k": 0.383,
+    "share_ge_10k": 0.202,
+    "share_ge_100k": 0.011,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "weird history": {
+     "today_returned": 88,
+     "verified_24h": 51,
+     "verified_24h_lang": 50,
+     "verified_7d": 81,
+     "distinct_channels_7d": 70,
+     "pages_exhausted_today": false
+    },
+    "crazy history": {
+     "today_returned": 67,
+     "verified_24h": 30,
+     "verified_24h_lang": 30,
+     "verified_7d": 55,
+     "distinct_channels_7d": 49,
+     "pages_exhausted_today": false
+    },
+    "history facts": {
+     "today_returned": 87,
+     "verified_24h": 28,
+     "verified_24h_lang": 22,
+     "verified_7d": 52,
+     "distinct_channels_7d": 48,
+     "pages_exhausted_today": false
+    },
+    "true story history": {
+     "today_returned": 83,
+     "verified_24h": 49,
+     "verified_24h_lang": 48,
+     "verified_7d": 89,
+     "distinct_channels_7d": 83,
+     "pages_exhausted_today": false
+    },
+    "absurd history": {
+     "today_returned": 81,
+     "verified_24h": 32,
+     "verified_24h_lang": 32,
+     "verified_7d": 56,
+     "distinct_channels_7d": 52,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 32,
+   "ceiling_90d_ge1m_all_lang": 27,
+   "ceiling_90d_ge1m_lang": 24,
+   "ceiling_90d_ge1m_lang_distinct_channels": 20,
+   "ceiling_from_channels_lt365d": 7,
+   "ceiling_from_channels_lt10k_subs_now": 1,
+   "ceiling_from_channels_lt100k_subs_now": 6,
+   "ceiling_hits": [
+    {
+     "id": "lBccQnSDIrI",
+     "views": 18850047,
+     "published": "2026-08-01",
+     "secs": 71,
+     "lang": "en",
+     "channel": "FGtheexplainer",
+     "channel_age_d": 285,
+     "subs": 305000,
+     "title": "10 Weird Things You Didn't Know About Vikings"
+    },
+    {
+     "id": "Rt6JZNOGlwU",
+     "views": 15446571,
+     "published": "2026-08-27",
+     "secs": 95,
+     "lang": "en-US",
+     "channel": "Historically",
+     "channel_age_d": 1326,
+     "subs": 1600000,
+     "title": "The WEIRD borders of the USA... #4k #history"
+    },
+    {
+     "id": "zFSkxbGRjtU",
+     "views": 11886525,
+     "published": "2026-09-09",
+     "secs": 8,
+     "lang": "en-US",
+     "channel": "MORGAR | Human History",
+     "channel_age_d": 1455,
+     "subs": 86300,
+     "title": "Why All Snipers HATE This Invention #history #facts"
+    },
+    {
+     "id": "Ny-Bmx_T5kg",
+     "views": 10528679,
+     "published": "2026-08-30",
+     "secs": 8,
+     "lang": "en",
+     "channel": "History Explorer",
+     "channel_age_d": 210,
+     "subs": 12900,
+     "title": "The Oldest Wine In The World Would Groos You Out #shorts #history #facts"
+    },
+    {
+     "id": "asSVHGxv__s",
+     "views": 7839420,
+     "published": "2026-09-23",
+     "secs": 61,
+     "lang": "en",
+     "channel": "History Dude",
+     "channel_age_d": 1136,
+     "subs": 144000,
+     "title": "Queen Elizabeth The First Was GROSS..."
+    },
+    {
+     "id": "5zxwCGzqg5Y",
+     "views": 5317987,
+     "published": "2026-10-08",
+     "secs": 24,
+     "lang": "en",
+     "channel": "The History Girl",
+     "channel_age_d": 2069,
+     "subs": 91300,
+     "title": "The Queen Who Was Pregnant 24 Times… #history"
+    },
+    {
+     "id": "Iw6-SvDJGjU",
+     "views": 4826795,
+     "published": "2026-08-27",
+     "secs": 66,
+     "lang": "en-US",
+     "channel": "His Story",
+     "channel_age_d": 1756,
+     "subs": 7400000,
+     "title": "The Weird Kid Eats Rocks 💀"
+    },
+    {
+     "id": "pH1ti7sHJdY",
+     "views": 4232001,
+     "published": "2026-08-29",
+     "secs": 173,
+     "lang": "en-US",
+     "channel": "Black History Unfiltered",
+     "channel_age_d": 481,
+     "subs": 430000,
+     "title": "Ali's Wife They Erased From History"
+    },
+    {
+     "id": "WPGtTKf8cxI",
+     "views": 3512806,
+     "published": "2026-08-30",
+     "secs": 60,
+     "lang": "en",
+     "channel": "Sambucha",
+     "channel_age_d": 2488,
+     "subs": 12300000,
+     "title": "Strangest Superstitions Of Famous People"
+    },
+    {
+     "id": "1kNpjybjp98",
+     "views": 3284466,
+     "published": "2026-08-17",
+     "secs": 84,
+     "lang": "en",
+     "channel": "Ryan Kelly Comedy",
+     "channel_age_d": 4335,
+     "subs": 1220000,
+     "title": "How is this even real?! #history #sovietunion #astronaut #space #funny #comedy #ryankelly #ypr"
+    },
+    {
+     "id": "D0AWufa4iv4",
+     "views": 3231536,
+     "published": "2026-07-28",
+     "secs": 67,
+     "lang": "en",
+     "channel": "GeoGlobeTales",
+     "channel_age_d": 1070,
+     "subs": 2060000,
+     "title": "Why Canada Has the Weirdest Lake Names 🇨🇦🤯 2 Million Lakes"
+    },
+    {
+     "id": "v_c45nOwbUo",
+     "views": 2285283,
+     "published": "2026-10-15",
+     "secs": 88,
+     "lang": "en",
+     "channel": "Extra History",
+     "channel_age_d": 5559,
+     "subs": 4620000,
+     "title": "Why Food USED to be Safer | Recently Repeated History"
+    },
+    {
+     "id": "70HTC1JP9rs",
+     "views": 2104639,
+     "published": "2026-09-24",
+     "secs": 60,
+     "lang": "en",
+     "channel": "Sambucha",
+     "channel_age_d": 2488,
+     "subs": 12300000,
+     "title": "Strange Curses That Actually Exist"
+    },
+    {
+     "id": "vtD_y32MvLE",
+     "views": 1950033,
+     "published": "2026-08-20",
+     "secs": 39,
+     "lang": "en-US",
+     "channel": "Lyra's Letters",
+     "channel_age_d": 967,
+     "subs": 448000,
+     "title": "Some of these names are a tragedeigh | Weird Baby Names from 1918 #funny #funfact #history"
+    },
+    {
+     "id": "uKYJMHMyNrc",
+     "views": 1869382,
+     "published": "2026-09-19",
+     "secs": 93,
+     "lang": "en-US",
+     "channel": "History of Everything Podcast",
+     "channel_age_d": 1600,
+     "subs": 830000,
+     "title": "Why the Louisiana Purchase was so weird #shorts"
+    },
+    {
+     "id": "8vP9096RFtw",
+     "views": 1809009,
+     "published": "2026-07-30",
+     "secs": 75,
+     "lang": "en",
+     "channel": "FGtheexplainer",
+     "channel_age_d": 285,
+     "subs": 305000,
+     "title": "10 Weird Things You Didn't Know About George Washington"
+    },
+    {
+     "id": "L_dWQGpqcqM",
+     "views": 1807802,
+     "published": "2026-09-03",
+     "secs": 65,
+     "lang": "en",
+     "channel": "FGtheexplainer",
+     "channel_age_d": 285,
+     "subs": 305000,
+     "title": "10 Weird Things You Didn't Know About Socrates"
+    },
+    {
+     "id": "vU3GkFMonC8",
+     "views": 1790873,
+     "published": "2026-08-17",
+     "secs": 12,
+     "lang": "en",
+     "channel": "History by Lina",
+     "channel_age_d": 239,
+     "subs": 25000,
+     "title": "The Bizarre Truth About Medieval Beauty #art #history #painting #fyp"
+    },
+    {
+     "id": "vxlw_08Dhrc",
+     "views": 1759575,
+     "published": "2026-08-07",
+     "secs": 30,
+     "lang": "en",
+     "channel": "Ranzy",
+     "channel_age_d": 3157,
+     "subs": 274000,
+     "title": "Ranking The Most Weird Fact Moments #unitedstates"
+    },
+    {
+     "id": "mWp8vC57rr4",
+     "views": 1673686,
+     "published": "2026-08-23",
+     "secs": 76,
+     "lang": "en",
+     "channel": "ElliotSimms",
+     "channel_age_d": 2300,
+     "subs": 5460000,
+     "title": "Kids Invented WEIRD Game At School! 😱"
+    },
+    {
+     "id": "92W-ZMBlOz4",
+     "views": 1625815,
+     "published": "2026-10-16",
+     "secs": 16,
+     "lang": "en-US",
+     "channel": "MORGAR | Human History",
+     "channel_age_d": 1455,
+     "subs": 86300,
+     "title": "Why Is He Doing That? #facts #history"
+    },
+    {
+     "id": "lzGZQ50k-tU",
+     "views": 1385022,
+     "published": "2026-10-23",
+     "secs": 7,
+     "lang": "en-US",
+     "channel": "History Snap92",
+     "channel_age_d": 207,
+     "subs": 3170,
+     "title": "The Most Fun Watch Ever Made #facts #history"
+    },
+    {
+     "id": "4RZekvVqEp0",
+     "views": 1115368,
+     "published": "2026-09-11",
+     "secs": 46,
+     "lang": "en",
+     "channel": "Why Guy",
+     "channel_age_d": 299,
+     "subs": 203000,
+     "title": "10 Reasons Why Nikola Tesla Was Really Weird..."
+    },
+    {
+     "id": "I4gsnsT0AkQ",
+     "views": 1001690,
+     "published": "2026-08-05",
+     "secs": 48,
+     "lang": "en",
+     "channel": "Tucker Carlson",
+     "channel_age_d": 1194,
+     "subs": 5780000,
+     "title": "Crazy History Fact Shocks Tucker"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2022": 1,
+    "2023": 22,
+    "2024": 37,
+    "2025": 53,
+    "2026": 72
+   }
+  },
+  "de_geschichte": {
+   "keywords": [
+    "geschichte fakten",
+    "wahre geschichte",
+    "was wäre wenn",
+    "kuriose geschichte"
+   ],
+   "fresh_sample_30d": 290,
+   "fresh_sample_30d_lang": 267,
+   "fresh_distinct_channels": 193,
+   "views_per_day_age_ge_1d": {
+    "n": 158,
+    "median": 831,
+    "p75": 4036,
+    "p90": 20877,
+    "share_ge_1k": 0.437,
+    "share_ge_10k": 0.196,
+    "share_ge_100k": 0.006,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 66,
+    "median": 10789,
+    "p75": 52470,
+    "p90": 153746,
+    "share_ge_1k": 0.924,
+    "share_ge_10k": 0.515,
+    "share_ge_100k": 0.152,
+    "share_ge_1m": 0.0
+   },
+   "views_age_1_6d": {
+    "n": 119,
+    "median": 1635,
+    "p75": 17018,
+    "p90": 52202,
+    "share_ge_1k": 0.723,
+    "share_ge_10k": 0.286,
+    "share_ge_100k": 0.05,
+    "share_ge_1m": 0.0
+   },
+   "small_channels_lt10k_share": 0.794,
+   "small_channels_vpd": {
+    "n": 118,
+    "median": 622,
+    "p75": 1002,
+    "p90": 10457,
+    "share_ge_1k": 0.254,
+    "share_ge_10k": 0.119,
+    "share_ge_100k": 0.0,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 40,
+    "median": 6078,
+    "p75": 22439,
+    "p90": 56702,
+    "share_ge_1k": 0.975,
+    "share_ge_10k": 0.425,
+    "share_ge_100k": 0.025,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.577,
+   "new_channels_vpd": {
+    "n": 87,
+    "median": 669,
+    "p75": 1764,
+    "p90": 19343,
+    "share_ge_1k": 0.31,
+    "share_ge_10k": 0.126,
+    "share_ge_100k": 0.011,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "geschichte fakten": {
+     "today_returned": 94,
+     "verified_24h": 38,
+     "verified_24h_lang": 35,
+     "verified_7d": 93,
+     "distinct_channels_7d": 73,
+     "pages_exhausted_today": false
+    },
+    "wahre geschichte": {
+     "today_returned": 99,
+     "verified_24h": 37,
+     "verified_24h_lang": 34,
+     "verified_7d": 74,
+     "distinct_channels_7d": 64,
+     "pages_exhausted_today": false
+    },
+    "was wäre wenn": {
+     "today_returned": 84,
+     "verified_24h": 36,
+     "verified_24h_lang": 33,
+     "verified_7d": 70,
+     "distinct_channels_7d": 53,
+     "pages_exhausted_today": false
+    },
+    "kuriose geschichte": {
+     "today_returned": 67,
+     "verified_24h": 16,
+     "verified_24h_lang": 15,
+     "verified_7d": 36,
+     "distinct_channels_7d": 27,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 33.5,
+   "ceiling_90d_ge1m_all_lang": 2,
+   "ceiling_90d_ge1m_lang": 1,
+   "ceiling_90d_ge1m_lang_distinct_channels": 1,
+   "ceiling_from_channels_lt365d": 1,
+   "ceiling_from_channels_lt10k_subs_now": 0,
+   "ceiling_from_channels_lt100k_subs_now": 0,
+   "ceiling_hits": [
+    {
+     "id": "BhWaCLyYYR8",
+     "views": 1629591,
+     "published": "2026-09-06",
+     "secs": 43,
+     "lang": "de",
+     "channel": "Herr Globus",
+     "channel_age_d": 244,
+     "subs": 498000,
+     "title": "Was wäre, wenn die Farbe Gelb von den Flaggen entfernt würde? #countryballs"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2023": 7,
+    "2024": 18,
+    "2025": 27,
+    "2026": 106
+   }
+  },
+  "es_historias": {
+   "keywords": [
+    "historias reales",
+    "historia increible",
+    "datos curiosos historia",
+    "historia real"
+   ],
+   "fresh_sample_30d": 307,
+   "fresh_sample_30d_lang": 294,
+   "fresh_distinct_channels": 252,
+   "views_per_day_age_ge_1d": {
+    "n": 159,
+    "median": 1081,
+    "p75": 6227,
+    "p90": 20989,
+    "share_ge_1k": 0.528,
+    "share_ge_10k": 0.195,
+    "share_ge_100k": 0.019,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 66,
+    "median": 8769,
+    "p75": 63826,
+    "p90": 188153,
+    "share_ge_1k": 0.894,
+    "share_ge_10k": 0.5,
+    "share_ge_100k": 0.212,
+    "share_ge_1m": 0.03
+   },
+   "views_age_1_6d": {
+    "n": 114,
+    "median": 2677,
+    "p75": 21307,
+    "p90": 69065,
+    "share_ge_1k": 0.798,
+    "share_ge_10k": 0.316,
+    "share_ge_100k": 0.079,
+    "share_ge_1m": 0.0
+   },
+   "small_channels_lt10k_share": 0.738,
+   "small_channels_vpd": {
+    "n": 110,
+    "median": 680,
+    "p75": 1762,
+    "p90": 9103,
+    "share_ge_1k": 0.382,
+    "share_ge_10k": 0.1,
+    "share_ge_100k": 0.009,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 49,
+    "median": 5971,
+    "p75": 16262,
+    "p90": 55856,
+    "share_ge_1k": 0.857,
+    "share_ge_10k": 0.408,
+    "share_ge_100k": 0.041,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.459,
+   "new_channels_vpd": {
+    "n": 64,
+    "median": 749,
+    "p75": 5199,
+    "p90": 22065,
+    "share_ge_1k": 0.422,
+    "share_ge_10k": 0.188,
+    "share_ge_100k": 0.031,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "historias reales": {
+     "today_returned": 71,
+     "verified_24h": 29,
+     "verified_24h_lang": 29,
+     "verified_7d": 55,
+     "distinct_channels_7d": 44,
+     "pages_exhausted_today": false
+    },
+    "historia increible": {
+     "today_returned": 98,
+     "verified_24h": 45,
+     "verified_24h_lang": 45,
+     "verified_7d": 86,
+     "distinct_channels_7d": 80,
+     "pages_exhausted_today": false
+    },
+    "datos curiosos historia": {
+     "today_returned": 86,
+     "verified_24h": 38,
+     "verified_24h_lang": 37,
+     "verified_7d": 69,
+     "distinct_channels_7d": 61,
+     "pages_exhausted_today": false
+    },
+    "historia real": {
+     "today_returned": 88,
+     "verified_24h": 38,
+     "verified_24h_lang": 35,
+     "verified_7d": 70,
+     "distinct_channels_7d": 63,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 36.0,
+   "ceiling_90d_ge1m_all_lang": 37,
+   "ceiling_90d_ge1m_lang": 35,
+   "ceiling_90d_ge1m_lang_distinct_channels": 20,
+   "ceiling_from_channels_lt365d": 8,
+   "ceiling_from_channels_lt10k_subs_now": 1,
+   "ceiling_from_channels_lt100k_subs_now": 9,
+   "ceiling_hits": [
+    {
+     "id": "ehftDgZXP-Y",
+     "views": 18686179,
+     "published": "2026-08-16",
+     "secs": 19,
+     "lang": "es",
+     "channel": "Ficha Azul",
+     "channel_age_d": 1467,
+     "subs": 192000,
+     "title": "El Increíble Sacrificio De Las Abejas"
+    },
+    {
+     "id": "SrPwrEpxPsU",
+     "views": 10915103,
+     "published": "2026-10-07",
+     "secs": 108,
+     "lang": "es",
+     "channel": "La Historia de Él",
+     "channel_age_d": 2208,
+     "subs": 4410000,
+     "title": "Solo Quería Jugar 🎮"
+    },
+    {
+     "id": "VjIX5hP0uCw",
+     "views": 9298975,
+     "published": "2026-09-19",
+     "secs": 119,
+     "lang": "es-419",
+     "channel": "Jenny Devil",
+     "channel_age_d": 3205,
+     "subs": 19600000,
+     "title": "La ATERRADORA HISTORIA REAL de la PASCUALITA💀 Leyendas por países 🇲🇽 #terror #miedo #mexico"
+    },
+    {
+     "id": "u7lE1tJ_mCQ",
+     "views": 8056139,
+     "published": "2026-07-31",
+     "secs": 24,
+     "lang": "es",
+     "channel": "Soy RELEVANTE",
+     "channel_age_d": 485,
+     "subs": 3920000,
+     "title": "Basada en HECHOS REALES 💎☠️ #mrrelevante #videojuegos"
+    },
+    {
+     "id": "CAKBn7ZUkkc",
+     "views": 7852890,
+     "published": "2026-10-05",
+     "secs": 147,
+     "lang": "es",
+     "channel": "La Historia de Él",
+     "channel_age_d": 2208,
+     "subs": 4410000,
+     "title": "El Oficial Nos Alcanzó 🚔"
+    },
+    {
+     "id": "50_Nwit9VoQ",
+     "views": 6933889,
+     "published": "2026-10-15",
+     "secs": 98,
+     "lang": "es",
+     "channel": "La Historia de Él",
+     "channel_age_d": 2208,
+     "subs": 4410000,
+     "title": "¡Intentó Comprar La AUDICIÓN De La Abuela! 😱"
+    },
+    {
+     "id": "_9JFzF3SgLM",
+     "views": 6191625,
+     "published": "2026-10-03",
+     "secs": 132,
+     "lang": "es",
+     "channel": "La Historia de Él",
+     "channel_age_d": 2208,
+     "subs": 4410000,
+     "title": "¡Me Llamó Matón! 😒"
+    },
+    {
+     "id": "7kK_iTkB_d0",
+     "views": 4516017,
+     "published": "2026-09-16",
+     "secs": 69,
+     "lang": "es",
+     "channel": "STV Funny videos for you🥰",
+     "channel_age_d": 796,
+     "subs": 5700,
+     "title": "Una increíble historia de creatividad, perseverancia y una prótesis hecha con menos de $100. 🦿❤️"
+    },
+    {
+     "id": "Zfz0SiLbllY",
+     "views": 3612280,
+     "published": "2026-08-02",
+     "secs": 179,
+     "lang": "es-419",
+     "channel": "Historia Reales ",
+     "channel_age_d": 526,
+     "subs": 59600,
+     "title": "Amparo — Sus hijos la repartieron por meses."
+    },
+    {
+     "id": "_gOXpIRSkXA",
+     "views": 2872594,
+     "published": "2026-08-30",
+     "secs": 98,
+     "lang": "es",
+     "channel": "Vueltas de la Vida",
+     "channel_age_d": 2967,
+     "subs": 28800,
+     "title": "Dejó a su bebé por un mandado y desapareció por tres meses"
+    },
+    {
+     "id": "jEJJYEGCj5w",
+     "views": 2626242,
+     "published": "2026-10-21",
+     "secs": 115,
+     "lang": "es",
+     "channel": "La Historia de Él",
+     "channel_age_d": 2208,
+     "subs": 4410000,
+     "title": "¡El Robo Más Tonto De La Historia! 🤡"
+    },
+    {
+     "id": "8pEIFPhVQvQ",
+     "views": 2513796,
+     "published": "2026-08-09",
+     "secs": 61,
+     "lang": "es-ES",
+     "channel": "Jose Cobo",
+     "channel_age_d": 4205,
+     "subs": 2640000,
+     "title": "Su madre predijo su futuro pero no pudo verlo 😭⚽️ #historiasreales #footballhistory"
+    },
+    {
+     "id": "lwrXliacGpI",
+     "views": 2510821,
+     "published": "2026-10-05",
+     "secs": 60,
+     "lang": "es-ES",
+     "channel": "Jose Cobo",
+     "channel_age_d": 4205,
+     "subs": 2640000,
+     "title": "¿Quién es Zinedine Zidane? 😳⚽️ #footballlegends #zidane #historiasreales #mbappe #niños"
+    },
+    {
+     "id": "5qTXIunPY9M",
+     "views": 2343748,
+     "published": "2026-09-10",
+     "secs": 179,
+     "lang": "es",
+     "channel": "Palabras con raíz ",
+     "channel_age_d": 4677,
+     "subs": 131000,
+     "title": "Le pedí a mi hijo dinero para la renta… y su respuesta me abrió los ojos  #historias #reflexion"
+    },
+    {
+     "id": "C_MuvQ9ktNU",
+     "views": 2329970,
+     "published": "2026-08-15",
+     "secs": 176,
+     "lang": "es",
+     "channel": "Soyhistoriart",
+     "channel_age_d": 123,
+     "subs": 326000,
+     "title": "La tierra muerta"
+    },
+    {
+     "id": "V6bNbjFdf8g",
+     "views": 2185021,
+     "published": "2026-08-28",
+     "secs": 180,
+     "lang": "es",
+     "channel": "Soyhistoriart",
+     "channel_age_d": 123,
+     "subs": 326000,
+     "title": "La tierra que siempre fue suya"
+    },
+    {
+     "id": "iyilo-Eqiv8",
+     "views": 2141105,
+     "published": "2026-10-04",
+     "secs": 179,
+     "lang": "es-419",
+     "channel": "Relatos Inolvidables",
+     "channel_age_d": 60,
+     "subs": 70300,
+     "title": "Se casó con un hombre más joven creyendo que la amaba, sin imaginar que.."
+    },
+    {
+     "id": "g62UEcsB5sI",
+     "views": 1965397,
+     "published": "2026-08-18",
+     "secs": 113,
+     "lang": "es",
+     "channel": "Palabras con raíz ",
+     "channel_age_d": 4677,
+     "subs": 131000,
+     "title": "Nuera quería llevar a toda su familia a vivir a casa de su suegra #novela  #reflexion #historias"
+    },
+    {
+     "id": "OKDd2LJYcVA",
+     "views": 1883136,
+     "published": "2026-09-13",
+     "secs": 97,
+     "lang": "es-419",
+     "channel": "Archivos del Umbral",
+     "channel_age_d": 97,
+     "subs": 21400,
+     "title": "pLa Aterradora Historia Real Detrás del Verdadero Homero Simpson"
+    },
+    {
+     "id": "jpghGQKPBtE",
+     "views": 1786527,
+     "published": "2026-09-11",
+     "secs": 180,
+     "lang": "es",
+     "channel": "Saúl Tijeras",
+     "channel_age_d": 5153,
+     "subs": 1140000,
+     "title": "Pokénovela: Historias de Pokémon en la vida real 🔥"
+    },
+    {
+     "id": "mgDYv-Iwi0U",
+     "views": 1674263,
+     "published": "2026-10-02",
+     "secs": 19,
+     "lang": "es",
+     "channel": "TuCky ",
+     "channel_age_d": 3086,
+     "subs": 177000,
+     "title": "¿OLIVER TREE SABIA QUE IBA A PARTIR?😱 #olivertree #curiosidades #datoscuriosos"
+    },
+    {
+     "id": "sCjuLhRW4tk",
+     "views": 1592999,
+     "published": "2026-09-10",
+     "secs": 61,
+     "lang": "es-ES",
+     "channel": "Jose Cobo",
+     "channel_age_d": 4205,
+     "subs": 2640000,
+     "title": "De vivir una pesadilla a convertirse en leyenda 😱 #historiasreales #historiasdevida #sadstory"
+    },
+    {
+     "id": "rBfE9f6-bUc",
+     "views": 1514835,
+     "published": "2026-08-09",
+     "secs": 41,
+     "lang": "es",
+     "channel": "Jesus Sulbaran",
+     "channel_age_d": 1527,
+     "subs": 11900000,
+     "title": "Niñas, rica, cambian sus zapatos de reales por uno de plástico"
+    },
+    {
+     "id": "RSsohaLfAwE",
+     "views": 1476023,
+     "published": "2026-09-01",
+     "secs": 60,
+     "lang": "es-ES",
+     "channel": "Jose Cobo",
+     "channel_age_d": 4205,
+     "subs": 2640000,
+     "title": "Se fue demasiado joven pero su voz nunca se apagó 😱 #historiasreales #historiasdevida"
+    },
+    {
+     "id": "4E7wGspTYQ0",
+     "views": 1423268,
+     "published": "2026-08-10",
+     "secs": 41,
+     "lang": "es",
+     "channel": "Historia Novela",
+     "channel_age_d": 1022,
+     "subs": 20500,
+     "title": "Una historia increíble. 😮"
+    },
+    {
+     "id": "clXMbf1rVyM",
+     "views": 1371244,
+     "published": "2026-10-08",
+     "secs": 176,
+     "lang": "es",
+     "channel": "Soyhistoriart",
+     "channel_age_d": 123,
+     "subs": 326000,
+     "title": "Lo que llevaba en el bolsillo"
+    },
+    {
+     "id": "ljIJL5ZskTA",
+     "views": 1361669,
+     "published": "2026-09-27",
+     "secs": 177,
+     "lang": "es-419",
+     "channel": "Contando Historias",
+     "channel_age_d": 66,
+     "subs": 37800,
+     "title": "AYUDÓ a un ANCIANO sin imaginar quien era realmente.  #reflexion #historias #bondad #parati #fe"
+    },
+    {
+     "id": "jh1wY6Dx-Yc",
+     "views": 1351994,
+     "published": "2026-09-08",
+     "secs": 27,
+     "lang": "es-ES",
+     "channel": "Jose Cobo",
+     "channel_age_d": 4205,
+     "subs": 2640000,
+     "title": "Toda una vida… 😱 #historiasreales #gta #gtavi #sanandreas #nostalgic"
+    },
+    {
+     "id": "MlHGx9qxtSE",
+     "views": 1230016,
+     "published": "2026-10-15",
+     "secs": 169,
+     "lang": "es",
+     "channel": "Soyhistoriart",
+     "channel_age_d": 123,
+     "subs": 326000,
+     "title": "El motocarro de Fuensanta"
+    },
+    {
+     "id": "dT1HvpDdWNI",
+     "views": 1216710,
+     "published": "2026-09-21",
+     "secs": 13,
+     "lang": "es",
+     "channel": "The Hidden Cut",
+     "channel_age_d": 54,
+     "subs": 11500,
+     "title": "The Pianist Fue Moldeada por Historias Reales de Supervivencia — The Pianist"
+    },
+    {
+     "id": "Hevxv4sEihA",
+     "views": 1148978,
+     "published": "2026-10-15",
+     "secs": 60,
+     "lang": "es-ES",
+     "channel": "Jose Cobo",
+     "channel_age_d": 4205,
+     "subs": 2640000,
+     "title": "EL HOMBRE AL QUE HASTA SUS RIVALES TEMÍAN 😈#historiasreales #footballfans #ronaldofans #manunited"
+    },
+    {
+     "id": "aoZfU6L2uyw",
+     "views": 1079644,
+     "published": "2026-08-14",
+     "secs": 130,
+     "lang": "es",
+     "channel": "Palabras con raíz ",
+     "channel_age_d": 4677,
+     "subs": 131000,
+     "title": "La nuera quería llevarse al perro de su suegra  #telenovelas #historias #reflexiones"
+    },
+    {
+     "id": "rCsuHyi1o4o",
+     "views": 1051788,
+     "published": "2026-10-08",
+     "secs": 74,
+     "lang": "es",
+     "channel": "TuDollarHub",
+     "channel_age_d": 2270,
+     "subs": 59500,
+     "title": "De la pobreza extrema a MILLONARIO: su increíble historia.  #celebrity #fyp #famous #curiosities"
+    },
+    {
+     "id": "0i7Rra-K5WU",
+     "views": 1038703,
+     "published": "2026-08-27",
+     "secs": 180,
+     "lang": "es",
+     "channel": "La Vida Sin Filtros",
+     "channel_age_d": 3149,
+     "subs": 442000,
+     "title": "Humilló al camarero sin saber quién era real  #historias #novelas #telenovelas"
+    },
+    {
+     "id": "HdSpODSLJJw",
+     "views": 1007521,
+     "published": "2026-10-24",
+     "secs": 84,
+     "lang": "es",
+     "channel": "La Historia de Él",
+     "channel_age_d": 2208,
+     "subs": 4410000,
+     "title": "Entonces Vi Su Rostro 😨"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2022": 4,
+    "2023": 12,
+    "2024": 14,
+    "2025": 23,
+    "2026": 107
+   }
+  },
+  "geo_maps": {
+   "keywords": [
+    "geography facts",
+    "map facts",
+    "country facts",
+    "maps explained"
+   ],
+   "fresh_sample_30d": 293,
+   "fresh_sample_30d_lang": 272,
+   "fresh_distinct_channels": 219,
+   "views_per_day_age_ge_1d": {
+    "n": 154,
+    "median": 1666,
+    "p75": 10082,
+    "p90": 23805,
+    "share_ge_1k": 0.597,
+    "share_ge_10k": 0.253,
+    "share_ge_100k": 0.013,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 60,
+    "median": 27146,
+    "p75": 66428,
+    "p90": 265297,
+    "share_ge_1k": 0.967,
+    "share_ge_10k": 0.65,
+    "share_ge_100k": 0.2,
+    "share_ge_1m": 0.0
+   },
+   "views_age_1_6d": {
+    "n": 121,
+    "median": 3365,
+    "p75": 24068,
+    "p90": 63947,
+    "share_ge_1k": 0.835,
+    "share_ge_10k": 0.38,
+    "share_ge_100k": 0.066,
+    "share_ge_1m": 0.0
+   },
+   "small_channels_lt10k_share": 0.812,
+   "small_channels_vpd": {
+    "n": 111,
+    "median": 1046,
+    "p75": 5378,
+    "p90": 12450,
+    "share_ge_1k": 0.514,
+    "share_ge_10k": 0.162,
+    "share_ge_100k": 0.0,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 43,
+    "median": 9957,
+    "p75": 21781,
+    "p90": 54757,
+    "share_ge_1k": 0.814,
+    "share_ge_10k": 0.488,
+    "share_ge_100k": 0.047,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.71,
+   "new_channels_vpd": {
+    "n": 107,
+    "median": 1446,
+    "p75": 10040,
+    "p90": 22388,
+    "share_ge_1k": 0.607,
+    "share_ge_10k": 0.252,
+    "share_ge_100k": 0.0,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "geography facts": {
+     "today_returned": 96,
+     "verified_24h": 59,
+     "verified_24h_lang": 54,
+     "verified_7d": 99,
+     "distinct_channels_7d": 87,
+     "pages_exhausted_today": false
+    },
+    "map facts": {
+     "today_returned": 76,
+     "verified_24h": 38,
+     "verified_24h_lang": 36,
+     "verified_7d": 82,
+     "distinct_channels_7d": 72,
+     "pages_exhausted_today": false
+    },
+    "country facts": {
+     "today_returned": 74,
+     "verified_24h": 28,
+     "verified_24h_lang": 24,
+     "verified_7d": 61,
+     "distinct_channels_7d": 52,
+     "pages_exhausted_today": false
+    },
+    "maps explained": {
+     "today_returned": 68,
+     "verified_24h": 39,
+     "verified_24h_lang": 35,
+     "verified_7d": 72,
+     "distinct_channels_7d": 65,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 35.5,
+   "ceiling_90d_ge1m_all_lang": 33,
+   "ceiling_90d_ge1m_lang": 23,
+   "ceiling_90d_ge1m_lang_distinct_channels": 14,
+   "ceiling_from_channels_lt365d": 10,
+   "ceiling_from_channels_lt10k_subs_now": 1,
+   "ceiling_from_channels_lt100k_subs_now": 11,
+   "ceiling_hits": [
+    {
+     "id": "7iZflr3qD-4",
+     "views": 7545734,
+     "published": "2026-09-16",
+     "secs": 65,
+     "lang": "en-IN",
+     "channel": "Nikhil Panwar",
+     "channel_age_d": 196,
+     "subs": 11300,
+     "title": "Why Chile Is So Long & Narrow 🇨🇱🌶️ History of the World’s Skinny Country 🤯"
+    },
+    {
+     "id": "5Qay-GNs6iA",
+     "views": 5895257,
+     "published": "2026-07-27",
+     "secs": 94,
+     "lang": "en",
+     "channel": "Map Warden",
+     "channel_age_d": 131,
+     "subs": 16900,
+     "title": "The Falklands: A 300-Year Fight  #geography #learn #history #countries #documentary #maps #Falklands"
+    },
+    {
+     "id": "XcSNgcMaHo4",
+     "views": 5322681,
+     "published": "2026-08-21",
+     "secs": 50,
+     "lang": "en",
+     "channel": "World Ji Ke",
+     "channel_age_d": 168,
+     "subs": 83700,
+     "title": "5 Countries That Look the SAME! 🤯😱 #twincountries #geography #maps"
+    },
+    {
+     "id": "x8ofx1Kma7Q",
+     "views": 4792496,
+     "published": "2026-09-26",
+     "secs": 26,
+     "lang": "en",
+     "channel": "1ZX Fact",
+     "channel_age_d": 1272,
+     "subs": 26500,
+     "title": "Countries That Have Their Flags On Moon 🌕🤯| #shorts #edit #country #trending #geography #map"
+    },
+    {
+     "id": "JHHymYGRPo4",
+     "views": 4385288,
+     "published": "2026-08-08",
+     "secs": 54,
+     "lang": "en",
+     "channel": "World Ji Ke",
+     "channel_age_d": 168,
+     "subs": 83700,
+     "title": "These countries shouldn't be here🤯😱 #countryorigin #countries #geography #facts"
+    },
+    {
+     "id": "J_sNJjrN4J4",
+     "views": 3475668,
+     "published": "2026-09-20",
+     "secs": 78,
+     "lang": "en",
+     "channel": "GeoGlobeTales",
+     "channel_age_d": 1070,
+     "subs": 2060000,
+     "title": "What Is El Niño & Why Is It So Powerful 🌡️🤯 Super El Niño 🌊"
+    },
+    {
+     "id": "s4HVgRDMf6o",
+     "views": 3318718,
+     "published": "2026-08-05",
+     "secs": 63,
+     "lang": "en",
+     "channel": "World Ji Ke",
+     "channel_age_d": 168,
+     "subs": 83700,
+     "title": "7 Wonders Of The Modern World🤯😱 #SevenWonders #geography #countries"
+    },
+    {
+     "id": "3Fsur3LEihU",
+     "views": 3265042,
+     "published": "2026-10-02",
+     "secs": 48,
+     "lang": "en",
+     "channel": "World Ji Ke",
+     "channel_age_d": 168,
+     "subs": 83700,
+     "title": "50 Shades Of Guinea🔥🤯😱 #countries #geography #shorts"
+    },
+    {
+     "id": "D0AWufa4iv4",
+     "views": 3231536,
+     "published": "2026-07-28",
+     "secs": 67,
+     "lang": "en",
+     "channel": "GeoGlobeTales",
+     "channel_age_d": 1070,
+     "subs": 2060000,
+     "title": "Why Canada Has the Weirdest Lake Names 🇨🇦🤯 2 Million Lakes"
+    },
+    {
+     "id": "_QU75do-9OE",
+     "views": 2680176,
+     "published": "2026-08-23",
+     "secs": 80,
+     "lang": "en",
+     "channel": "GeoGlobeTales",
+     "channel_age_d": 1070,
+     "subs": 2060000,
+     "title": "Why the Great Lakes Are So Great 🤯 #GreatLakes #USA #Canada"
+    },
+    {
+     "id": "eMgkf2eh0d8",
+     "views": 2437936,
+     "published": "2026-08-24",
+     "secs": 47,
+     "lang": "en",
+     "channel": "World Ji Ke",
+     "channel_age_d": 168,
+     "subs": 83700,
+     "title": "Landlocked Countries That Have Beaches?! 🏖️🤯😱 #landlockedcountries #geography #beaches"
+    },
+    {
+     "id": "CbOsnWF5JDw",
+     "views": 2159757,
+     "published": "2026-09-30",
+     "secs": 29,
+     "lang": "en",
+     "channel": "Globe Addict David",
+     "channel_age_d": 1320,
+     "subs": 291000,
+     "title": "The Only TRIPLE Landlocked State in the World! #geography #maps #usa"
+    },
+    {
+     "id": "vIIlkRbDzv4",
+     "views": 2003184,
+     "published": "2026-10-02",
+     "secs": 34,
+     "lang": "en",
+     "channel": "Shivang Verse",
+     "channel_age_d": 1175,
+     "subs": 101000,
+     "title": "India vs Pakistan Explained | 3D Map Animation #shorts #geography #indiavspakistan #youtubeshorts"
+    },
+    {
+     "id": "_rfp83BGWWk",
+     "views": 1666392,
+     "published": "2026-09-26",
+     "secs": 37,
+     "lang": "en-US",
+     "channel": "Geo Motion",
+     "channel_age_d": 755,
+     "subs": 200000,
+     "title": "Can You Walk From Portugal to Brazil?! 😱"
+    },
+    {
+     "id": "JJlo0lAjQA0",
+     "views": 1656371,
+     "published": "2026-10-14",
+     "secs": 68,
+     "lang": "en",
+     "channel": "GeoGlobeFiles",
+     "channel_age_d": 142,
+     "subs": 3260,
+     "title": "Why There Are TWO \"Indias\" in the World 🌍 #facts #maps #shorts #indiannation #indianit"
+    },
+    {
+     "id": "5l_7OGAsVU0",
+     "views": 1624911,
+     "published": "2026-10-08",
+     "secs": 75,
+     "lang": "en",
+     "channel": "Makeshift Project",
+     "channel_age_d": 2018,
+     "subs": 2490000,
+     "title": "What Are The #1 Countries In These Categories? #shorts #country #geography #facts"
+    },
+    {
+     "id": "nELGzUrsQko",
+     "views": 1470383,
+     "published": "2026-08-08",
+     "secs": 180,
+     "lang": "en-US",
+     "channel": "HGPWorld",
+     "channel_age_d": 1136,
+     "subs": 129000,
+     "title": "The Odyssey Explained with Map"
+    },
+    {
+     "id": "dRpggGi1qo8",
+     "views": 1428926,
+     "published": "2026-09-30",
+     "secs": 65,
+     "lang": "en",
+     "channel": "hoser",
+     "channel_age_d": 2018,
+     "subs": 1000000,
+     "title": "Why Egypt's Geography SUCKS!"
+    },
+    {
+     "id": "pf9pQxjWzfc",
+     "views": 1367938,
+     "published": "2026-09-25",
+     "secs": 21,
+     "lang": "en",
+     "channel": "Shivang Verse",
+     "channel_age_d": 1175,
+     "subs": 101000,
+     "title": "India vs USA vs Japan: Government Schools | 3D Map Animation #shorts #geography #youtubeshorts"
+    },
+    {
+     "id": "eJS0ZtavFvM",
+     "views": 1360282,
+     "published": "2026-10-06",
+     "secs": 79,
+     "lang": "en",
+     "channel": "Makeshift Project",
+     "channel_age_d": 2018,
+     "subs": 2490000,
+     "title": "Which Of These Foods Is The Most Consumed Around The World? #shorts #food #country #geography #facts"
+    },
+    {
+     "id": "pKJfVORWgHs",
+     "views": 1238733,
+     "published": "2026-09-19",
+     "secs": 54,
+     "lang": "en",
+     "channel": "World Ji Ke",
+     "channel_age_d": 168,
+     "subs": 83700,
+     "title": "Places That Look Exactly Like Countries|Part 2 😱🤯🤯#geography #countries #world"
+    },
+    {
+     "id": "rV-DR77gsw4",
+     "views": 1127730,
+     "published": "2026-09-20",
+     "secs": 168,
+     "lang": "en",
+     "channel": "Map Facts",
+     "channel_age_d": 160,
+     "subs": 18900,
+     "title": "7 South Africa Facts That Sound Completely Fake 🇿🇦🤯"
+    },
+    {
+     "id": "dVb6j-Oeiko",
+     "views": 1100614,
+     "published": "2026-09-06",
+     "secs": 144,
+     "lang": "en",
+     "channel": "Geography Now",
+     "channel_age_d": 4437,
+     "subs": 3930000,
+     "title": "The \"new\" UN map"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2021": 3,
+    "2022": 10,
+    "2023": 8,
+    "2024": 18,
+    "2025": 44,
+    "2026": 77
+   }
+  },
+  "mystery_unsolved": {
+   "keywords": [
+    "unsolved mystery",
+    "mystery story",
+    "creepy facts",
+    "unexplained"
+   ],
+   "fresh_sample_30d": 284,
+   "fresh_sample_30d_lang": 265,
+   "fresh_distinct_channels": 236,
+   "views_per_day_age_ge_1d": {
+    "n": 127,
+    "median": 181,
+    "p75": 877,
+    "p90": 6877,
+    "share_ge_1k": 0.236,
+    "share_ge_10k": 0.071,
+    "share_ge_100k": 0.016,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 36,
+    "median": 16578,
+    "p75": 53907,
+    "p90": 381162,
+    "share_ge_1k": 0.917,
+    "share_ge_10k": 0.611,
+    "share_ge_100k": 0.194,
+    "share_ge_1m": 0.056
+   },
+   "views_age_1_6d": {
+    "n": 98,
+    "median": 234,
+    "p75": 1087,
+    "p90": 8060,
+    "share_ge_1k": 0.296,
+    "share_ge_10k": 0.102,
+    "share_ge_100k": 0.02,
+    "share_ge_1m": 0.01
+   },
+   "small_channels_lt10k_share": 0.86,
+   "small_channels_vpd": {
+    "n": 97,
+    "median": 94,
+    "p75": 603,
+    "p90": 1263,
+    "share_ge_1k": 0.113,
+    "share_ge_10k": 0.031,
+    "share_ge_100k": 0.0,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 30,
+    "median": 1915,
+    "p75": 8199,
+    "p90": 35661,
+    "share_ge_1k": 0.633,
+    "share_ge_10k": 0.2,
+    "share_ge_100k": 0.067,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.558,
+   "new_channels_vpd": {
+    "n": 63,
+    "median": 88,
+    "p75": 533,
+    "p90": 1369,
+    "share_ge_1k": 0.127,
+    "share_ge_10k": 0.048,
+    "share_ge_100k": 0.016,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "unsolved mystery": {
+     "today_returned": 80,
+     "verified_24h": 26,
+     "verified_24h_lang": 24,
+     "verified_7d": 64,
+     "distinct_channels_7d": 59,
+     "pages_exhausted_today": false
+    },
+    "mystery story": {
+     "today_returned": 110,
+     "verified_24h": 53,
+     "verified_24h_lang": 46,
+     "verified_7d": 84,
+     "distinct_channels_7d": 82,
+     "pages_exhausted_today": false
+    },
+    "creepy facts": {
+     "today_returned": 85,
+     "verified_24h": 50,
+     "verified_24h_lang": 48,
+     "verified_7d": 68,
+     "distinct_channels_7d": 66,
+     "pages_exhausted_today": false
+    },
+    "unexplained": {
+     "today_returned": 53,
+     "verified_24h": 24,
+     "verified_24h_lang": 22,
+     "verified_7d": 46,
+     "distinct_channels_7d": 40,
+     "pages_exhausted_today": true
+    }
+   },
+   "volume_median_verified_24h_per_kw": 35.0,
+   "ceiling_90d_ge1m_all_lang": 21,
+   "ceiling_90d_ge1m_lang": 13,
+   "ceiling_90d_ge1m_lang_distinct_channels": 10,
+   "ceiling_from_channels_lt365d": 3,
+   "ceiling_from_channels_lt10k_subs_now": 2,
+   "ceiling_from_channels_lt100k_subs_now": 4,
+   "ceiling_hits": [
+    {
+     "id": "8z6xhsVMacs",
+     "views": 16559651,
+     "published": "2026-09-15",
+     "secs": 92,
+     "lang": "en",
+     "channel": "Her Story",
+     "channel_age_d": 904,
+     "subs": 3540000,
+     "title": "Mystery Dumplings Ruined Christmas 😳"
+    },
+    {
+     "id": "Kt-QNbwXc4g",
+     "views": 10161812,
+     "published": "2026-07-30",
+     "secs": 80,
+     "lang": "en",
+     "channel": "Zooming Vibes",
+     "channel_age_d": 204,
+     "subs": 864000,
+     "title": "Top 5 Most Unexplained Things Ever Seen in the Sky"
+    },
+    {
+     "id": "uXLJaEDvtHU",
+     "views": 5805449,
+     "published": "2026-09-23",
+     "secs": 180,
+     "lang": "en-US",
+     "channel": "MrBallen",
+     "channel_age_d": 4234,
+     "subs": 11300000,
+     "title": "How He Solved An 11-Year Cold Case...."
+    },
+    {
+     "id": "_JcBrCWVPXg",
+     "views": 4626680,
+     "published": "2026-09-03",
+     "secs": 21,
+     "lang": "en",
+     "channel": "Muzt",
+     "channel_age_d": 2300,
+     "subs": 112000,
+     "title": "Only detectives can solve this mystery"
+    },
+    {
+     "id": "DhAfrBlojCA",
+     "views": 2586047,
+     "published": "2026-08-11",
+     "secs": 177,
+     "lang": "en",
+     "channel": "The Scarecast",
+     "channel_age_d": 5041,
+     "subs": 97700,
+     "title": "This incident is still an unsolved mystery... #lasvegas #vegas #aliens #ufo"
+    },
+    {
+     "id": "r7SYkUESnFs",
+     "views": 2155898,
+     "published": "2026-09-01",
+     "secs": 26,
+     "lang": "en",
+     "channel": "Muzt",
+     "channel_age_d": 2300,
+     "subs": 112000,
+     "title": "The Unsolved Gift Mystery"
+    },
+    {
+     "id": "Jz_IepdSed8",
+     "views": 1948004,
+     "published": "2026-10-20",
+     "secs": 178,
+     "lang": "en",
+     "channel": "Heather's Historic House",
+     "channel_age_d": 43,
+     "subs": 47000,
+     "title": "Missing Bedroom Mystery in a 200year old house"
+    },
+    {
+     "id": "0u45cIFlpx4",
+     "views": 1911550,
+     "published": "2026-08-14",
+     "secs": 5,
+     "lang": "en",
+     "channel": "Horrorwithcris15",
+     "channel_age_d": 1227,
+     "subs": 7270,
+     "title": "Creepy fact.... #horror #creepy #scaryfacts"
+    },
+    {
+     "id": "5BG4hHYaH8g",
+     "views": 1830097,
+     "published": "2026-09-14",
+     "secs": 12,
+     "lang": "en",
+     "channel": "xtheticshinobu",
+     "channel_age_d": 5349,
+     "subs": 105000,
+     "title": "the dark story behind dodo birds..| mystery #dodobirds #unsolvedmystery #trending  #xtheticshinobu"
+    },
+    {
+     "id": "ExyL9yLsWD8",
+     "views": 1759305,
+     "published": "2026-10-04",
+     "secs": 114,
+     "lang": "en",
+     "channel": "aylow",
+     "channel_age_d": 861,
+     "subs": 396000,
+     "title": "Scary space facts 2"
+    },
+    {
+     "id": "QGb2GKY9i5I",
+     "views": 1737960,
+     "published": "2026-08-20",
+     "secs": 7,
+     "lang": "en",
+     "channel": "xtheticshinobu",
+     "channel_age_d": 5349,
+     "subs": 105000,
+     "title": "What did he said..? || #xtheticshinobu #trending #viral #einstein #scary #creepy #facts #fyp"
+    },
+    {
+     "id": "PLQbNMiak0s",
+     "views": 1448033,
+     "published": "2026-08-29",
+     "secs": 180,
+     "lang": "en-US",
+     "channel": "MrBallen",
+     "channel_age_d": 4234,
+     "subs": 11300000,
+     "title": "Joe Rogan Reacts To The Dyatlov Pass Mystery 🤯"
+    },
+    {
+     "id": "wS3mFf7vWCU",
+     "views": 1160548,
+     "published": "2026-08-25",
+     "secs": 7,
+     "lang": "en",
+     "channel": "Mechanism Hub",
+     "channel_age_d": 90,
+     "subs": 1180,
+     "title": "Archaeology's most frustrating unsolved mystery."
+    }
+   ],
+   "pop_all_publish_years": {
+    "2021": 4,
+    "2022": 7,
+    "2023": 17,
+    "2024": 17,
+    "2025": 36,
+    "2026": 54
+   }
+  },
+  "science_space": {
+   "keywords": [
+    "space facts",
+    "science facts",
+    "universe facts",
+    "physics facts"
+   ],
+   "fresh_sample_30d": 351,
+   "fresh_sample_30d_lang": 298,
+   "fresh_distinct_channels": 263,
+   "views_per_day_age_ge_1d": {
+    "n": 181,
+    "median": 704,
+    "p75": 4126,
+    "p90": 25825,
+    "share_ge_1k": 0.381,
+    "share_ge_10k": 0.149,
+    "share_ge_100k": 0.044,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 66,
+    "median": 26236,
+    "p75": 64004,
+    "p90": 390448,
+    "share_ge_1k": 1.0,
+    "share_ge_10k": 0.652,
+    "share_ge_100k": 0.182,
+    "share_ge_1m": 0.061
+   },
+   "views_age_1_6d": {
+    "n": 135,
+    "median": 1072,
+    "p75": 6045,
+    "p90": 45137,
+    "share_ge_1k": 0.519,
+    "share_ge_10k": 0.23,
+    "share_ge_100k": 0.052,
+    "share_ge_1m": 0.007
+   },
+   "small_channels_lt10k_share": 0.832,
+   "small_channels_vpd": {
+    "n": 143,
+    "median": 470,
+    "p75": 999,
+    "p90": 6157,
+    "share_ge_1k": 0.252,
+    "share_ge_10k": 0.049,
+    "share_ge_100k": 0.007,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 38,
+    "median": 13668,
+    "p75": 39970,
+    "p90": 367556,
+    "share_ge_1k": 0.868,
+    "share_ge_10k": 0.526,
+    "share_ge_100k": 0.184,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.651,
+   "new_channels_vpd": {
+    "n": 112,
+    "median": 504,
+    "p75": 1728,
+    "p90": 7348,
+    "share_ge_1k": 0.304,
+    "share_ge_10k": 0.062,
+    "share_ge_100k": 0.018,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "space facts": {
+     "today_returned": 71,
+     "verified_24h": 33,
+     "verified_24h_lang": 30,
+     "verified_7d": 76,
+     "distinct_channels_7d": 72,
+     "pages_exhausted_today": false
+    },
+    "science facts": {
+     "today_returned": 79,
+     "verified_24h": 36,
+     "verified_24h_lang": 24,
+     "verified_7d": 81,
+     "distinct_channels_7d": 74,
+     "pages_exhausted_today": false
+    },
+    "universe facts": {
+     "today_returned": 103,
+     "verified_24h": 53,
+     "verified_24h_lang": 44,
+     "verified_7d": 106,
+     "distinct_channels_7d": 102,
+     "pages_exhausted_today": false
+    },
+    "physics facts": {
+     "today_returned": 73,
+     "verified_24h": 33,
+     "verified_24h_lang": 29,
+     "verified_7d": 65,
+     "distinct_channels_7d": 57,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 29.5,
+   "ceiling_90d_ge1m_all_lang": 37,
+   "ceiling_90d_ge1m_lang": 27,
+   "ceiling_90d_ge1m_lang_distinct_channels": 24,
+   "ceiling_from_channels_lt365d": 13,
+   "ceiling_from_channels_lt10k_subs_now": 3,
+   "ceiling_from_channels_lt100k_subs_now": 18,
+   "ceiling_hits": [
+    {
+     "id": "6JLCyiToRdo",
+     "views": 14816394,
+     "published": "2026-08-25",
+     "secs": 34,
+     "lang": "en",
+     "channel": "Zack D. Films",
+     "channel_age_d": 1965,
+     "subs": 29400000,
+     "title": "How The Solar System Moves In Space 🤯"
+    },
+    {
+     "id": "FhCOa790t5Y",
+     "views": 13731110,
+     "published": "2026-09-19",
+     "secs": 18,
+     "lang": "en",
+     "channel": "Beyond the Observable Universe",
+     "channel_age_d": 2352,
+     "subs": 2080000,
+     "title": "How Fast Is Light Compared to the Universe? #light #earth #jupiter #blackhole"
+    },
+    {
+     "id": "rFW1S744hjY",
+     "views": 8291587,
+     "published": "2026-08-27",
+     "secs": 23,
+     "lang": "en",
+     "channel": "parihar@",
+     "channel_age_d": 2991,
+     "subs": 13900,
+     "title": "Physics sigma 😱😱#physics #sigmarule #sigma #experiment #science #sciencefacts #facts #fyp #f1 #f2p"
+    },
+    {
+     "id": "aQvq4ajH_oM",
+     "views": 7654386,
+     "published": "2026-10-09",
+     "secs": 11,
+     "lang": "en-US",
+     "channel": "MORGAR | Human History",
+     "channel_age_d": 1455,
+     "subs": 86300,
+     "title": "Why Your Fingers Can Never Actually Touch 🫥#science #facts"
+    },
+    {
+     "id": "jDzumDxe3CE",
+     "views": 6464968,
+     "published": "2026-09-12",
+     "secs": 44,
+     "lang": "en",
+     "channel": "Facts' Mine",
+     "channel_age_d": 1789,
+     "subs": 19300000,
+     "title": "Unknown Man On The Moon"
+    },
+    {
+     "id": "BK2LymqGNPw",
+     "views": 6276802,
+     "published": "2026-10-10",
+     "secs": 31,
+     "lang": "en-US",
+     "channel": "Explaining Medicals ",
+     "channel_age_d": 212,
+     "subs": 27600,
+     "title": "Your fingers never really touch your phone…#QuantumPhysics #QuantumMechanics #Physics #Science #Mbbs"
+    },
+    {
+     "id": "KvOOhdCWRyc",
+     "views": 6021157,
+     "published": "2026-09-28",
+     "secs": 45,
+     "lang": "en",
+     "channel": "Facts' Mine",
+     "channel_age_d": 1789,
+     "subs": 19300000,
+     "title": "This Animal Might Be Living On The Moon"
+    },
+    {
+     "id": "6Ij0mL5vmM8",
+     "views": 4780350,
+     "published": "2026-09-15",
+     "secs": 41,
+     "lang": "en-US",
+     "channel": "EcoplanturUSA",
+     "channel_age_d": 337,
+     "subs": 34600,
+     "title": "How Does a Chicken Make an Egg? The Incredible Process 🥚 #science #chicken #egg #facts #experiment"
+    },
+    {
+     "id": "-BAPicZGtrQ",
+     "views": 3806650,
+     "published": "2026-09-09",
+     "secs": 56,
+     "lang": "en-US",
+     "channel": "PhysIQmind",
+     "channel_age_d": 148,
+     "subs": 44000,
+     "title": "Physics Will Surprise You🥶🤯 #physics #science #sigmaphysics"
+    },
+    {
+     "id": "Zzs458AUj1M",
+     "views": 3715960,
+     "published": "2026-10-05",
+     "secs": 88,
+     "lang": "en",
+     "channel": "prodbeatsbymat",
+     "channel_age_d": 1229,
+     "subs": 14400,
+     "title": "What would happen if Earth fell into a black hole? #space #outerspace #blackhole #spacefacts"
+    },
+    {
+     "id": "0jaIEdrTyQQ",
+     "views": 3279125,
+     "published": "2026-09-01",
+     "secs": 26,
+     "lang": "en",
+     "channel": "Science With Theo",
+     "channel_age_d": 75,
+     "subs": 1680,
+     "title": "Science Just Made Electricity Visible 😳⚡ #facts"
+    },
+    {
+     "id": "fGXoXdd1sR8",
+     "views": 3158620,
+     "published": "2026-08-27",
+     "secs": 35,
+     "lang": "en",
+     "channel": "CosmicDropz",
+     "channel_age_d": 186,
+     "subs": 32900,
+     "title": "Space isn’t scary??😱🌌"
+    },
+    {
+     "id": "SqDwpO3E9MU",
+     "views": 3070221,
+     "published": "2026-10-17",
+     "secs": 46,
+     "lang": "en-IN",
+     "channel": "Science Of Infinity",
+     "channel_age_d": 3498,
+     "subs": 1530000,
+     "title": "How Big is the Universe, Really? 🌌💀 #Shorts #Space #Universe #Astronomy #Science #Cosmos #Physics"
+    },
+    {
+     "id": "cYVd1Nq2W2E",
+     "views": 2839086,
+     "published": "2026-09-29",
+     "secs": 21,
+     "lang": "en",
+     "channel": "Dark Void",
+     "channel_age_d": 242,
+     "subs": 8790,
+     "title": "Blackhole doesn't follow the laws of physics 💀 #space #blackhole #spacefacts"
+    },
+    {
+     "id": "Nf8bfMS1q1k",
+     "views": 2716332,
+     "published": "2026-09-22",
+     "secs": 39,
+     "lang": "en-US",
+     "channel": "Physics In Flash ",
+     "channel_age_d": 212,
+     "subs": 233000,
+     "title": "Sigma Physics #shorts #science #physicsfacts #sigmarule #shortsviral"
+    },
+    {
+     "id": "aKBHw3JxYlA",
+     "views": 2400782,
+     "published": "2026-09-29",
+     "secs": 103,
+     "lang": "en",
+     "channel": "Never The Facts",
+     "channel_age_d": 335,
+     "subs": 33100,
+     "title": "The Pickup Truck That Moved a Space Shuttle"
+    },
+    {
+     "id": "qdJGc5MltXQ",
+     "views": 2178957,
+     "published": "2026-09-13",
+     "secs": 27,
+     "lang": "en",
+     "channel": "Shoya X Space",
+     "channel_age_d": 974,
+     "subs": 46200,
+     "title": "The Universe Is Mirroring Us… 🤯"
+    },
+    {
+     "id": "3UPvNbcr-co",
+     "views": 1897754,
+     "published": "2026-10-05",
+     "secs": 6,
+     "lang": "en",
+     "channel": "Let's Learn Universe",
+     "channel_age_d": 647,
+     "subs": 91600,
+     "title": "How Fast Can We Reach Oberon? 🪐🚀 | Light, Space Shuttle, UFO & More!"
+    },
+    {
+     "id": "u7KzArqjJUw",
+     "views": 1823069,
+     "published": "2026-09-10",
+     "secs": 51,
+     "lang": "en",
+     "channel": "Helivox",
+     "channel_age_d": 65,
+     "subs": 4820,
+     "title": "Did You Know How Old the Sun Is? 🤯🌌"
+    },
+    {
+     "id": "ExyL9yLsWD8",
+     "views": 1759305,
+     "published": "2026-10-04",
+     "secs": 114,
+     "lang": "en",
+     "channel": "aylow",
+     "channel_age_d": 861,
+     "subs": 396000,
+     "title": "Scary space facts 2"
+    },
+    {
+     "id": "XZ17J2tnIm0",
+     "views": 1658526,
+     "published": "2026-08-20",
+     "secs": 33,
+     "lang": "en",
+     "channel": "Nice Guy",
+     "channel_age_d": 264,
+     "subs": 19500,
+     "title": "Gravity Doesn’t Work Here? 😱 #Gravity #AmazingFacts #Science #Facts"
+    },
+    {
+     "id": "D9DLwbdv8lE",
+     "views": 1479797,
+     "published": "2026-09-11",
+     "secs": 54,
+     "lang": "en-US",
+     "channel": "PhysIQmind",
+     "channel_age_d": 148,
+     "subs": 44000,
+     "title": "Physics Will Surprise You🥶🤯 #physics #science #sigmaphysics"
+    },
+    {
+     "id": "ABKF5Yes_P8",
+     "views": 1424791,
+     "published": "2026-10-22",
+     "secs": 46,
+     "lang": "en-IN",
+     "channel": "Science Of Infinity",
+     "channel_age_d": 3498,
+     "subs": 1530000,
+     "title": "The Future Is Closer Than You Think...🚀💀 #Shorts #Science #FutureTech #Technology #Innovation #Earth"
+    },
+    {
+     "id": "jUfjcB2lSx0",
+     "views": 1338274,
+     "published": "2026-09-14",
+     "secs": 9,
+     "lang": "en",
+     "channel": "Cosmic Secrets",
+     "channel_age_d": 258,
+     "subs": 38400,
+     "title": "What The Sun Really Looks Like Without An Atmosphere! ☀️ #space #nasa #trending #sun #viral"
+    },
+    {
+     "id": "us-mBPj2OEE",
+     "views": 1226099,
+     "published": "2026-09-27",
+     "secs": 45,
+     "lang": "en-US",
+     "channel": "Hist Myst",
+     "channel_age_d": 387,
+     "subs": 172000,
+     "title": "Real Scale of Our Solar System! ☠️ #space"
+    },
+    {
+     "id": "YP5mM2MinJo",
+     "views": 1159918,
+     "published": "2026-08-29",
+     "secs": 53,
+     "lang": "en-US",
+     "channel": " Dark Cosmic Explained",
+     "channel_age_d": 225,
+     "subs": 70800,
+     "title": "What Is Beyond Infinity in Space? ♾️🌌 #space #infinity #universe"
+    },
+    {
+     "id": "X7PtuBS1X_0",
+     "views": 1136340,
+     "published": "2026-10-08",
+     "secs": 23,
+     "lang": "en-US",
+     "channel": "MKS OFFICIAL TEAM",
+     "channel_age_d": 2868,
+     "subs": 13900,
+     "title": "Albert Einstein Sigmarule 🤯#shorts #physics #alberteinstein"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2021": 1,
+    "2022": 12,
+    "2023": 12,
+    "2024": 13,
+    "2025": 36,
+    "2026": 70
+   }
+  },
+  "survival_disaster": {
+   "keywords": [
+    "survival story",
+    "disaster story",
+    "plane crash story",
+    "survived"
+   ],
+   "fresh_sample_30d": 346,
+   "fresh_sample_30d_lang": 323,
+   "fresh_distinct_channels": 307,
+   "views_per_day_age_ge_1d": {
+    "n": 176,
+    "median": 644,
+    "p75": 7416,
+    "p90": 48616,
+    "share_ge_1k": 0.409,
+    "share_ge_10k": 0.227,
+    "share_ge_100k": 0.057,
+    "share_ge_1m": 0.006
+   },
+   "views_age_3_30d": {
+    "n": 61,
+    "median": 44502,
+    "p75": 241373,
+    "p90": 1193522,
+    "share_ge_1k": 0.934,
+    "share_ge_10k": 0.705,
+    "share_ge_100k": 0.344,
+    "share_ge_1m": 0.115
+   },
+   "views_age_1_6d": {
+    "n": 146,
+    "median": 1054,
+    "p75": 21132,
+    "p90": 114586,
+    "share_ge_1k": 0.521,
+    "share_ge_10k": 0.315,
+    "share_ge_100k": 0.103,
+    "share_ge_1m": 0.027
+   },
+   "small_channels_lt10k_share": 0.827,
+   "small_channels_vpd": {
+    "n": 136,
+    "median": 319,
+    "p75": 976,
+    "p90": 8172,
+    "share_ge_1k": 0.243,
+    "share_ge_10k": 0.088,
+    "share_ge_100k": 0.007,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 40,
+    "median": 20325,
+    "p75": 85498,
+    "p90": 324408,
+    "share_ge_1k": 0.975,
+    "share_ge_10k": 0.7,
+    "share_ge_100k": 0.225,
+    "share_ge_1m": 0.025
+   },
+   "new_channels_lt365d_share": 0.56,
+   "new_channels_vpd": {
+    "n": 102,
+    "median": 428,
+    "p75": 1298,
+    "p90": 29829,
+    "share_ge_1k": 0.284,
+    "share_ge_10k": 0.176,
+    "share_ge_100k": 0.029,
+    "share_ge_1m": 0.01
+   },
+   "volume": {
+    "survival story": {
+     "today_returned": 100,
+     "verified_24h": 51,
+     "verified_24h_lang": 47,
+     "verified_7d": 97,
+     "distinct_channels_7d": 91,
+     "pages_exhausted_today": false
+    },
+    "disaster story": {
+     "today_returned": 78,
+     "verified_24h": 36,
+     "verified_24h_lang": 32,
+     "verified_7d": 75,
+     "distinct_channels_7d": 72,
+     "pages_exhausted_today": false
+    },
+    "plane crash story": {
+     "today_returned": 68,
+     "verified_24h": 37,
+     "verified_24h_lang": 34,
+     "verified_7d": 67,
+     "distinct_channels_7d": 65,
+     "pages_exhausted_today": false
+    },
+    "survived": {
+     "today_returned": 79,
+     "verified_24h": 45,
+     "verified_24h_lang": 39,
+     "verified_7d": 86,
+     "distinct_channels_7d": 84,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 36.5,
+   "ceiling_90d_ge1m_all_lang": 46,
+   "ceiling_90d_ge1m_lang": 31,
+   "ceiling_90d_ge1m_lang_distinct_channels": 27,
+   "ceiling_from_channels_lt365d": 12,
+   "ceiling_from_channels_lt10k_subs_now": 4,
+   "ceiling_from_channels_lt100k_subs_now": 21,
+   "ceiling_hits": [
+    {
+     "id": "4kHsln9u_E4",
+     "views": 58094927,
+     "published": "2026-09-05",
+     "secs": 64,
+     "lang": "en-US",
+     "channel": "Gabriel Janiques",
+     "channel_age_d": 1533,
+     "subs": 11600000,
+     "title": "Can you survive on an Island?"
+    },
+    {
+     "id": "WBRh4gfnPbc",
+     "views": 37219676,
+     "published": "2026-08-07",
+     "secs": 25,
+     "lang": "en",
+     "channel": "Nova Aviation ",
+     "channel_age_d": 416,
+     "subs": 57300,
+     "title": "The Takeoff That Ended In Tragedy... 💔✈️"
+    },
+    {
+     "id": "gkztgAzVnrg",
+     "views": 21766417,
+     "published": "2026-08-24",
+     "secs": 31,
+     "lang": "en",
+     "channel": "Love Nature In Seconds",
+     "channel_age_d": 4288,
+     "subs": 27700,
+     "title": "The Fish That Survives When Its Pond Disappears 🐟🌧️"
+    },
+    {
+     "id": "9vjGlPCdh_I",
+     "views": 12908023,
+     "published": "2026-08-07",
+     "secs": 49,
+     "lang": "en",
+     "channel": "Village Essence ",
+     "channel_age_d": 89,
+     "subs": 40000,
+     "title": "Stormy Night 🌧️ What Happened Next Will Shock You 😱 #barish #shorts #villagelife"
+    },
+    {
+     "id": "NPxusS-J70U",
+     "views": 10402775,
+     "published": "2026-10-20",
+     "secs": 58,
+     "lang": "en",
+     "channel": "PrimexAE",
+     "channel_age_d": 226,
+     "subs": 108000,
+     "title": "You Laugh You Survive | Remain Calm | Song - Raya (Slowed) #edit #shorts"
+    },
+    {
+     "id": "_DLEIWOSDBA",
+     "views": 10185402,
+     "published": "2026-08-04",
+     "secs": 52,
+     "lang": "en",
+     "channel": "Zack D. Films",
+     "channel_age_d": 1965,
+     "subs": 29400000,
+     "title": "He Survived Two Atomic Bombings 😵"
+    },
+    {
+     "id": "BMHwneRMO3I",
+     "views": 6718268,
+     "published": "2026-09-25",
+     "secs": 100,
+     "lang": "en",
+     "channel": "SeedThePast",
+     "channel_age_d": 488,
+     "subs": 58200,
+     "title": "Can Sugarcane Survive the Dinosaur Era? 🎋🦖"
+    },
+    {
+     "id": "rHJNmu48-PU",
+     "views": 5394799,
+     "published": "2026-08-03",
+     "secs": 62,
+     "lang": "en",
+     "channel": "The Good Vault ",
+     "channel_age_d": 572,
+     "subs": 24300,
+     "title": "The True Story Behind Jungle (2017) Survival Against All Odds #Jungle #Jungle2017 #DanielRadcliffe"
+    },
+    {
+     "id": "SpdHjGwXH5c",
+     "views": 5330605,
+     "published": "2026-10-12",
+     "secs": 62,
+     "lang": "en",
+     "channel": "Stickocalypse",
+     "channel_age_d": 739,
+     "subs": 40700,
+     "title": "PART 1 STICKOCALYPSE MOVIE , CHAPTER 1 (THE LAST FARM) — EPS 1"
+    },
+    {
+     "id": "pAoKT46KzTY",
+     "views": 4753538,
+     "published": "2026-10-11",
+     "secs": 155,
+     "lang": "en",
+     "channel": "True Campside Stories",
+     "channel_age_d": 15,
+     "subs": 6260,
+     "title": "Most Famous Cave Diving Story🤿"
+    },
+    {
+     "id": "LCSpS1_wHTo",
+     "views": 4480216,
+     "published": "2026-08-03",
+     "secs": 180,
+     "lang": "en",
+     "channel": "Civil Engineering Easy",
+     "channel_age_d": 2154,
+     "subs": 127000,
+     "title": "The Banqiao Dam Disaster Anatomy of History's Deadliest Dam Failure  Engineering Documentary Video"
+    },
+    {
+     "id": "Yx_Kr6iI0hA",
+     "views": 4138946,
+     "published": "2026-10-20",
+     "secs": 63,
+     "lang": "en",
+     "channel": "PolySoldier",
+     "channel_age_d": 54,
+     "subs": 18200,
+     "title": "This Battleship Survived 2 Nukes"
+    },
+    {
+     "id": "XVQz2YIdIco",
+     "views": 3526106,
+     "published": "2026-08-29",
+     "secs": 27,
+     "lang": "en",
+     "channel": "IRL Aadmi",
+     "channel_age_d": 157,
+     "subs": 31200,
+     "title": "Itne powerful flood mein ye ek ghar kaise bach gaya?"
+    },
+    {
+     "id": "2wmHZznfUCc",
+     "views": 2818436,
+     "published": "2026-08-27",
+     "secs": 11,
+     "lang": "en",
+     "channel": "CtrlPlusF",
+     "channel_age_d": 119,
+     "subs": 1690,
+     "title": "BREAKING: THE NEPAL DISASTER EXPLAINED"
+    },
+    {
+     "id": "nrpZ5TXFHxU",
+     "views": 2633021,
+     "published": "2026-09-03",
+     "secs": 91,
+     "lang": "en",
+     "channel": "SM Ghibli",
+     "channel_age_d": 2359,
+     "subs": 4620,
+     "title": "Survived the TSUNAMI 🌊| Then caught a GIANT 15 KG MAHSEER fish to survive🐟🔥| #ghibli #shorts"
+    },
+    {
+     "id": "uGq0-Iiev9k",
+     "views": 2578555,
+     "published": "2026-08-09",
+     "secs": 167,
+     "lang": "en",
+     "channel": "RASOI KE QISSE",
+     "channel_age_d": 115,
+     "subs": 96000,
+     "title": "🌊When the Village Went Underwater 🌧️ | A Flood Survival Story of Courage & Hope⛈️"
+    },
+    {
+     "id": "gsOfycKWXbs",
+     "views": 2372700,
+     "published": "2026-10-05",
+     "secs": 21,
+     "lang": "en-US",
+     "channel": "Mao Outdoors",
+     "channel_age_d": 6419,
+     "subs": 74200,
+     "title": "You might not know this method 💡"
+    },
+    {
+     "id": "nXOHqmAqfrY",
+     "views": 2229820,
+     "published": "2026-08-11",
+     "secs": 67,
+     "lang": "en",
+     "channel": "cozy tales hub",
+     "channel_age_d": 93,
+     "subs": 7790,
+     "title": "Heavy Rain Flood Disaster In Indian Village 🌧️"
+    },
+    {
+     "id": "Cm3G1OLK40o",
+     "views": 1973397,
+     "published": "2026-09-18",
+     "secs": 101,
+     "lang": "en",
+     "channel": "SeedThePast",
+     "channel_age_d": 488,
+     "subs": 58200,
+     "title": "Can One Apple Survive the Dinosaur Era? 🍎🦕"
+    },
+    {
+     "id": "j8G_0bj0ILo",
+     "views": 1786905,
+     "published": "2026-09-25",
+     "secs": 161,
+     "lang": "en",
+     "channel": "🌧️ Whispering Village",
+     "channel_age_d": 67,
+     "subs": 21500,
+     "title": "🌊Flood: Midnight Survival 🛖 #ghiblistyle #survivalstory  #shorts#shortsfeed"
+    },
+    {
+     "id": "4OPdrOaaXsQ",
+     "views": 1624270,
+     "published": "2026-10-22",
+     "secs": 57,
+     "lang": "en",
+     "channel": "onca",
+     "channel_age_d": 1876,
+     "subs": 842000,
+     "title": "The Man Who Survived 2 ATOMIC BOMBS 🤯💀"
+    },
+    {
+     "id": "2dScIU1mszE",
+     "views": 1547136,
+     "published": "2026-08-22",
+     "secs": 155,
+     "lang": "en",
+     "channel": "RASOI KE QISSE",
+     "channel_age_d": 115,
+     "subs": 96000,
+     "title": "🌧️ When the Cyclone Hits the Village🛖 | A Village Survival Story 🌪️"
+    },
+    {
+     "id": "3umT3zqT6VE",
+     "views": 1477948,
+     "published": "2026-10-20",
+     "secs": 23,
+     "lang": "en-US",
+     "channel": "Mao Outdoors",
+     "channel_age_d": 6419,
+     "subs": 74200,
+     "title": "The praying mantis ate her cucumber  #bushcraft #survival #lifehacks"
+    },
+    {
+     "id": "EAszJhfalBM",
+     "views": 1259224,
+     "published": "2026-08-28",
+     "secs": 65,
+     "lang": "en",
+     "channel": "CNA",
+     "channel_age_d": 7305,
+     "subs": 3250000,
+     "title": "How did a glacier collapse cause the Nepal-Tibet disaster?"
+    },
+    {
+     "id": "IgvL6Qw7LXw",
+     "views": 1224199,
+     "published": "2026-10-10",
+     "secs": 22,
+     "lang": "en-US",
+     "channel": "WindyAviation",
+     "channel_age_d": 853,
+     "subs": 259000,
+     "title": "Impossible Airplane Hijacking Emergency Landing In A380 #aviation #planecrash #shorts"
+    },
+    {
+     "id": "P_uoDYPtUAA",
+     "views": 1219995,
+     "published": "2026-08-29",
+     "secs": 115,
+     "lang": "en",
+     "channel": "45 Seconds of Wonder",
+     "channel_age_d": 406,
+     "subs": 59700,
+     "title": "1994 Winter Blizzard: The Cabin Nearly Collapsed ❄️🏚️ | A Family’s Fight to Survive #shorts #viral"
+    },
+    {
+     "id": "4ugB9tMXLNg",
+     "views": 1193522,
+     "published": "2026-10-07",
+     "secs": 30,
+     "lang": "en-US",
+     "channel": "Tyler",
+     "channel_age_d": 4192,
+     "subs": 160000,
+     "title": "She Survived 41 DAYS Alone After A Hurricane...😨🌊 #roblox #animation #shorts"
+    },
+    {
+     "id": "RfA_L53JPXg",
+     "views": 1180739,
+     "published": "2026-10-19",
+     "secs": 121,
+     "lang": "en",
+     "channel": "Rbtx boy",
+     "channel_age_d": 113,
+     "subs": 74900,
+     "title": "Island Par Linda Ka Dangerous Game 😱 | #shorts"
+    },
+    {
+     "id": "uHq7WVI74qM",
+     "views": 1107825,
+     "published": "2026-09-05",
+     "secs": 36,
+     "lang": "en-US",
+     "channel": "CNN-News18",
+     "channel_age_d": 7344,
+     "subs": 10900000,
+     "title": "Miracle In Nepal: Woman Rescued Alive From Mud-Buried Home After 10 Days | N18S"
+    },
+    {
+     "id": "0hghLdR6Z7k",
+     "views": 1100734,
+     "published": "2026-10-16",
+     "secs": 70,
+     "lang": "en-US",
+     "channel": "ThumbSized Facts",
+     "channel_age_d": 269,
+     "subs": 422000,
+     "title": "They Got Trapped in the Most Unexpected Places #shorts"
+    },
+    {
+     "id": "AGOU8EGnrJ4",
+     "views": 1046930,
+     "published": "2026-09-26",
+     "secs": 20,
+     "lang": "en-US",
+     "channel": "Mao Outdoors",
+     "channel_age_d": 6419,
+     "subs": 74200,
+     "title": "A gorilla chased her, and she escaped"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2022": 1,
+    "2023": 10,
+    "2024": 21,
+    "2025": 51,
+    "2026": 65
+   }
+  },
+  "true_crime": {
+   "keywords": [
+    "true crime",
+    "true crime story",
+    "crime story",
+    "prison escape"
+   ],
+   "fresh_sample_30d": 155,
+   "fresh_sample_30d_lang": 143,
+   "fresh_distinct_channels": 120,
+   "views_per_day_age_ge_1d": {
+    "n": 87,
+    "median": 1156,
+    "p75": 9650,
+    "p90": 32676,
+    "share_ge_1k": 0.517,
+    "share_ge_10k": 0.241,
+    "share_ge_100k": 0.034,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 51,
+    "median": 34828,
+    "p75": 139186,
+    "p90": 498506,
+    "share_ge_1k": 0.941,
+    "share_ge_10k": 0.647,
+    "share_ge_100k": 0.275,
+    "share_ge_1m": 0.039
+   },
+   "views_age_1_6d": {
+    "n": 46,
+    "median": 2092,
+    "p75": 48989,
+    "p90": 167534,
+    "share_ge_1k": 0.761,
+    "share_ge_10k": 0.413,
+    "share_ge_100k": 0.13,
+    "share_ge_1m": 0.022
+   },
+   "small_channels_lt10k_share": 0.664,
+   "small_channels_vpd": {
+    "n": 45,
+    "median": 752,
+    "p75": 6915,
+    "p90": 18284,
+    "share_ge_1k": 0.378,
+    "share_ge_10k": 0.178,
+    "share_ge_100k": 0.022,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 42,
+    "median": 4083,
+    "p75": 18343,
+    "p90": 74768,
+    "share_ge_1k": 0.667,
+    "share_ge_10k": 0.31,
+    "share_ge_100k": 0.048,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.392,
+   "new_channels_vpd": {
+    "n": 32,
+    "median": 3596,
+    "p75": 11852,
+    "p90": 30616,
+    "share_ge_1k": 0.531,
+    "share_ge_10k": 0.281,
+    "share_ge_100k": 0.031,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "true crime": {
+     "today_returned": 97,
+     "verified_24h": 44,
+     "verified_24h_lang": 40,
+     "verified_7d": 72,
+     "distinct_channels_7d": 67,
+     "pages_exhausted_today": false
+    },
+    "true crime story": {
+     "today_returned": 0,
+     "verified_24h": 0,
+     "verified_24h_lang": 0,
+     "verified_7d": 2,
+     "distinct_channels_7d": 2,
+     "pages_exhausted_today": true
+    },
+    "crime story": {
+     "today_returned": 117,
+     "verified_24h": 20,
+     "verified_24h_lang": 18,
+     "verified_7d": 35,
+     "distinct_channels_7d": 30,
+     "pages_exhausted_today": false
+    },
+    "prison escape": {
+     "today_returned": 40,
+     "verified_24h": 2,
+     "verified_24h_lang": 1,
+     "verified_7d": 10,
+     "distinct_channels_7d": 10,
+     "pages_exhausted_today": true
+    }
+   },
+   "volume_median_verified_24h_per_kw": 9.5,
+   "ceiling_90d_ge1m_all_lang": 22,
+   "ceiling_90d_ge1m_lang": 20,
+   "ceiling_90d_ge1m_lang_distinct_channels": 15,
+   "ceiling_from_channels_lt365d": 3,
+   "ceiling_from_channels_lt10k_subs_now": 2,
+   "ceiling_from_channels_lt100k_subs_now": 7,
+   "ceiling_hits": [
+    {
+     "id": "N9cyWKJ6hsw",
+     "views": 16530891,
+     "published": "2026-07-28",
+     "secs": 138,
+     "lang": "en-US",
+     "channel": "CineScope",
+     "channel_age_d": 1175,
+     "subs": 1170000,
+     "title": "😵The man faked his death to escape prison！#movieclips #shorts #motivation #viral #edit"
+    },
+    {
+     "id": "qUy3LCjJvTo",
+     "views": 14076806,
+     "published": "2026-09-16",
+     "secs": 90,
+     "lang": "en-US",
+     "channel": "Law By Mike",
+     "channel_age_d": 2195,
+     "subs": 19900000,
+     "title": "Real Ways People Escaped Prison"
+    },
+    {
+     "id": "epP7TB8n3ZU",
+     "views": 13551565,
+     "published": "2026-09-27",
+     "secs": 28,
+     "lang": "en",
+     "channel": "Zack D. Films",
+     "channel_age_d": 1965,
+     "subs": 29400000,
+     "title": "He Used Kitchen Supplies To Escape Prison 😬"
+    },
+    {
+     "id": "rIgLrZ6FEdk",
+     "views": 6376288,
+     "published": "2026-10-06",
+     "secs": 113,
+     "lang": "en-US",
+     "channel": "Matthew Cox | Inside True Crime",
+     "channel_age_d": 2838,
+     "subs": 1280000,
+     "title": "Prison Love Story!"
+    },
+    {
+     "id": "uXLJaEDvtHU",
+     "views": 5805449,
+     "published": "2026-09-23",
+     "secs": 180,
+     "lang": "en-US",
+     "channel": "MrBallen",
+     "channel_age_d": 4234,
+     "subs": 11300000,
+     "title": "How He Solved An 11-Year Cold Case...."
+    },
+    {
+     "id": "psQAJTjZRDc",
+     "views": 3200515,
+     "published": "2026-08-13",
+     "secs": 139,
+     "lang": "en-US",
+     "channel": "CineScope",
+     "channel_age_d": 1175,
+     "subs": 1170000,
+     "title": "🔨He escaped from prison using a small chisel！#movieclips #shorts #viral #motivation"
+    },
+    {
+     "id": "XUePlCSexlE",
+     "views": 2356941,
+     "published": "2026-08-26",
+     "secs": 136,
+     "lang": "en",
+     "channel": "ABC News",
+     "channel_age_d": 7383,
+     "subs": 19900000,
+     "title": "“Welcome to the Family: The Murder of Dan Markel” | Official Trailer | Hulu"
+    },
+    {
+     "id": "CsWAK9Z2gLI",
+     "views": 2331432,
+     "published": "2026-09-01",
+     "secs": 175,
+     "lang": "en-US",
+     "channel": "Today I Learned Science",
+     "channel_age_d": 1510,
+     "subs": 978000,
+     "title": "The Black Dahlia Finally Solved After 79 Years?"
+    },
+    {
+     "id": "gYTzF1vna40",
+     "views": 2139627,
+     "published": "2026-08-20",
+     "secs": 133,
+     "lang": "en-US",
+     "channel": "Netflix",
+     "channel_age_d": 5212,
+     "subs": 33800000,
+     "title": "MONSTER: The Lizzie Borden Story | Official Trailer | Netflix"
+    },
+    {
+     "id": "QIVzLRJs9aU",
+     "views": 1748592,
+     "published": "2026-10-02",
+     "secs": 93,
+     "lang": "en-US",
+     "channel": "Matthew Cox | Inside True Crime",
+     "channel_age_d": 2838,
+     "subs": 1280000,
+     "title": "Prison Karma!"
+    },
+    {
+     "id": "5vTP5kpIRBQ",
+     "views": 1535865,
+     "published": "2026-09-18",
+     "secs": 140,
+     "lang": "en",
+     "channel": "Romanow Law Group",
+     "channel_age_d": 4579,
+     "subs": 11300,
+     "title": "It just got worse Lindsay Clancy Copycat #breakingnews"
+    },
+    {
+     "id": "IIYK_rOx94I",
+     "views": 1509668,
+     "published": "2026-09-30",
+     "secs": 95,
+     "lang": "en-US",
+     "channel": "Matthew Cox | Inside True Crime",
+     "channel_age_d": 2838,
+     "subs": 1280000,
+     "title": "Ordering Packages To Girlfriends House"
+    },
+    {
+     "id": "gJNznIi7hAk",
+     "views": 1480717,
+     "published": "2026-08-19",
+     "secs": 138,
+     "lang": "en",
+     "channel": "Dane Cook",
+     "channel_age_d": 7565,
+     "subs": 56200,
+     "title": "Funny Money: The Dane Cook Story | Official Trailer"
+    },
+    {
+     "id": "RJnL9dbQoyQ",
+     "views": 1477636,
+     "published": "2026-09-20",
+     "secs": 68,
+     "lang": "en",
+     "channel": "The Wise Wolf Club",
+     "channel_age_d": 1636,
+     "subs": 49800,
+     "title": "Willy Wonka Was Based On A Real Monster? 😳 #truecrime #horrortok #chocolate"
+    },
+    {
+     "id": "qWt_xBVF0qI",
+     "views": 1469917,
+     "published": "2026-08-09",
+     "secs": 115,
+     "lang": "en-US",
+     "channel": "Annie Elise",
+     "channel_age_d": 3922,
+     "subs": 1840000,
+     "title": "Major Update In The Alexee Trevizo Case"
+    },
+    {
+     "id": "0HWDQ4rYoO8",
+     "views": 1432442,
+     "published": "2026-09-22",
+     "secs": 46,
+     "lang": "en",
+     "channel": "Crime Patrol",
+     "channel_age_d": 67,
+     "subs": 25700,
+     "title": "Cheater Wife Ka Pardafash | Crime Patrol 2026-Crime Ka Current Season | #crimepatrol #ajaydevgn"
+    },
+    {
+     "id": "la5lFXrPzVE",
+     "views": 1422825,
+     "published": "2026-09-10",
+     "secs": 104,
+     "lang": "en-US",
+     "channel": "Matthew Cox | Inside True Crime",
+     "channel_age_d": 2838,
+     "subs": 1280000,
+     "title": "Bank Robbers Thought Process"
+    },
+    {
+     "id": "GuJOHRV9ZEc",
+     "views": 1305846,
+     "published": "2026-10-04",
+     "secs": 60,
+     "lang": "en",
+     "channel": "Crime Patrol",
+     "channel_age_d": 67,
+     "subs": 25700,
+     "title": "Betrayal In Relationship | Crime Patrol Satark S2 | Inspector Series | #crime #thriller"
+    },
+    {
+     "id": "T_ekLxj6alE",
+     "views": 1257073,
+     "published": "2026-10-20",
+     "secs": 26,
+     "lang": "en-US",
+     "channel": "Varz Thought",
+     "channel_age_d": 119,
+     "subs": 3710,
+     "title": "I Tried The Prison Escape Hack With Toothpaste 🛑 #prison #challenge #shortvideo"
+    },
+    {
+     "id": "yUE1QfDDIaY",
+     "views": 1033468,
+     "published": "2026-08-22",
+     "secs": 141,
+     "lang": "en-US",
+     "channel": "True Crime Mysteries with Brandon Richard",
+     "channel_age_d": 1926,
+     "subs": 2950,
+     "title": "Missing Colorado Man Found Dead in Nashville | True Crime Mysteries"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2022": 9,
+    "2023": 9,
+    "2024": 35,
+    "2025": 45,
+    "2026": 62
+   }
+  },
+  "whatif_history_maps": {
+   "keywords": [
+    "what if history",
+    "alternate history",
+    "what if map",
+    "what if ww2"
+   ],
+   "fresh_sample_30d": 281,
+   "fresh_sample_30d_lang": 265,
+   "fresh_distinct_channels": 211,
+   "views_per_day_age_ge_1d": {
+    "n": 157,
+    "median": 1097,
+    "p75": 10628,
+    "p90": 26278,
+    "share_ge_1k": 0.522,
+    "share_ge_10k": 0.255,
+    "share_ge_100k": 0.006,
+    "share_ge_1m": 0.0
+   },
+   "views_age_3_30d": {
+    "n": 64,
+    "median": 45286,
+    "p75": 122564,
+    "p90": 279551,
+    "share_ge_1k": 0.953,
+    "share_ge_10k": 0.766,
+    "share_ge_100k": 0.297,
+    "share_ge_1m": 0.0
+   },
+   "views_age_1_6d": {
+    "n": 126,
+    "median": 1503,
+    "p75": 27116,
+    "p90": 91478,
+    "share_ge_1k": 0.627,
+    "share_ge_10k": 0.365,
+    "share_ge_100k": 0.079,
+    "share_ge_1m": 0.0
+   },
+   "small_channels_lt10k_share": 0.842,
+   "small_channels_vpd": {
+    "n": 127,
+    "median": 750,
+    "p75": 5517,
+    "p90": 19412,
+    "share_ge_1k": 0.417,
+    "share_ge_10k": 0.173,
+    "share_ge_100k": 0.0,
+    "share_ge_1m": 0.0
+   },
+   "big_channels_vpd": {
+    "n": 30,
+    "median": 14228,
+    "p75": 26777,
+    "p90": 55499,
+    "share_ge_1k": 0.967,
+    "share_ge_10k": 0.6,
+    "share_ge_100k": 0.033,
+    "share_ge_1m": 0.0
+   },
+   "new_channels_lt365d_share": 0.6,
+   "new_channels_vpd": {
+    "n": 93,
+    "median": 783,
+    "p75": 12253,
+    "p90": 25260,
+    "share_ge_1k": 0.462,
+    "share_ge_10k": 0.28,
+    "share_ge_100k": 0.0,
+    "share_ge_1m": 0.0
+   },
+   "volume": {
+    "what if history": {
+     "today_returned": 99,
+     "verified_24h": 42,
+     "verified_24h_lang": 39,
+     "verified_7d": 98,
+     "distinct_channels_7d": 78,
+     "pages_exhausted_today": false
+    },
+    "alternate history": {
+     "today_returned": 102,
+     "verified_24h": 40,
+     "verified_24h_lang": 37,
+     "verified_7d": 79,
+     "distinct_channels_7d": 60,
+     "pages_exhausted_today": false
+    },
+    "what if map": {
+     "today_returned": 62,
+     "verified_24h": 24,
+     "verified_24h_lang": 22,
+     "verified_7d": 72,
+     "distinct_channels_7d": 63,
+     "pages_exhausted_today": false
+    },
+    "what if ww2": {
+     "today_returned": 79,
+     "verified_24h": 25,
+     "verified_24h_lang": 25,
+     "verified_7d": 51,
+     "distinct_channels_7d": 49,
+     "pages_exhausted_today": false
+    }
+   },
+   "volume_median_verified_24h_per_kw": 31.0,
+   "ceiling_90d_ge1m_all_lang": 12,
+   "ceiling_90d_ge1m_lang": 11,
+   "ceiling_90d_ge1m_lang_distinct_channels": 8,
+   "ceiling_from_channels_lt365d": 2,
+   "ceiling_from_channels_lt10k_subs_now": 1,
+   "ceiling_from_channels_lt100k_subs_now": 8,
+   "ceiling_hits": [
+    {
+     "id": "AifG3Mrb3xY",
+     "views": 21320296,
+     "published": "2026-08-24",
+     "secs": 25,
+     "lang": "en",
+     "channel": "Vector_Fox",
+     "channel_age_d": 2260,
+     "subs": 42100,
+     "title": "If history had sound🔊 | Which graph surprised you the most?"
+    },
+    {
+     "id": "sb3fOGYQDto",
+     "views": 5815084,
+     "published": "2026-09-10",
+     "secs": 24,
+     "lang": "en-US",
+     "channel": "Sneaky Numbers",
+     "channel_age_d": 162,
+     "subs": 53900,
+     "title": "If history's biggest rises & falls had sound #animation #maths #creative #shorts #visualization"
+    },
+    {
+     "id": "X3WPIeng2F0",
+     "views": 5642474,
+     "published": "2026-09-09",
+     "secs": 24,
+     "lang": "en",
+     "channel": "Vector_Fox",
+     "channel_age_d": 2260,
+     "subs": 42100,
+     "title": "If History Had Sound (pt.2) | Which graph is your Favorite⌛?"
+    },
+    {
+     "id": "kllDafmRXq4",
+     "views": 1855361,
+     "published": "2026-08-11",
+     "secs": 19,
+     "lang": "en",
+     "channel": "ImThatKingdomOfPoland (IMTKoP)",
+     "channel_age_d": 5407,
+     "subs": 3490,
+     "title": "Countries If They Anexxed Their Neighbors | #flag #history #geographythroughmaps #geography"
+    },
+    {
+     "id": "xUe2JLx-gDw",
+     "views": 1757951,
+     "published": "2026-10-07",
+     "secs": 25,
+     "lang": "en",
+     "channel": "Inside The Surface",
+     "channel_age_d": 1801,
+     "subs": 23900,
+     "title": "If history had sound pt.3 🔊 | Which graph shocked you? #history #data"
+    },
+    {
+     "id": "I6_IneEvDR8",
+     "views": 1707732,
+     "published": "2026-09-25",
+     "secs": 175,
+     "lang": "en",
+     "channel": "Trevor's History Reels",
+     "channel_age_d": 429,
+     "subs": 204000,
+     "title": "What would happen if the US invaded Canada? #history #historyfacts #trump #usa #canada"
+    },
+    {
+     "id": "OhCzcW9fIUI",
+     "views": 1553287,
+     "published": "2026-10-17",
+     "secs": 25,
+     "lang": "en",
+     "channel": "Inside The Surface",
+     "channel_age_d": 1801,
+     "subs": 23900,
+     "title": "If empires had sound 🔊 | Which one was the biggest? #history #empire #map"
+    },
+    {
+     "id": "uv906fHRQ_Y",
+     "views": 1502616,
+     "published": "2026-09-16",
+     "secs": 21,
+     "lang": "en",
+     "channel": "Historyballmap",
+     "channel_age_d": 1615,
+     "subs": 154000,
+     "title": "What if  : Ukraine collapses?  #countryballs #map"
+    },
+    {
+     "id": "CjbG-wBpZ2c",
+     "views": 1209202,
+     "published": "2026-10-03",
+     "secs": 15,
+     "lang": "en",
+     "channel": "Meridian Anatomy",
+     "channel_age_d": 58,
+     "subs": 28000,
+     "title": "What If Bangladesh Took Over the World in 1000 years? #shorts #history #map"
+    },
+    {
+     "id": "fF3hx8tcDKM",
+     "views": 1181633,
+     "published": "2026-09-23",
+     "secs": 23,
+     "lang": "en-US",
+     "channel": "Willdude",
+     "channel_age_d": 1976,
+     "subs": 139000,
+     "title": "Fall of N*zi Germany in World War 2 🤯"
+    },
+    {
+     "id": "GT7h1xkSEAw",
+     "views": 1148855,
+     "published": "2026-10-05",
+     "secs": 25,
+     "lang": "en",
+     "channel": "Inside The Surface",
+     "channel_age_d": 1801,
+     "subs": 23900,
+     "title": "If history had sound 🔊 | Which graph shocked you? #history #data"
+    }
+   ],
+   "pop_all_publish_years": {
+    "2022": 2,
+    "2023": 2,
+    "2024": 35,
+    "2025": 37,
+    "2026": 81
+   }
+  }
+ },
+ "year_compare": {
+  "core_absurd_history": {
+   "y2024": {
+    "q": "weird history",
+    "n": 46,
+    "top1": 63099284,
+    "top10_median": 24334419,
+    "top50_median": 7841089,
+    "n_ge_1m": 43,
+    "n_ge_10m": 18
+   },
+   "y2026": {
+    "q": "weird history",
+    "n": 50,
+    "top1": 80046924,
+    "top10_median": 16686724,
+    "top50_median": 5162422,
+    "n_ge_1m": 47,
+    "n_ge_10m": 10
+   },
+   "d90": {
+    "q": "weird history",
+    "n": 50,
+    "top1": 18850047,
+    "top10_median": 6186592,
+    "top50_median": 742248,
+    "n_ge_1m": 20,
+    "n_ge_10m": 3
+   }
+  },
+  "geo_maps": {
+   "y2024": {
+    "q": "geography facts",
+    "n": 50,
+    "top1": 48169126,
+    "top10_median": 31127350,
+    "top50_median": 10054686,
+    "n_ge_1m": 50,
+    "n_ge_10m": 25
+   },
+   "y2026": {
+    "q": "geography facts",
+    "n": 50,
+    "top1": 50600286,
+    "top10_median": 6854678,
+    "top50_median": 1943598,
+    "n_ge_1m": 38,
+    "n_ge_10m": 3
+   },
+   "d90": {
+    "q": "geography facts",
+    "n": 50,
+    "top1": 7545734,
+    "top10_median": 3397193,
+    "top50_median": 1176121,
+    "n_ge_1m": 28,
+    "n_ge_10m": 0
+   }
+  },
+  "animals": {
+   "y2024": {
+    "q": "animal facts",
+    "n": 48,
+    "top1": 777995902,
+    "top10_median": 108302258,
+    "top50_median": 29539498,
+    "n_ge_1m": 48,
+    "n_ge_10m": 46
+   },
+   "y2026": {
+    "q": "animal facts",
+    "n": 49,
+    "top1": 83153861,
+    "top10_median": 51414634,
+    "top50_median": 16554735,
+    "n_ge_1m": 48,
+    "n_ge_10m": 35
+   },
+   "d90": {
+    "q": "animal facts",
+    "n": 48,
+    "top1": 74502867,
+    "top10_median": 20346590,
+    "top50_median": 4008282,
+    "n_ge_1m": 47,
+    "n_ge_10m": 10
+   }
+  },
+  "science_space": {
+   "y2024": {
+    "q": "space facts",
+    "n": 50,
+    "top1": 78906334,
+    "top10_median": 43809744,
+    "top50_median": 9324340,
+    "n_ge_1m": 50,
+    "n_ge_10m": 24
+   },
+   "y2026": {
+    "q": "space facts",
+    "n": 50,
+    "top1": 84380988,
+    "top10_median": 10933963,
+    "top50_median": 1340264,
+    "n_ge_1m": 30,
+    "n_ge_10m": 5
+   },
+   "d90": {
+    "q": "space facts",
+    "n": 50,
+    "top1": 14816394,
+    "top10_median": 3867744,
+    "top50_median": 645268,
+    "n_ge_1m": 22,
+    "n_ge_10m": 1
+   }
+  },
+  "true_crime": {
+   "y2024": {
+    "q": "true crime story",
+    "n": 48,
+    "top1": 33524356,
+    "top10_median": 6188276,
+    "top50_median": 1618992,
+    "n_ge_1m": 40,
+    "n_ge_10m": 2
+   },
+   "y2026": {
+    "q": "true crime story",
+    "n": 48,
+    "top1": 7947472,
+    "top10_median": 3871608,
+    "top50_median": 1108339,
+    "n_ge_1m": 28,
+    "n_ge_10m": 0
+   },
+   "d90": {
+    "q": "true crime story",
+    "n": 49,
+    "top1": 6376288,
+    "top10_median": 2014787,
+    "top50_median": 619703,
+    "n_ge_1m": 16,
+    "n_ge_10m": 0
+   }
+  },
+  "whatif_history_maps": {
+   "y2024": {
+    "q": "what if history",
+    "n": 47,
+    "top1": 54109502,
+    "top10_median": 5822225,
+    "top50_median": 640135,
+    "n_ge_1m": 17,
+    "n_ge_10m": 2
+   },
+   "y2026": {
+    "q": "what if history",
+    "n": 49,
+    "top1": 21320296,
+    "top10_median": 4622149,
+    "top50_median": 916400,
+    "n_ge_1m": 23,
+    "n_ge_10m": 1
+   },
+   "d90": {
+    "q": "what if history",
+    "n": 49,
+    "top1": 21320296,
+    "top10_median": 1806656,
+    "top50_median": 570996,
+    "n_ge_1m": 10,
+    "n_ge_10m": 1
+   }
+  },
+  "survival_disaster": {
+   "y2024": {
+    "q": "survival story",
+    "n": 48,
+    "top1": 178954239,
+    "top10_median": 50480980,
+    "top50_median": 8750368,
+    "n_ge_1m": 44,
+    "n_ge_10m": 23
+   },
+   "y2026": {
+    "q": "survival story",
+    "n": 48,
+    "top1": 50609066,
+    "top10_median": 16567978,
+    "top50_median": 3720539,
+    "n_ge_1m": 47,
+    "n_ge_10m": 11
+   },
+   "d90": {
+    "q": "survival story",
+    "n": 48,
+    "top1": 21766417,
+    "top10_median": 5319582,
+    "top50_median": 1797130,
+    "n_ge_1m": 35,
+    "n_ge_10m": 2
+   }
+  },
+  "mystery_unsolved": {
+   "y2024": {
+    "q": "unsolved mystery",
+    "n": 47,
+    "top1": 41263582,
+    "top10_median": 4785279,
+    "top50_median": 168034,
+    "n_ge_1m": 8,
+    "n_ge_10m": 2
+   },
+   "y2026": {
+    "q": "unsolved mystery",
+    "n": 48,
+    "top1": 8133728,
+    "top10_median": 2257527,
+    "top50_median": 544747,
+    "n_ge_1m": 16,
+    "n_ge_10m": 0
+   },
+   "d90": {
+    "q": "unsolved mystery",
+    "n": 49,
+    "top1": 3013740,
+    "top10_median": 1701522,
+    "top50_median": 220852,
+    "n_ge_1m": 11,
+    "n_ge_10m": 0
+   }
+  },
+  "es_historias": {
+   "y2024": {
+    "q": "historias reales",
+    "n": 50,
+    "top1": 78898817,
+    "top10_median": 12716814,
+    "top50_median": 2067179,
+    "n_ge_1m": 42,
+    "n_ge_10m": 6
+   },
+   "y2026": {
+    "q": "historias reales",
+    "n": 49,
+    "top1": 77135220,
+    "top10_median": 9723049,
+    "top50_median": 2343748,
+    "n_ge_1m": 48,
+    "n_ge_10m": 4
+   },
+   "d90": {
+    "q": "historias reales",
+    "n": 49,
+    "top1": 10915103,
+    "top10_median": 7393390,
+    "top50_median": 1148978,
+    "n_ge_1m": 27,
+    "n_ge_10m": 1
+   }
+  }
+ },
+ "panel": {
+  "animals": {
+   "candidates_48h": 81,
+   "channels_picked": 40,
+   "channels_with_rows": 30,
+   "videos": 570,
+   "n": 570,
+   "median": 1298,
+   "p75": 6412,
+   "p90": 40044,
+   "share_ge_1k": 0.661,
+   "share_ge_10k": 0.223,
+   "share_ge_100k": 0.046,
+   "share_ge_1m": 0.009,
+   "channel_median_of_medians": 1308,
+   "channels_median_ge_10k": 6,
+   "channels_any_short_ge_100k_last50": 7,
+   "channels_any_short_ge_1m_last50": 3,
+   "new_channels_lt365d": 26,
+   "new_channels_any_ge_1m": 1
+  },
+  "core_absurd_history": {
+   "candidates_48h": 138,
+   "channels_picked": 40,
+   "channels_with_rows": 31,
+   "videos": 761,
+   "n": 761,
+   "median": 632,
+   "p75": 1970,
+   "p90": 26879,
+   "share_ge_1k": 0.422,
+   "share_ge_10k": 0.15,
+   "share_ge_100k": 0.018,
+   "share_ge_1m": 0.005,
+   "channel_median_of_medians": 471,
+   "channels_median_ge_10k": 4,
+   "channels_any_short_ge_100k_last50": 6,
+   "channels_any_short_ge_1m_last50": 4,
+   "new_channels_lt365d": 27,
+   "new_channels_any_ge_1m": 4
+  },
+  "de_geschichte": {
+   "candidates_48h": 88,
+   "channels_picked": 40,
+   "channels_with_rows": 30,
+   "videos": 693,
+   "n": 693,
+   "median": 1175,
+   "p75": 5221,
+   "p90": 46391,
+   "share_ge_1k": 0.583,
+   "share_ge_10k": 0.208,
+   "share_ge_100k": 0.046,
+   "share_ge_1m": 0.001,
+   "channel_median_of_medians": 1184,
+   "channels_median_ge_10k": 6,
+   "channels_any_short_ge_100k_last50": 7,
+   "channels_any_short_ge_1m_last50": 3,
+   "new_channels_lt365d": 23,
+   "new_channels_any_ge_1m": 2
+  },
+  "es_historias": {
+   "candidates_48h": 121,
+   "channels_picked": 40,
+   "channels_with_rows": 36,
+   "videos": 705,
+   "n": 705,
+   "median": 1333,
+   "p75": 17803,
+   "p90": 69196,
+   "share_ge_1k": 0.662,
+   "share_ge_10k": 0.304,
+   "share_ge_100k": 0.081,
+   "share_ge_1m": 0.016,
+   "channel_median_of_medians": 1114,
+   "channels_median_ge_10k": 8,
+   "channels_any_short_ge_100k_last50": 8,
+   "channels_any_short_ge_1m_last50": 6,
+   "new_channels_lt365d": 20,
+   "new_channels_any_ge_1m": 2
+  },
+  "geo_maps": {
+   "candidates_48h": 93,
+   "channels_picked": 40,
+   "channels_with_rows": 30,
+   "videos": 505,
+   "n": 505,
+   "median": 1358,
+   "p75": 4434,
+   "p90": 43138,
+   "share_ge_1k": 0.636,
+   "share_ge_10k": 0.196,
+   "share_ge_100k": 0.053,
+   "share_ge_1m": 0.006,
+   "channel_median_of_medians": 1279,
+   "channels_median_ge_10k": 3,
+   "channels_any_short_ge_100k_last50": 6,
+   "channels_any_short_ge_1m_last50": 1,
+   "new_channels_lt365d": 30,
+   "new_channels_any_ge_1m": 0
+  },
+  "mystery_unsolved": {
+   "candidates_48h": 128,
+   "channels_picked": 40,
+   "channels_with_rows": 31,
+   "videos": 485,
+   "n": 485,
+   "median": 127,
+   "p75": 871,
+   "p90": 1293,
+   "share_ge_1k": 0.214,
+   "share_ge_10k": 0.004,
+   "share_ge_100k": 0.0,
+   "share_ge_1m": 0.0,
+   "channel_median_of_medians": 104,
+   "channels_median_ge_10k": 0,
+   "channels_any_short_ge_100k_last50": 2,
+   "channels_any_short_ge_1m_last50": 0,
+   "new_channels_lt365d": 28,
+   "new_channels_any_ge_1m": 0
+  },
+  "science_space": {
+   "candidates_48h": 87,
+   "channels_picked": 40,
+   "channels_with_rows": 29,
+   "videos": 565,
+   "n": 565,
+   "median": 1330,
+   "p75": 11076,
+   "p90": 58763,
+   "share_ge_1k": 0.593,
+   "share_ge_10k": 0.258,
+   "share_ge_100k": 0.073,
+   "share_ge_1m": 0.007,
+   "channel_median_of_medians": 1197,
+   "channels_median_ge_10k": 5,
+   "channels_any_short_ge_100k_last50": 6,
+   "channels_any_short_ge_1m_last50": 3,
+   "new_channels_lt365d": 29,
+   "new_channels_any_ge_1m": 2
+  },
+  "survival_disaster": {
+   "candidates_48h": 129,
+   "channels_picked": 40,
+   "channels_with_rows": 30,
+   "videos": 581,
+   "n": 581,
+   "median": 1168,
+   "p75": 21932,
+   "p90": 65475,
+   "share_ge_1k": 0.546,
+   "share_ge_10k": 0.313,
+   "share_ge_100k": 0.065,
+   "share_ge_1m": 0.002,
+   "channel_median_of_medians": 1042,
+   "channels_median_ge_10k": 5,
+   "channels_any_short_ge_100k_last50": 5,
+   "channels_any_short_ge_1m_last50": 2,
+   "new_channels_lt365d": 20,
+   "new_channels_any_ge_1m": 0
+  },
+  "true_crime": {
+   "candidates_48h": 63,
+   "channels_picked": 40,
+   "channels_with_rows": 35,
+   "videos": 686,
+   "n": 686,
+   "median": 746,
+   "p75": 1471,
+   "p90": 3036,
+   "share_ge_1k": 0.448,
+   "share_ge_10k": 0.055,
+   "share_ge_100k": 0.01,
+   "share_ge_1m": 0.004,
+   "channel_median_of_medians": 652,
+   "channels_median_ge_10k": 2,
+   "channels_any_short_ge_100k_last50": 3,
+   "channels_any_short_ge_1m_last50": 2,
+   "new_channels_lt365d": 17,
+   "new_channels_any_ge_1m": 3
+  },
+  "whatif_history_maps": {
+   "candidates_48h": 91,
+   "channels_picked": 40,
+   "channels_with_rows": 30,
+   "videos": 491,
+   "n": 491,
+   "median": 944,
+   "p75": 5884,
+   "p90": 76158,
+   "share_ge_1k": 0.485,
+   "share_ge_10k": 0.23,
+   "share_ge_100k": 0.079,
+   "share_ge_1m": 0.002,
+   "channel_median_of_medians": 715,
+   "channels_median_ge_10k": 7,
+   "channels_any_short_ge_100k_last50": 10,
+   "channels_any_short_ge_1m_last50": 4,
+   "new_channels_lt365d": 23,
+   "new_channels_any_ge_1m": 2
+  }
+ }
+}

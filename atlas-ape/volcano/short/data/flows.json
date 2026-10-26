@@ -1,0 +1,164 @@
+{
+ "_meta": {
+  "generated": "2026-10-18",
+  "coord_order": "[lat, lon] WGS84 decimal degrees",
+  "path_order": "every path runs source -> front",
+  "method": "Mauna Loa: centreline digitised from USGS GIS lava polygons (SIM 2932-A geodatabase + OF 2007-1089 statewide map). Etna: OSM multipolygon 'Lave del 1992' (relation 6721741), checked against Esri World Imagery, EU-DEM and italysvolcanoes.com map; vent/diversion placed from published elevations. Heimaey: OSM coastline + USGS OF 97-724 Fig. 3 sketch map (georeferenced on breakwaters/Skans/Helgafell/Ystiklettur, ~2.6 m/px at 2x, error ~50-100 m) + USGS GIP narrative. Source images and GIS extracts are in data/flowmaps/."
+ },
+ "mauna_loa_1935": {
+  "vent": [19.5795,-155.4955],
+  "vent_elev_m": 2685,
+  "paths": {
+   "main": [[19.5795,-155.4955],[19.5905,-155.498],[19.6,-155.498],[19.615,-155.4975],[19.63,-155.4985],[19.64,-155.495],[19.65,-155.4924],[19.66,-155.49],[19.67,-155.4888],[19.68,-155.4855],[19.6885,-155.476],[19.6895,-155.465],[19.6885,-155.445],[19.685,-155.425],[19.682,-155.405],[19.678,-155.385],[19.677,-155.378],[19.683,-155.37],[19.689,-155.355],[19.6944,-155.3492]]
+  },
+  "secondary_paths": {
+   "early_north_lobe": [[19.512,-155.551],[19.525,-155.5375],[19.545,-155.522],[19.565,-155.521],[19.585,-155.5205],[19.605,-155.522],[19.625,-155.521],[19.6539,-155.5215]]
+  },
+  "path_length_km": {
+   "main": 26.78,
+   "early_north_lobe": 16.9
+  },
+  "width_m": 600,
+  "width_profile_m": {
+   "vent_to_2km": "300-500",
+   "north_lobe_19.60-19.67N": "500-1500 (avg ~900)",
+   "pond_at_Mauna_Kea_base_near_Puuhuluhulu": "1500-2200",
+   "hilo_bound_tongue_east_of_-155.45": "200-500"
+  },
+  "bomb_targets": [[19.585,-155.497],[19.5905,-155.498]],
+  "bomb_targets_note": "Approximate. Sources only say: two target areas on the lava channel/tube system 'both within 2 km of the vent', 'just below the vents at ~2,600 m (8,600 ft)'; Dec 27 1935, 20x 600-lb bombs + pointer bombs. Placed on the channel centreline ~0.6 km and ~1.2 km below the vent (DEM ~2,645 m and ~2,595 m).",
+  "front_stop": [19.6944,-155.3492],
+  "front_stop_note": "Final front (stopped night of 1-2 Jan 1936), elevation ~1,530 m, 28.3 km from Hilo Bay (USGS SIM 2932-A Table 1). On Dec 28 the front turned NE ~31 km from Hilo Bay (the kink at 19.677,-155.378).",
+  "places": {
+   "Hilo": [19.7251,-155.0885],
+   "Hilo Bay": [19.726,-155.0787],
+   "Mauna Loa summit": [19.4794,-155.6025],
+   "Puuhuluhulu (kipuka, pond site)": [19.6866,-155.4666],
+   "Mauna Kea summit": [19.8207,-155.4681],
+   "1935 upper NE-rift / north-flank vent cone (~3,680 m)": [19.512,-155.551]
+  },
+  "sources": [
+   "https://pubs.usgs.gov/sim/2932/a/ (Trusdell & Lockwood 2017, SIM 2932-A geodatabase + pamphlet: vent 8,805 ft/2,685 m, closest reach 28.3 km from Hilo Bay)",
+   "https://pubs.usgs.gov/of/2007/1089/ (Sherrod et al. 2007 Hawaii geologic map GIS, AD 1935 polygons)",
+   "https://www.usgs.gov/news/volcano-watch-did-aerial-bombing-stop-1935-mauna-loa-lava-flow",
+   "https://www.usgs.gov/news/volcano-watch-old-bombs-found-mauna-loa-rest-story-part-1",
+   "https://www.usgs.gov/news/volcano-watch-old-bombs-found-mauna-loa-rest-story-part-2",
+   "https://www.usgs.gov/news/volcano-watch-mauna-loa-volcanos-1935-lava-flow-seen-current-media-coverage-mauna-kea",
+   "https://www.nps.gov/havo/learn/nature/mauna-loa-1935.htm",
+   "https://www.openstreetmap.org (Nominatim/Overpass: Puuhuluhulu, Hilo)"
+  ],
+  "notes": "Eruption began at the summit 21 Nov 1935; on 27 Nov a radial vent opened on the N flank at 2,685 m (HVO articles say ~8,500 ft) and fed the Humu'ula flow: a'a/pahoehoe went N ~12 km into the saddle, ponded and inflated behind Puuhuluhulu at the base of Mauna Kea (~2,000 m), then in late Dec broke out E toward Hilo at ~1.6 km/day along the saddle (Wailuku River headwaters were the fear). Centreline digitised from the USGS 1:50k geodatabase; positional accuracy ~100-300 m (well inside the 1-2 km target). Path descends monotonically on NED 10 m (2,686 -> 1,532 m). Total main length ~26.8 km. 'early_north_lobe' = separate AD 1935 lava lobe from the upper NE-rift/north-flank vents (~3,680 m) mapped on the statewide GIS; it is NOT the Hilo-bound flow (optional context). Confidence: vent/path/front HIGH; widths MEDIUM; bomb targets LOW-MEDIUM."
+ },
+ "etna_1991_93": {
+  "vent": [37.7249,15.016],
+  "vent_elev_m": 2200,
+  "fissure": [[37.7262,15.0133],[37.7245,15.0168]],
+  "fissure_note": "Lower, effusive segment of the 14 Dec 1991 fissure on the SW/W wall at the head of Valle del Bove (published 2,200-2,350 m; the fissure first ran from ~3,100 m at the SE Crater base). Placed on EU-DEM contours; +-300 m.",
+  "paths": {
+   "original": [[37.7249,15.016],[37.7225,15.02],[37.7212,15.025],[37.7195,15.03],[37.718,15.035],[37.7172,15.04],[37.7168,15.045],[37.717,15.05],[37.7175,15.055],[37.7178,15.06],[37.7172,15.0645],[37.7167,15.0676],[37.7155,15.0715],[37.7145,15.0778],[37.7142,15.0835],[37.7137,15.0893],[37.712,15.0912],[37.71,15.0918],[37.708,15.0928],[37.706,15.0925],[37.7045,15.093],[37.7026,15.0944]],
+   "diverted": [[37.7249,15.016],[37.7225,15.02],[37.723,15.023],[37.7228,15.028],[37.7222,15.034],[37.7215,15.04],[37.7208,15.046],[37.7205,15.052]]
+  },
+  "path_length_km": {
+   "original": 8.06,
+   "diverted": 3.28
+  },
+  "barrier": [[37.7133,15.088],[37.7141,15.0905]],
+  "barrier_note": "Earthen barrier at Portella Calanna (outlet neck of Val Calanna, ~1,030 m a.s.l.), 234 m long x 21 m high, built ~1-20 Jan 1992, lava reached it mid-March, overtopped 8-9 Apr 1992. Endpoints set across the 230 m neck visible in imagery/OSM; +-100 m. Three small barriers built lower in the tongue ~11 Apr 1992 were overrun within hours (positions not documented).",
+  "tube_blast": [37.7225,15.02],
+  "tube_blast_note": "Main intervention point in the tunnelled channel near the vent at ~2,000 m, ~8 km from Zafferana (Barberi et al. 1993). Partial diversion by bulldozed channel 23-24 May 1992; levee thinned to 3 m and blasted with 7 t of explosives 27 May 1992, tube plugged with ~230 m3 of blocks by 29 May. Position +-300-500 m.",
+  "artificial_channel": [[37.7225,15.02],[37.723,15.023]],
+  "artificial_channel_note": "Schematic: a few-hundred-metre channel cut beside the natural one; its exact azimuth is not given in the open sources I could read. Drawn toward the N (left) side so the diverted lava spreads over the upper-central field.",
+  "places": {
+   "Zafferana Etnea": [37.6933,15.1065],
+   "Etna summit": [37.751,14.994],
+   "Salto della Giumenta": [37.7166,15.0676],
+   "Val Calanna": [37.714,15.0778],
+   "Monte Calanna": [37.7201,15.0728],
+   "Portella Calanna": [37.7137,15.0893],
+   "Piano dell'Acqua": [37.7003,15.0986],
+   "Monte Zoccolaro": [37.7145,15.0564],
+   "Cisternazza": [37.7257,15.0084]
+  },
+  "front_closest": [37.7026,15.0944],
+  "front_closest_note": "Lowest tip of the 1992 lava at Piano dell'Acqua (~750 m a.s.l.); votive stele/viewpoint 'La colata lavica del 1992' is here. Front was ~850 m from Zafferana's built-up edge on 27 May 1992, ~1.5 km from the town-centre point.",
+  "width_m": 900,
+  "width_profile_m": {
+   "Valle_del_Bove_field": "900-1500",
+   "Val_Calanna": "600-900",
+   "Portella_Calanna_neck": "~230",
+   "tongue_below_Portella": "100-250",
+   "diverted_flows_upper_VdB": "300-600"
+  },
+  "sources": [
+   "https://www.openstreetmap.org/relation/6721741 ('Lave del 1992' multipolygon; note: VdB boundaries indicative)",
+   "https://www.italysvolcanoes.com/ETNA_1991.html (Behncke; flow-field map with diversion site and Portella Calanna barrier)",
+   "https://www.earth-prints.org/entities/publication/71a5c0a2-0c00-4a9c-9e26-e8a4c3c0ae39 (Barberi et al. 1993 JVGR 56:1-34, abstract)",
+   "https://it.wikipedia.org/wiki/Eruzione_dell%27Etna_del_1991-1993",
+   "https://www.smarteducationunescosicilia.it/en/monte-etna/the-worlds-first-almost-successful-attempt-to-stop-a-lava-flow-the-eruption-of-1991-93",
+   "https://swisseduc.ch/stromboli/etna/etna98/etna92-en.html",
+   "https://gnv.ingv.it/pubblicazioni/acta_vulcanologica/vol4/abs_vol4.html (Calvari et al. 1994: 7.6 km2, ~235e6 m3)",
+   "Esri World Imagery tiles + EU-DEM 25 m via api.opentopodata.org (checks)"
+  ],
+  "notes": "14 Dec 1991 - 30 Mar 1993, ~235e6 m3, field ~7 km2 (OSM polygon 6.9 km2). Lava ran ESE down the southern Valle del Bove floor, dropped over Salto della Giumenta (~1,330 m) into Val Calanna, filled it behind the Portella Calanna barrier, overtopped 8-9 Apr 1992 and advanced SSE toward Zafferana (front ~850 m from town on 27 May). After the 27-29 May diversion at ~2,000 m the lower flow starved and the diverted lava stayed in the upper VdB, never >~3 km from the diversion site. Original path ~8.1 km, monotonic on EU-DEM 2,222 -> 749 m (note: present-day DEM includes later 2001-2017 lavas in upper VdB, so absolute elevations there may differ by tens of m). Confidence: Salto->Val Calanna->Portella->front HIGH (+-50-100 m, traced on imagery); VdB axis MEDIUM (+-200-300 m); vent and tube_blast MEDIUM (+-300-500 m); barrier MEDIUM; diverted path LOW (schematic)."
+ },
+ "eldfell_1973": {
+  "fissure": [[63.4373,-20.246],[63.4225,-20.2574]],
+  "fissure_note": "Opened ~01:55 on 23 Jan 1973, ~1.5-1.6 km on land, trend N20E, from the (pre-1973) NE shore ~200 m E of Kirkjubaer, through the later Eldfell vent, along the E foot of Helgafell to the S shore; submarine extensions offshore at both ends (system ~3 km incl. sea). Endpoints +-100-150 m.",
+  "crater": [63.4323,-20.2496],
+  "field_outline": [[63.4433,-20.2672],[63.44426,-20.26649],[63.44409,-20.26184],[63.44526,-20.26157],[63.44558,-20.25947],[63.44638,-20.25651],[63.44674,-20.25414],[63.44604,-20.25056],[63.44565,-20.24848],[63.44528,-20.23917],[63.44214,-20.23385],[63.44061,-20.22741],[63.43647,-20.22557],[63.43298,-20.23143],[63.43008,-20.23291],[63.42593,-20.23867],[63.42503,-20.24268],[63.4268,-20.244],[63.429,-20.2446],[63.43096,-20.24406],[63.43094,-20.24974],[63.43217,-20.25398],[63.4339,-20.25583],[63.43597,-20.25848],[63.4381,-20.25888],[63.43869,-20.25795],[63.4397,-20.26087],[63.44095,-20.26365],[63.44142,-20.26604],[63.44207,-20.2671]],
+  "field_outline_note": "Closed ring (first vertex not repeated), 30 vertices: harbour W edge -> present coast along harbour channel, headland, NE and E coast (new land) -> S limit of the lava delta -> back N along the old coast -> S foot of Eldfell -> W edge through the town (USGS 'edge of new lavas') -> harbour. Includes the Eldfell cone. Area ~2.65 km2 (new land added ~2.2-2.5 km2).",
+  "pre_1973_coast": [[63.44415,-20.2606],[63.44344,-20.25875],[63.44249,-20.25689],[63.44142,-20.25557],[63.44071,-20.25345],[63.43999,-20.2508],[63.43893,-20.24815],[63.43704,-20.24576],[63.43585,-20.2447],[63.43348,-20.24417],[63.43111,-20.2439],[63.42874,-20.24337],[63.42756,-20.24284],[63.42503,-20.24268]],
+  "paths": {
+   "harbor_lobe": [[63.4323,-20.2496],[63.435,-20.2497],[63.438,-20.25],[63.4405,-20.251],[63.443,-20.2525],[63.445,-20.2548],[63.4464,-20.2565]],
+   "east_sea_lobe": [[63.4323,-20.2496],[63.4332,-20.245],[63.4345,-20.239],[63.4357,-20.232],[63.4364,-20.2265]],
+   "town_lobe": [[63.4323,-20.2496],[63.4345,-20.2522],[63.4372,-20.2545],[63.4392,-20.2575],[63.4405,-20.261],[63.441,-20.2643]],
+   "south_lobe": [[63.4323,-20.2496],[63.4312,-20.2462],[63.4298,-20.243],[63.428,-20.241],[63.4263,-20.2392]]
+  },
+  "path_length_km": {
+   "harbor_lobe": 1.63,
+   "east_sea_lobe": 1.24,
+   "town_lobe": 1.27,
+   "south_lobe": 0.86
+  },
+  "width_m": 500,
+  "width_profile_m": {
+   "harbor_lobe_front": "~500 (front ~20 m high)",
+   "east_sea_lobe": "800-1200 (broad delta)",
+   "town_lobe": "300-600",
+   "south_lobe": "200-400"
+  },
+  "front_stop": [63.4464,-20.2565],
+  "front_stop_note": "Harbour-lobe front at the narrows of the harbour channel; stopped (seawater-cooled by the pump ship Sandey and harbour pumps) early Apr-May 1973, 'only ~100 m' short of closing the entrance (USGS). Present-day gap at this point ~170 m.",
+  "harbor_entrance": [[63.44638,-20.25651],[63.44743,-20.25894]],
+  "harbor_entrance_note": "Narrowest present gap between the 1973 lava (S) and Heimaklettur's SE shore (N): ~168 m (OSM coastline). Pre-1973 the channel here was ~350-400 m wide (Heimaklettur to Skans) and ~800 m at its outer end (Ystiklettur to old coast). Breakwater heads: N [63.4455,-20.2654], S [63.4453,-20.2615].",
+  "places": {
+   "Heimaey town": [63.4401,-20.2786],
+   "Heimaklettur": [63.45,-20.2612],
+   "Ystiklettur": [63.4536,-20.2475],
+   "Helgafell": [63.4293,-20.2596],
+   "Eldfell summit": [63.4323,-20.2473],
+   "Skansinn": [63.4438,-20.2614],
+   "Kirkjubaer (buried farm, approx)": [63.4382,-20.2492]
+  },
+  "pumping": [[63.4458,-20.2595],[63.4444,-20.2621],[63.4435,-20.269],[63.4425,-20.265],[63.4405,-20.2625],[63.4392,-20.2598],[63.4378,-20.254],[63.4352,-20.251]],
+  "pumping_labels": [
+   "pump dredge Sandey (from 1 Mar 1973) in harbour channel spraying harbour-lobe front at breakwater",
+   "harbour intake pumps on pier at Skans/east harbour",
+   "harbour intake pumps on inner-harbour pier (pipes run through town streets)",
+   "pipeline/rampart on NW lava margin near fish factories (Skans-Vilpa line)",
+   "pipeline on lava margin, Urdarvegur/Bakkastigur area",
+   "pipe east of the new hospital (400-500 l/s)",
+   "jets near Kirkjubaer on the lava ('Kirkjubaejarhraun')",
+   "pipes up the lava toward the crater (as close as ~150 m from the vent)"
+  ],
+  "sources": [
+   "https://pubs.usgs.gov/of/1997/of97-724/lavaoperations.html (Williams & Moore / Bjornsson et al., lava-cooling operations; Fig. 3 sketch map, Fig. 11 cooling areas)",
+   "https://pubs.usgs.gov/gip/70039211/report.pdf (USGS 'Man Against Volcano': index map with fissure + new land, Apr 15 1973 pipe/pump map)",
+   "https://en.wikipedia.org/wiki/Eldfell",
+   "https://timarit.is/page/4271980 (Thorarinsson 1977, Natturufraedingurinn: 1.5 km fissure trending N20E; cited via search summary)",
+   "https://www.openstreetmap.org (coastline ways 1177258005/497032696/7973522, peaks, Skansinn)",
+   "Esri World Imagery tiles (checks)"
+  ],
+  "notes": "Eruption 23 Jan - early Jul 1973. Lava first went E into the sea (delta), in early Feb turned N along the coast toward the harbour mouth, late Mar pushed W into the eastern town (stopped ~23 Mar about halfway to the harbour), late Apr a breakout ran E/S along the cone. Seawater cooling from 7 Feb (fire hoses), Sandey from 1 Mar, 43 US pumps from late Mar; ~6e6 m3 seawater, 19 mi of pipe. Confidence: crater HIGH; outline coast HIGH, town/S edges MEDIUM (+-50-100 m); harbour entrance/front HIGH; fissure MEDIUM; lobe centrelines MEDIUM-LOW (schematic directions from the USGS narrative; the field is a broad delta, not channels); pumping points MEDIUM-LOW. DEM caution: free DEMs (EU-DEM/ASTER/terrarium) are poor here; Eldfell rim is ~200 m."
+ }
+}

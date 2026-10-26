@@ -1,0 +1,1278 @@
+{
+ "10 weird things about [person]": {
+  "q": "10 weird things you didn't know about",
+  "n_template_30d": 20,
+  "n_copycats": 16,
+  "copycat_channels": 12,
+  "copycat_vpd_median": 860,
+  "copycat_views_median": 1570,
+  "copycat_share_ge_100k": 0.06,
+  "rows": [
+   {
+    "id": "bMMaRO1WqlY",
+    "channel": "FGtheexplainer",
+    "views": 4646291,
+    "age_d": 9.2,
+    "title": "10 Weird Things You Didn't Know About Elon Musk",
+    "orig": true
+   },
+   {
+    "id": "VhHDkji0z-U",
+    "channel": "FGtheexplainer",
+    "views": 4503903,
+    "age_d": 21.0,
+    "title": "10 Weird Things You Didn't Know About Kai Cenat",
+    "orig": true
+   },
+   {
+    "id": "WmKcI4Gjjrc",
+    "channel": "FGtheexplainer",
+    "views": 3200944,
+    "age_d": 15.7,
+    "title": "10 Weird Things You Didn't Know About FGTheExplainer #fgtheexplainer #onemoreblock",
+    "orig": true
+   },
+   {
+    "id": "v1vz3yesxDE",
+    "channel": "Zoomby Show",
+    "views": 1994351,
+    "age_d": 7.6,
+    "title": "10 Weirdest Things About Jude Bellingham !",
+    "orig": false
+   },
+   {
+    "id": "rGPasjJNhKA",
+    "channel": "FGtheexplainer",
+    "views": 715540,
+    "age_d": 1.0,
+    "title": "10 Weird Things You Didn't Know About Steve Harvey",
+    "orig": true
+   },
+   {
+    "id": "7tM1SxR7ryA",
+    "channel": "Pawnhun",
+    "views": 82496,
+    "age_d": 3.4,
+    "title": "10 Weird Things You Didn't Know About Tom Brady. #nfl",
+    "orig": false
+   },
+   {
+    "id": "Y6G0gevfI_U",
+    "channel": "Pawnhun",
+    "views": 28616,
+    "age_d": 1.3,
+    "title": "10 Weird Things You Didn't Know About Patrick Mahomes 🤯 #nfl",
+    "orig": false
+   },
+   {
+    "id": "u_HzHWXWBgw",
+    "channel": "Fa-Ktoon",
+    "views": 25427,
+    "age_d": 0.7,
+    "title": "10 Weird Things You Didn't Know About Lionel Messi#shorts #facts #football",
+    "orig": false
+   },
+   {
+    "id": "OExaotJp14k",
+    "channel": "Pawnhun",
+    "views": 2523,
+    "age_d": 0.3,
+    "title": "10 Weird Things You Didn’t Know About Rob Gronkowski 🤯",
+    "orig": false
+   },
+   {
+    "id": "PwqHl46uRyk",
+    "channel": "Fa-Ktoon",
+    "views": 1904,
+    "age_d": 10.7,
+    "title": "10 Weird Things You Didn't Know About Albert Einstein 🧠 #shorts #sceince #facts",
+    "orig": false
+   },
+   {
+    "id": "-lvFJ34GQU8",
+    "channel": "The Weird Ten",
+    "views": 1875,
+    "age_d": 8.4,
+    "title": "10 Weird Things You Didn't Know About Isaac Newton",
+    "orig": false
+   },
+   {
+    "id": "4RvsUylFg98",
+    "channel": "Ubed",
+    "views": 1631,
+    "age_d": 0.8,
+    "title": "10 Weird Things You Didn't Know About Floyd Mayweather 🤯",
+    "orig": false
+   },
+   {
+    "id": "1MFQwliwWVU",
+    "channel": "The Weird Ten",
+    "views": 1509,
+    "age_d": 0.7,
+    "title": "10 Weird Things You Didn't Know About Beethoven",
+    "orig": false
+   },
+   {
+    "id": "XYXTgcWzPXs",
+    "channel": "OddStories",
+    "views": 1492,
+    "age_d": 1.9,
+    "title": "10 Weird Things You Didn't Know About Cristiano Ronaldo #facts #shorts",
+    "orig": false
+   },
+   {
+    "id": "-PJNa39w7t0",
+    "channel": "EpidemicAnim",
+    "views": 1140,
+    "age_d": 0.9,
+    "title": "10 weird things you didn't know about Jackie Chan.",
+    "orig": false
+   },
+   {
+    "id": "Pyq2MPCT-S8",
+    "channel": "Speed Naldo",
+    "views": 1121,
+    "age_d": 1.2,
+    "title": "10 WEIRD THINGS YOU DONT KNOW ABOUT RONALDO 🔥 #cristianoronaldo #shorts",
+    "orig": false
+   },
+   {
+    "id": "aYS9ZqCcGcw",
+    "channel": "Positive Thoughts",
+    "views": 730,
+    "age_d": 0.6,
+    "title": "10 Weird Cat Facts You've Never Heard #cats #catshorts #facts #shortsusa",
+    "orig": false
+   },
+   {
+    "id": "Yd7c3CQWhwc",
+    "channel": "Wild Instincts & Insights",
+    "views": 518,
+    "age_d": 0.8,
+    "title": "10 weird Things You Didn't Know About Honey Badger",
+    "orig": false
+   },
+   {
+    "id": "IOmdOTZMoNQ",
+    "channel": "Flag Mania",
+    "views": 477,
+    "age_d": 0.0,
+    "title": "10 Weird Things about Nikola Tesla",
+    "orig": false
+   },
+   {
+    "id": "7FuPXiyVV7Y",
+    "channel": "WhyGuyStories",
+    "views": 28,
+    "age_d": 1.3,
+    "title": "10 Weird Things About Kevin Durant... #fyp #facts #NBA #basketball",
+    "orig": false
+   }
+  ]
+ },
+ "if history had sound": {
+  "q": "if history had sound",
+  "n_template_30d": 61,
+  "n_copycats": 61,
+  "copycat_channels": 15,
+  "copycat_vpd_median": 3699,
+  "copycat_views_median": 25224,
+  "copycat_share_ge_100k": 0.31,
+  "rows": [
+   {
+    "id": "tIw8lDM4Q8g",
+    "channel": "Inside The Surface",
+    "views": 2997411,
+    "age_d": 4.4,
+    "title": "If empires had sound pt.3 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "6CkT2eB8GBc",
+    "channel": "Inside The Surface",
+    "views": 2403851,
+    "age_d": 11.8,
+    "title": "If history had sound pt.10 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "XE7AHg9Pogc",
+    "channel": "HypnoPhysics",
+    "views": 1883705,
+    "age_d": 26.0,
+    "title": "If Empires had sound🔊 | How many of these do you recognize?",
+    "orig": false
+   },
+   {
+    "id": "xUe2JLx-gDw",
+    "channel": "Inside The Surface",
+    "views": 1757951,
+    "age_d": 17.8,
+    "title": "If history had sound pt.3 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "OhCzcW9fIUI",
+    "channel": "Inside The Surface",
+    "views": 1553287,
+    "age_d": 7.4,
+    "title": "If empires had sound 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "GT7h1xkSEAw",
+    "channel": "Inside The Surface",
+    "views": 1148855,
+    "age_d": 19.5,
+    "title": "If history had sound 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "gcyiGMYYpD0",
+    "channel": "Inside The Surface",
+    "views": 1078949,
+    "age_d": 6.4,
+    "title": "If empires had sound pt.2 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "Hs7jwyR9Tlg",
+    "channel": "Inside The Surface",
+    "views": 964590,
+    "age_d": 16.8,
+    "title": "If history had sound pt.4 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "S0WVp55VFyg",
+    "channel": "Inside The Surface",
+    "views": 762664,
+    "age_d": 13.9,
+    "title": "If history had sound pt.8 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "bz8jVr827c8",
+    "channel": "Inside The Surface",
+    "views": 725767,
+    "age_d": 3.4,
+    "title": "If empires had sound pt.4 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "ZK_9Pn-sHHQ",
+    "channel": "Inside The Surface",
+    "views": 622558,
+    "age_d": 2.4,
+    "title": "If empires had sound pt.5 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "CN8gdvZ48kc",
+    "channel": "Inside The Surface",
+    "views": 426229,
+    "age_d": 0.7,
+    "title": "If countries had sound pt.2 🔊 | Which one surprised you? #history #population #map",
+    "orig": false
+   },
+   {
+    "id": "cYwWlmod2jI",
+    "channel": "Inside The Surface",
+    "views": 295137,
+    "age_d": 4.7,
+    "title": "If history had sound pt.17 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "OKxbKEdCDFw",
+    "channel": "Inside The Surface",
+    "views": 285107,
+    "age_d": 15.0,
+    "title": "If history had sound pt.7 🔊",
+    "orig": false
+   },
+   {
+    "id": "BPHTv0cUFvY",
+    "channel": "Inside The Surface",
+    "views": 276556,
+    "age_d": 7.1,
+    "title": "If languages had sound 🔊 | Do you know the 5th one? #languages #history #geography",
+    "orig": false
+   },
+   {
+    "id": "Pbg-ybY3mjM",
+    "channel": "Inside The Surface",
+    "views": 269099,
+    "age_d": 10.1,
+    "title": "If history had sound pt.12 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "StVPOs657dk",
+    "channel": "Inside The Surface",
+    "views": 220947,
+    "age_d": 8.9,
+    "title": "If history had sound pt.13 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "02KceQRaaME",
+    "channel": "Inside The Surface",
+    "views": 157759,
+    "age_d": 6.7,
+    "title": "If history had sound pt.15 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "2AIVWVDGGj4",
+    "channel": "Inside The Surface",
+    "views": 138297,
+    "age_d": 7.7,
+    "title": "If history had sound pt.14 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "2euD69oP47Q",
+    "channel": "Inside The Surface",
+    "views": 99548,
+    "age_d": 5.7,
+    "title": "If history had sound pt.16 🔊 | Which graph shocked you? #history #data",
+    "orig": false
+   },
+   {
+    "id": "tHw0McjwOCk",
+    "channel": "Inside The Surface",
+    "views": 60257,
+    "age_d": 15.1,
+    "title": "If history had sound pt.6 🔊",
+    "orig": false
+   },
+   {
+    "id": "gs_tiuJZyhw",
+    "channel": "Dematsu",
+    "views": 57639,
+    "age_d": 1.5,
+    "title": "If countries had sound pt.15 🗺️🔊",
+    "orig": false
+   },
+   {
+    "id": "pRUXBFKC5zc",
+    "channel": "Dematsu",
+    "views": 35637,
+    "age_d": 10.0,
+    "title": "If history had sound pt.2 📈🔊",
+    "orig": false
+   },
+   {
+    "id": "1xAbyTC2ElU",
+    "channel": "Math Impressions",
+    "views": 35397,
+    "age_d": 5.0,
+    "title": "If History Had a Sound (Part 2) 🔊📈 Which graph wins? #shorts",
+    "orig": false
+   },
+   {
+    "id": "dCB1mxpgTMw",
+    "channel": "Dematsu",
+    "views": 33992,
+    "age_d": 0.5,
+    "title": "If countries had sound pt.16 🗺️🔊",
+    "orig": false
+   },
+   {
+    "id": "NYsbqxloyws",
+    "channel": "Graphtone",
+    "views": 33576,
+    "age_d": 23.4,
+    "title": "If history had sound 🔊 | Which graph surprised you the most?",
+    "orig": false
+   },
+   {
+    "id": "BaJ38GvPJtQ",
+    "channel": "Dematsu",
+    "views": 33422,
+    "age_d": 10.7,
+    "title": "If history had sound 📈🔊",
+    "orig": false
+   },
+   {
+    "id": "qXMW71TwWQo",
+    "channel": "MathMorph",
+    "views": 32289,
+    "age_d": 16.3,
+    "title": "If Pandemics Had Sound 🔊 | Which graph surprised you the most? #history #data #shorts #sound",
+    "orig": false
+   },
+   {
+    "id": "AE1WzyVnvAA",
+    "channel": "Freetoine (Cobra Gaming)",
+    "views": 28391,
+    "age_d": 17.5,
+    "title": "If History Had Sound pt.1 #shorts #history #sound #trending #viral #fyp",
+    "orig": false
+   },
+   {
+    "id": "R8QdSsGK-9g",
+    "channel": "Math Impressions",
+    "views": 26071,
+    "age_d": 4.0,
+    "title": "Can You Guess Graph #6? 🔊📈 If History Had a Sound #shorts",
+    "orig": false
+   },
+   {
+    "id": "x5AuV7B2THU",
+    "channel": "Graphtone",
+    "views": 25224,
+    "age_d": 15.4,
+    "title": "If history had sound 🔊 | Which graph surprised you?",
+    "orig": false
+   },
+   {
+    "id": "c59xAkJoZaA",
+    "channel": "NumbersThatSing",
+    "views": 23334,
+    "age_d": 4.6,
+    "title": "If the rise of China had sound 🐉🔊 [No AI] #animation #maths #history #shorts #graphs #visualization",
+    "orig": false
+   },
+   {
+    "id": "r7njwG1y2xk",
+    "channel": "HistoricGraphs",
+    "views": 21248,
+    "age_d": 8.0,
+    "title": "If history had sound pt.7 | Which graph shocked you? 📈💀 #history #data #shorts",
+    "orig": false
+   },
+   {
+    "id": "J1wYP_NPu6o",
+    "channel": "Graphtone",
+    "views": 18748,
+    "age_d": 22.7,
+    "title": "If history had sound 🔊 | Can you hear the turning points?",
+    "orig": false
+   },
+   {
+    "id": "ZJInktB_TxM",
+    "channel": "Freetoine (Cobra Gaming)",
+    "views": 16385,
+    "age_d": 13.8,
+    "title": "If History Had Sound pt.1 #shorts  #history  #sound  #trending  #viral  #fyp #shortvideo",
+    "orig": false
+   },
+   {
+    "id": "cuHCtCi_2GA",
+    "channel": "HistoricGraphs",
+    "views": 10295,
+    "age_d": 4.0,
+    "title": "If history had sound pt.11 🔊 | Earth's Vanishing Wildlife 🐋🦏 (Wait for Whales!) #history #data",
+    "orig": false
+   },
+   {
+    "id": "6O3XLtCRY2M",
+    "channel": "Sally Farm Gameplay",
+    "views": 9876,
+    "age_d": 2.8,
+    "title": "If empires had sound pt.1 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "5Hp2-3zKhGg",
+    "channel": "Graphtone",
+    "views": 8917,
+    "age_d": 19.7,
+    "title": "If history had sound 🔊 | Which graph surprised you?",
+    "orig": false
+   },
+   {
+    "id": "OCUaqVwvjjY",
+    "channel": "Sally Farm Gameplay",
+    "views": 8624,
+    "age_d": 2.0,
+    "title": "If empires had sound pt.2 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "vvyURxHvv_E",
+    "channel": "Vizqito",
+    "views": 8052,
+    "age_d": 2.1,
+    "title": "If History Had Sound… Part 2 🎧 #history #shorts",
+    "orig": false
+   },
+   {
+    "id": "mAW8m42D8Yo",
+    "channel": "Graphtone",
+    "views": 5685,
+    "age_d": 8.6,
+    "title": "If history had sound 🔊 | Which drop surprised you?",
+    "orig": false
+   },
+   {
+    "id": "L6iMcBJ595s",
+    "channel": "Graphtone",
+    "views": 5559,
+    "age_d": 12.6,
+    "title": "If history had sound 🔊 | Which curve surprised you?",
+    "orig": false
+   },
+   {
+    "id": "gyjehve-AWY",
+    "channel": "Math Impressions",
+    "views": 5388,
+    "age_d": 5.5,
+    "title": "If History Had a Sound 🔊📈 Which graph is your favorite? #shorts",
+    "orig": false
+   },
+   {
+    "id": "OquWHzURYz4",
+    "channel": "Graphtone",
+    "views": 5307,
+    "age_d": 9.4,
+    "title": "If history had sound 🔊 | Which sound is the strangest?",
+    "orig": false
+   },
+   {
+    "id": "Ye58Njulb4w",
+    "channel": "HistoricGraphs",
+    "views": 4860,
+    "age_d": 6.8,
+    "title": "If history had sound pt.8 | Which graph shocked you? 📈💀 #history #data #shorts",
+    "orig": false
+   },
+   {
+    "id": "JgQeafK3rnc",
+    "channel": "InfinityMath",
+    "views": 4157,
+    "age_d": 18.3,
+    "title": "If History Had Sound 🔊 | Which graph surprised you the most?",
+    "orig": false
+   },
+   {
+    "id": "xo83QfTVamI",
+    "channel": "Vizqito",
+    "views": 3631,
+    "age_d": 3.3,
+    "title": "If Empires Had a Sound… Which Was the Biggest?",
+    "orig": false
+   },
+   {
+    "id": "TI2n14gUR3U",
+    "channel": "HistoricGraphs",
+    "views": 3594,
+    "age_d": 4.8,
+    "title": "If history had sound pt.10 🔊 | Humans Leaving Planet Earth 🚀🌌 (Wait for Satellites!) #history #data",
+    "orig": false
+   },
+   {
+    "id": "11cYUZ_njdw",
+    "channel": "Graphtone",
+    "views": 3335,
+    "age_d": 7.4,
+    "title": "If history had sound 🔊 | Which line took off fastest?",
+    "orig": false
+   },
+   {
+    "id": "aZcMBnowXts",
+    "channel": "Vizqito",
+    "views": 2386,
+    "age_d": 2.1,
+    "title": "If History Had Sound… Which Graph Surprised You? 🎧 #history #shorts",
+    "orig": false
+   },
+   {
+    "id": "BEYC1geRSbs",
+    "channel": "Sally Farm Gameplay",
+    "views": 2035,
+    "age_d": 1.1,
+    "title": "If empires had sound pt.3 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "WlqlnxqyQS4",
+    "channel": "Field & Banner",
+    "views": 1857,
+    "age_d": 0.3,
+    "title": "If Generals Had Sound 🔊 Who Was the Greatest?",
+    "orig": false
+   },
+   {
+    "id": "rkCQnjEcYZg",
+    "channel": "G3NREM4ST3R",
+    "views": 684,
+    "age_d": 20.4,
+    "title": "If history had sound #shorts",
+    "orig": false
+   },
+   {
+    "id": "EIaveuMaJQo",
+    "channel": "Vizqito",
+    "views": 512,
+    "age_d": 2.1,
+    "title": "If Borders Had Sound… Listen to Countries Grow 🎧 #history #shorts",
+    "orig": false
+   },
+   {
+    "id": "5Hc7nUv-9EE",
+    "channel": "Vizqito",
+    "views": 477,
+    "age_d": 2.1,
+    "title": "If Empires Had Sound… Listen to the Collapse 🎧 #history #shorts",
+    "orig": false
+   },
+   {
+    "id": "I35Q47I-Rhc",
+    "channel": "Sally Farm Gameplay",
+    "views": 187,
+    "age_d": 0.0,
+    "title": "If empires had sound pt.4 🔊 | Which one was the biggest? #history #empire #map",
+    "orig": false
+   },
+   {
+    "id": "VSZBrS8itIE",
+    "channel": "HistoricGraphs",
+    "views": 6,
+    "age_d": 0.6,
+    "title": "If history had sound pt.16 🔊 | Global Disasters & Recovery (Wait for 2020!) #history #data",
+    "orig": false
+   },
+   {
+    "id": "Y8d0IcesYHc",
+    "channel": "geography Knowledge ",
+    "views": 1,
+    "age_d": 0.1,
+    "title": "If Rome Had a Sound — 100–400 CE",
+    "orig": false
+   },
+   {
+    "id": "M9mW5g_tggM",
+    "channel": "geography Knowledge ",
+    "views": 1,
+    "age_d": 0.1,
+    "title": "If the Ottoman Empire Had a Sound — 1400–1900 CE",
+    "orig": false
+   },
+   {
+    "id": "t8mYpEfbV4c",
+    "channel": "HistoricGraphs",
+    "views": 0,
+    "age_d": 0.0,
+    "title": "If history had sound pt.17 | Which graph shocked you? 📈💀 #history #data #shorts",
+    "orig": false
+   },
+   {
+    "id": "uJroUf_Vxzs",
+    "channel": "geography Knowledge ",
+    "views": 0,
+    "age_d": 0.1,
+    "title": "If Byzantium Had a Sound — 600–1400 CE",
+    "orig": false
+   }
+  ]
+ },
+ "X in 1000 years map": {
+  "q": "took over the world in 1000 years",
+  "n_template_30d": 31,
+  "n_copycats": 20,
+  "copycat_channels": 10,
+  "copycat_vpd_median": 2498,
+  "copycat_views_median": 19056,
+  "copycat_share_ge_100k": 0.05,
+  "rows": [
+   {
+    "id": "CjbG-wBpZ2c",
+    "channel": "Meridian Anatomy",
+    "views": 1209202,
+    "age_d": 21.6,
+    "title": "What If Bangladesh Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "mAACrJgTSUI",
+    "channel": "Meridian Anatomy",
+    "views": 631286,
+    "age_d": 8.6,
+    "title": "What If Thailand Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "OmK5YCOy_Tg",
+    "channel": "Meridian Anatomy",
+    "views": 570996,
+    "age_d": 18.6,
+    "title": "What If Indonesia Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "BXDte4cr1wc",
+    "channel": "Meridian Anatomy",
+    "views": 519628,
+    "age_d": 9.6,
+    "title": "What If South Korea Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "pYnVxN-VP5A",
+    "channel": "Meridian Anatomy",
+    "views": 389317,
+    "age_d": 13.6,
+    "title": "What If Japan Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "mNrWoYIMwAY",
+    "channel": "Meridian Anatomy",
+    "views": 344326,
+    "age_d": 14.6,
+    "title": "What If Philippines Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "IYzK8BSF2GQ",
+    "channel": "Meridian Anatomy",
+    "views": 209106,
+    "age_d": 1.6,
+    "title": "Will Brazil took all South America in 1000 Years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "1u1GAXpk7xc",
+    "channel": "Meridian Anatomy",
+    "views": 199496,
+    "age_d": 10.6,
+    "title": "What If Mexico Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "5ey_ssZJUfM",
+    "channel": "Meridian Anatomy",
+    "views": 136277,
+    "age_d": 12.6,
+    "title": "What If Turkey Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "GF4iTBTCJs0",
+    "channel": "Meridian Anatomy",
+    "views": 122812,
+    "age_d": 4.6,
+    "title": "What If MEXICO and ARGENTINA Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "GQwhhAnK_Oo",
+    "channel": "Loco Brain Maps",
+    "views": 110806,
+    "age_d": 9.7,
+    "title": "What If INDONESIA Took Over the World in 1000 Years? 🇮🇩🌍 #indonesia #geography",
+    "orig": false
+   },
+   {
+    "id": "M-AlKwnjUWk",
+    "channel": "Meridian Anatomy",
+    "views": 83319,
+    "age_d": 20.6,
+    "title": "What If Vietnam Took Over the World in 1000 years? #shorts #history #map",
+    "orig": true
+   },
+   {
+    "id": "hPBipCXzffM",
+    "channel": "Loco Brain Maps",
+    "views": 63337,
+    "age_d": 2.8,
+    "title": "What If BRAZIL and INDIA Took Over the World in 1000 Years? 🇧🇷🇮🇳",
+    "orig": false
+   },
+   {
+    "id": "yHIdSEXcHuc",
+    "channel": "Loco Brain Maps",
+    "views": 59875,
+    "age_d": 9.0,
+    "title": "What If PAKISTAN Took Over the World in 1000 Years? 🇵🇰🌍 #pakistan #geography",
+    "orig": false
+   },
+   {
+    "id": "9Uaj8o9PybA",
+    "channel": "Loco Brain Maps",
+    "views": 50986,
+    "age_d": 1.8,
+    "title": "What If EGYPT and NIGERIA Took Over the World in 1000 Years? 🇪🇬🇳🇬",
+    "orig": false
+   },
+   {
+    "id": "Rm8izZVEztQ",
+    "channel": "Loco Brain Maps",
+    "views": 41586,
+    "age_d": 10.7,
+    "title": "What If the PHILIPPINES Took Over the World in 1000 Years? 🇵🇭🌍 #philippines #geography",
+    "orig": false
+   },
+   {
+    "id": "TsV56IYCavI",
+    "channel": "THE NATION FILES",
+    "views": 31683,
+    "age_d": 16.4,
+    "title": "What If Russia Took Over the World in 1000 Years? #shorts #history #maps",
+    "orig": false
+   },
+   {
+    "id": "yYlg4kCkmlg",
+    "channel": "Shajad Khan",
+    "views": 29824,
+    "age_d": 11.6,
+    "title": "What If Vietnam Took Over the World in 1000 years? #shorts#history#map",
+    "orig": false
+   },
+   {
+    "id": "1wGjH2Gh_eU",
+    "channel": "djytff19",
+    "views": 25890,
+    "age_d": 10.6,
+    "title": "What If Vietnam Took Over the World in 1000 years? #shorts#history#map",
+    "orig": false
+   },
+   {
+    "id": "0jgan5gH5bU",
+    "channel": "Loco Brain Maps",
+    "views": 25381,
+    "age_d": 2.0,
+    "title": "What If PAKISTAN and BANGLADESH Took Over the World in 1000 Years? 🇵🇰🇧🇩",
+    "orig": false
+   },
+   {
+    "id": "Q0Ly4N2v9FQ",
+    "channel": "USA Viral World",
+    "views": 20234,
+    "age_d": 8.1,
+    "title": "what if Thailand Took over 1000 years #shorts #history #map #fyp #usa",
+    "orig": false
+   },
+   {
+    "id": "oWM7wtozwJo",
+    "channel": "USA Unlocked",
+    "views": 17877,
+    "age_d": 1.9,
+    "title": "🌎 Evolution of USA, Turkey, India & Argentina in the Next 1000 Years",
+    "orig": false
+   },
+   {
+    "id": "MQd9iH51v1I",
+    "channel": "USA Unlocked",
+    "views": 10422,
+    "age_d": 3.2,
+    "title": "🔥 Title: Evolution of Turkey in 1000 Years 🇹🇷 #usa #turkey #evolution #usashorts#usatoday#usahistory",
+    "orig": false
+   },
+   {
+    "id": "eqR62D4ibro",
+    "channel": "Shajad Khan",
+    "views": 3737,
+    "age_d": 19.5,
+    "title": "What If Vietnam Took Over the World in 1000 years? #shorts#history#map",
+    "orig": false
+   },
+   {
+    "id": "uylKT-dw4Vs",
+    "channel": "THE NATION FILES",
+    "views": 2607,
+    "age_d": 13.3,
+    "title": "What If Philippines Took Over the World in 1000 Years? #shorts #history #map",
+    "orig": false
+   },
+   {
+    "id": "cB9Vi22iS3c",
+    "channel": "Stickman Adventures ",
+    "views": 1217,
+    "age_d": 1.8,
+    "title": "🤖waking up 1000 years in the FUTURE!",
+    "orig": false
+   },
+   {
+    "id": "3fZDJTomVDI",
+    "channel": "THE NATION FILES",
+    "views": 1172,
+    "age_d": 9.4,
+    "title": "What If Mexico Took Over the World in 1000 Years? #shorts #history #map",
+    "orig": false
+   },
+   {
+    "id": "KyFlODHTzjo",
+    "channel": "AfterZero",
+    "views": 930,
+    "age_d": 0.6,
+    "title": "1000 Years After the Last Human: What Happens to Earth",
+    "orig": false
+   },
+   {
+    "id": "XMktaT50_M4",
+    "channel": "THE NATION FILES",
+    "views": 202,
+    "age_d": 1.3,
+    "title": "What If SOUTH KOREA Took Over The World In 1000 Years? #shorts #history #map",
+    "orig": false
+   },
+   {
+    "id": "xBmzsZ25Las",
+    "channel": "US GROW",
+    "views": 91,
+    "age_d": 8.2,
+    "title": "What If Thailand Took Over the World in 1000 years? #shorts #history #map",
+    "orig": false
+   },
+   {
+    "id": "0tED2Rfq5ok",
+    "channel": "Curiosityforge",
+    "views": 27,
+    "age_d": 1.8,
+    "title": "Earth 1000 years from now",
+    "orig": false
+   }
+  ]
+ },
+ "countries that look the same": {
+  "q": "countries that look the same",
+  "n_template_30d": 42,
+  "n_copycats": 41,
+  "copycat_channels": 29,
+  "copycat_vpd_median": 5513,
+  "copycat_views_median": 7034,
+  "copycat_share_ge_100k": 0.17,
+  "rows": [
+   {
+    "id": "_Z3yZV-eCYw",
+    "channel": "CountryFacesTV",
+    "views": 426145,
+    "age_d": 3.6,
+    "title": "Countries With Similar Shapes 🌍 Part 2 #shorts #countryballs",
+    "orig": false
+   },
+   {
+    "id": "TL_Vl6YfBC0",
+    "channel": "WhyInMotion",
+    "views": 386991,
+    "age_d": 26.0,
+    "title": "Countries With Almost IDENTICAL Flags 🤯",
+    "orig": false
+   },
+   {
+    "id": "f-bIgznaAv8",
+    "channel": "World Ji Ke",
+    "views": 342873,
+    "age_d": 1.5,
+    "title": "Countries With Almost EXACTLY the Same Size! 🤯🔥😱 #countries #shorts #geography",
+    "orig": true
+   },
+   {
+    "id": "_mxCQTdLE6w",
+    "channel": "The Mantiq Brief",
+    "views": 332135,
+    "age_d": 9.7,
+    "title": "Countries That Look Like They Touch (Part 2) 🤯 #Shorts #Geography",
+    "orig": false
+   },
+   {
+    "id": "3JWcQN-V2Bk",
+    "channel": "CountryFacesTV",
+    "views": 229838,
+    "age_d": 5.6,
+    "title": "Countries With Similar Shapes 🌍 #shorts #countryballs",
+    "orig": false
+   },
+   {
+    "id": "LJA4IvKTJRY",
+    "channel": "StateBalls Shorts",
+    "views": 175718,
+    "age_d": 1.0,
+    "title": "SAME LETTERS, DIFFERENT COUNTRIES 🤔 #countryhumans #countryballs",
+    "orig": false
+   },
+   {
+    "id": "NcdJ9LcQjLM",
+    "channel": "CountryFacesTV",
+    "views": 124126,
+    "age_d": 1.6,
+    "title": "Countries With Similar Shapes 🌍 Part 3 #shorts #countryballs",
+    "orig": false
+   },
+   {
+    "id": "9xSjkjfpezU",
+    "channel": "SpaceGlitch",
+    "views": 122716,
+    "age_d": 2.7,
+    "title": "These Countries ALMOST Touch 🤯😱 #geography #maps #countries",
+    "orig": false
+   },
+   {
+    "id": "UPDqVbUsu_0",
+    "channel": "WhyInMotion",
+    "views": 97162,
+    "age_d": 17.3,
+    "title": "7 Countries That Look the SAME! 🌍",
+    "orig": false
+   },
+   {
+    "id": "Z352rVPQngo",
+    "channel": "Just Explore",
+    "views": 50179,
+    "age_d": 2.3,
+    "title": "What If These Countries Became ONE?!",
+    "orig": false
+   },
+   {
+    "id": "_deG6_hkSag",
+    "channel": "Aeon Report",
+    "views": 38635,
+    "age_d": 1.7,
+    "title": "What If Every Country Used Its Real Name?",
+    "orig": false
+   },
+   {
+    "id": "B_IWPbLrgq8",
+    "channel": "SpaceGlitch",
+    "views": 35808,
+    "age_d": 6.7,
+    "title": "These Places Look EXACTLY Like Countries 🤯😱 #countries #geography #maps",
+    "orig": false
+   },
+   {
+    "id": "22t8OgQfeKE",
+    "channel": "TROLL PRO",
+    "views": 29414,
+    "age_d": 2.2,
+    "title": "Countries Maps That Look Like ... Things🗾 #countryballs #countryhumans",
+    "orig": false
+   },
+   {
+    "id": "kQUEq-UhhC0",
+    "channel": "Map Facts",
+    "views": 25272,
+    "age_d": 2.5,
+    "title": "16 Countries That Look Like Animals & Objects! 🌍😱 🌍",
+    "orig": false
+   },
+   {
+    "id": "LZE0FATRAIA",
+    "channel": "Flag Atlas",
+    "views": 21008,
+    "age_d": 2.6,
+    "title": "How many countries fit inside? 🌍 Country Size Comparison (wait for Russia 🤯)",
+    "orig": false
+   },
+   {
+    "id": "sB_UIweLBzc",
+    "channel": "VorzynBalls",
+    "views": 16851,
+    "age_d": 22.1,
+    "title": "Countries that look almost same ll 💀 #countryballs #countries #countryball #history #globalmap",
+    "orig": false
+   },
+   {
+    "id": "L5gflqnD828",
+    "channel": "Border Tales",
+    "views": 10500,
+    "age_d": 5.7,
+    "title": "5 Countries That Look the SAME! #twincountries #geography #maps",
+    "orig": false
+   },
+   {
+    "id": "Dn2MHPVjASE",
+    "channel": "Map Facts",
+    "views": 10231,
+    "age_d": 0.7,
+    "title": "10 Countries That Look Shockingly Similar on Maps 🌍🤯",
+    "orig": false
+   },
+   {
+    "id": "KcIwE38cZ2s",
+    "channel": "SpaceGlitch",
+    "views": 9947,
+    "age_d": 0.7,
+    "title": "These Countries Have the WRONG Name 🤯😱 #countries #geography #maps",
+    "orig": false
+   },
+   {
+    "id": "uHYRBMF2C9I",
+    "channel": "Shape Shock",
+    "views": 8657,
+    "age_d": 1.6,
+    "title": "Way Too Close! Which Countries Are These?",
+    "orig": false
+   },
+   {
+    "id": "CNrrQNdD9eI",
+    "channel": "One Map Left",
+    "views": 7883,
+    "age_d": 0.7,
+    "title": "Countries With Similar Shapes 🌍 #shorts",
+    "orig": false
+   },
+   {
+    "id": "nJ59lD5UfJ4",
+    "channel": "Mirror World",
+    "views": 7034,
+    "age_d": 0.8,
+    "title": "What Egypt looks like doubled, and five more #countryballs",
+    "orig": false
+   },
+   {
+    "id": "Nu13Ln9DwG0",
+    "channel": "Shape Shock",
+    "views": 4555,
+    "age_d": 1.4,
+    "title": "Upside-Down Countries Look SO Wrong. Name Them!",
+    "orig": false
+   },
+   {
+    "id": "2IeAXXqny-M",
+    "channel": "Honest Maps",
+    "views": 3344,
+    "age_d": 0.5,
+    "title": "Countries Thousands of km Apart, With Only 1 Country Between Them 😱🤯 #countries #geography #shorts",
+    "orig": false
+   },
+   {
+    "id": "VCN4hU6BZgk",
+    "channel": "Mapimator",
+    "views": 2685,
+    "age_d": 0.8,
+    "title": "The ONLY 2 Doubly Landlocked Countries?! #geography #maps #countries",
+    "orig": false
+   },
+   {
+    "id": "BNgZkdK0viE",
+    "channel": "Border Tales",
+    "views": 2177,
+    "age_d": 1.8,
+    "title": "5 Countries That Look Like MAP GLITCHES! 💀🌍 #countries #map #shorts #geography",
+    "orig": false
+   },
+   {
+    "id": "cLLfAtnC05I",
+    "channel": "Map Facts",
+    "views": 1920,
+    "age_d": 0.5,
+    "title": "🌍 10 Countries With INSANE Shapes! 😱🐉",
+    "orig": false
+   },
+   {
+    "id": "j_dIDdJSIPc",
+    "channel": "Fact Flux",
+    "views": 1559,
+    "age_d": 0.9,
+    "title": "These Countries Look Like They Touch… But They DON'T! 🌍😱   #facts #didyouknow",
+    "orig": false
+   },
+   {
+    "id": "hQJ7wSpgkYA",
+    "channel": "Flagventure",
+    "views": 1421,
+    "age_d": 1.3,
+    "title": "Why Did Two Countries Share Land Owned By Neither??? 🏜️🛢️",
+    "orig": false
+   },
+   {
+    "id": "VjeUwCm7Xr8",
+    "channel": "Paradigm Docs",
+    "views": 1379,
+    "age_d": 23.8,
+    "title": "5 Countries That Look Like Other Countries 🤯🌍 #Geography #WorldMap #Countries #GeographyFacts",
+    "orig": false
+   },
+   {
+    "id": "FWX1zZS9cAY",
+    "channel": "Global planet Tales",
+    "views": 1375,
+    "age_d": 17.6,
+    "title": "5 Countries That Look EXACTLY The Same! 🤯 #Geography#Shorts #TwinCountries  #Maps",
+    "orig": false
+   },
+   {
+    "id": "hVOakpZLTIc",
+    "channel": "Same Planet Different Life",
+    "views": 1257,
+    "age_d": 0.6,
+    "title": "What If the US Split Into Red and Blue Countries? 🇺🇸",
+    "orig": false
+   },
+   {
+    "id": "d9gNAHRiJPk",
+    "channel": "mxto create ",
+    "views": 1047,
+    "age_d": 1.3,
+    "title": "These countries look completely different, but their land areas are surprisingly similar! 🌍🤯 #shorts",
+    "orig": false
+   },
+   {
+    "id": "cAtMSa9hDT4",
+    "channel": "Mapsplained",
+    "views": 960,
+    "age_d": 0.4,
+    "title": "Why do these countries have the SAME flag? 🌍🤔 #geography #learnontiktok #shorts",
+    "orig": false
+   },
+   {
+    "id": "hZzqrRGE4Xk",
+    "channel": "Time Atlas",
+    "views": 901,
+    "age_d": 0.8,
+    "title": "Countries That Look Like They Touch (But Don't) | Time Atlas",
+    "orig": false
+   },
+   {
+    "id": "ji3wzQz6zf4",
+    "channel": "Revolutions Remembered",
+    "views": 779,
+    "age_d": 1.1,
+    "title": "Guess the historical country from its growing outline — did you get it at HARD, MEDIUM or EASY?",
+    "orig": false
+   },
+   {
+    "id": "8YgYudCfAK0",
+    "channel": "Atlas Anomaly",
+    "views": 516,
+    "age_d": 0.7,
+    "title": "The Island That Changes Countries",
+    "orig": false
+   },
+   {
+    "id": "1cCTD9Wt4RQ",
+    "channel": "Hi It's Me",
+    "views": 429,
+    "age_d": 0.2,
+    "title": "Only 1% can guess all 10 countries by their shape 🌍 (Part 2)",
+    "orig": false
+   },
+   {
+    "id": "qLfK9KgH0XE",
+    "channel": "Revolutions Remembered",
+    "views": 67,
+    "age_d": 1.5,
+    "title": "Guess the historical country by its changing outline, and tell me which tier gave it away!",
+    "orig": false
+   },
+   {
+    "id": "w9A4W9BCUxc",
+    "channel": "Revolutions Remembered",
+    "views": 62,
+    "age_d": 1.7,
+    "title": "Guess the historical country from its growing outline and tell me which tier gave it away",
+    "orig": false
+   },
+   {
+    "id": "2FsJhMMZDyA",
+    "channel": "Mapzyrox",
+    "views": 4,
+    "age_d": 0.8,
+    "title": "Places That Look Exactly Like Entire Countries! 🌍😱 #Shorts",
+    "orig": false
+   },
+   {
+    "id": "9Be3Ry7_XM0",
+    "channel": "Revolutions Remembered",
+    "views": 4,
+    "age_d": 0.0,
+    "title": "Guess the historical country by its changing outline, and tell me which tier you got it on!",
+    "orig": false
+   }
+  ]
+ }
+}

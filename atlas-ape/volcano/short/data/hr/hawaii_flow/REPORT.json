@@ -1,0 +1,1720 @@
+{
+ "region": "hawaii_flow",
+ "dem": {
+  "name": "USGS 3DEP 1/3 arc-second DEM, tile n20w156 (version 20250611 = current)",
+  "provider": "U.S. Geological Survey, 3D Elevation Program (The National Map)",
+  "resolution_m": 10.0,
+  "licence": "Public domain (U.S. Government work)",
+  "licence_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+  "licence_quote": [
+   "\"All 3DEP products are public domain.\" (USGS_13_n20w156_20250611.xml metadata abstract)",
+   "\"USGS-authored or produced data and information are considered to be in the U.S. Public Domain.\" (usgs.gov Copyrights and Credits)",
+   "\"Acknowledgement of the originating agencies would be appreciated in products derived from these data.\" (metadata useconst)"
+  ],
+  "source_urls": [
+   "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/13/TIFF/historical/n20w156/USGS_13_n20w156_20250611.tif",
+   "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/13/TIFF/historical/n20w156/USGS_13_n20w156_20250611.xml",
+   "https://tnmaccess.nationalmap.gov/api/v1/products"
+  ],
+  "vertical_datum": "metadata states NAVD88 (Hawaii: local MSL); matches the old Terrarium heights within ~1 m",
+  "attribution": "Elevation: U.S. Geological Survey, 3D Elevation Program (3DEP) 1/3 arc-second DEM (public domain)"
+ },
+ "imagery": {
+  "name": "USDA NAIP 2021 Hawaii (0.6 m, acquired 2022-01-04 … 2023-01-03), 4-band ortho quarter-quads, RGB used",
+  "provider": "U.S. Department of Agriculture, Farm Service Agency / FPAC Aerial Photography Field Office; COGs hosted by Microsoft Planetary Computer; quads missing there taken from the NAIP2021_Hawaii ImageServer (USFS GTAC / GeoPlatform IIPP)",
+  "resolution_m": 0.6,
+  "licence": "Public domain (U.S. Government work)",
+  "licence_url": "https://www.fsa.usda.gov/help/policies-and-links/",
+  "licence_quote": [
+   "\"Most information presented on the FSA Web site is considered public domain information. Public domain information may be freely distributed or copied, but use of appropriate byline/photo/image credits is requested. Attribution may be cited as follows: \\\"U. S. Department of Agriculture, Farm Service Agency.\\\"\" (fsa.usda.gov Policies and Links)",
+   "Planetary Computer STAC collection \"naip\": license link https://www.fsa.usda.gov/help/policies-and-links/ titled \"Public Domain\"; provider \"USDA Farm Service Agency\" roles producer, licensor"
+  ],
+  "source_urls": [
+   "https://planetarycomputer.microsoft.com/api/stac/v1/collections/naip",
+   "https://planetarycomputer.microsoft.com/api/stac/v1/search",
+   "https://naipeuwest.blob.core.windows.net/naip/v002/hi/2021/hi_060cm_2021/19155/ (anonymous SAS token from https://planetarycomputer.microsoft.com/api/sas/v1/token/naipeuwest/naip)",
+   "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2021_Hawaii/ImageServer (exportImage, mosaicRule lockRaster per quad)"
+  ],
+  "attribution": "Imagery: U.S. Department of Agriculture, Farm Service Agency – National Agriculture Imagery Program (NAIP) 2021 (public domain); gaps/cloudy patches: Sentinel-2 cloudless 2016 by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0"
+ },
+ "notes": "height.bin (1024×569) = area-average of the 3DEP 1/3″ DEM over each cell (mercator node grid). Sea: 3DEP stores 0 offshore → cells with 3DEP ≤ 0 keep the old Terrarium bathymetry clamped to ≤ −1 m (so the coastline is the 3DEP one; a few sea-level ponds in Hilo also become ≤ 0). normal.png 4096×2278 (16.1 m/px) from the 1/3″ DEM at 8 m (2× supersampled), water = (0,1,0). sat.jpg 8192×4556 (8.06 m/px): 47 NAIP quads from Planetary Computer (read at 4.8 m overview) + 18 quads (Hilo side, acquired Dec 2022/Jan 2023) exported per quad from the NAIP2021_Hawaii ImageServer at 4.3 m, each quad cloud(+shadow)-masked, colour-matched per quad to the old EOX mosaic (10/50/90 % percentiles per channel on 32 m blocks) plus a 700 m local residual field, quads feathered 48 px, everything not covered (NAIP no-data north of Hilo, cloudy NAIP quads mostly in the SE strip and two patches near the Saddle, open sea) falls back to the old EOX image with a 160 px feather — those fallback patches still contain the EOX clouds (≈25 % of land is not at full NAIP weight). Known limitation: faint haze/seamline steps between some Hilo-side quads (vog in the Dec 2022 flights). The NAIP pixels cover the whole 1935 flow path from the vent to the 1935 flow front; no 2022 lava is visible (pre-eruption quads there).",
+ "checks": {
+  "dem": {
+   "height_grid": [
+    1024,
+    569
+   ],
+   "normal_size": [
+    4096,
+    2278
+   ],
+   "normal_supersample": 2,
+   "normal_ground_m_per_px": 16.126,
+   "dem_ground_m_per_px_used_for_normals": 8.063,
+   "h_min_new": -539.1256713867188,
+   "h_max_new": 4166.1455078125,
+   "h_min_old": -539.1256713867188,
+   "h_max_old": 4171.26123046875,
+   "nan_count": 0,
+   "land_new_minus_old_median_m": -0.03924560546875,
+   "land_new_minus_old_rms_m": 3.411226272583008,
+   "sea_cells_le0": 11572,
+   "sea_max_h": -1.0,
+   "cells_from_primary_pct": 100.0,
+   "cells_from_fill_pct": 0.0,
+   "cells_from_old_pct": 0.0,
+   "normal_water_px": 186403,
+   "normal_ny_min": 0.13116063415841606
+  },
+  "imagery": {
+   "size": [
+    8192,
+    4556
+   ],
+   "ground_m_per_px": 8.063,
+   "quads_used": 65,
+   "naip_coverage_pct": 87.458,
+   "naip_full_weight_pct": 74.257,
+   "naip_full_weight_land_pct": 75.365,
+   "feather_px": 160,
+   "naip_cloud_masked_pct": 5.833,
+   "mean_rgb_new_vs_eox_noncloud": [
+    [
+     54.880001068115234,
+     64.44999694824219,
+     53.66999816894531
+    ],
+    [
+     58.75,
+     67.63999938964844,
+     56.209999084472656
+    ]
+   ],
+   "std_rgb_new_vs_eox_at_eox_grid": [
+    [
+     21.469999313354492,
+     23.010000228881836,
+     15.069999694824219
+    ],
+    [
+     24.6299991607666,
+     27.649999618530273,
+     20.049999237060547
+    ]
+   ],
+   "cloudlike_px_pct_eox_vs_new": [
+    2.81,
+    0.47
+   ],
+   "jpeg_bytes": 9016526
+  },
+  "height_bin_floats": 582656,
+  "height_bin_expected": 582656,
+  "height_finite": true,
+  "normal_png": {
+   "size": [
+    4096,
+    2278
+   ],
+   "mode": "RGB"
+  },
+  "sat_jpg": {
+   "size": [
+    8192,
+    4556
+   ],
+   "mode": "RGB"
+  },
+  "files": {
+   "height.bin": {
+    "bytes": 2330624,
+    "sha256_16": "9a315ee9f5c0f3b4"
+   },
+   "height_v1.bin": {
+    "bytes": 2330624,
+    "sha256_16": "475321cd5d4ccbf1"
+   },
+   "normal.png": {
+    "bytes": 16262749,
+    "sha256_16": "60c348adb4fc6509"
+   },
+   "sat.jpg": {
+    "bytes": 9016526,
+    "sha256_16": "bcd893a27d97ad09"
+   },
+   "sat_v1.jpg": {
+    "bytes": 1582852,
+    "sha256_16": "bda08edbd64b23bb"
+   },
+   "lava.png": {
+    "bytes": 34872,
+    "sha256_16": "acf191d8d07f2415"
+   }
+  },
+  "normal_orientation_test": "corr(normal.png lit from NW, analytic shading of the DEM) = 0.992; with z flipped = -0.048",
+  "imagery_alignment_test": "lava-flow margins in NAIP coincide with 3DEP levees in compare.jpg zoom",
+  "quads": [
+   {
+    "quad": "m_1915511_se_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.933,
+     0.668,
+     0.942
+    ],
+    "offset": [
+     -19.2,
+     -7.2,
+     -40.5
+    ],
+    "how": "own 21529 blocks",
+    "local_gain_p5_p95": [
+     0.938,
+     0.951,
+     0.96,
+     1.119,
+     1.055,
+     1.097
+    ]
+   },
+   {
+    "quad": "m_1915512_se_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.885,
+     0.76,
+     0.731
+    ],
+    "offset": [
+     -22.0,
+     -19.0,
+     -22.1
+    ],
+    "how": "own 37981 blocks",
+    "local_gain_p5_p95": [
+     0.901,
+     0.882,
+     0.907,
+     1.265,
+     1.223,
+     1.139
+    ]
+   },
+   {
+    "quad": "m_1915512_sw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.766,
+     0.667,
+     0.788
+    ],
+    "offset": [
+     -5.1,
+     -8.4,
+     -27.9
+    ],
+    "how": "own 38486 blocks",
+    "local_gain_p5_p95": [
+     0.896,
+     0.916,
+     0.929,
+     1.07,
+     1.067,
+     1.09
+    ]
+   },
+   {
+    "quad": "m_1915513_se_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.824,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -0.9,
+     9.0,
+     -2.4
+    ],
+    "how": "own 37373 blocks",
+    "local_gain_p5_p95": [
+     0.93,
+     0.956,
+     0.931,
+     1.115,
+     1.051,
+     1.064
+    ]
+   },
+   {
+    "quad": "m_1915513_sw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.51,
+    "gain": [
+     0.977,
+     0.75,
+     0.681
+    ],
+    "offset": [
+     -29.0,
+     -14.5,
+     -14.8
+    ],
+    "how": "own 38433 blocks",
+    "local_gain_p5_p95": [
+     0.83,
+     0.814,
+     0.85,
+     1.218,
+     1.215,
+     1.227
+    ]
+   },
+   {
+    "quad": "m_1915514_se_05_060_20220104_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 32.57,
+    "gain": [
+     0.665,
+     0.759,
+     0.762
+    ],
+    "offset": [
+     -0.8,
+     2.3,
+     -15.7
+    ],
+    "how": "own 15318 blocks",
+    "local_gain_p5_p95": [
+     0.905,
+     0.893,
+     0.916,
+     1.259,
+     1.169,
+     1.155
+    ]
+   },
+   {
+    "quad": "m_1915514_sw_05_060_20220428_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 7.84,
+    "gain": [
+     0.741,
+     0.696,
+     0.65
+    ],
+    "offset": [
+     2.6,
+     12.1,
+     0.7
+    ],
+    "how": "own 29701 blocks",
+    "local_gain_p5_p95": [
+     0.833,
+     0.903,
+     0.853,
+     1.074,
+     1.026,
+     1.067
+    ]
+   },
+   {
+    "quad": "m_1915515_se_05_060_20220104_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.685,
+     0.846,
+     1.119
+    ],
+    "offset": [
+     -3.1,
+     -1.6,
+     -55.3
+    ],
+    "how": "own 10889 blocks",
+    "local_gain_p5_p95": [
+     0.829,
+     0.824,
+     0.856,
+     1.003,
+     0.99,
+     1.053
+    ]
+   },
+   {
+    "quad": "m_1915515_sw_05_060_20220104_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 3.2,
+    "gain": [
+     0.887,
+     1.245,
+     1.5
+    ],
+    "offset": [
+     -13.5,
+     -29.2,
+     -84.6
+    ],
+    "how": "own 9860 blocks",
+    "local_gain_p5_p95": [
+     0.912,
+     0.922,
+     0.929,
+     1.04,
+     1.073,
+     1.112
+    ]
+   },
+   {
+    "quad": "m_1915516_sw_05_060_20220104_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.65,
+     0.681,
+     0.914
+    ],
+    "offset": [
+     -13.4,
+     2.5,
+     -50.6
+    ],
+    "how": "own 9255 blocks",
+    "local_gain_p5_p95": [
+     0.81,
+     0.72,
+     0.817,
+     1.38,
+     1.061,
+     1.091
+    ]
+   },
+   {
+    "quad": "m_1915519_ne_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.668,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     1.3,
+     -4.4,
+     -13.8
+    ],
+    "how": "own 27500 blocks",
+    "local_gain_p5_p95": [
+     0.951,
+     0.94,
+     0.968,
+     1.048,
+     1.067,
+     1.041
+    ]
+   },
+   {
+    "quad": "m_1915519_se_05_060_20220413_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.831,
+     0.729,
+     0.773
+    ],
+    "offset": [
+     -15.0,
+     -12.9,
+     -26.1
+    ],
+    "how": "own 27462 blocks",
+    "local_gain_p5_p95": [
+     0.968,
+     0.958,
+     0.954,
+     1.042,
+     1.037,
+     1.055
+    ]
+   },
+   {
+    "quad": "m_1915520_ne_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.771,
+     0.65,
+     0.651
+    ],
+    "offset": [
+     -13.0,
+     -9.7,
+     -17.9
+    ],
+    "how": "own 49230 blocks",
+    "local_gain_p5_p95": [
+     0.903,
+     0.935,
+     0.973,
+     1.056,
+     1.068,
+     1.078
+    ]
+   },
+   {
+    "quad": "m_1915520_nw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.828,
+     0.79,
+     0.79
+    ],
+    "offset": [
+     -13.8,
+     -17.8,
+     -29.1
+    ],
+    "how": "own 49208 blocks",
+    "local_gain_p5_p95": [
+     0.949,
+     0.943,
+     0.971,
+     1.039,
+     1.066,
+     1.088
+    ]
+   },
+   {
+    "quad": "m_1915520_se_05_060_20220413_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.847,
+     0.726,
+     0.674
+    ],
+    "offset": [
+     -19.6,
+     -17.7,
+     -20.7
+    ],
+    "how": "own 49318 blocks",
+    "local_gain_p5_p95": [
+     0.929,
+     0.945,
+     0.956,
+     1.078,
+     1.088,
+     1.068
+    ]
+   },
+   {
+    "quad": "m_1915520_sw_05_060_20220413_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.867,
+     0.779,
+     0.734
+    ],
+    "offset": [
+     -19.6,
+     -19.2,
+     -24.6
+    ],
+    "how": "own 49350 blocks",
+    "local_gain_p5_p95": [
+     0.919,
+     0.916,
+     0.945,
+     1.028,
+     1.018,
+     1.03
+    ]
+   },
+   {
+    "quad": "m_1915521_ne_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.65,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     4.1,
+     6.6,
+     -8.8
+    ],
+    "how": "own 20919 blocks",
+    "local_gain_p5_p95": [
+     0.858,
+     0.876,
+     0.926,
+     1.211,
+     1.175,
+     1.188
+    ]
+   },
+   {
+    "quad": "m_1915521_nw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.8,
+     0.857,
+     0.789
+    ],
+    "offset": [
+     -21.3,
+     -31.2,
+     -29.0
+    ],
+    "how": "own 45642 blocks",
+    "local_gain_p5_p95": [
+     0.931,
+     0.885,
+     0.913,
+     1.246,
+     1.32,
+     1.166
+    ]
+   },
+   {
+    "quad": "m_1915521_se_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.722,
+     0.839,
+     0.715
+    ],
+    "offset": [
+     6.7,
+     -7.0,
+     -12.0
+    ],
+    "how": "own 47861 blocks",
+    "local_gain_p5_p95": [
+     0.851,
+     0.872,
+     0.939,
+     1.078,
+     1.096,
+     1.13
+    ]
+   },
+   {
+    "quad": "m_1915521_sw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.957,
+     1.067,
+     1.133
+    ],
+    "offset": [
+     -12.2,
+     -27.4,
+     -48.1
+    ],
+    "how": "own 49281 blocks",
+    "local_gain_p5_p95": [
+     0.72,
+     0.728,
+     0.802,
+     1.035,
+     1.063,
+     1.072
+    ]
+   },
+   {
+    "quad": "m_1915522_ne_05_060_20220428_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 87.65,
+    "gain": [
+     0.786,
+     0.953,
+     0.894
+    ],
+    "offset": [
+     -5.6,
+     -9.5,
+     -28.6
+    ],
+    "how": "own 4699 blocks",
+    "local_gain_p5_p95": [
+     0.829,
+     0.837,
+     0.884,
+     1.155,
+     1.187,
+     1.129
+    ]
+   },
+   {
+    "quad": "m_1915522_nw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 3.72,
+    "gain": [
+     0.65,
+     0.65,
+     0.693
+    ],
+    "offset": [
+     8.4,
+     16.8,
+     -7.2
+    ],
+    "how": "own 29207 blocks",
+    "local_gain_p5_p95": [
+     0.77,
+     0.871,
+     0.845,
+     1.001,
+     1.021,
+     1.081
+    ]
+   },
+   {
+    "quad": "m_1915522_sw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 7.29,
+    "gain": [
+     1.5,
+     1.5,
+     1.5
+    ],
+    "offset": [
+     -50.1,
+     -54.9,
+     -81.6
+    ],
+    "how": "own 29957 blocks",
+    "local_gain_p5_p95": [
+     0.842,
+     0.855,
+     0.943,
+     1.172,
+     1.151,
+     1.168
+    ]
+   },
+   {
+    "quad": "m_1915527_ne_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.778,
+     0.74,
+     0.717
+    ],
+    "offset": [
+     -8.7,
+     -11.3,
+     -18.5
+    ],
+    "how": "own 27457 blocks",
+    "local_gain_p5_p95": [
+     0.96,
+     0.951,
+     0.952,
+     1.045,
+     1.055,
+     1.084
+    ]
+   },
+   {
+    "quad": "m_1915527_se_05_060_20220413_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.65,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     3.2,
+     -1.9,
+     -8.8
+    ],
+    "how": "own 27418 blocks",
+    "local_gain_p5_p95": [
+     0.881,
+     0.892,
+     0.912,
+     1.126,
+     1.138,
+     1.15
+    ]
+   },
+   {
+    "quad": "m_1915528_ne_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.776,
+     0.71,
+     0.65
+    ],
+    "offset": [
+     -12.0,
+     -13.7,
+     -16.4
+    ],
+    "how": "own 49284 blocks",
+    "local_gain_p5_p95": [
+     0.984,
+     0.965,
+     0.979,
+     1.065,
+     1.071,
+     1.057
+    ]
+   },
+   {
+    "quad": "m_1915528_nw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.785,
+     0.728,
+     0.693
+    ],
+    "offset": [
+     -10.9,
+     -12.2,
+     -18.4
+    ],
+    "how": "own 49288 blocks",
+    "local_gain_p5_p95": [
+     0.967,
+     0.94,
+     0.961,
+     1.044,
+     1.027,
+     1.03
+    ]
+   },
+   {
+    "quad": "m_1915528_se_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.65,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -5.0,
+     -8.8,
+     -12.1
+    ],
+    "how": "own 49246 blocks",
+    "local_gain_p5_p95": [
+     0.905,
+     0.901,
+     0.91,
+     1.158,
+     1.17,
+     1.141
+    ]
+   },
+   {
+    "quad": "m_1915528_sw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.696,
+     0.697,
+     0.65
+    ],
+    "offset": [
+     -2.6,
+     -8.4,
+     -11.1
+    ],
+    "how": "own 49258 blocks",
+    "local_gain_p5_p95": [
+     0.812,
+     0.793,
+     0.867,
+     1.026,
+     1.039,
+     1.036
+    ]
+   },
+   {
+    "quad": "m_1915529_ne_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 4.61,
+    "gain": [
+     0.708,
+     0.748,
+     0.65
+    ],
+    "offset": [
+     2.5,
+     -3.7,
+     -5.7
+    ],
+    "how": "own 46699 blocks",
+    "local_gain_p5_p95": [
+     0.878,
+     0.898,
+     0.876,
+     1.108,
+     1.086,
+     1.053
+    ]
+   },
+   {
+    "quad": "m_1915529_nw_05_060_20220106_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.032,
+     1.042,
+     0.988
+    ],
+    "offset": [
+     -16.6,
+     -23.7,
+     -32.9
+    ],
+    "how": "own 49247 blocks",
+    "local_gain_p5_p95": [
+     0.727,
+     0.736,
+     0.797,
+     1.099,
+     1.124,
+     1.138
+    ]
+   },
+   {
+    "quad": "m_1915529_se_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.785,
+     0.696,
+     0.657
+    ],
+    "offset": [
+     -2.0,
+     0.4,
+     -6.5
+    ],
+    "how": "own 49207 blocks",
+    "local_gain_p5_p95": [
+     0.892,
+     0.851,
+     0.875,
+     1.091,
+     1.036,
+     1.028
+    ]
+   },
+   {
+    "quad": "m_1915529_sw_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.91,
+     0.806,
+     0.751
+    ],
+    "offset": [
+     -8.9,
+     -9.6,
+     -15.7
+    ],
+    "how": "own 49254 blocks",
+    "local_gain_p5_p95": [
+     0.877,
+     0.901,
+     0.964,
+     1.058,
+     1.073,
+     1.115
+    ]
+   },
+   {
+    "quad": "m_1915530_nw_05_060_20220413_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 47.67,
+    "gain": [
+     0.715,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -4.0,
+     2.1,
+     -10.1
+    ],
+    "how": "own 17556 blocks",
+    "local_gain_p5_p95": [
+     0.883,
+     0.876,
+     0.897,
+     1.126,
+     1.085,
+     1.067
+    ]
+   },
+   {
+    "quad": "m_1915530_se_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 45.55,
+    "gain": [
+     0.65,
+     1.039,
+     0.65
+    ],
+    "offset": [
+     -23.9,
+     -51.1,
+     -20.9
+    ],
+    "how": "own 7845 blocks",
+    "local_gain_p5_p95": [
+     0.935,
+     0.901,
+     0.921,
+     1.072,
+     1.224,
+     1.088
+    ]
+   },
+   {
+    "quad": "m_1915530_sw_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 20.02,
+    "gain": [
+     0.752,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -13.4,
+     -3.9,
+     -14.4
+    ],
+    "how": "own 27385 blocks",
+    "local_gain_p5_p95": [
+     0.749,
+     0.871,
+     0.819,
+     1.165,
+     1.092,
+     1.109
+    ]
+   },
+   {
+    "quad": "m_1915535_ne_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.65,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -6.1,
+     -12.0,
+     -15.3
+    ],
+    "how": "own 13183 blocks",
+    "local_gain_p5_p95": [
+     0.876,
+     0.863,
+     0.887,
+     1.103,
+     1.101,
+     1.074
+    ]
+   },
+   {
+    "quad": "m_1915536_ne_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.93,
+     0.834,
+     0.751
+    ],
+    "offset": [
+     -33.0,
+     -28.9,
+     -23.6
+    ],
+    "how": "own 23683 blocks",
+    "local_gain_p5_p95": [
+     0.931,
+     0.926,
+     0.904,
+     1.156,
+     1.163,
+     1.098
+    ]
+   },
+   {
+    "quad": "m_1915536_nw_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.675,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -14.0,
+     -17.2,
+     -19.1
+    ],
+    "how": "own 23648 blocks",
+    "local_gain_p5_p95": [
+     0.971,
+     0.947,
+     0.94,
+     1.145,
+     1.162,
+     1.175
+    ]
+   },
+   {
+    "quad": "m_1915537_ne_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.898,
+     0.68,
+     0.659
+    ],
+    "offset": [
+     -23.1,
+     -6.0,
+     -13.3
+    ],
+    "how": "own 23484 blocks",
+    "local_gain_p5_p95": [
+     0.937,
+     0.969,
+     0.965,
+     1.058,
+     1.04,
+     1.043
+    ]
+   },
+   {
+    "quad": "m_1915537_nw_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.781,
+     0.685,
+     0.65
+    ],
+    "offset": [
+     -12.2,
+     -7.8,
+     -10.2
+    ],
+    "how": "own 23502 blocks",
+    "local_gain_p5_p95": [
+     0.991,
+     0.967,
+     0.963,
+     1.066,
+     1.027,
+     1.025
+    ]
+   },
+   {
+    "quad": "m_1915538_ne_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 37.06,
+    "gain": [
+     0.712,
+     0.782,
+     0.67
+    ],
+    "offset": [
+     -28.2,
+     -20.8,
+     -19.9
+    ],
+    "how": "own 13221 blocks",
+    "local_gain_p5_p95": [
+     0.87,
+     0.977,
+     0.966,
+     1.323,
+     1.119,
+     1.066
+    ]
+   },
+   {
+    "quad": "m_1915538_nw_05_060_20220415_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 20.1,
+    "gain": [
+     0.764,
+     0.65,
+     0.65
+    ],
+    "offset": [
+     -19.5,
+     -5.9,
+     -18.0
+    ],
+    "how": "own 18532 blocks",
+    "local_gain_p5_p95": [
+     0.934,
+     0.947,
+     0.989,
+     1.069,
+     1.046,
+     1.099
+    ]
+   },
+   {
+    "quad": "m_1915539_ne_05_060_20220419_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 94.13,
+    "gain": [
+     0.781,
+     0.782,
+     0.762
+    ],
+    "offset": [
+     -12.0,
+     -11.3,
+     -22.1
+    ],
+    "how": "deferred (204 blocks) → median",
+    "local_gain_p5_p95": [
+     0.931,
+     1.127,
+     1.191,
+     1.011,
+     1.188,
+     1.237
+    ]
+   },
+   {
+    "quad": "m_1915539_nw_05_060_20220419_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 78.89,
+    "gain": [
+     0.65,
+     0.65,
+     1.015
+    ],
+    "offset": [
+     -11.4,
+     12.6,
+     -39.4
+    ],
+    "how": "own 882 blocks",
+    "local_gain_p5_p95": [
+     1.021,
+     1.006,
+     0.967,
+     1.235,
+     1.061,
+     1.099
+    ]
+   },
+   {
+    "quad": "m_1915540_ne_05_060_20220419_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 49.73,
+    "gain": [
+     0.781,
+     0.782,
+     0.762
+    ],
+    "offset": [
+     -12.0,
+     -11.3,
+     -22.1
+    ],
+    "how": "deferred (367 blocks) → median",
+    "local_gain_p5_p95": [
+     0.72,
+     0.897,
+     0.923,
+     0.72,
+     0.904,
+     0.93
+    ]
+   },
+   {
+    "quad": "m_1915540_nw_05_060_20220419_20220909",
+    "src": "PC",
+    "cloud_masked_pct": 83.06,
+    "gain": [
+     0.85,
+     1.074,
+     0.926
+    ],
+    "offset": [
+     -34.8,
+     -43.3,
+     -33.7
+    ],
+    "how": "own 1054 blocks",
+    "local_gain_p5_p95": [
+     0.915,
+     0.945,
+     0.917,
+     1.043,
+     0.995,
+     1.034
+    ]
+   },
+   {
+    "quad": "m_1915522_se_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.192,
+     1.448,
+     1.086
+    ],
+    "offset": [
+     -24.4,
+     -39.0,
+     -29.5
+    ],
+    "how": "own 19103 blocks",
+    "local_gain_p5_p95": [
+     0.877,
+     0.844,
+     0.812,
+     1.186,
+     1.11,
+     1.26
+    ]
+   },
+   {
+    "quad": "m_1915523_ne_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.686,
+     1.007,
+     1.003
+    ],
+    "offset": [
+     1.9,
+     -7.3,
+     -25.5
+    ],
+    "how": "own 30593 blocks",
+    "local_gain_p5_p95": [
+     0.847,
+     0.877,
+     0.799,
+     1.11,
+     1.085,
+     1.07
+    ]
+   },
+   {
+    "quad": "m_1915523_nw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.066,
+     1.375,
+     1.5
+    ],
+    "offset": [
+     -17.3,
+     -31.7,
+     -58.9
+    ],
+    "how": "own 31466 blocks",
+    "local_gain_p5_p95": [
+     0.862,
+     0.884,
+     0.92,
+     1.171,
+     1.095,
+     1.153
+    ]
+   },
+   {
+    "quad": "m_1915523_se_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.727,
+     0.974,
+     1.065
+    ],
+    "offset": [
+     -9.2,
+     -15.0,
+     -49.0
+    ],
+    "how": "own 26152 blocks",
+    "local_gain_p5_p95": [
+     0.839,
+     0.873,
+     0.916,
+     1.187,
+     1.15,
+     1.264
+    ]
+   },
+   {
+    "quad": "m_1915523_sw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.227,
+     1.5,
+     1.098
+    ],
+    "offset": [
+     -26.0,
+     -40.3,
+     -32.6
+    ],
+    "how": "own 12736 blocks",
+    "local_gain_p5_p95": [
+     0.831,
+     0.836,
+     0.894,
+     1.17,
+     1.137,
+     1.29
+    ]
+   },
+   {
+    "quad": "m_1915524_ne_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.85,
+    "gain": [
+     0.961,
+     0.996,
+     1.042
+    ],
+    "offset": [
+     -27.8,
+     -24.4,
+     -53.0
+    ],
+    "how": "own 9623 blocks",
+    "local_gain_p5_p95": [
+     0.94,
+     0.968,
+     0.932,
+     1.38,
+     1.348,
+     1.3
+    ]
+   },
+   {
+    "quad": "m_1915524_nw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.43,
+    "gain": [
+     0.65,
+     0.782,
+     0.819
+    ],
+    "offset": [
+     -4.2,
+     -0.0,
+     -20.9
+    ],
+    "how": "own 17740 blocks",
+    "local_gain_p5_p95": [
+     0.911,
+     0.937,
+     0.839,
+     1.38,
+     1.108,
+     1.105
+    ]
+   },
+   {
+    "quad": "m_1915524_se_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.684,
+     0.932,
+     1.362
+    ],
+    "offset": [
+     -8.5,
+     -18.9,
+     -90.2
+    ],
+    "how": "own 16795 blocks",
+    "local_gain_p5_p95": [
+     0.857,
+     0.9,
+     0.902,
+     1.303,
+     1.162,
+     1.38
+    ]
+   },
+   {
+    "quad": "m_1915524_sw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.65,
+     0.855,
+     0.726
+    ],
+    "offset": [
+     -8.8,
+     -10.7,
+     -21.0
+    ],
+    "how": "own 29048 blocks",
+    "local_gain_p5_p95": [
+     0.866,
+     0.909,
+     0.96,
+     1.206,
+     1.116,
+     1.269
+    ]
+   },
+   {
+    "quad": "m_1915530_ne_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.017,
+     1.11,
+     1.224
+    ],
+    "offset": [
+     0.1,
+     5.1,
+     -22.0
+    ],
+    "how": "own 26810 blocks",
+    "local_gain_p5_p95": [
+     0.841,
+     0.824,
+     0.805,
+     1.183,
+     1.125,
+     1.123
+    ]
+   },
+   {
+    "quad": "m_1915531_ne_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.16,
+     1.415,
+     1.5
+    ],
+    "offset": [
+     -17.2,
+     -28.3,
+     -51.4
+    ],
+    "how": "own 32755 blocks",
+    "local_gain_p5_p95": [
+     0.789,
+     0.857,
+     0.903,
+     1.255,
+     1.15,
+     1.143
+    ]
+   },
+   {
+    "quad": "m_1915531_nw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.434,
+     1.483,
+     1.5
+    ],
+    "offset": [
+     -14.8,
+     -17.4,
+     -38.8
+    ],
+    "how": "own 9898 blocks",
+    "local_gain_p5_p95": [
+     0.741,
+     0.842,
+     0.886,
+     1.38,
+     1.329,
+     1.207
+    ]
+   },
+   {
+    "quad": "m_1915531_se_05_060_20230103",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.788,
+     1.013,
+     1.224
+    ],
+    "offset": [
+     -4.6,
+     -13.5,
+     -39.4
+    ],
+    "how": "own 24932 blocks",
+    "local_gain_p5_p95": [
+     0.838,
+     0.902,
+     0.822,
+     1.335,
+     1.226,
+     1.258
+    ]
+   },
+   {
+    "quad": "m_1915531_sw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.5,
+     1.49,
+     1.388
+    ],
+    "offset": [
+     -27.5,
+     -31.4,
+     -46.3
+    ],
+    "how": "own 17676 blocks",
+    "local_gain_p5_p95": [
+     0.831,
+     0.864,
+     0.85,
+     1.377,
+     1.312,
+     1.38
+    ]
+   },
+   {
+    "quad": "m_1915532_ne_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.712,
+     0.843,
+     1.5
+    ],
+    "offset": [
+     6.9,
+     11.3,
+     -59.7
+    ],
+    "how": "own 12526 blocks",
+    "local_gain_p5_p95": [
+     0.83,
+     0.898,
+     0.89,
+     1.146,
+     1.077,
+     1.11
+    ]
+   },
+   {
+    "quad": "m_1915532_nw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.722,
+     1.036,
+     1.5
+    ],
+    "offset": [
+     1.8,
+     -7.0,
+     -59.1
+    ],
+    "how": "own 30640 blocks",
+    "local_gain_p5_p95": [
+     0.819,
+     0.861,
+     0.907,
+     1.089,
+     1.037,
+     1.041
+    ]
+   },
+   {
+    "quad": "m_1915532_se_05_060_20221223",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     1.124,
+     1.24,
+     1.381
+    ],
+    "offset": [
+     -20.7,
+     -24.6,
+     -52.7
+    ],
+    "how": "own 13948 blocks",
+    "local_gain_p5_p95": [
+     0.787,
+     0.794,
+     0.778,
+     1.159,
+     1.1,
+     1.087
+    ]
+   },
+   {
+    "quad": "m_1915532_sw_05_060_20221225",
+    "src": "GP",
+    "cloud_masked_pct": 0.0,
+    "gain": [
+     0.817,
+     1.145,
+     1.302
+    ],
+    "offset": [
+     -10.3,
+     -27.7,
+     -51.9
+    ],
+    "how": "own 27163 blocks",
+    "local_gain_p5_p95": [
+     0.877,
+     0.901,
+     0.853,
+     1.153,
+     1.152,
+     1.19
+    ]
+   }
+  ]
+ },
+ "scripts": "built by scratch scripts (dl_dem.py, dl_naip.py, dl_gp2.py, build_dem.py, build_sat.py, make_compare.py) — not part of tools/"
+}

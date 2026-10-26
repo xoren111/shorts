@@ -1,0 +1,423 @@
+{
+ "niche": "fitness",
+ "keywords": [
+  "workout",
+  "fitness tips",
+  "gym tips",
+  "home workout",
+  "exercise"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:15 UTC",
+ "fresh_uploads": 167,
+ "fresh_uploaders": 138,
+ "new_uploaders": 45,
+ "new_share_of_uploaders": 0.326,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 25,
+ "shorts": 738,
+ "median_views": 1176,
+ "p75_views": 7296,
+ "p90_views": 48396,
+ "share_10k": 0.2344,
+ "share_100k": 0.0569,
+ "share_1m": 0.0176,
+ "ci95_100k": [
+  0.0424,
+  0.076
+ ],
+ "hits_100k": 42,
+ "hits_1m": 13,
+ "channels_any_100k": 0.24,
+ "channels_any_1m": 0.16,
+ "median_channel_median": 1136,
+ "top": [
+  {
+   "views": 7025598,
+   "title": "6 Best Exercises for Belly Fat, Hips, Legs & Shoulders | Home Workout #Shorts",
+   "channel": "fit Motion ",
+   "ch": "UCS1Ecq6MpEr1yJ3Jdj8a2kg",
+   "url": "https://youtube.com/shorts/ceTGMXYfgwM",
+   "age_d": 11
+  },
+  {
+   "views": 5289590,
+   "title": "Don Frye Teaches STREET Self Defence  #tips #mma",
+   "channel": "CombatBang",
+   "ch": "UCV3NhETJAs6gwomj53PRoIw",
+   "url": "https://youtube.com/shorts/Vbn-BmEVyOg",
+   "age_d": 64
+  },
+  {
+   "views": 4015091,
+   "title": "Mighty Mouse Reveals How To Reach Longer Fighters  #mma #tips",
+   "channel": "CombatBang",
+   "ch": "UCV3NhETJAs6gwomj53PRoIw",
+   "url": "https://youtube.com/shorts/5DA02hoKz7g",
+   "age_d": 51
+  },
+  {
+   "views": 2384918,
+   "title": "Burn your body fat with this Home workout #homeworkout #fatloss #fitness",
+   "channel": "FitwidYOGA",
+   "ch": "UC4a-4qqvNH5qYzA4UcEpxAA",
+   "url": "https://youtube.com/shorts/gvCyMpnavmE",
+   "age_d": 25
+  },
+  {
+   "views": 2356665,
+   "title": "Burn your side and belly fat with this Home workout #fitness #viral #homeworkout",
+   "channel": "FitwidYOGA",
+   "ch": "UC4a-4qqvNH5qYzA4UcEpxAA",
+   "url": "https://youtube.com/shorts/f-rPvIFbKvU",
+   "age_d": 22
+  },
+  {
+   "views": 1997284,
+   "title": "How Skarbowsky Deflects The KICKS Using This Guard  #tips #mma #muaythai",
+   "channel": "CombatBang",
+   "ch": "UCV3NhETJAs6gwomj53PRoIw",
+   "url": "https://youtube.com/shorts/49sA4bm76JE",
+   "age_d": 34
+  },
+  {
+   "views": 1731308,
+   "title": "5 Exercises You Can Do Lying Down | Easy Full Body Workout #Shorts",
+   "channel": "fit Motion ",
+   "ch": "UCS1Ecq6MpEr1yJ3Jdj8a2kg",
+   "url": "https://youtube.com/shorts/MKo68xMk_1Y",
+   "age_d": 7
+  },
+  {
+   "views": 1514615,
+   "title": "Burn your Stubborn Bally fat with this Home workout #fitness #homeworkout #viral #beginners",
+   "channel": "FitwidYOGA",
+   "ch": "UC4a-4qqvNH5qYzA4UcEpxAA",
+   "url": "https://youtube.com/shorts/u3xg3oc9UXg",
+   "age_d": 18
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCWeHGplcaXZHyVGQt1-v8Sg",
+   "title": "knowledge4allvideos",
+   "created": "2026-09-10",
+   "subs": 1190,
+   "shorts_aged": 31,
+   "max": 353
+  },
+  {
+   "ch": "UCUog2s40TnIjfbEvrELwPGw",
+   "title": "Relaxing Vids & Facts",
+   "created": "2026-10-12",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCjPjBPMCRYwNLZY8rFbIWiA",
+   "title": "Pilates by Cat",
+   "created": "2026-02-08",
+   "subs": 52700,
+   "shorts_aged": 41,
+   "max": 772893
+  },
+  {
+   "ch": "UCURBuo4s-Mqa2NkKYDji4OA",
+   "title": "Taylor Blake",
+   "created": "2026-10-13",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCiu7NHB29ozD-wqY98mXUmA",
+   "title": "Against All Odds Gym",
+   "created": "2026-02-17",
+   "subs": 38,
+   "shorts_aged": 45,
+   "max": 2609
+  },
+  {
+   "ch": "UCNooxGBjgPr-OBc-nKJcFHg",
+   "title": "Jaydenxlifts",
+   "created": "2026-06-08",
+   "subs": 1820,
+   "shorts_aged": 43,
+   "max": 70906
+  },
+  {
+   "ch": "UCV3NhETJAs6gwomj53PRoIw",
+   "title": "CombatBang",
+   "created": "2026-02-07",
+   "subs": 123000,
+   "shorts_aged": 47,
+   "max": 5289590
+  },
+  {
+   "ch": "UCQJFqd6m-aCNwgOS25KQKAQ",
+   "title": "SHUHRAT FITNESS 💪",
+   "created": "2026-10-13",
+   "subs": 14,
+   "shorts_aged": 10,
+   "max": 2266
+  },
+  {
+   "ch": "UC0O6WyBVI1UYUnQelmjw97A",
+   "title": "FitBite",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCz-iO7WVXciZdhuKsx3bPQQ",
+   "title": "Slift",
+   "created": "2026-10-11",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCgX67keFcDWvJEwAsjrSLkg",
+   "title": "MidlifewithT",
+   "created": "2026-03-12",
+   "subs": 4910,
+   "shorts_aged": 42,
+   "max": 1618
+  },
+  {
+   "ch": "UC4a-4qqvNH5qYzA4UcEpxAA",
+   "title": "FitwidYOGA",
+   "created": "2026-01-05",
+   "subs": 12200,
+   "shorts_aged": 27,
+   "max": 2384918
+  },
+  {
+   "ch": "UCldNiBIamJZSmK9oOcdSUaw",
+   "title": "Health 24 by 7",
+   "created": "2026-07-04",
+   "subs": 124,
+   "shorts_aged": 43,
+   "max": 5300
+  },
+  {
+   "ch": "UCTT_vZ60N-DS3sqa-O-x7lw",
+   "title": "Hot Girl Workout",
+   "created": "2026-10-07",
+   "subs": 19,
+   "shorts_aged": 31,
+   "max": 1374
+  },
+  {
+   "ch": "UCjaK68Vz3nTM0PONkEjSaLQ",
+   "title": "elisnoiredaily",
+   "created": "2026-10-03",
+   "subs": 5,
+   "shorts_aged": 14,
+   "max": 1243
+  },
+  {
+   "ch": "UC15Fmwyw3y5RzYiZxD_ik_A",
+   "title": "getbodyforge",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC09HakzIBKau4jetQCR26aw",
+   "title": "Jamie Hines ",
+   "created": "2026-05-04",
+   "subs": 20,
+   "shorts_aged": 1,
+   "max": 1228
+  },
+  {
+   "ch": "UChqd3aNBUsx6-Na_bxTM-Lw",
+   "title": "Trainwithmohit",
+   "created": "2026-05-12",
+   "subs": 125,
+   "shorts_aged": 43,
+   "max": 2541
+  },
+  {
+   "ch": "UChHugWhdFAZYT_QeW5kteIw",
+   "title": "Fit Burn Pro",
+   "created": "2026-10-19",
+   "subs": 113,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCS1Ecq6MpEr1yJ3Jdj8a2kg",
+   "title": "fit Motion ",
+   "created": "2026-09-21",
+   "subs": 8580,
+   "shorts_aged": 29,
+   "max": 7025598
+  },
+  {
+   "ch": "UCO1eSiqmvuxelnfviQ_SOZA",
+   "title": "FlexToon",
+   "created": "2026-10-23",
+   "subs": 8,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCORzW-yCDJiZC_En4HuuGfQ",
+   "title": "Infenity Gym",
+   "created": "2026-10-22",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCITN2OKYdmitWg2-UMTs_JA",
+   "title": "Lean Life Club",
+   "created": "2026-10-22",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCplsICHBTgPoNM2PaxFQeoA",
+   "title": "Mental Reps",
+   "created": "2026-05-19",
+   "subs": 65,
+   "shorts_aged": 39,
+   "max": 1501
+  },
+  {
+   "ch": "UCj_6ebUbELYCxvsI95Br3Wg",
+   "title": "PRODIPIXEL Fitness",
+   "created": "2026-02-24",
+   "subs": 24,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCig9-5zOT8imnAcXz_fDTkA",
+   "title": "Grid Fitness",
+   "created": "2026-06-28",
+   "subs": 16,
+   "shorts_aged": 1,
+   "max": 18
+  },
+  {
+   "ch": "UCfmhq-9WvyyiuXac0wnaFnQ",
+   "title": "FIT ANATOMY",
+   "created": "2026-02-20",
+   "subs": 13,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCH2Fa4aS0M8j3QjLqifSfDQ",
+   "title": "FITCORE",
+   "created": "2026-10-22",
+   "subs": 11,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCG73C5N68DfTCUgIyukSVbA",
+   "title": "Fitzone_17",
+   "created": "2026-10-19",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UChGEyLPADK6scVeZNO3EdRw",
+   "title": "MuscleX",
+   "created": "2026-02-01",
+   "subs": 22,
+   "shorts_aged": 11,
+   "max": 1164
+  },
+  {
+   "ch": "UCOL1FHUVAAe0JrwxositLfA",
+   "title": "The Salma Files",
+   "created": "2026-08-30",
+   "subs": 40,
+   "shorts_aged": 34,
+   "max": 3873
+  },
+  {
+   "ch": "UCwJxvMIeEAebZ7XUjxSGYYg",
+   "title": "Dr. Healthy Tips & Workouts",
+   "created": "2026-10-08",
+   "subs": 50,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCZX83OcqBo8MVZwm3eLoncg",
+   "title": "Miguel Gutierrez",
+   "created": "2025-12-01",
+   "subs": 54,
+   "shorts_aged": 33,
+   "max": 1358
+  },
+  {
+   "ch": "UCkn5tOdSKMJFjZpinjvQ6EA",
+   "title": "Rocky Saqib India",
+   "created": "2026-07-27",
+   "subs": 3770,
+   "shorts_aged": 25,
+   "max": 845518
+  },
+  {
+   "ch": "UC9Ca3R3xFYnq6BdEiAWRovA",
+   "title": "Body Care Global",
+   "created": "2026-09-12",
+   "subs": 96,
+   "shorts_aged": 19,
+   "max": 1667
+  },
+  {
+   "ch": "UCUXlSz8XbRNHUc04apCogjQ",
+   "title": "Fit in Minutes",
+   "created": "2026-04-21",
+   "subs": 13200,
+   "shorts_aged": 47,
+   "max": 1396648
+  },
+  {
+   "ch": "UCdGLe43T0yi8K2EJiLk_LsQ",
+   "title": "@CoachRyanMuscleLabUSA",
+   "created": "2026-10-19",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCgxLJXh1J6mcc_ldQ1Ro3Nw",
+   "title": "Daily_Dose",
+   "created": "2026-05-07",
+   "subs": 81,
+   "shorts_aged": 33,
+   "max": 1093
+  },
+  {
+   "ch": "UCxMa7N1-GmPzZlqsKp7UrRg",
+   "title": "Tiana Scott",
+   "created": "2026-10-10",
+   "subs": 16,
+   "shorts_aged": 6,
+   "max": 1608
+  },
+  {
+   "ch": "UCxeIYO8dBpZRCZ3DGoHbQ-Q",
+   "title": "ClipsPrimeMoments",
+   "created": "2026-01-17",
+   "subs": 88,
+   "shorts_aged": 43,
+   "max": 1757
+  }
+ ]
+}

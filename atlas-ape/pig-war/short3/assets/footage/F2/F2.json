@@ -1,0 +1,36 @@
+{
+  "shot": "F2",
+  "file": "F2.mp4",
+  "variant": "F2",
+  "source_page": "https://www.pexels.com/video/papa-28190229/",
+  "direct_url": "https://videos.pexels.com/video-files/28190229/12322386_1920_1080_30fps.mp4",
+  "title": "papa",
+  "author": "Antonio Tique",
+  "author_url": "https://www.pexels.com/@antonio-tique-1658244228/",
+  "licence": "Pexels License (free for commercial use, no attribution required)",
+  "licence_url": "https://www.pexels.com/license/",
+  "attribution": null,
+  "source_file": "assets/raw/A/pexels-28190229/src.mp4",
+  "source_resolution": "1920x1080",
+  "source_fps": "30000/1001",
+  "segment": {
+    "t0": 0.0,
+    "t1": 5.37
+  },
+  "crop": {
+    "x": 60,
+    "y": 0,
+    "w": 608,
+    "h": 1080
+  },
+  "upscale": 2.132,
+  "output": {
+    "w": 1296,
+    "h": 2304,
+    "fps": "30000/1001",
+    "duration": 5.372,
+    "codec": "h264 crf16",
+    "audio": false
+  },
+  "description": "Low-angle close-up of freshly dug red potatoes lying in dark soil, hills and cloudy sky behind (farmer kept out of the 9:16 window)."
+}

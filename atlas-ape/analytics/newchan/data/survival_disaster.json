@@ -1,0 +1,423 @@
+{
+ "niche": "survival_disaster",
+ "keywords": [
+  "survival story",
+  "disaster story",
+  "plane crash story",
+  "survived against all odds",
+  "true survival story"
+ ],
+ "relevance": "^(?!.*\\b(dogs?|pupp(y|ies)|cats?|kittens?|kitty|animals?|goats?|turtles?|ducks?|ducklings?|birds?|owls?|bunny|pitbull|roblox|rblx|minecraft|fortnite|skills?|hacks?|bushcraft|camping|lifehacks?|gadgets?)\\b).*(surviv|disaster|crash|stranded|trapped|shipwreck|sank|sinking|avalanche|explosion|earthquake|tsunami|lost at sea|castaway|collapse|meltdown|hijack|mayday|rescued)",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:25 UTC",
+ "fresh_uploads": 197,
+ "fresh_uploaders": 191,
+ "new_uploaders": 110,
+ "new_share_of_uploaders": 0.576,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 30,
+ "shorts": 635,
+ "median_views": 235,
+ "p75_views": 1216,
+ "p90_views": 3706,
+ "share_10k": 0.0472,
+ "share_100k": 0.0157,
+ "share_1m": 0.0031,
+ "ci95_100k": [
+  0.0086,
+  0.0287
+ ],
+ "hits_100k": 10,
+ "hits_1m": 2,
+ "channels_any_100k": 0.1,
+ "channels_any_1m": 0.033,
+ "median_channel_median": 137,
+ "top": [
+  {
+   "views": 3880188,
+   "title": "Poor Mother Makes Red Cabbage Rolls for Hungry Children ❤️🌧️",
+   "channel": "Whispering Hearth",
+   "ch": "UC68pwbbXtbqMPF4fCivro2Q",
+   "url": "https://youtube.com/shorts/1pxsCQiIg7Q",
+   "age_d": 9
+  },
+  {
+   "views": 2001955,
+   "title": "Poor Village Woman Harvests Fresh Vegetables in a Storm & Sells Them at the Market 🌧️🥬 | Ghibli Styl",
+   "channel": "Whispering Hearth",
+   "ch": "UC68pwbbXtbqMPF4fCivro2Q",
+   "url": "https://youtube.com/shorts/E1ZPq0hCjcY",
+   "age_d": 15
+  },
+  {
+   "views": 808927,
+   "title": "Harvesting 15 Exotic Fruits in Heavy Snowfall 🍓🌊 | Ghibli ASMR",
+   "channel": "Whispering Hearth",
+   "ch": "UC68pwbbXtbqMPF4fCivro2Q",
+   "url": "https://youtube.com/shorts/egPhuSHBgso",
+   "age_d": 8
+  },
+  {
+   "views": 557894,
+   "title": "Matt Damon Asked Clint Eastwood for Another Take… 💀 #Shorts",
+   "channel": "Gogi",
+   "ch": "UCBbNj4c2I5zfBeU9-9YL-sQ",
+   "url": "https://youtube.com/shorts/TXHBWZtsJDw",
+   "age_d": 7
+  },
+  {
+   "views": 547979,
+   "title": "The Mistake That Killed John Denver | His Final Flight",
+   "channel": "On This Day in Music and Entertainment History",
+   "ch": "UCcv8JBxmLnTRhhdTAxe5sAg",
+   "url": "https://youtube.com/shorts/pkvXm7KknQc",
+   "age_d": 13
+  },
+  {
+   "views": 488174,
+   "title": "🌧️ Stormy Village Morning 🌿 | Ghibli Couple’s Peaceful Desi Life & Cooking",
+   "channel": "Whispering Hearth",
+   "ch": "UC68pwbbXtbqMPF4fCivro2Q",
+   "url": "https://youtube.com/shorts/YqRHET2uMLA",
+   "age_d": 29
+  },
+  {
+   "views": 200565,
+   "title": "Eddie Van Halen’s Final Concert: Van Halen’s Last Night on Stage",
+   "channel": "On This Day in Music and Entertainment History",
+   "ch": "UCcv8JBxmLnTRhhdTAxe5sAg",
+   "url": "https://youtube.com/shorts/4sMl-OeeNbo",
+   "age_d": 20
+  },
+  {
+   "views": 168448,
+   "title": "Stormy Rain 🌧️ Fresh Bhindi Harvest & Village Cooking | Ghibli ASMR #Shorts",
+   "channel": "Whispering Hearth",
+   "ch": "UC68pwbbXtbqMPF4fCivro2Q",
+   "url": "https://youtube.com/shorts/YqDHOan0sJ8",
+   "age_d": 7
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCuDCUPNGqAwcXS_QvzCyXCA",
+   "title": " Life Told Silently",
+   "created": "2026-04-15",
+   "subs": 202,
+   "shorts_aged": 35,
+   "max": 2093
+  },
+  {
+   "ch": "UCCV8bLRhWR31iEIzKwJJZeg",
+   "title": "Unlikely But True",
+   "created": "2026-10-13",
+   "subs": 13,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCFKq8F1k71q4ZlDQQ6E-FeA",
+   "title": "Scene Vault",
+   "created": "2025-12-02",
+   "subs": 52,
+   "shorts_aged": 4,
+   "max": 2397
+  },
+  {
+   "ch": "UCCz4POHEtrpR7p2F8u3AtTA",
+   "title": "NobodyEverTellsYou",
+   "created": "2026-07-15",
+   "subs": 129,
+   "shorts_aged": 40,
+   "max": 30711
+  },
+  {
+   "ch": "UCurvx2wD4YORVYJSEoW8glQ",
+   "title": "Craizystory ",
+   "created": "2026-09-23",
+   "subs": 7,
+   "shorts_aged": 38,
+   "max": 12
+  },
+  {
+   "ch": "UCByDH0uRtUMVELQBiKvnI3w",
+   "title": "TheHistoryVault-c4n",
+   "created": "2026-10-02",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCKV26OrqvAUWmyW6O1-r_rA",
+   "title": "Sketchline Horror",
+   "created": "2026-07-20",
+   "subs": 98,
+   "shorts_aged": 43,
+   "max": 1494
+  },
+  {
+   "ch": "UCSc02V8LIKNkECkM4r8rG8w",
+   "title": "Search Called Off",
+   "created": "2026-10-22",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCNp2JsRrTZjn_60rRbauG8g",
+   "title": "DeepTime Stories",
+   "created": "2025-11-11",
+   "subs": 36600,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCiCFCdCSqulhPR5Lb0N1UJQ",
+   "title": "Unseen America",
+   "created": "2026-05-16",
+   "subs": 164,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCt7pZh5Y_AjbynYqHjnGdUA",
+   "title": "Shadow Stories",
+   "created": "2026-09-29",
+   "subs": 36,
+   "shorts_aged": 16,
+   "max": 1757
+  },
+  {
+   "ch": "UCd-ECQDWrruvYOjLjNI5BvA",
+   "title": "LongShortStory",
+   "created": "2026-10-15",
+   "subs": 9,
+   "shorts_aged": 1,
+   "max": 9
+  },
+  {
+   "ch": "UCVSOI9zpze0XbtSQq8Hy6sA",
+   "title": "USA Trends",
+   "created": "2026-10-24",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCDAB5FjW8H1ll2dU47_Xjhg",
+   "title": "Hot Box",
+   "created": "2026-09-24",
+   "subs": 1,
+   "shorts_aged": 24,
+   "max": 96
+  },
+  {
+   "ch": "UC68pwbbXtbqMPF4fCivro2Q",
+   "title": "Whispering Hearth",
+   "created": "2026-08-05",
+   "subs": 33300,
+   "shorts_aged": 38,
+   "max": 3880188
+  },
+  {
+   "ch": "UCcVgxS-jdEZ7BzHCapIxn5g",
+   "title": "Reality Has Chapters",
+   "created": "2026-10-18",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCXRjbspToVa6be-yn1Mjurg",
+   "title": "Grant",
+   "created": "2026-10-07",
+   "subs": 12,
+   "shorts_aged": 11,
+   "max": 1209
+  },
+  {
+   "ch": "UCOZfM9IkBTnVeLGbTUg8s-g",
+   "title": "Unseen Files",
+   "created": "2026-06-18",
+   "subs": 160,
+   "shorts_aged": 43,
+   "max": 3856
+  },
+  {
+   "ch": "UCD_KiRtX4tAoHco1a-0KXgw",
+   "title": "Survival Tally",
+   "created": "2026-10-17",
+   "subs": 19,
+   "shorts_aged": 1,
+   "max": 1979
+  },
+  {
+   "ch": "UCHmd-1KzEnQ9S6x6n3IaDxA",
+   "title": "HistoryVault911",
+   "created": "2026-09-03",
+   "subs": 0,
+   "shorts_aged": 9,
+   "max": 221
+  },
+  {
+   "ch": "UCmIMqXETiRuFnQmVu9Gfypw",
+   "title": "Could You Survive?",
+   "created": "2026-10-10",
+   "subs": 22,
+   "shorts_aged": 15,
+   "max": 4661
+  },
+  {
+   "ch": "UCESDGbTiCJAlRCYxVufWdpg",
+   "title": "Nexora",
+   "created": "2026-07-06",
+   "subs": 96,
+   "shorts_aged": 44,
+   "max": 2318
+  },
+  {
+   "ch": "UCPUYZKlKdTkcwxNctyuIJSg",
+   "title": "richie",
+   "created": "2026-10-05",
+   "subs": 48,
+   "shorts_aged": 22,
+   "max": 1377
+  },
+  {
+   "ch": "UC85nInTnyq9fKOvOseB-w7g",
+   "title": "NEW-EPIC-DOCUMENTARY",
+   "created": "2026-10-16",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCeWt8L_N7AE-3Xzq_yC01Tg",
+   "title": "horror shorts",
+   "created": "2026-08-23",
+   "subs": 62,
+   "shorts_aged": 43,
+   "max": 1716
+  },
+  {
+   "ch": "UCh-nHfHcXvPmYpUWuvO7J5g",
+   "title": "The Curious Hijabi",
+   "created": "2026-07-10",
+   "subs": 99,
+   "shorts_aged": 43,
+   "max": 1451
+  },
+  {
+   "ch": "UCf6sfj8ZERGcnWVBvYELyuA",
+   "title": "Mr Awkward",
+   "created": "2026-10-16",
+   "subs": 25,
+   "shorts_aged": 2,
+   "max": 234
+  },
+  {
+   "ch": "UCUiPlIbsSVQBQV-vOsnSYng",
+   "title": "Nox ante",
+   "created": "2026-10-14",
+   "subs": 10,
+   "shorts_aged": 9,
+   "max": 317
+  },
+  {
+   "ch": "UCBw4S751Rp8FsvH-4faMicw",
+   "title": "AweList",
+   "created": "2026-08-31",
+   "subs": 44,
+   "shorts_aged": 33,
+   "max": 5426
+  },
+  {
+   "ch": "UCJ0oV00qcvtVDB9mytiUTcA",
+   "title": "Regal Ledger",
+   "created": "2026-08-14",
+   "subs": 15,
+   "shorts_aged": 5,
+   "max": 252
+  },
+  {
+   "ch": "UCuatSiXh-uO3uNtVEGzZSuA",
+   "title": "DAY ZERO",
+   "created": "2026-10-21",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCBkiMprFV9Q_tkoxvzljx2g",
+   "title": "PAST, SERIOUSLY?",
+   "created": "2026-10-07",
+   "subs": 6,
+   "shorts_aged": 4,
+   "max": 740
+  },
+  {
+   "ch": "UCyCwC_nCb5Wq7_KYSObEDsw",
+   "title": "UNBOLTED FACTS",
+   "created": "2026-09-21",
+   "subs": 36,
+   "shorts_aged": 8,
+   "max": 2341
+  },
+  {
+   "ch": "UCqbXd4s9xVMaXkmoQSLBEzQ",
+   "title": "NO MAP ADVENTURES",
+   "created": "2025-11-22",
+   "subs": 1030,
+   "shorts_aged": 10,
+   "max": 9553
+  },
+  {
+   "ch": "UCpTuAtr87kQ_h-qkGuA-c8g",
+   "title": "CruxD",
+   "created": "2026-10-10",
+   "subs": 11,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCr_UC-IqEHESU15eJLL7Dtg",
+   "title": "Declassified",
+   "created": "2026-10-13",
+   "subs": 15,
+   "shorts_aged": 9,
+   "max": 1205
+  },
+  {
+   "ch": "UCO8ET2XkSkdrgIZ1-Bwgibg",
+   "title": "TheBreakingPoint",
+   "created": "2026-06-24",
+   "subs": 53,
+   "shorts_aged": 31,
+   "max": 1544
+  },
+  {
+   "ch": "UCBbNj4c2I5zfBeU9-9YL-sQ",
+   "title": "Gogi",
+   "created": "2026-10-11",
+   "subs": 548,
+   "shorts_aged": 12,
+   "max": 557894
+  },
+  {
+   "ch": "UC-IOpvRuIlvQO9n0sUL-7HA",
+   "title": "Old Normal",
+   "created": "2026-10-11",
+   "subs": 0,
+   "shorts_aged": 1,
+   "max": 2
+  },
+  {
+   "ch": "UCcv8JBxmLnTRhhdTAxe5sAg",
+   "title": "On This Day in Music and Entertainment History",
+   "created": "2026-06-26",
+   "subs": 3180,
+   "shorts_aged": 41,
+   "max": 547979
+  }
+ ]
+}

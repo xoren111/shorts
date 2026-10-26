@@ -1,0 +1,424 @@
+{
+ "niche": "ai_generated",
+ "keywords": [
+  "ai animals",
+  "ai cat",
+  "ai baby",
+  "funny ai video",
+  "ai shorts",
+  "ai dog"
+ ],
+ "relevance": "^(?!.*(demonstration purposes|tiktok ?shop|karseell|podcast|\\b(news|tools?|chatgpt|openai|tutorials?|how to|prompts?|course|earn|money|stocks?|crypto|agents?|coding|apps?|update|launch|nvidia|startup|jobs?|gpt|gemini|claude|review|tips)\\b)).*(\\bai\\b|#ai\\w*|\\ba\\.i\\.|\\bsora\\b|\\bveo\\b|midjourney|\\bkling\\b)",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:12 UTC",
+ "fresh_uploads": 90,
+ "fresh_uploaders": 78,
+ "new_uploaders": 45,
+ "new_share_of_uploaders": 0.577,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 23,
+ "shorts": 390,
+ "median_views": 1031,
+ "p75_views": 9144,
+ "p90_views": 91494,
+ "share_10k": 0.2513,
+ "share_100k": 0.0923,
+ "share_1m": 0.0077,
+ "ci95_100k": [
+  0.0674,
+  0.1251
+ ],
+ "hits_100k": 36,
+ "hits_1m": 3,
+ "channels_any_100k": 0.174,
+ "channels_any_1m": 0.13,
+ "median_channel_median": 1087,
+ "top": [
+  {
+   "views": 5382345,
+   "title": "ASMR teeth cleaning 🧹 #ASMR #cleaning #funny",
+   "channel": "Iryna Danilishyn",
+   "ch": "UCk8qpwIz5xQHV9_o4WLaRuA",
+   "url": "https://youtube.com/shorts/JeIlOkM5mUk",
+   "age_d": 18
+  },
+  {
+   "views": 1770791,
+   "title": "3 Angels Caught on Camera (Number 1 Is a Guardian Angel Rescue)",
+   "channel": "Fact ON",
+   "ch": "UC_3pGC1slY8bSQi0gBO35BA",
+   "url": "https://youtube.com/shorts/VY-x-XmI2RY",
+   "age_d": 9
+  },
+  {
+   "views": 1262621,
+   "title": "No Daddy Kisses 😂 | Cute AI Baby Video #shorts",
+   "channel": "Live Yt",
+   "ch": "UCJhqRomLnF4_C52H0ITTa_Q",
+   "url": "https://youtube.com/shorts/byTqIcgRFmk",
+   "age_d": 9
+  },
+  {
+   "views": 660881,
+   "title": "The last one turned out to be so cute! 🥹💕 #unpacking",
+   "channel": "Iryna Danilishyn",
+   "ch": "UCk8qpwIz5xQHV9_o4WLaRuA",
+   "url": "https://youtube.com/shorts/ZUP8GsX3O0g",
+   "age_d": 20
+  },
+  {
+   "views": 570917,
+   "title": "the WEIRDEST LIPSTICKS in the world 🌍🥰 Subscribe for new part:) #lipstick #unpacking",
+   "channel": "Iryna Danilishyn",
+   "ch": "UCk8qpwIz5xQHV9_o4WLaRuA",
+   "url": "https://youtube.com/shorts/q0ZHU7TRFpA",
+   "age_d": 45
+  },
+  {
+   "views": 495831,
+   "title": "Strange products 🤯The last one surprised me the most 😳 #food #unpacking #candy",
+   "channel": "Iryna Danilishyn",
+   "ch": "UCk8qpwIz5xQHV9_o4WLaRuA",
+   "url": "https://youtube.com/shorts/CoDbr8ziua0",
+   "age_d": 21
+  },
+  {
+   "views": 390167,
+   "title": "Ranking most relatable school moments #shorts",
+   "channel": "GABBYSHORTZ ",
+   "ch": "UCn0NHZRsov0VM0xmYpzD-8w",
+   "url": "https://youtube.com/shorts/SMriyjVhZKk",
+   "age_d": 11
+  },
+  {
+   "views": 347942,
+   "title": "3 Angel Sightings Nobody Can Explain",
+   "channel": "Fact ON",
+   "ch": "UC_3pGC1slY8bSQi0gBO35BA",
+   "url": "https://youtube.com/shorts/6taWr523NIU",
+   "age_d": 25
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCJhqRomLnF4_C52H0ITTa_Q",
+   "title": "Live Yt",
+   "created": "2026-10-09",
+   "subs": 2720,
+   "shorts_aged": 17,
+   "max": 1262621
+  },
+  {
+   "ch": "UCS7zkRlMac9l5hVR_lbKO_A",
+   "title": "IM CAR SUSPENSION 🔧🚘",
+   "created": "2026-10-17",
+   "subs": 17,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCOiF8iDl9UtUlCJ8z0hwSHw",
+   "title": "RDX Bimzzy",
+   "created": "2026-10-19",
+   "subs": 23,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCem-Am4gHXc1r5W4UW1X-kQ",
+   "title": "PawToon AI",
+   "created": "2026-10-24",
+   "subs": 14,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCKJ0a3VPcIeC6cN0uQ1IKdQ",
+   "title": "Fun for Fun",
+   "created": "2026-10-21",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCf9bBuFeV5HXJfbGMVMoPRg",
+   "title": "Zoli FF",
+   "created": "2026-09-28",
+   "subs": 64,
+   "shorts_aged": 30,
+   "max": 1154
+  },
+  {
+   "ch": "UCqixITnOYSw5OXJNXmuPfLA",
+   "title": "Ai ආතල් SL",
+   "created": "2026-10-18",
+   "subs": 298,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCUD1M4rsHBxvExos-8dOYeg",
+   "title": "jerry__mood",
+   "created": "2026-07-25",
+   "subs": 3,
+   "shorts_aged": 2,
+   "max": 6
+  },
+  {
+   "ch": "UCliqF0CULOZZPMMVVQ0h5Qw",
+   "title": "Ai Studio with AD",
+   "created": "2026-01-15",
+   "subs": 89,
+   "shorts_aged": 20,
+   "max": 1601
+  },
+  {
+   "ch": "UCY1esF0BBAzueiuyYpIkFTw",
+   "title": "AI Cat Adventures",
+   "created": "2026-10-21",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCM5joCEalB_IivmliEl46zQ",
+   "title": "Ranking Unleashed",
+   "created": "2026-09-03",
+   "subs": 472,
+   "shorts_aged": 41,
+   "max": 20785
+  },
+  {
+   "ch": "UCzBNglE6kIjQDVYAhYjIZrQ",
+   "title": "CraShorts",
+   "created": "2026-10-17",
+   "subs": 9,
+   "shorts_aged": 1,
+   "max": 3305
+  },
+  {
+   "ch": "UC5PAITMqgbp1PthkJK2GOUQ",
+   "title": "just AI Cat",
+   "created": "2026-10-22",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC_QALnpuiiAidsOi1YO1IeA",
+   "title": "short story1432",
+   "created": "2026-10-18",
+   "subs": 66,
+   "shorts_aged": 3,
+   "max": 38855
+  },
+  {
+   "ch": "UCww4H1S6KeNIZMhVLOpEWUg",
+   "title": "Fuzz Lumi",
+   "created": "2026-10-06",
+   "subs": 0,
+   "shorts_aged": 12,
+   "max": 4
+  },
+  {
+   "ch": "UC4o-Mswe9uAqifAF2J6aRBg",
+   "title": "AI Creativity",
+   "created": "2026-09-11",
+   "subs": 60,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCpnMG4DUO5ad1brhcZkB-zw",
+   "title": "AI Wala Shugal Mela ",
+   "created": "2026-10-13",
+   "subs": 2,
+   "shorts_aged": 6,
+   "max": 46
+  },
+  {
+   "ch": "UCiNENVpjBfK-A_3RTWZ8obw",
+   "title": "@Ai_video_2.0",
+   "created": "2026-10-21",
+   "subs": 19,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCk8qpwIz5xQHV9_o4WLaRuA",
+   "title": "Iryna Danilishyn",
+   "created": "2025-10-27",
+   "subs": 152000,
+   "shorts_aged": 41,
+   "max": 5382345
+  },
+  {
+   "ch": "UCJaLCu-VkrEXmrKqK-3SuXw",
+   "title": "SpiderMan clothes",
+   "created": "2026-09-19",
+   "subs": 314,
+   "shorts_aged": 1,
+   "max": 1453
+  },
+  {
+   "ch": "UCFkkiLIVoAljJ1MeKfWG9WA",
+   "title": "BLURB the AI Comedian",
+   "created": "2026-10-11",
+   "subs": 16,
+   "shorts_aged": 28,
+   "max": 1312
+  },
+  {
+   "ch": "UC8uZ2c89M_TnCg7oMGIELEA",
+   "title": "BotBaffoon",
+   "created": "2026-10-24",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC-4ul1LaRLbiZsJqcubftFg",
+   "title": "Rank the Fun",
+   "created": "2026-10-08",
+   "subs": 127,
+   "shorts_aged": 2,
+   "max": 27435
+  },
+  {
+   "ch": "UC_3pGC1slY8bSQi0gBO35BA",
+   "title": "Fact ON",
+   "created": "2026-03-17",
+   "subs": 115000,
+   "shorts_aged": 10,
+   "max": 1770791
+  },
+  {
+   "ch": "UCzcsZOG1hnc5dUPWicv8t1w",
+   "title": "Spark19rockstar",
+   "created": "2026-06-08",
+   "subs": 263,
+   "shorts_aged": 30,
+   "max": 2369
+  },
+  {
+   "ch": "UC37mC2DR9GsyUhx3kRAcj5A",
+   "title": "Unique Step",
+   "created": "2026-10-15",
+   "subs": 19,
+   "shorts_aged": 8,
+   "max": 3775
+  },
+  {
+   "ch": "UCavO3nNqvhzVskmCgMWTA2w",
+   "title": "AI Baby Talks",
+   "created": "2026-10-23",
+   "subs": 24,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCCQ74JpwpYmYJ0A6QCMwNOw",
+   "title": "AI Kid World 65",
+   "created": "2026-10-03",
+   "subs": 49,
+   "shorts_aged": 41,
+   "max": 1525
+  },
+  {
+   "ch": "UCJRHfuRa9Q5cOw76LU9yF7Q",
+   "title": "Kids animal videos!",
+   "created": "2026-10-23",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCGiOFKA5hnD5kb0vQngFFvA",
+   "title": "Toolie AI",
+   "created": "2026-10-12",
+   "subs": 1,
+   "shorts_aged": 5,
+   "max": 1242
+  },
+  {
+   "ch": "UCPEv3Q4ji6ufjLcJ4zQXHGA",
+   "title": "Recer mind 🤟",
+   "created": "2026-08-14",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCqjPXOErU9gC3Koi0vkwE8Q",
+   "title": "MUKBANG AI 7",
+   "created": "2026-06-14",
+   "subs": 51,
+   "shorts_aged": 45,
+   "max": 1232
+  },
+  {
+   "ch": "UCRJuoowUAnQulmamCY2MVrw",
+   "title": "ToyTumble Lab",
+   "created": "2026-09-18",
+   "subs": 1,
+   "shorts_aged": 1,
+   "max": 5746
+  },
+  {
+   "ch": "UC7YoGPIK_PrAgyUHgOY2hrQ",
+   "title": "Bubbly Animals Zoo ",
+   "created": "2026-10-23",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC9fbW15GbhG6NXR47amnZlw",
+   "title": "Daniecat",
+   "created": "2026-10-23",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCpfAlyjAALSEiTVClgNm03g",
+   "title": "Orange Cat Comedy",
+   "created": "2026-10-12",
+   "subs": 12,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCn0NHZRsov0VM0xmYpzD-8w",
+   "title": "GABBYSHORTZ ",
+   "created": "2026-08-11",
+   "subs": 31200,
+   "shorts_aged": 37,
+   "max": 390167
+  },
+  {
+   "ch": "UC9ZwszxA91qxp00lsAkpKoA",
+   "title": "Yash",
+   "created": "2026-10-09",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UClizx4OhJmO7pUhq7XfkScw",
+   "title": "TheOverride",
+   "created": "2026-09-18",
+   "subs": 16,
+   "shorts_aged": 4,
+   "max": 1428
+  },
+  {
+   "ch": "UCjV1AZZeugK92b6CRMcRUng",
+   "title": "AI & Kids",
+   "created": "2026-10-13",
+   "subs": 15,
+   "shorts_aged": 5,
+   "max": 38
+  }
+ ]
+}

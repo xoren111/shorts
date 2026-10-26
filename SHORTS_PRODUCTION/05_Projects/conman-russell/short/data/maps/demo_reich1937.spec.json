@@ -1,0 +1,52 @@
+{
+ "name": "demo_reich1937",
+ "bbox": [
+  5.5,
+  46.8,
+  23.5,
+  55.6
+ ],
+ "proj": "eqc",
+ "fit": "contain",
+ "fitbox": [
+  60.0,
+  300.0,
+  1020.0,
+  1380.0
+ ],
+ "pad": 0.4,
+ "zoom_max": 2.5,
+ "eps": 0.8,
+ "layers": [
+  "land",
+  "lakes",
+  "graticule",
+  "regions"
+ ],
+ "lake_rank": 4,
+ "region_pad": 0.05,
+ "river_rank": 5,
+ "grid": null,
+ "borders": "none",
+ "geojson": [
+  {
+   "file": "/Users/khorengrigoryan/shorts/deutschland-geschichte/data/raw/reich1937.geojson",
+   "year": 1937,
+   "license": "CC0 1.0 (OpenHistoricalMap)",
+   "source": "OpenHistoricalMap relation 2693085"
+  }
+ ],
+ "select": null,
+ "lang": "de",
+ "period_note": "Deutsches Reich, Grenzen 31.12.1937 (OpenHistoricalMap)",
+ "points": {
+  "Berlin": [
+   13.405,
+   52.52
+  ],
+  "Königsberg": [
+   20.51,
+   54.71
+  ]
+ }
+}

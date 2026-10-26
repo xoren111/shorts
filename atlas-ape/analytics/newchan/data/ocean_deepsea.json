@@ -1,0 +1,423 @@
+{
+ "niche": "ocean_deepsea",
+ "keywords": [
+  "deep sea creatures",
+  "ocean facts",
+  "sea creatures",
+  "deep ocean",
+  "marine animals"
+ ],
+ "relevance": "^(?!.*\\b(what if|fishing|catch|caught|kids?|nursery|cartoon|rhymes?)\\b).*\\b(oceans?|deep[- ]sea|seas?|marine|underwater|abyss(al)?|trench|sea ?floor|sharks?|whales?|octopus(es)?|squids?|jellyfish|anglerfish|eels?|isopods?|corals?|reefs?|dolphins?|orcas?|stingrays?|crabs?|lobsters?|shrimps?|fish|fishes)\\b",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:27 UTC",
+ "fresh_uploads": 155,
+ "fresh_uploaders": 147,
+ "new_uploaders": 87,
+ "new_share_of_uploaders": 0.592,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 28,
+ "shorts": 784,
+ "median_views": 4406,
+ "p75_views": 28878,
+ "p90_views": 98545,
+ "share_10k": 0.4235,
+ "share_100k": 0.1008,
+ "share_1m": 0.0319,
+ "ci95_100k": [
+  0.0816,
+  0.1238
+ ],
+ "hits_100k": 79,
+ "hits_1m": 25,
+ "channels_any_100k": 0.357,
+ "channels_any_1m": 0.214,
+ "median_channel_median": 2490,
+ "top": [
+  {
+   "views": 33163787,
+   "title": "Ranking Best Snake Moments  Part2#shorts  #ranking #animals",
+   "channel": "Tovo Ranks",
+   "ch": "UCJZdt-ER-peWnO4fnEhxRiQ",
+   "url": "https://youtube.com/shorts/HM_HE12V1KE",
+   "age_d": 60
+  },
+  {
+   "views": 16003683,
+   "title": "Ranking Best Snake Moments #shorts #ranking #animals",
+   "channel": "Tovo Ranks",
+   "ch": "UCJZdt-ER-peWnO4fnEhxRiQ",
+   "url": "https://youtube.com/shorts/SWyIpOTyTbc",
+   "age_d": 62
+  },
+  {
+   "views": 13308531,
+   "title": "Ranking Best Bunny Moments #shorts #ranking #animals",
+   "channel": "Tovo Ranks",
+   "ch": "UCJZdt-ER-peWnO4fnEhxRiQ",
+   "url": "https://youtube.com/shorts/Zy8nTCAgJzQ",
+   "age_d": 41
+  },
+  {
+   "views": 11626420,
+   "title": "You Won't Believe What This Elephant Is Doing Here 🐘 #wildlife #animals #unexpected",
+   "channel": "Decode Universe",
+   "ch": "UCHZkWMvyUOT6K5NhfhCFUVg",
+   "url": "https://youtube.com/shorts/h_QpxSsgFC8",
+   "age_d": 22
+  },
+  {
+   "views": 9494631,
+   "title": "🐶These dogs had CRAZY transformations 😭",
+   "channel": "RankingRealm",
+   "ch": "UCYPK5HBbFuI_uioGFWNu37g",
+   "url": "https://youtube.com/shorts/7MXT-aWfM4w",
+   "age_d": 54
+  },
+  {
+   "views": 6421916,
+   "title": "Ranking Best Ball Python Moments 🐍#shorts #ranking #animlas",
+   "channel": "Tovo Ranks",
+   "ch": "UCJZdt-ER-peWnO4fnEhxRiQ",
+   "url": "https://youtube.com/shorts/0Hw-jbqOTzY",
+   "age_d": 57
+  },
+  {
+   "views": 5986150,
+   "title": "TOP 5 SCARIEST DEEP SEA CREATURESEVER FOUND#deepsea #creatures #top5",
+   "channel": "Alex Monk",
+   "ch": "UCI50h5we7N1tiTHRtJ0jpJw",
+   "url": "https://youtube.com/shorts/sfkrHVQ4I7E",
+   "age_d": 43
+  },
+  {
+   "views": 5507814,
+   "title": "🦈These MARINE EVOLUTIONS are Getting Completely OUT OF HAND!🤯",
+   "channel": "RankingRealm",
+   "ch": "UCYPK5HBbFuI_uioGFWNu37g",
+   "url": "https://youtube.com/shorts/GAJlj2QxKpw",
+   "age_d": 34
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCTHXOLCV9EQoMWIms3rYONw",
+   "title": "ApexVex",
+   "created": "2026-10-20",
+   "subs": 10,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC5V2S0nSA51-fQqgjI55y5A",
+   "title": "vicanifacts ",
+   "created": "2026-07-24",
+   "subs": 8700,
+   "shorts_aged": 41,
+   "max": 18295
+  },
+  {
+   "ch": "UC7Uu9ecwbvtpD45W2UfeGEA",
+   "title": "Jungle Diaries",
+   "created": "2026-10-17",
+   "subs": 28,
+   "shorts_aged": 3,
+   "max": 1311
+  },
+  {
+   "ch": "UC8iWbBz8xUdE0GSUzQHYyrw",
+   "title": "CatchRank",
+   "created": "2026-09-13",
+   "subs": 781,
+   "shorts_aged": 15,
+   "max": 44945
+  },
+  {
+   "ch": "UCnfc0elynP1jrfweSnq7Vww",
+   "title": "FactsWire",
+   "created": "2026-07-21",
+   "subs": 3300,
+   "shorts_aged": 25,
+   "max": 492740
+  },
+  {
+   "ch": "UCk02YFy7GeXVuwtEWiSt2CQ",
+   "title": "Astro Trends",
+   "created": "2026-09-10",
+   "subs": 40,
+   "shorts_aged": 1,
+   "max": 1976
+  },
+  {
+   "ch": "UCI50h5we7N1tiTHRtJ0jpJw",
+   "title": "Alex Monk",
+   "created": "2026-04-25",
+   "subs": 211000,
+   "shorts_aged": 42,
+   "max": 5986150
+  },
+  {
+   "ch": "UCpYIMRDH0kLxmhP5BeyyeRg",
+   "title": "Wildly Explained.",
+   "created": "2026-09-26",
+   "subs": 6,
+   "shorts_aged": 6,
+   "max": 1349
+  },
+  {
+   "ch": "UC4IcEIGZW_O0HHCGHeNnyBA",
+   "title": "Oceanimals",
+   "created": "2026-07-04",
+   "subs": 70,
+   "shorts_aged": 42,
+   "max": 1355
+  },
+  {
+   "ch": "UCrTHctSaJtc58QBM3gDndow",
+   "title": "Hidden Dimensions ",
+   "created": "2026-07-18",
+   "subs": 364,
+   "shorts_aged": 36,
+   "max": 1603
+  },
+  {
+   "ch": "UCIJzB_lCw0i9Pq8ZUAK2hig",
+   "title": "Bigger Than You Think",
+   "created": "2026-10-23",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCVMCyoI-Vq2cSWEYKP7M4MA",
+   "title": "Yuri Orlov",
+   "created": "2026-08-07",
+   "subs": 4790,
+   "shorts_aged": 48,
+   "max": 3133667
+  },
+  {
+   "ch": "UCy98Ry54v1mGViidZrB-zwQ",
+   "title": "Wild Stories",
+   "created": "2026-09-14",
+   "subs": 126,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCJWHLIpmkOjMdyP0yBKfJRQ",
+   "title": "Nature History Science",
+   "created": "2026-10-23",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCRYXofGeOLzof2Umfi1gk7g",
+   "title": "joodastar",
+   "created": "2026-06-22",
+   "subs": 4510,
+   "shorts_aged": 46,
+   "max": 109753
+  },
+  {
+   "ch": "UCcFsUtIcT816aUsxI1pjTbg",
+   "title": "The Fact Vault",
+   "created": "2026-10-23",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCT8D3pq2isPW0I-JsVK2_pw",
+   "title": "Below the Thermocline",
+   "created": "2026-10-21",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCHZkWMvyUOT6K5NhfhCFUVg",
+   "title": "Decode Universe",
+   "created": "2026-04-17",
+   "subs": 150000,
+   "shorts_aged": 34,
+   "max": 11626420
+  },
+  {
+   "ch": "UCTBS02yX1pGu4NqbYWkmb3Q",
+   "title": "Beyond Blue Depths",
+   "created": "2026-10-24",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC1UPtNvQ9zJahQel1uxtCmQ",
+   "title": "PolyCritters",
+   "created": "2026-10-02",
+   "subs": 211,
+   "shorts_aged": 3,
+   "max": 31785
+  },
+  {
+   "ch": "UCTTwxvPn3ai5u8KrZMVeh3w",
+   "title": "Deep Fathom",
+   "created": "2026-10-06",
+   "subs": 58,
+   "shorts_aged": 20,
+   "max": 1897
+  },
+  {
+   "ch": "UCYGjvKQdauRNojaB89dFtQg",
+   "title": "World Info Box",
+   "created": "2026-09-30",
+   "subs": 1060,
+   "shorts_aged": 31,
+   "max": 131548
+  },
+  {
+   "ch": "UCmJtdk0BGWdO7yJ2ud5VsEA",
+   "title": "Fact Circuit ",
+   "created": "2026-05-15",
+   "subs": 156,
+   "shorts_aged": 43,
+   "max": 1374
+  },
+  {
+   "ch": "UC0lN4rxwUCQYCf7NlK8NkOg",
+   "title": "Marine Matrix ",
+   "created": "2026-04-29",
+   "subs": 15,
+   "shorts_aged": 9,
+   "max": 1351
+  },
+  {
+   "ch": "UCJZdt-ER-peWnO4fnEhxRiQ",
+   "title": "Tovo Ranks",
+   "created": "2026-06-30",
+   "subs": 115000,
+   "shorts_aged": 45,
+   "max": 33163787
+  },
+  {
+   "ch": "UCoAk2D-yJvYfvgHMgxAGm6w",
+   "title": "Frosted Clips",
+   "created": "2026-07-28",
+   "subs": 3400,
+   "shorts_aged": 37,
+   "max": 186376
+  },
+  {
+   "ch": "UCSs4A8oIa7MpwrZH2N1-JhA",
+   "title": "Futuristic Dive ",
+   "created": "2025-11-19",
+   "subs": 5,
+   "shorts_aged": 3,
+   "max": 174
+  },
+  {
+   "ch": "UCjptcZkgDP1_GTCt21WTbqg",
+   "title": "Wild Earth Wonders",
+   "created": "2026-10-19",
+   "subs": 14,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCks74lEZyqPKR0MM5wA1C7A",
+   "title": "Rank Outt",
+   "created": "2026-09-28",
+   "subs": 6440,
+   "shorts_aged": 18,
+   "max": 5055037
+  },
+  {
+   "ch": "UCnT1Yp5y8QVTa2XI-4x2y7g",
+   "title": "WotFact",
+   "created": "2026-10-23",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCfQ8uEQDUd6qkIkojeJj0Vg",
+   "title": "Bones & Legends",
+   "created": "2026-05-03",
+   "subs": 252,
+   "shorts_aged": 33,
+   "max": 2512
+  },
+  {
+   "ch": "UCYPK5HBbFuI_uioGFWNu37g",
+   "title": "RankingRealm",
+   "created": "2026-02-07",
+   "subs": 58700,
+   "shorts_aged": 27,
+   "max": 9494631
+  },
+  {
+   "ch": "UCPxb4_EUgHbdTtAkO4tNd8A",
+   "title": "TruthsUncoveredYT",
+   "created": "2026-08-05",
+   "subs": 2980,
+   "shorts_aged": 35,
+   "max": 75242
+  },
+  {
+   "ch": "UCje6fqOoccyjej0LLA1MwMg",
+   "title": "FactoraFacts",
+   "created": "2026-10-20",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCIDoJGK8F6MQZAwTVWIzWjw",
+   "title": "Pawverse Stories",
+   "created": "2025-12-28",
+   "subs": 230000,
+   "shorts_aged": 43,
+   "max": 79597
+  },
+  {
+   "ch": "UCZOnhsMzpGqrahP6iDM7HgQ",
+   "title": "The Stick Lab",
+   "created": "2026-06-08",
+   "subs": 103,
+   "shorts_aged": 5,
+   "max": 1370
+  },
+  {
+   "ch": "UCkNzl3MEaYROpi54_oWDT7A",
+   "title": "DR SEHRAN 🧑‍⚕️",
+   "created": "2026-10-20",
+   "subs": 12,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCex0Bb5ph2Qddq53hTb6sYw",
+   "title": "SecretScope",
+   "created": "2026-04-13",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCqw1E9bvLKCKUk3mNZsU2XA",
+   "title": "Blue Planet Bites",
+   "created": "2026-07-12",
+   "subs": 608,
+   "shorts_aged": 43,
+   "max": 27536
+  },
+  {
+   "ch": "UC2--LULMgNZok2vgt-adauA",
+   "title": "FactoriX",
+   "created": "2026-07-22",
+   "subs": 87,
+   "shorts_aged": 50,
+   "max": 3333
+  }
+ ]
+}

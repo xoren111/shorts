@@ -1,0 +1,55 @@
+{
+ "analyst": "videos_B",
+ "date": "2026-10-25",
+ "videos": ["Eoxim0DO2g4 Pig War", "06A_mm0ZkGw AI farm girl", "kP_YrKlOel8 Conman Russell"],
+ "sources": {
+  "analytics_snapshot": "~/shorts/atlas-ape/analytics/data/2026-10-25/{summary,per_video,sharing,videos}.json",
+  "analytics_repull": "videos_B/repull/analytics_repull.json (07:4x UTC 25.10: still no rows for 06A_mm0ZkGw / kP_YrKlOel8; Pig War still only PT day 22.10)",
+  "data_api_now": "videos_B/repull/data_api_now.json (07:49 UTC) + data_api_poll2.json",
+  "measure": "videos_B/measure_<id>.json (measure.py on the yt-dlp published files), measure_motiononly_<id>.json for videos 1-3",
+  "words": "videos_B/words_<id>.json (whisper large-v3-turbo word timings of the published files)",
+  "pig_retention": "videos_B/pig_retention_per_second.json, pig_retention_mapped.json (tools/pig_retention.py)",
+  "frames": "videos_B/frames/*_strip.jpg (0/0.5/1/2/3 s), *_sheet.jpg (1 fps), pw_dropzone.jpg (4.2-8.0 s), pw_end.jpg (37-41.3 s), pig_variant_cmp.jpg",
+  "studio_numbers_from_memory": "memory atlas-ape-retention.md / atlas-ape-channel.md (owner's Studio screenshots: Pig War stayed 54.1 % at 14 h, 1.2K at 14 h; farm girl 85 views, stayed 39.5 %, AVD 0:20, feed 90.6 % at 18 h)"
+ },
+ "per_video": {
+  "Eoxim0DO2g4": {
+   "short": "pig", "uploaded_file": "ShortFlow variant (AI Flow frames) - frame 3.2 s identical to pig-war/short3/out/FINAL/the_pig_war_v3_flow.mp4, not the drawn the_pig_war_v3.mp4",
+   "title_used": "USA vs BRITISH EMPIRE… Over ONE Pig (UPLOAD.md alternative 1; its first choice was 'Britain Lost an Island Because of a PIG')",
+   "duration_s": 41.4, "age_h": 58.7, "data_api": {"views": 1408, "likes": 36, "comments": 1, "likes_per_view_pct": 2.56},
+   "analytics_pt_day_2026_10_22_only": {"views": 788, "engagedViews": 385, "engaged_pct": 48.9, "avd_s": 29, "avp_pct": 70.38, "likes": 23, "shares": 0, "comments": 1, "subs": 1},
+   "studio_stayed_pct_14h": 54.1,
+   "velocity": "788 in first ~9.8 h (~80/h) -> 1.2K at 14 h (Studio) -> 1,408 at 58.7 h (+208 in 44.7 h = ~4.7/h): one-day spike, no second wave",
+   "traffic_pct": {"SHORTS": 96.3, "YT_SEARCH": 2.5, "OTHER_PAGE": 0.8, "SUBSCRIBER": 0.4},
+   "country_pct_of_788": {"US": 25.3, "PH": 9.9, "ID": 6.2, "IN": 5.7, "MY": 4.7, "CA": 4.3, "GB": 3.0, "KH": 2.8, "AU": 2.2, "US+CA+GB+AU": 34.8, "PH+ID+IN+MY+KH": 29.3},
+   "retention": {"awr_first": 1.288, "awr_10pct": 1.148, "awr_50pct": 0.667, "awr_end": 0.379, "rel_mean": 0.50, "rel_min": 0.405, "rel_end": 0.61, "rel_organic_mean": 0.68,
+    "loss_0_3s": 0.117, "loss_4_7s": 0.253, "loss_4_7s_share_of_total": 27.8, "loss_rate_4_7_per_s": 0.084, "body_rate_10_37_per_s": 0.0113, "loss_38_41s": 0.129, "loss_38_41_share_of_total": 14.2},
+   "measure": {"motion_0_1": 1.08, "motion_0_3": 2.36, "motion_1_6": 5.48, "motion_mean": 4.35, "hard_cuts_per_10s": 0.73, "words_per_s": 2.34, "dead_seconds_lt2": "13/41"},
+   "frame0": "3D relief map (San Juan straits), pills 'Border, 1846', 'USA Washington Territory', later 'BRITISH Vancouver Island', subtitle 'AMERICA'; no living being; first living being = AI pig at ~2.8 s (zoom-through)",
+   "anomaly_spoken_at_s": 3.87, "payoff": "Total casualties: one pig 36.6-38.6 s", "ending": "CTA 'Team farmer, or team pig?' 38.8-41.0 s; loop lands on the map"
+  },
+  "06A_mm0ZkGw": {
+   "short": "farm", "uploaded_file": "matches out/FINAL/sold_everything_ai.mp4 round 6 (32.7 s, calm map ending + CJ meme)",
+   "title_used": "He Sold Everything to Meet Her",
+   "duration_s": 32.7, "age_h": 33.3, "data_api": {"views": 130, "likes": 2, "comments": 0, "likes_per_view_pct": 1.54, "views_per_h": 3.9},
+   "analytics": "no rows yet (API lags; re-pulled 25.10 morning: still empty)",
+   "studio_18h": {"views": 85, "stayed_pct": 39.5, "engaged": 30, "engaged_pct": 35.3, "avd_s": 20, "feed_pct": 90.6},
+   "measure": {"motion_0_1": 13.47, "motion_0_3": 10.85, "motion_1_6": 6.75, "motion_mean": 9.23, "hard_cuts_per_10s": 0.92, "words_per_s": 3.31, "dead_seconds_lt2": "6/32"},
+   "frame0": "AI (Flow) still: man in blue T-shirt smiling at his phone in a dark room, same pose 0.0-2.0 s; motion comes from SOLD stamps popping in",
+   "first_mystery_s": 14.9, "twist_s": 20.26, "twist_pct": 62, "ending": "quote 27.2-30.1 s, CJ 'Ah sh*t, here we go again' meme 30.6-32.7 s, 0.3 s dissolve to frame 0"
+  },
+  "kP_YrKlOel8": {
+   "short": "con", "uploaded_file": "matches 06_Exports/conman-russell/conman_russell_yt.mp4 v3 (43.6 s)",
+   "title_used": "He Escaped Prison Dressed as a Doctor (YOUTUBE.md first choice was 'He Escaped Prison 4 Times Without Breaking a Lock')",
+   "duration_s": 43.6, "age_h": 10.2, "data_api": {"views": 1174, "likes": 24, "comments": 1, "likes_per_view_pct": 2.04, "views_per_h": 115},
+   "analytics": "no rows yet",
+   "measure": {"motion_0_1": 19.61, "motion_0_3": 14.91, "motion_1_6": 10.58, "motion_mean": 6.14, "hard_cuts_per_10s": 0.92, "words_per_s": 3.08, "dead_seconds_lt2": "4/43"},
+   "frame0": "flat vector prisoner in white walks out of an open steel cell door, guard (left) holds it; crash-zoom + light rays; hard cut at 2.67 s to four doors with him walking out of each",
+   "anomaly_spoken_at_s": 3.0, "twist_s": 30.24, "twist_pct": 69, "ending": "VO cut after 'Because…' -> seamless loop into frame 0, no CTA",
+   "same_story_crowd": "02_Research/titles/conman-russell_shorts_2026-10-25.json: 8 Russell escape Shorts since 2026-09-01, median 1,242 views, max 97K; 06_Exports/conman-russell/YOUTUBE.md: one same-story Short 1.06M (BigDanBabys, 32 s)"
+  }
+ },
+ "cross_check": {
+  "motion01_vs_studio_stayed": {"Rabbits": [1.9, 62.6], "Volcano": [4.04, 57.6], "PigWar": [1.08, 54.1], "YellowFleet": [0.72, 42.8], "FarmGirl": [13.47, 39.5], "spearman_rho": -0.10, "note": "N=5; pixel motion in 0-1 s does not predict stayed on this channel"}
+ }
+}

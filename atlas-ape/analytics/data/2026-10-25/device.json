@@ -1,0 +1,31 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "views,averageViewPercentage",
+  "dimensions": "deviceType"
+ },
+ "rows": [
+  {
+   "deviceType": "TABLET",
+   "views": 491,
+   "averageViewPercentage": 52.2
+  },
+  {
+   "deviceType": "DESKTOP",
+   "views": 128,
+   "averageViewPercentage": 77.23
+  },
+  {
+   "deviceType": "TV",
+   "views": 119,
+   "averageViewPercentage": 50.94
+  },
+  {
+   "deviceType": "MOBILE",
+   "views": 3026,
+   "averageViewPercentage": 56.88999999999999
+  }
+ ]
+}

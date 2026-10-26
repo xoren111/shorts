@@ -1,0 +1,959 @@
+[
+ {
+  "name": "volcano_rumble",
+  "file": "sfx/volcano_rumble.wav",
+  "duration": 8.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "deep sub rumble with slow swells, a pitched groan and three distant deep thumps; phone-audible harmonics 70–280 Hz; seamless loop",
+  "loop": true
+ },
+ {
+  "name": "lava_crackle",
+  "file": "sfx/lava_crackle.wav",
+  "duration": 6.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "bubbling, glugging molten rock with crackling, ticking crust over a low molten roar; seamless loop",
+  "loop": true
+ },
+ {
+  "name": "lava_glug",
+  "file": "sfx/lava_glug.wav",
+  "duration": 1.5,
+  "transient_at": 0.02,
+  "source": "procedural",
+  "description": "thick viscous lava bubble pop (at 0) + two smaller glugs (0.42, 0.78 s) and molten splats"
+ },
+ {
+  "name": "bomb_whistle",
+  "file": "sfx/bomb_whistle.wav",
+  "duration": 1.2,
+  "transient_at": 1.2,
+  "source": "procedural",
+  "description": "falling bomb whistle 1.75 kHz → 360 Hz with crescendo and air rush; hard stop at 1.2 s (= where the explosion hits)"
+ },
+ {
+  "name": "explosion_big",
+  "file": "sfx/explosion_big.wav",
+  "duration": 3.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "huge layered explosion: shock crack + pitched sub thump + boom + blast roar + fireball, stones and gravel raining down (0.2–2 s), canyon echoes, long dark tail"
+ },
+ {
+  "name": "explosion_mid",
+  "file": "sfx/explosion_mid.wav",
+  "duration": 2.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "mid-size explosion (bomb hitting lava): crack + boom + short debris rain + echo"
+ },
+ {
+  "name": "explosion_far",
+  "file": "sfx/explosion_far.wav",
+  "duration": 2.0,
+  "transient_at": 0.01,
+  "source": "procedural",
+  "description": "distant, muffled explosion: soft low thud, rolling thunder-like rumble, terrain echoes (no crack)"
+ },
+ {
+  "name": "biplane_flyby",
+  "file": "sfx/biplane_flyby.wav",
+  "duration": 3.5,
+  "transient_at": 1.4,
+  "source": "procedural",
+  "description": "1930s biplane, 9-cyl radial engine + prop beat + wire whistle; physically modelled overhead pass (doppler drop, ground-reflection flanging, left → right) closest at 1.4 s"
+ },
+ {
+  "name": "biplanes_formation",
+  "file": "sfx/biplanes_formation.wav",
+  "duration": 4.0,
+  "transient_at": 1.9,
+  "source": "procedural",
+  "description": "formation of three biplanes (firing 128 / 134 / 140 Hz → audible beating), staggered overhead passes at ≈1.7 / 1.95 / 2.25 s, left → right"
+ },
+ {
+  "name": "whoosh_fast",
+  "file": "sfx/whoosh_fast.wav",
+  "duration": 0.45,
+  "transient_at": 0.2,
+  "source": "procedural",
+  "description": "fast air whoosh with doppler drop, pans left → right; peak at 0.2 s"
+ },
+ {
+  "name": "whoosh_big",
+  "file": "sfx/whoosh_big.wav",
+  "duration": 0.9,
+  "transient_at": 0.45,
+  "source": "procedural",
+  "description": "big heavy whoosh: wide band sweep + low body + sub drop + flutter, pans left → right; peak at 0.45 s (camera moves, globe spins)"
+ },
+ {
+  "name": "whoosh_rev",
+  "file": "sfx/whoosh_rev.wav",
+  "duration": 0.7,
+  "transient_at": 0.7,
+  "source": "procedural",
+  "description": "reverse swell (reversed noise sweep + chord + reverb) sucking into a hard cut at 0.7 s"
+ },
+ {
+  "name": "crash_zoom",
+  "file": "sfx/crash_zoom.wav",
+  "duration": 0.6,
+  "transient_at": 0.4,
+  "source": "procedural",
+  "description": "crash-zoom: rising swish + zoom whine into a low punchy thump at 0.40 s"
+ },
+ {
+  "name": "swish_short",
+  "file": "sfx/swish_short.wav",
+  "duration": 0.25,
+  "transient_at": 0.1,
+  "source": "procedural",
+  "description": "short airy swish with paper friction (panels / text sliding in)"
+ },
+ {
+  "name": "hit_impact",
+  "file": "sfx/hit_impact.wav",
+  "duration": 0.8,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "punchy cinematic hit: crack + pitched sub thump + body + faint low ring + room (text slams, reveals)"
+ },
+ {
+  "name": "stamp",
+  "file": "sfx/stamp.wav",
+  "duration": 0.5,
+  "transient_at": 0.015,
+  "source": "procedural",
+  "description": "rubber stamp slam on paper over a wooden desk (short air, slam, desk ring, lift)"
+ },
+ {
+  "name": "pin_drop",
+  "file": "sfx/pin_drop.wav",
+  "duration": 0.5,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "map pin landing: short boomy thock (wood + sub) with a tiny metallic ring"
+ },
+ {
+  "name": "glitch_hit",
+  "file": "sfx/glitch_hit.wav",
+  "duration": 0.6,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "digital glitch hit: bit-crushed impact, accelerating pitched stutter, data chirps, tape-stop tail"
+ },
+ {
+  "name": "sparkle_ding",
+  "file": "sfx/sparkle_ding.wav",
+  "duration": 1.2,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "bright positive ding: two bell notes E6 → B6 + glittering sparkle pings + shimmer + reverb"
+ },
+ {
+  "name": "tynts",
+  "file": "sfx/tynts.wav",
+  "duration": 0.8,
+  "transient_at": 0.3,
+  "source": "procedural",
+  "description": "comedic \"ba-dum-tss\" button: high tom (0) + low tom (0.14) + bright light cymbal & tiny kick (0.30)"
+ },
+ {
+  "name": "ui_click",
+  "file": "sfx/ui_click.wav",
+  "duration": 0.15,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "[extra · S08 «клик-план»] crisp mechanical click"
+ },
+ {
+  "name": "counter_tick_loop",
+  "file": "sfx/counter_tick_loop.wav",
+  "duration": 3.0,
+  "transient_at": 0.002,
+  "source": "procedural",
+  "description": "rapid mechanical counter ticks, 20 per second, alternating pitch (rolling numbers); seamless loop",
+  "loop": true
+ },
+ {
+  "name": "clock_tick_fast",
+  "file": "sfx/clock_tick_fast.wav",
+  "duration": 2.0,
+  "transient_at": 0.002,
+  "source": "procedural",
+  "description": "fast suspense clock: tick-tock at 5 per second (10 strokes); seamless loop",
+  "loop": true
+ },
+ {
+  "name": "calendar_flip",
+  "file": "sfx/calendar_flip.wav",
+  "duration": 1.2,
+  "transient_at": 0.075,
+  "source": "procedural",
+  "description": "6 quick calendar page flips, one every 0.16 s; each page slaps at 0.075 + k·0.16 s"
+ },
+ {
+  "name": "scoreboard_flip",
+  "file": "sfx/scoreboard_flip.wav",
+  "duration": 0.5,
+  "transient_at": 0.26,
+  "source": "procedural",
+  "description": "split-flap scoreboard: rattle of 9 plastic flaps, final heavy clack at 0.26 s"
+ },
+ {
+  "name": "typewriter_tick",
+  "file": "sfx/typewriter_tick.wav",
+  "duration": 0.15,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "single typewriter key strike (per-letter typing)"
+ },
+ {
+  "name": "record_scratch",
+  "file": "sfx/record_scratch.wav",
+  "duration": 0.6,
+  "transient_at": 0.03,
+  "source": "procedural",
+  "description": "vinyl record scratch: four back-and-forth hand strokes over a music groove, stops dead"
+ },
+ {
+  "name": "trombone_wah",
+  "file": "sfx/trombone_wah.wav",
+  "duration": 1.2,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "sad muted trombone \"wah-wah-wah-waaah\" (B♭3 A3 A♭3 G3, last note wobbles and sags)"
+ },
+ {
+  "name": "riser_short",
+  "file": "sfx/riser_short.wav",
+  "duration": 1.5,
+  "transient_at": 1.4,
+  "source": "procedural",
+  "description": "tension riser: rising filtered noise + tonal sweep + sub swell + reverse-cymbal shimmer with accelerating tremolo; hard cut at 1.40 s, then silence"
+ },
+ {
+  "name": "beep_charge",
+  "file": "sfx/beep_charge.wav",
+  "duration": 1.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "three short electronic charge beeps rising C6 → E6 → G6 (0 / 0.28 / 0.56 s) over a faint capacitor-charge whine"
+ },
+ {
+  "name": "fanfare_hit",
+  "file": "sfx/fanfare_hit.wav",
+  "duration": 1.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "[extra · S14 «фанфарный хит»] triumphant brass stab C-major + timpani + crash (cut it with record_scratch)"
+ },
+ {
+  "name": "alarm_pulse",
+  "file": "sfx/alarm_pulse.wav",
+  "duration": 1.2,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "[extra · E07 «тревожный тон», S31 red pulse] two dark detuned synth pulses (0, 0.5 s) with a faint high warning tone"
+ },
+ {
+  "name": "ping_pong",
+  "file": "sfx/ping_pong.wav",
+  "duration": 0.6,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "[extra · S15 plates flipping «пинг-понг»] two ping-pong ball bounces, left (0) then right (0.28 s)"
+ },
+ {
+  "name": "earth_rumble_dirt",
+  "file": "sfx/earth_rumble_dirt.wav",
+  "duration": 2.0,
+  "transient_at": 0.05,
+  "source": "procedural",
+  "description": "earth movement / dirt wall rising: low rumble, sliding soil, gravel grit, tumbling rocks and a few heavy thuds"
+ },
+ {
+  "name": "dust_puff",
+  "file": "sfx/dust_puff.wav",
+  "duration": 0.8,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "soft dust puff \"pfff\": falling air burst, small low whump, fine sand hiss"
+ },
+ {
+  "name": "fissure_rip",
+  "file": "sfx/fissure_rip.wav",
+  "duration": 2.5,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "ground tearing open: huge crack at 0, cracks running left → right, roaring gas jet swelling in (0.2–0.9 s), deep rumble with phone-audible harmonics"
+ },
+ {
+  "name": "lava_fountain",
+  "file": "sfx/lava_fountain.wav",
+  "duration": 5.0,
+  "transient_at": 0.1,
+  "source": "procedural",
+  "description": "roaring lava fountain: pulsing gas jet, deep rumble, molten splats landing, crackle and hiss"
+ },
+ {
+  "name": "water_hose",
+  "file": "sfx/water_hose.wav",
+  "duration": 4.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "high-pressure water spray: valve burst + sputter at start, hissing jet with turbulence, droplet spatter and splats, low pressure rush"
+ },
+ {
+  "name": "steam_hiss_big",
+  "file": "sfx/steam_hiss_big.wav",
+  "duration": 4.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "seawater hitting lava: steam-explosion whump + crackle burst at 0, huge layered hiss and billowing steam roar, frying sizzle, boiling pops"
+ },
+ {
+  "name": "sizzle_short",
+  "file": "sfx/sizzle_short.wav",
+  "duration": 1.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "short sizzle: \"tssst\" of water on hot rock with frying crackle and a few pops"
+ },
+ {
+  "name": "boat_horn",
+  "file": "sfx/boat_horn.wav",
+  "duration": 2.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "small boat air horn: two toots (0–0.55 s, 0.78–1.65 s), nasal reed tone ≈345 Hz, harbour echo"
+ },
+ {
+  "name": "ship_horn_low",
+  "file": "sfx/ship_horn_low.wav",
+  "duration": 2.5,
+  "transient_at": 0.05,
+  "source": "procedural",
+  "description": "deep ship horn ≈87 Hz (two horns beating), pitch scoop on attack, natural release, harbour echoes off cliffs"
+ },
+ {
+  "name": "boats_engines",
+  "file": "sfx/boats_engines.wav",
+  "duration": 5.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "four small diesel boat engines putt-putting out of the harbour (moving away, slight doppler drop), underwater exhaust burble, bow wash"
+ },
+ {
+  "name": "sea_waves",
+  "file": "sfx/sea_waves.wav",
+  "duration": 6.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "calm night sea: small waves lapping on the harbour stones, low swell, distant wash; seamless loop",
+  "loop": true
+ },
+ {
+  "name": "wind_cold",
+  "file": "sfx/wind_cold.wav",
+  "duration": 6.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "Arctic wind: gusting broadband wind with pitched howl that follows the gusts, faint whistle, icy hiss and low buffeting; seamless loop",
+  "loop": true
+ },
+ {
+  "name": "pop_in",
+  "file": "sfx/pop_in.wav",
+  "duration": 0.3,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "light cartoon pop for the host appearing: rising bubble \"bloop\" + tiny sparkle"
+ },
+ {
+  "name": "pop_out",
+  "file": "sfx/pop_out.wav",
+  "duration": 0.3,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "light cartoon pop for the host leaving: falling \"fwup\" + air puff"
+ },
+ {
+  "name": "seagulls",
+  "file": "sfx/seagulls.wav",
+  "duration": 3.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "two or three gulls far off: descending «kee-ow» calls with harsh overtones"
+ },
+ {
+  "name": "diesel_hum",
+  "file": "sfx/diesel_hum.wav",
+  "duration": 4.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "big ship diesel: slow low thump ~5 Hz on a 55 Hz hum, a little exhaust hiss; loopable",
+  "loop": true
+ },
+ {
+  "name": "jet_flyby",
+  "file": "sfx/jet_flyby.wav",
+  "duration": 3.0,
+  "transient_at": 1.2,
+  "source": "procedural",
+  "description": "fighter jet pass: turbine whine + roar with doppler drop, right → left, closest at 1.2 s"
+ },
+ {
+  "name": "metal_groan",
+  "file": "sfx/metal_groan.wav",
+  "duration": 1.8,
+  "transient_at": 0.1,
+  "source": "procedural",
+  "description": "ship hull groaning as it tilts: slow pitched creak with resonances, deep"
+ },
+ {
+  "name": "bubbles_sink",
+  "file": "sfx/bubbles_sink.wav",
+  "duration": 2.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "big gurgling bubbles rising as something sinks, then a deep bottom thud at 1.5 s"
+ },
+ {
+  "name": "tank_tracks",
+  "file": "sfx/tank_tracks.wav",
+  "duration": 2.5,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "toy-ish tank: clanking tracks (~9/s) over a low engine growl"
+ },
+ {
+  "name": "sandstorm",
+  "file": "sfx/sandstorm.wav",
+  "duration": 4.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "sandstorm: rising wind howl with gusts and a hiss of blowing sand, falls away at the end"
+ },
+ {
+  "name": "plank_creak",
+  "file": "sfx/plank_creak.wav",
+  "duration": 1.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "wooden plank swinging down: long creak then a hollow thunk at 0.45 s"
+ },
+ {
+  "name": "crowd_hey",
+  "file": "sfx/crowd_hey.wav",
+  "duration": 1.4,
+  "transient_at": 0.05,
+  "source": "procedural",
+  "description": "a dozen sailors shout a cheerful «hey!» together, then laugh"
+ },
+ {
+  "name": "ball_kick",
+  "file": "sfx/ball_kick.wav",
+  "duration": 0.6,
+  "transient_at": 0.02,
+  "source": "procedural",
+  "description": "leather ball kicked, then it smacks into a rope net and rustles"
+ },
+ {
+  "name": "sewing_machine",
+  "file": "sfx/sewing_machine.wav",
+  "duration": 1.2,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "old treadle sewing machine: fast needle clatter ~14/s with a whirr"
+ },
+ {
+  "name": "oar_splashes",
+  "file": "sfx/oar_splashes.wav",
+  "duration": 2.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "rowing: oars dip and pull in rhythm (~2.4/s), several boats, water splashes"
+ },
+ {
+  "name": "start_whistle",
+  "file": "sfx/start_whistle.wav",
+  "duration": 0.7,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "referee whistle: one sharp pea-whistle blast with trill"
+ },
+ {
+  "name": "helicopter_pass",
+  "file": "sfx/helicopter_pass.wav",
+  "duration": 2.5,
+  "transient_at": 1.1,
+  "source": "procedural",
+  "description": "big helicopter passing: rotor thump ~5/s + turbine, doppler"
+ },
+ {
+  "name": "crowd_roar",
+  "file": "sfx/crowd_roar.wav",
+  "duration": 3.2,
+  "transient_at": 0.2,
+  "source": "procedural",
+  "description": "big harbour crowd cheering and whistling, swelling"
+ },
+ {
+  "name": "clocks_ticking",
+  "file": "sfx/clocks_ticking.wav",
+  "duration": 3.0,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "a crate of kitchen clocks ticking slightly out of sync, bright little ticks"
+ },
+ {
+  "name": "ship_bell",
+  "file": "sfx/ship_bell.wav",
+  "duration": 2.2,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "ship's bell: one strong ring, bronze partials, long decay"
+ },
+ {
+  "name": "notify_ding",
+  "file": "sfx/notify_ding.wav",
+  "duration": 0.8,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "soft app notification «ding»: two sine tones, gentle"
+ },
+ {
+  "name": "hatch_open",
+  "file": "sfx/hatch_open.wav",
+  "duration": 1.4,
+  "transient_at": 0.0,
+  "source": "procedural",
+  "description": "heavy steel hatch cover lifted by a crane: winch whine, chain rattle, metallic scrape"
+ },
+ {
+  "name": "crate_drop",
+  "file": "sfx/crate_drop.wav",
+  "duration": 0.8,
+  "transient_at": 0.03,
+  "source": "procedural",
+  "description": "wooden crate front falls flat: creak then a big hollow wooden slap with dust"
+ },
+ {
+  "name": "applause_polite",
+  "file": "sfx/applause_polite.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "biplane_flyby_el",
+  "file": "sfx/biplane_flyby_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "boats_engines_el",
+  "file": "sfx/boats_engines_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "bomb_whistle_el",
+  "file": "sfx/bomb_whistle_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "boxing_bell",
+  "file": "sfx/boxing_bell.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "chicken_cluck",
+  "file": "sfx/chicken_cluck.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "coins_jingle",
+  "file": "sfx/coins_jingle.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "crate_thud",
+  "file": "sfx/crate_thud.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "crowd_cheer_short",
+  "file": "sfx/crowd_cheer_short.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "deflate_horn",
+  "file": "sfx/deflate_horn.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "dig_scratch",
+  "file": "sfx/dig_scratch.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "dock_ambience",
+  "file": "sfx/dock_ambience.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "ear_pops",
+  "file": "sfx/ear_pops.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "explosion_big_el",
+  "file": "sfx/explosion_big_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "fissure_rip_el",
+  "file": "sfx/fissure_rip_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "flask_bubble",
+  "file": "sfx/flask_bubble.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "fly_buzz",
+  "file": "sfx/fly_buzz.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "hop_thumps",
+  "file": "sfx/hop_thumps.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "lava_crackle_el",
+  "file": "sfx/lava_crackle_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "lava_fountain_el",
+  "file": "sfx/lava_fountain_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "lid_creak",
+  "file": "sfx/lid_creak.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "scissors_snip",
+  "file": "sfx/scissors_snip.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "ship_horn_low_el",
+  "file": "sfx/ship_horn_low_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "sniff",
+  "file": "sfx/sniff.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "steam_hiss_big_el",
+  "file": "sfx/steam_hiss_big_el.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "tumbleweed",
+  "file": "sfx/tumbleweed.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "wire_scratch",
+  "file": "sfx/wire_scratch.wav",
+  "duration": 0,
+  "transient_at": 0,
+  "source": "procedural",
+  "description": "(rabbits library)"
+ },
+ {
+  "name": "pig_grunt",
+  "file": "sfx/pig_grunt.wav",
+  "duration": 2.75,
+  "transient_at": 0.222,
+  "source": "https://freesound.org/people/wwstudioswastaken/sounds/620085/",
+  "description": "contented pig grunts and snorts while munching (real farm pig): soft chewing, a grunt at 0.1 s, chewing, second grunt ~1.85 s; cute, not aggressive",
+  "loop": false
+ },
+ {
+  "name": "pig_oink",
+  "file": "sfx/pig_oink.wav",
+  "duration": 0.74,
+  "transient_at": 0.058,
+  "source": "https://freesound.org/people/qubodup/sounds/442906/",
+  "description": "one clear cartoon-friendly pig oink (pulsed «o» into a tonal «ink»), dry",
+  "loop": false
+ },
+ {
+  "name": "pig_chew",
+  "file": "sfx/pig_chew.wav",
+  "duration": 1.5,
+  "transient_at": 0.302,
+  "source": "https://freesound.org/people/775noise/sounds/494568/ + https://freesound.org/people/RoofDog/sounds/79243/ + https://opengameart.org/content/crunch-sounds-cucumber + https://freesound.org/people/wwstudioswastaken/sounds/620085/",
+  "description": "crunchy munching of a raw potato/apple: a juicy bite-crunch at 0 s, two crunchy chomps (~0.55 s, ~1.0 s); a real pig chewing underneath for porky wetness",
+  "loop": false
+ },
+ {
+  "name": "musket_shot",
+  "file": "sfx/musket_shot.wav",
+  "duration": 2.7,
+  "transient_at": 0.045,
+  "source": "https://freesound.org/people/bruno.auzet/sounds/538795/",
+  "description": "one black-powder musket/rifle shot outdoors (real muzzle-loader, recorded next to the gun): boomy bang at 0.03 s, natural mountain reverb/echo tail ~2 s; no modern crack",
+  "loop": false
+ },
+ {
+  "name": "birds_flutter",
+  "file": "sfx/birds_flutter.wav",
+  "duration": 1.7,
+  "transient_at": 0.106,
+  "source": "https://freesound.org/people/TRP/sounds/616623/ + https://freesound.org/people/sinewave1kHz/sounds/207387/",
+  "description": "a flock of birds bursting out of a tree: close wing-claps at the start, then a whole pigeon flock flapping away",
+  "loop": false
+ },
+ {
+  "name": "door_bang",
+  "file": "sfx/door_bang.wav",
+  "duration": 1.75,
+  "transient_at": 0.07,
+  "source": "https://freesound.org/people/krnash/sounds/389811/",
+  "description": "wooden door flung open and banging against the wall: hard wooden slam at 0.05 s, rattling ring-out",
+  "loop": false
+ },
+ {
+  "name": "harp_gliss",
+  "file": "sfx/harp_gliss.wav",
+  "duration": 2.3,
+  "transient_at": 1.15,
+  "source": "https://commons.wikimedia.org/wiki/File:Gliss.ogg + https://freesound.org/people/oggraphics/sounds/610703/",
+  "description": "upward angelic harp glissando in C major (real concert harp), bright arpeggio sparkle arriving on top at ~1.15 s, airy ring-out",
+  "loop": false
+ },
+ {
+  "name": "angel_choir",
+  "file": "sfx/angel_choir.wav",
+  "duration": 2.38,
+  "transient_at": 0.126,
+  "source": "https://freesound.org/people/Breviceps/sounds/444491/",
+  "description": "soft heavenly «aaah» choir chord, swells in at 0.05 s, holds, gentle airy release (~2.4 s)",
+  "loop": false
+ },
+ {
+  "name": "banknote",
+  "file": "sfx/banknote.wav",
+  "duration": 0.45,
+  "transient_at": 0.241,
+  "source": "https://freesound.org/people/My%20Name%20Here/sounds/413748/",
+  "description": "paper banknote snapped taut: a light rustle, then a crisp papery snap at ~0.24 s",
+  "loop": false
+ },
+ {
+  "name": "paper_tear",
+  "file": "sfx/paper_tear.wav",
+  "duration": 0.92,
+  "transient_at": 0.543,
+  "source": "https://freesound.org/people/keweldog/sounds/181773/",
+  "description": "a sheet of paper torn in half: one continuous rip, loudest at the end",
+  "loop": false
+ },
+ {
+  "name": "quill_scratch",
+  "file": "sfx/quill_scratch.wav",
+  "duration": 1.12,
+  "transient_at": 0.064,
+  "source": "https://freesound.org/people/marcoman89/sounds/194905/",
+  "description": "quill pen scratching a quick signature on paper (short strokes and a flourish), ~1.1 s",
+  "loop": false
+ },
+ {
+  "name": "fife_drum",
+  "file": "sfx/fife_drum.wav",
+  "duration": 5.13,
+  "transient_at": 0.0,
+  "source": "https://commons.wikimedia.org/wiki/File:The_United_States_Army_Old_Guard_Fife_and_Drum_Corps_-_09_-_Reveille_VariationDrum_CallSlow_ScotchQuick_ScotchYankee_DoodleMont.ogg",
+  "description": "period fife & drum corps playing «Yankee Doodle» (verse lines 1–2 = 4 bars of 2/4 at ~94 bpm); seamless loop",
+  "loop": true
+ },
+ {
+  "name": "marching",
+  "file": "sfx/marching.wav",
+  "duration": 3.0,
+  "transient_at": 0.05,
+  "source": "https://freesound.org/people/josecruz98/sounds/393018/ + https://kenney.nl/assets/impact-sounds",
+  "description": "a troop marching in step on dirt/grass: crunchy multi-boot footfalls every 0.6 s (100 steps/min); seamless 3.0 s loop",
+  "loop": true
+ },
+ {
+  "name": "cannon_roll",
+  "file": "sfx/cannon_roll.wav",
+  "duration": 1.6,
+  "transient_at": 0.0,
+  "source": "https://freesound.org/people/craigsmith/sounds/437078/ + https://commons.wikimedia.org/wiki/File:WWS_Woodenwagon.ogg",
+  "description": "heavy wooden-wheeled cannon carriage rolling: low wooden rumble, axle squeaks and creaks, rattles",
+  "loop": false
+ },
+ {
+  "name": "gunports",
+  "file": "sfx/gunports.wav",
+  "duration": 1.6,
+  "transient_at": 0.06,
+  "source": "https://kenney.nl/assets/impact-sounds + https://kenney.nl/assets/rpg-audio + https://freesound.org/people/CastIronCarousel/sounds/216872/",
+  "description": "five heavy wooden gun-port lids thudding open one after another along a hull (each: short hinge creak + deep wooden thunk), ~1.2 s",
+  "loop": false
+ },
+ {
+  "name": "ship_creak",
+  "file": "sfx/ship_creak.wav",
+  "duration": 4.0,
+  "transient_at": 0.0,
+  "source": "https://freesound.org/people/Walter_Odington/sounds/31574/ + https://freesound.org/people/craigsmith/sounds/480838/ + https://freesound.org/people/Rmutt/sounds/145721/",
+  "description": "wooden sailing ship at anchor: hull timbers creaking, rope/rigging strain, water slapping the hull; seamless 4.0 s loop",
+  "loop": true
+ },
+ {
+  "name": "sails_flap",
+  "file": "sfx/sails_flap.wav",
+  "duration": 2.1,
+  "transient_at": 0.448,
+  "source": "https://freesound.org/people/_earthbound_/sounds/57280/ + https://freesound.org/people/leonelmail/sounds/330638/ + https://freesound.org/people/maryhelena.clark/sounds/554439/",
+  "description": "canvas sail / big flag flapping and luffing in the wind: heavy cloth «whump» snaps every ~0.4 s over a softer flutter and wind bed, ~2 s",
+  "loop": false
+ },
+ {
+  "name": "fireworks",
+  "file": "sfx/fireworks.wav",
+  "duration": 2.7,
+  "transient_at": 1.275,
+  "source": "https://freesound.org/people/Mr%20Sensible/sounds/14742/",
+  "description": "fireworks: mortar launch thumps, a shell burst with crackle at ~0.5 s, a bigger burst at ~1.6 s, crackling tail (real display recorded at <50 m)",
+  "loop": false
+ },
+ {
+  "name": "mug_clink",
+  "file": "sfx/mug_clink.wav",
+  "duration": 1.35,
+  "transient_at": 0.055,
+  "source": "https://freesound.org/people/BogumilaMerc/sounds/835819/ + https://freesound.org/people/sidequesting/sounds/547489/ + https://freesound.org/people/dazza007/sounds/433721/",
+  "description": "ceramic tankards clinking (two mugs, a third right after) + three men saying «Cheers!», ~1.3 s",
+  "loop": false
+ },
+ {
+  "name": "party_laugh",
+  "file": "sfx/party_laugh.wav",
+  "duration": 2.2,
+  "transient_at": 0.0,
+  "source": "https://freesound.org/people/craigsmith/sounds/675043/ + https://freesound.org/people/craigsmith/sounds/480754/",
+  "description": "a small group of men laughing, whooping and cheering at a party, ~2.2 s",
+  "loop": false
+ },
+ {
+  "name": "seasons_whoosh",
+  "file": "sfx/seasons_whoosh.wav",
+  "duration": 1.6,
+  "transient_at": 0.8,
+  "source": "https://freesound.org/people/martian/sounds/403003/ + https://freesound.org/people/bassimat/sounds/867567/",
+  "description": "soft magical time-lapse swirl: airy wind whoosh swelling to ~0.8 s and circling L↔R, glassy chime shimmer on top, gentle tail",
+  "loop": false
+ },
+ {
+  "name": "wind_meadow",
+  "file": "sfx/wind_meadow.wav",
+  "duration": 5.0,
+  "transient_at": 0.0,
+  "source": "https://opengameart.org/content/park-ambiences + https://freesound.org/people/Garuda1982/sounds/639459/",
+  "description": "gentle summer-meadow ambience: soft breeze through the grass, small birds chirping in the distance; seamless 5.0 s loop",
+  "loop": true
+ }
+]

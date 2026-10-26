@@ -1,0 +1,82 @@
+{
+ "animals": {
+  "innertube_pop_90d_lang": 111,
+  "ge_100k": 29,
+  "ge_1m": 10,
+  "ge_1m_channels": 10,
+  "ge_1m_from_ch_lt365d": 6,
+  "max": 34032924
+ },
+ "core_absurd_history": {
+  "innertube_pop_90d_lang": 86,
+  "ge_100k": 25,
+  "ge_1m": 9,
+  "ge_1m_channels": 8,
+  "ge_1m_from_ch_lt365d": 3,
+  "max": 18850047
+ },
+ "de_geschichte": {
+  "innertube_pop_90d_lang": 75,
+  "ge_100k": 15,
+  "ge_1m": 1,
+  "ge_1m_channels": 1,
+  "ge_1m_from_ch_lt365d": 1,
+  "max": 1629591
+ },
+ "es_historias": {
+  "innertube_pop_90d_lang": 109,
+  "ge_100k": 31,
+  "ge_1m": 15,
+  "ge_1m_channels": 13,
+  "ge_1m_from_ch_lt365d": 3,
+  "max": 18686179
+ },
+ "geo_maps": {
+  "innertube_pop_90d_lang": 74,
+  "ge_100k": 23,
+  "ge_1m": 5,
+  "ge_1m_channels": 5,
+  "ge_1m_from_ch_lt365d": 2,
+  "max": 4792496
+ },
+ "mystery_unsolved": {
+  "innertube_pop_90d_lang": 56,
+  "ge_100k": 12,
+  "ge_1m": 6,
+  "ge_1m_channels": 6,
+  "ge_1m_from_ch_lt365d": 3,
+  "max": 16559651
+ },
+ "science_space": {
+  "innertube_pop_90d_lang": 71,
+  "ge_100k": 19,
+  "ge_1m": 10,
+  "ge_1m_channels": 9,
+  "ge_1m_from_ch_lt365d": 6,
+  "max": 13731110
+ },
+ "survival_disaster": {
+  "innertube_pop_90d_lang": 70,
+  "ge_100k": 27,
+  "ge_1m": 9,
+  "ge_1m_channels": 9,
+  "ge_1m_from_ch_lt365d": 3,
+  "max": 58094927
+ },
+ "true_crime": {
+  "innertube_pop_90d_lang": 68,
+  "ge_100k": 19,
+  "ge_1m": 4,
+  "ge_1m_channels": 4,
+  "ge_1m_from_ch_lt365d": 1,
+  "max": 16530891
+ },
+ "whatif_history_maps": {
+  "innertube_pop_90d_lang": 64,
+  "ge_100k": 26,
+  "ge_1m": 3,
+  "ge_1m_channels": 3,
+  "ge_1m_from_ch_lt365d": 0,
+  "max": 1502616
+ }
+}

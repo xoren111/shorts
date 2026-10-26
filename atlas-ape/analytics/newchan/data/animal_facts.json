@@ -1,0 +1,423 @@
+{
+ "niche": "animal_facts",
+ "keywords": [
+  "animal facts",
+  "wildlife facts",
+  "wild animals",
+  "animal fun facts",
+  "animals you didn't know"
+ ],
+ "relevance": "^(?!.*\\b(kids?|nursery|rhymes?|cocomelon|bedtime|toddlers?|moral|cartoon|fails?|story|stories)\\b).*\\b(animals?|wildlife|wild|creatures?|species|predators?|lions?|tigers?|sharks?|snakes?|birds?|elephants?|wolf|wolves|bears?|cats?|dogs?|spiders?|insects?|whales?|crocodiles?|monkeys?|gorillas?|leopards?|cheetahs?|octopus|frogs?|owls?|eagles?|fox|foxes|deer|horses?|ants?|bees?|dolphins?|penguins?|bats?|hippos?|rhinos?|giraffes?|zebras?|kangaroos?|koalas?|pandas?|reptiles?|mammals?)\\b",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:15 UTC",
+ "fresh_uploads": 187,
+ "fresh_uploaders": 164,
+ "new_uploaders": 110,
+ "new_share_of_uploaders": 0.671,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 24,
+ "shorts": 475,
+ "median_views": 2135,
+ "p75_views": 9265,
+ "p90_views": 22242,
+ "share_10k": 0.2442,
+ "share_100k": 0.0126,
+ "share_1m": 0.0042,
+ "ci95_100k": [
+  0.0058,
+  0.0273
+ ],
+ "hits_100k": 6,
+ "hits_1m": 2,
+ "channels_any_100k": 0.083,
+ "channels_any_1m": 0.042,
+ "median_channel_median": 1355,
+ "top": [
+  {
+   "views": 6686366,
+   "title": "Edits Creepy birds 🦅 #shortvideo #creepysound #dangerousdriving",
+   "channel": "Red Barn USA",
+   "ch": "UCKRgHydsyYiHvvWHE0Vrr0w",
+   "url": "https://youtube.com/shorts/GMDOyRli_w4",
+   "age_d": 81
+  },
+  {
+   "views": 1619694,
+   "title": "Edits auraa+9999 Anmials & Birds #shortvideo #usashorts #respect #viral",
+   "channel": "Red Barn USA",
+   "ch": "UCKRgHydsyYiHvvWHE0Vrr0w",
+   "url": "https://youtube.com/shorts/Vc3nQaQ0grY",
+   "age_d": 92
+  },
+  {
+   "views": 722740,
+   "title": "scariest animal sounds #birds #nature #animals #naturelover #shortvideo #usashorts",
+   "channel": "Red Barn USA",
+   "ch": "UCKRgHydsyYiHvvWHE0Vrr0w",
+   "url": "https://youtube.com/shorts/GkcvNbVILg8",
+   "age_d": 72
+  },
+  {
+   "views": 194991,
+   "title": "Creepy birds 🦅 sounds like horror &dangrous #birdsounds #shortvideo",
+   "channel": "Red Barn USA",
+   "ch": "UCKRgHydsyYiHvvWHE0Vrr0w",
+   "url": "https://youtube.com/shorts/I66Ew8f12Gw",
+   "age_d": 84
+  },
+  {
+   "views": 136952,
+   "title": "creepiest animal sounds on earth #birds #animals #creepy",
+   "channel": "Red Barn USA",
+   "ch": "UCKRgHydsyYiHvvWHE0Vrr0w",
+   "url": "https://youtube.com/shorts/WU6HGEgRo7I",
+   "age_d": 70
+  },
+  {
+   "views": 126471,
+   "title": "Dolphins Protected Swimmers From a Great White Shark. #shorts  #animals",
+   "channel": "Wild Vid",
+   "ch": "UCUmzMmPbxZXPG-TJjmtEiSg",
+   "url": "https://youtube.com/shorts/LP8hwzt6pmA",
+   "age_d": 11
+  },
+  {
+   "views": 95990,
+   "title": "The Grandfather of Monkeys? 🐒🧔‍♂️ #shorts",
+   "channel": "GuruGIndiawale",
+   "ch": "UCzM7bFn1zetcn8zcVvc7Mhw",
+   "url": "https://youtube.com/shorts/CsW8GqtvLX4",
+   "age_d": 17
+  },
+  {
+   "views": 70573,
+   "title": "Arabian Cobra: Oman’s Venomous Snake 🐍😱 | Naja Arabica #shorts",
+   "channel": "GuruGIndiawale",
+   "ch": "UCzM7bFn1zetcn8zcVvc7Mhw",
+   "url": "https://youtube.com/shorts/9qLQkk8nBj0",
+   "age_d": 23
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UC6aHxxpiVx6eWJna1NHevxw",
+   "title": "Odd Critter Facts",
+   "created": "2026-10-24",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC9d9L0aDcRn77pM4WdiZv1A",
+   "title": "FactNexus",
+   "created": "2026-10-24",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCUmzMmPbxZXPG-TJjmtEiSg",
+   "title": "Wild Vid",
+   "created": "2026-08-30",
+   "subs": 982,
+   "shorts_aged": 34,
+   "max": 126471
+  },
+  {
+   "ch": "UCmGubbUCOqbFYukZmbBKQAQ",
+   "title": "Wild Kingdom Revealed",
+   "created": "2026-10-15",
+   "subs": 73,
+   "shorts_aged": 6,
+   "max": 1562
+  },
+  {
+   "ch": "UCMQzdNfU8dZ8-X6LzAtjsbA",
+   "title": "World Geographic",
+   "created": "2026-09-26",
+   "subs": 10,
+   "shorts_aged": 1,
+   "max": 1198
+  },
+  {
+   "ch": "UCKfWAAgIULcUwaSXQbZ90yg",
+   "title": "Trio Factx",
+   "created": "2026-01-27",
+   "subs": 4890,
+   "shorts_aged": 14,
+   "max": 25126
+  },
+  {
+   "ch": "UC1zBK4ym_7swUYYwLPBvEnQ",
+   "title": "FactSnack",
+   "created": "2026-10-24",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCA46Fx6DMfhm46UIssN2_2A",
+   "title": "DuoFactx",
+   "created": "2026-10-24",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCw0uU4bNpx3Xt7plJHn1FPQ",
+   "title": "StagRush",
+   "created": "2026-08-30",
+   "subs": 241,
+   "shorts_aged": 40,
+   "max": 5694
+  },
+  {
+   "ch": "UCKRgHydsyYiHvvWHE0Vrr0w",
+   "title": "Red Barn USA",
+   "created": "2026-06-29",
+   "subs": 18900,
+   "shorts_aged": 31,
+   "max": 6686366
+  },
+  {
+   "ch": "UCQUChdjFi3BVu-2VzxfLRGQ",
+   "title": "shorts-facts",
+   "created": "2026-10-19",
+   "subs": 10,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCJ4TNChIiuOTRzdLxXJdX3A",
+   "title": "Animal Quick Facts",
+   "created": "2026-05-22",
+   "subs": 13,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCvg0CJIxGDA8u0eiZJXMkSg",
+   "title": "Lost Chapters",
+   "created": "2026-10-15",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCG4g697DlJL8sojzcxujvlA",
+   "title": "RealFactz Yt ",
+   "created": "2026-03-19",
+   "subs": 1490,
+   "shorts_aged": 45,
+   "max": 25327
+  },
+  {
+   "ch": "UCbhOxy4jIYh1l0-2J7ZYitQ",
+   "title": "WildQuest Discovery",
+   "created": "2026-10-15",
+   "subs": 23,
+   "shorts_aged": 1,
+   "max": 216
+  },
+  {
+   "ch": "UCcM0DCj-Ko7On7lhIR2_dLg",
+   "title": "Wild After Dark",
+   "created": "2026-10-01",
+   "subs": 6,
+   "shorts_aged": 18,
+   "max": 464
+  },
+  {
+   "ch": "UCdr3nrK9Zs525VLRGN2Rryg",
+   "title": "AUGER Wildlife",
+   "created": "2026-10-08",
+   "subs": 24,
+   "shorts_aged": 3,
+   "max": 520
+  },
+  {
+   "ch": "UCpzs2plQUiK4UUlqPRHj_6g",
+   "title": "Snakey",
+   "created": "2026-08-07",
+   "subs": 68,
+   "shorts_aged": 47,
+   "max": 1188
+  },
+  {
+   "ch": "UCY32BtTmlOyIIgVWuWpNIEw",
+   "title": "inFARmation",
+   "created": "2026-08-11",
+   "subs": 15,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCdTr4lMuIrXvMmRhVm60Nhg",
+   "title": "Animal Data Base",
+   "created": "2026-10-15",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCM-c74CWW2Xhe2EOke7Je_A",
+   "title": "Zuheb Wild Life 🐅🌿",
+   "created": "2026-10-14",
+   "subs": 21,
+   "shorts_aged": 2,
+   "max": 2389
+  },
+  {
+   "ch": "UCQeSgB5kKXmbRMUe0-ZEOLg",
+   "title": "Finn Facts",
+   "created": "2026-04-06",
+   "subs": 116,
+   "shorts_aged": 16,
+   "max": 4879
+  },
+  {
+   "ch": "UCi0iGyKd59Mg78R_dGhZZKQ",
+   "title": "Last Nightmare",
+   "created": "2026-04-29",
+   "subs": 2420,
+   "shorts_aged": 30,
+   "max": 7109
+  },
+  {
+   "ch": "UCzM7bFn1zetcn8zcVvc7Mhw",
+   "title": "GuruGIndiawale",
+   "created": "2026-02-12",
+   "subs": 6480,
+   "shorts_aged": 35,
+   "max": 95990
+  },
+  {
+   "ch": "UCw7W3BytHV1dVdkbciQElpA",
+   "title": "Animal Universe",
+   "created": "2026-08-23",
+   "subs": 837,
+   "shorts_aged": 36,
+   "max": 3906
+  },
+  {
+   "ch": "UCleJxIj86ueJ-6LYmhLG03w",
+   "title": "Tiny Tots World ⭐",
+   "created": "2026-10-20",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC3NMoKCEpjq1SR0MYUUC9Qw",
+   "title": "Critterz",
+   "created": "2026-08-30",
+   "subs": 1060,
+   "shorts_aged": 36,
+   "max": 20024
+  },
+  {
+   "ch": "UC5g1fEESWu2k_gDZRvvNSBw",
+   "title": "FaunoraX",
+   "created": "2026-10-06",
+   "subs": 6,
+   "shorts_aged": 2,
+   "max": 1337
+  },
+  {
+   "ch": "UCl2YshkqJYbomaPfeYEw6rg",
+   "title": "Reality Glitch",
+   "created": "2026-10-16",
+   "subs": 13,
+   "shorts_aged": 2,
+   "max": 8
+  },
+  {
+   "ch": "UCCrn0OnZ5HcIU1P025o4MlA",
+   "title": "​Earth Secrets",
+   "created": "2026-10-13",
+   "subs": 52,
+   "shorts_aged": 7,
+   "max": 1342
+  },
+  {
+   "ch": "UCwJTkBEBfJ2ohQo58d31_MA",
+   "title": "Wild Facts Daily",
+   "created": "2026-10-24",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCh_jf3wEBzogZugJc9IwdAA",
+   "title": "Wildlife Facts",
+   "created": "2026-10-23",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCXsOcDkz9xX2ZG7M_hCno0Q",
+   "title": "Care Nature 2.O",
+   "created": "2026-07-02",
+   "subs": 599,
+   "shorts_aged": 43,
+   "max": 43174
+  },
+  {
+   "ch": "UCIyeshl-liDhuKqME0nQ5AA",
+   "title": "Cliphunter",
+   "created": "2026-10-17",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCW6D9h8Ta46V6gKI8GgBCzw",
+   "title": "ZorVexa",
+   "created": "2026-10-16",
+   "subs": 7,
+   "shorts_aged": 1,
+   "max": 1410
+  },
+  {
+   "ch": "UCjzbgVKk_u-SRfNeSVrXgSw",
+   "title": "Uncovered Facts",
+   "created": "2026-09-06",
+   "subs": 283,
+   "shorts_aged": 13,
+   "max": 7177
+  },
+  {
+   "ch": "UCwxgWdUzFMGw6NpMz1mZn5A",
+   "title": "The Rank Room",
+   "created": "2026-07-14",
+   "subs": 15,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCqzfPmtiyR2WJsMR2zfbv3w",
+   "title": "Fact Daily",
+   "created": "2026-10-20",
+   "subs": 31,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC0hHoIeNKhWWnCeXxB_NB6A",
+   "title": "MasFact",
+   "created": "2026-06-20",
+   "subs": 16,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCzki2LvCyniZ2WrLUdugvGw",
+   "title": "Wild Shock",
+   "created": "2026-04-25",
+   "subs": 198,
+   "shorts_aged": 12,
+   "max": 17
+  }
+ ]
+}

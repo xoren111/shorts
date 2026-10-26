@@ -1,0 +1,338 @@
+[
+ {
+  "sec": 0,
+  "awr_start": 1.288,
+  "awr_end": 1.258,
+  "loss": 0.03,
+  "words": "America and Britain",
+  "beat": "map 3D relief, pills Border 1846 / USA / BRITISH, US/UK claim lines"
+ },
+ {
+  "sec": 1,
+  "awr_start": 1.258,
+  "awr_end": 1.197,
+  "loss": 0.061,
+  "words": "Britain almost",
+  "beat": "map 3D relief, pills Border 1846 / USA / BRITISH, US/UK claim lines"
+ },
+ {
+  "sec": 2,
+  "awr_start": 1.197,
+  "awr_end": 1.171,
+  "loss": 0.027,
+  "words": "almost went to war over",
+  "beat": "map 3D relief, pills Border 1846 / USA / BRITISH, US/UK claim lines"
+ },
+ {
+  "sec": 3,
+  "awr_start": 1.171,
+  "awr_end": 1.151,
+  "loss": 0.02,
+  "words": "over one pig",
+  "beat": "AI pig (Flow) before farmhouse + Union Jack"
+ },
+ {
+  "sec": 4,
+  "awr_start": 1.151,
+  "awr_end": 1.049,
+  "loss": 0.102,
+  "words": "pig A farmer",
+  "beat": "AI farmer (Veo) points at pig eating potatoes"
+ },
+ {
+  "sec": 5,
+  "awr_start": 1.049,
+  "awr_end": 0.956,
+  "loss": 0.092,
+  "words": "farmer caught it eating his",
+  "beat": "AI farmer (Veo) points at pig eating potatoes"
+ },
+ {
+  "sec": 6,
+  "awr_start": 0.956,
+  "awr_end": 0.898,
+  "loss": 0.058,
+  "words": "his potatoes so he",
+  "beat": "AI farmer (Veo) points at pig eating potatoes"
+ },
+ {
+  "sec": 7,
+  "awr_start": 0.898,
+  "awr_end": 0.868,
+  "loss": 0.031,
+  "words": "he shot it",
+  "beat": "shot (Veo) + white smoke wipe"
+ },
+ {
+  "sec": 8,
+  "awr_start": 0.868,
+  "awr_end": 0.849,
+  "loss": 0.019,
+  "words": "Problem the farmer",
+  "beat": "US flag card + farmer badge (rays bg)"
+ },
+ {
+  "sec": 9,
+  "awr_start": 0.849,
+  "awr_end": 0.824,
+  "loss": 0.025,
+  "words": "farmer was American",
+  "beat": "US flag card + farmer badge (rays bg)"
+ },
+ {
+  "sec": 10,
+  "awr_start": 0.824,
+  "awr_end": 0.801,
+  "loss": 0.023,
+  "words": "American the pig was",
+  "beat": "VS split farmer | pig"
+ },
+ {
+  "sec": 11,
+  "awr_start": 0.801,
+  "awr_end": 0.797,
+  "loss": 0.003,
+  "words": "was British He",
+  "beat": "VS split farmer | pig"
+ },
+ {
+  "sec": 12,
+  "awr_start": 0.797,
+  "awr_end": 0.787,
+  "loss": 0.01,
+  "words": "He offered10",
+  "beat": "$10 gold coin"
+ },
+ {
+  "sec": 13,
+  "awr_start": 0.787,
+  "awr_end": 0.768,
+  "loss": 0.02,
+  "words": "offered10 the owner wanted",
+  "beat": "owner card AI (Flow) $100"
+ },
+ {
+  "sec": 14,
+  "awr_start": 0.768,
+  "awr_end": 0.759,
+  "loss": 0.009,
+  "words": "wanted 100",
+  "beat": "owner card AI (Flow) $100"
+ },
+ {
+  "sec": 15,
+  "awr_start": 0.759,
+  "awr_end": 0.737,
+  "loss": 0.022,
+  "words": "Worse both countries",
+  "beat": "San Juan island drawn, flags, red/blue halves"
+ },
+ {
+  "sec": 16,
+  "awr_start": 0.737,
+  "awr_end": 0.724,
+  "loss": 0.013,
+  "words": "countries claimed the",
+  "beat": "San Juan island drawn, flags, red/blue halves"
+ },
+ {
+  "sec": 17,
+  "awr_start": 0.724,
+  "awr_end": 0.717,
+  "loss": 0.007,
+  "words": "the island America",
+  "beat": "San Juan island drawn, flags, red/blue halves"
+ },
+ {
+  "sec": 18,
+  "awr_start": 0.717,
+  "awr_end": 0.712,
+  "loss": 0.005,
+  "words": "America sent over",
+  "beat": "drawn blue soldiers 400+"
+ },
+ {
+  "sec": 19,
+  "awr_start": 0.712,
+  "awr_end": 0.689,
+  "loss": 0.023,
+  "words": "over 400 soldiers",
+  "beat": "drawn blue soldiers 400+"
+ },
+ {
+  "sec": 20,
+  "awr_start": 0.689,
+  "awr_end": 0.666,
+  "loss": 0.023,
+  "words": "soldiers Britain",
+  "beat": "drawn warships 70 guns"
+ },
+ {
+  "sec": 21,
+  "awr_start": 0.666,
+  "awr_end": 0.659,
+  "loss": 0.007,
+  "words": "Britain sent five warships",
+  "beat": "drawn warships 70 guns"
+ },
+ {
+  "sec": 22,
+  "awr_start": 0.659,
+  "awr_end": 0.648,
+  "loss": 0.011,
+  "words": "warships The governor",
+  "beat": "drawn governor"
+ },
+ {
+  "sec": 23,
+  "awr_start": 0.648,
+  "awr_end": 0.626,
+  "loss": 0.022,
+  "words": "governor wanted the Americans",
+  "beat": "drawn governor"
+ },
+ {
+  "sec": 24,
+  "awr_start": 0.626,
+  "awr_end": 0.615,
+  "loss": 0.011,
+  "words": "Americans gone The",
+  "beat": "drawn governor"
+ },
+ {
+  "sec": 25,
+  "awr_start": 0.615,
+  "awr_end": 0.606,
+  "loss": 0.009,
+  "words": "The admiral said",
+  "beat": "drawn admiral"
+ },
+ {
+  "sec": 26,
+  "awr_start": 0.606,
+  "awr_end": 0.594,
+  "loss": 0.011,
+  "words": "said no not over",
+  "beat": "AI pig again (circle)"
+ },
+ {
+  "sec": 27,
+  "awr_start": 0.594,
+  "awr_end": 0.58,
+  "loss": 0.014,
+  "words": "over a pig",
+  "beat": "AI pig again (circle)"
+ },
+ {
+  "sec": 28,
+  "awr_start": 0.58,
+  "awr_end": 0.571,
+  "loss": 0.009,
+  "words": "So both sides",
+  "beat": "AI sentries young -> aged"
+ },
+ {
+  "sec": 29,
+  "awr_start": 0.571,
+  "awr_end": 0.558,
+  "loss": 0.013,
+  "words": "sides just stayed",
+  "beat": "AI sentries young -> aged"
+ },
+ {
+  "sec": 30,
+  "awr_start": 0.558,
+  "awr_end": 0.551,
+  "loss": 0.007,
+  "words": "stayed for 12",
+  "beat": "AI sentries young -> aged"
+ },
+ {
+  "sec": 31,
+  "awr_start": 0.551,
+  "awr_end": 0.545,
+  "loss": 0.006,
+  "words": "12 years and partied",
+  "beat": "drawn mugs party"
+ },
+ {
+  "sec": 32,
+  "awr_start": 0.545,
+  "awr_end": 0.536,
+  "loss": 0.009,
+  "words": "partied together Then",
+  "beat": "drawn mugs party"
+ },
+ {
+  "sec": 33,
+  "awr_start": 0.536,
+  "awr_end": 0.532,
+  "loss": 0.003,
+  "words": "Then a German emperor",
+  "beat": "drawn Kaiser"
+ },
+ {
+  "sec": 34,
+  "awr_start": 0.532,
+  "awr_end": 0.531,
+  "loss": 0.001,
+  "words": "emperor settled it The",
+  "beat": "seal"
+ },
+ {
+  "sec": 35,
+  "awr_start": 0.531,
+  "awr_end": 0.525,
+  "loss": 0.006,
+  "words": "The island went to America",
+  "beat": "island -> USA map"
+ },
+ {
+  "sec": 36,
+  "awr_start": 0.525,
+  "awr_end": 0.519,
+  "loss": 0.006,
+  "words": "America Total",
+  "beat": "AI angel pig + Atlas + VS poll"
+ },
+ {
+  "sec": 37,
+  "awr_start": 0.519,
+  "awr_end": 0.508,
+  "loss": 0.011,
+  "words": "Total casualties",
+  "beat": "AI angel pig + Atlas + VS poll"
+ },
+ {
+  "sec": 38,
+  "awr_start": 0.508,
+  "awr_end": 0.485,
+  "loss": 0.023,
+  "words": "one pig Team",
+  "beat": "AI angel pig + Atlas + VS poll"
+ },
+ {
+  "sec": 39,
+  "awr_start": 0.485,
+  "awr_end": 0.454,
+  "loss": 0.03,
+  "words": "Team farmer",
+  "beat": "AI angel pig + Atlas + VS poll"
+ },
+ {
+  "sec": 40,
+  "awr_start": 0.454,
+  "awr_end": 0.382,
+  "loss": 0.073,
+  "words": "farmer or team pig",
+  "beat": "AI angel pig + Atlas + VS poll"
+ },
+ {
+  "sec": 41,
+  "awr_start": 0.382,
+  "awr_end": 0.379,
+  "loss": 0.003,
+  "words": "",
+  "beat": "AI angel pig + Atlas + VS poll"
+ }
+]

@@ -1,0 +1,423 @@
+{
+ "niche": "tech_gadgets",
+ "keywords": [
+  "tech gadgets",
+  "cool gadgets",
+  "iphone tips",
+  "tech facts",
+  "gadgets"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:25 UTC",
+ "fresh_uploads": 192,
+ "fresh_uploaders": 173,
+ "new_uploaders": 91,
+ "new_share_of_uploaders": 0.526,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 29,
+ "shorts": 630,
+ "median_views": 1214,
+ "p75_views": 5287,
+ "p90_views": 24661,
+ "share_10k": 0.1683,
+ "share_100k": 0.0222,
+ "share_1m": 0.0143,
+ "ci95_100k": [
+  0.0133,
+  0.037
+ ],
+ "hits_100k": 14,
+ "hits_1m": 9,
+ "channels_any_100k": 0.103,
+ "channels_any_1m": 0.103,
+ "median_channel_median": 906,
+ "top": [
+  {
+   "views": 11980401,
+   "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget #shorts #gadgets",
+   "channel": "Dere Forge",
+   "ch": "UCFX2PkSINXlxrH_y_Ti5VEA",
+   "url": "https://youtube.com/shorts/VhKhcb2lXHs",
+   "age_d": 21
+  },
+  {
+   "views": 8252119,
+   "title": "Cool gadgets!😍Smart Appliances,New Gadgets, Kitchen Gadgets, Home Gadgets,Inventions🙏 P-1026",
+   "channel": "    Dollify",
+   "ch": "UCPn3VK8OT15Py1L7a7Bw7IQ",
+   "url": "https://youtube.com/shorts/mdsOqwAK4tQ",
+   "age_d": 16
+  },
+  {
+   "views": 7088010,
+   "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget #shorts #gadgets",
+   "channel": "Dere Forge",
+   "ch": "UCFX2PkSINXlxrH_y_Ti5VEA",
+   "url": "https://youtube.com/shorts/_2d7BOqa8Xo",
+   "age_d": 23
+  },
+  {
+   "views": 5688925,
+   "title": "Cool gadgets!😍Smart Appliances,New Gadgets, Kitchen Gadgets, Home Gadgets,Inventions🙏 P-1026",
+   "channel": "    Dollify",
+   "ch": "UCPn3VK8OT15Py1L7a7Bw7IQ",
+   "url": "https://youtube.com/shorts/tQYkhlpVupE",
+   "age_d": 17
+  },
+  {
+   "views": 4112904,
+   "title": "This cute device can decode Morse Codes🤯👀 Can you decode the message? Comment below!",
+   "channel": "nux GADGETS",
+   "ch": "UCmIjyhqfLBfb3k-AACjnuZA",
+   "url": "https://youtube.com/shorts/oMheP7qCmyQ",
+   "age_d": 22
+  },
+  {
+   "views": 3195851,
+   "title": "Cool gadgets!😍Smart Appliances,New Gadgets, Kitchen Gadgets, Home Gadgets,Inventions🙏 P-1026",
+   "channel": "    Dollify",
+   "ch": "UCPn3VK8OT15Py1L7a7Bw7IQ",
+   "url": "https://youtube.com/shorts/uSSyrH1QuOk",
+   "age_d": 16
+  },
+  {
+   "views": 2470024,
+   "title": "Cool gadgets!😍Smart Appliances,New Gadgets, Kitchen Gadgets, Home Gadgets,Inventions🙏 P-1026",
+   "channel": "    Dollify",
+   "ch": "UCPn3VK8OT15Py1L7a7Bw7IQ",
+   "url": "https://youtube.com/shorts/ITjirXxIPBY",
+   "age_d": 17
+  },
+  {
+   "views": 1622025,
+   "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget #shorts #gadgets",
+   "channel": "Dere Forge",
+   "ch": "UCFX2PkSINXlxrH_y_Ti5VEA",
+   "url": "https://youtube.com/shorts/6v8Qu-PtVRo",
+   "age_d": 26
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCtfn54MVH0xxeEL84eiP5qw",
+   "title": "𝐀𝐌𝐎𝐋𝐘𝐘 🫟",
+   "created": "2026-10-11",
+   "subs": 10,
+   "shorts_aged": 19,
+   "max": 1783
+  },
+  {
+   "ch": "UCPn3VK8OT15Py1L7a7Bw7IQ",
+   "title": "    Dollify",
+   "created": "2026-05-18",
+   "subs": 6860,
+   "shorts_aged": 21,
+   "max": 8252119
+  },
+  {
+   "ch": "UCFWImWooXO2UQdv_iQHF2_g",
+   "title": "AlviRaz Gaming Is Back ",
+   "created": "2026-07-29",
+   "subs": 58000,
+   "shorts_aged": 36,
+   "max": 15272
+  },
+  {
+   "ch": "UCsn1F2UepZFQnuTVwfrIEBA",
+   "title": "Tech Curious ",
+   "created": "2026-10-03",
+   "subs": 1,
+   "shorts_aged": 1,
+   "max": 20
+  },
+  {
+   "ch": "UC_AAlcoKCloeFeTuWTgfY8A",
+   "title": "OnlyUsefulGagdets",
+   "created": "2026-10-11",
+   "subs": 5,
+   "shorts_aged": 7,
+   "max": 342
+  },
+  {
+   "ch": "UCVQJnpK4Qz_XO58MU77wOPg",
+   "title": "love sss ",
+   "created": "2026-09-17",
+   "subs": 110000,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCdOFnSeTtwDgWrnJMIBcohQ",
+   "title": "PATENT POP",
+   "created": "2026-09-15",
+   "subs": 24,
+   "shorts_aged": 27,
+   "max": 469
+  },
+  {
+   "ch": "UCMasSMNpSy9O0RYh-oVMKCw",
+   "title": "Viral Empire ",
+   "created": "2026-02-24",
+   "subs": 15000,
+   "shorts_aged": 34,
+   "max": 63067
+  },
+  {
+   "ch": "UC5bLVS1YztIp2dg5UhPPLhQ",
+   "title": "Nova Finds",
+   "created": "2026-10-10",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCkImyc6ft_8FNXCg1KGYL9g",
+   "title": "ClippiClips",
+   "created": "2026-10-24",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCmIjyhqfLBfb3k-AACjnuZA",
+   "title": "nux GADGETS",
+   "created": "2026-03-20",
+   "subs": 1550,
+   "shorts_aged": 24,
+   "max": 4112904
+  },
+  {
+   "ch": "UCeFRja02ey4hUmD3J5B6Xyw",
+   "title": "TechSnap",
+   "created": "2026-10-07",
+   "subs": 13,
+   "shorts_aged": 16,
+   "max": 6309
+  },
+  {
+   "ch": "UCgEcZiT6eKYnJXeVEB3dt_g",
+   "title": "Trend Gadgets",
+   "created": "2026-08-02",
+   "subs": 9,
+   "shorts_aged": 37,
+   "max": 1334
+  },
+  {
+   "ch": "UCBtyubcBiPB-errfD_y8WqQ",
+   "title": "Barbie Dolls",
+   "created": "2026-08-02",
+   "subs": 502,
+   "shorts_aged": 6,
+   "max": 1428
+  },
+  {
+   "ch": "UCHUT7ntu5FRvXMfqxf7VfXQ",
+   "title": "Better Discovers",
+   "created": "2026-09-21",
+   "subs": 99,
+   "shorts_aged": 41,
+   "max": 3815
+  },
+  {
+   "ch": "UChp49BaLWfL9e6kkQRCb0sw",
+   "title": "Tech Compare World",
+   "created": "2026-10-21",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCXZ4-X32v13iYS2vylRDSSg",
+   "title": "Trendy Mini Tools",
+   "created": "2026-09-16",
+   "subs": 5730,
+   "shorts_aged": 31,
+   "max": 36191
+  },
+  {
+   "ch": "UCFuBRq39A1eIevnGBAqcbRw",
+   "title": "Cognitive 01",
+   "created": "2026-10-01",
+   "subs": 33,
+   "shorts_aged": 19,
+   "max": 3498
+  },
+  {
+   "ch": "UCrv9_FTTaI0KaxTyjd-7Mjg",
+   "title": "Ingenia",
+   "created": "2026-10-14",
+   "subs": 0,
+   "shorts_aged": 5,
+   "max": 528
+  },
+  {
+   "ch": "UCt52uBuKnFJVTVrHRvefizg",
+   "title": "Jay dadaji",
+   "created": "2026-09-30",
+   "subs": 339,
+   "shorts_aged": 35,
+   "max": 60350
+  },
+  {
+   "ch": "UC75dQEAHF08alceLCquTyng",
+   "title": "SmartBuy Heaven ",
+   "created": "2026-10-18",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCk25wdSZnBQKGBI_GUJ34mw",
+   "title": "Minute Gadgets",
+   "created": "2026-10-21",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCTkHWJRXn_iNqTPCsGIkxYw",
+   "title": "Us.SmartTechHacks\n\n",
+   "created": "2026-07-23",
+   "subs": 60,
+   "shorts_aged": 37,
+   "max": 2681
+  },
+  {
+   "ch": "UClnlhJuh5j3pu_VCQ3kHT5A",
+   "title": "Miniature World ",
+   "created": "2026-10-17",
+   "subs": 35,
+   "shorts_aged": 5,
+   "max": 16696
+  },
+  {
+   "ch": "UCwOhQJlVrFIewiom1aQOIWg",
+   "title": "Crazy Tales",
+   "created": "2026-03-19",
+   "subs": 257,
+   "shorts_aged": 7,
+   "max": 11300
+  },
+  {
+   "ch": "UCzCah-5PzKz3xXZ-IqVxcbQ",
+   "title": "fatuniverse",
+   "created": "2026-10-08",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCqlPgpSEjeXBlBWN03uUbuw",
+   "title": "Shunon Bro",
+   "created": "2026-02-10",
+   "subs": 2510,
+   "shorts_aged": 22,
+   "max": 24661
+  },
+  {
+   "ch": "UC3utFAdatsYfWoSETmHBXlQ",
+   "title": "Tiny Upgrade",
+   "created": "2026-08-26",
+   "subs": 33,
+   "shorts_aged": 41,
+   "max": 2348
+  },
+  {
+   "ch": "UC68yz4kAfBISZcY39w8vDmA",
+   "title": "UnboxVibe04",
+   "created": "2026-09-09",
+   "subs": 2520,
+   "shorts_aged": 2,
+   "max": 87740
+  },
+  {
+   "ch": "UC8jirLKbkDUA1TRVIC4VZYQ",
+   "title": "techclipz",
+   "created": "2026-10-22",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCPcwB-LJAOqpvuhJ4jSjSGg",
+   "title": "How Tech Works",
+   "created": "2026-10-15",
+   "subs": 17,
+   "shorts_aged": 3,
+   "max": 1068
+  },
+  {
+   "ch": "UCS0wBtrNQrhNqHxRfML1W7g",
+   "title": "Genius Bites ",
+   "created": "2026-10-22",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCRcQ8a6_o-_TrwL_cHbQ0Jg",
+   "title": "Home Trick World",
+   "created": "2026-06-26",
+   "subs": 1180,
+   "shorts_aged": 40,
+   "max": 39062
+  },
+  {
+   "ch": "UCdo-Bbl_uYfoNXHPnViVWcg",
+   "title": "Tech Five Labs",
+   "created": "2026-10-21",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCJ_u-5iHIEnfPOcBsztTMUA",
+   "title": "Fablefy",
+   "created": "2026-02-25",
+   "subs": 1650,
+   "shorts_aged": 25,
+   "max": 9506
+  },
+  {
+   "ch": "UCoKN7V_pZfx4xe7OFk1aNEQ",
+   "title": "Inked Facts",
+   "created": "2026-04-11",
+   "subs": 2420,
+   "shorts_aged": 24,
+   "max": 21522
+  },
+  {
+   "ch": "UCPPAzQiZSCPfwy64gpPqkHQ",
+   "title": "Tekzora X",
+   "created": "2026-09-20",
+   "subs": 12,
+   "shorts_aged": 29,
+   "max": 1136
+  },
+  {
+   "ch": "UCFX2PkSINXlxrH_y_Ti5VEA",
+   "title": "Dere Forge",
+   "created": "2026-09-28",
+   "subs": 478000,
+   "shorts_aged": 9,
+   "max": 11980401
+  },
+  {
+   "ch": "UCkNzl3MEaYROpi54_oWDT7A",
+   "title": "DR SEHRAN 🧑‍⚕️",
+   "created": "2026-10-20",
+   "subs": 12,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCp_q8vbfPJu0qb4EV7--jiw",
+   "title": "Gear Society",
+   "created": "2026-10-04",
+   "subs": 42,
+   "shorts_aged": 27,
+   "max": 1980
+  }
+ ]
+}

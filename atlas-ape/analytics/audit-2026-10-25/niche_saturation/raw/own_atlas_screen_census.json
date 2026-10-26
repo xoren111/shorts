@@ -1,0 +1,11 @@
+{
+ "method": "Manual count from 1-fps contact sheets (sheets/<id>_1fps.jpg, frame k = second k, built with ffmpeg fps=1,tile from scratchpad/own/*.webm). 'Atlas seconds' = sampled seconds in which the orangutan host is visible at any size. Views = Data API 2026-10-25 07:45 UTC (summary.json).",
+ "videos": [
+  {"id": "yR42PjbnqEo", "title": "Humans Picked a Fight With a Volcano", "secs": 77, "atlas_secs": 16, "atlas_share": 0.21, "atlas_frame0": true, "where": "s0-5 host intro, s27-28 small corner, s69-76 scoreboard outro", "styles": "real satellite/DEM 3D, toy-3D village, archival photos, flat cartoon maps", "views": 663},
+  {"id": "w52iSlkYlOg", "title": "Australia Lost to 24 Rabbits", "secs": 63, "atlas_secs": 19, "atlas_share": 0.31, "atlas_frame0": true, "where": "s0-5 ship, s7 corner, s23-24 corner, s52-61 scoreboard outro", "styles": "low-poly 3D, flat icons, archival photos, flat maps", "views": 1154},
+  {"id": "TD53YW6dqoY", "title": "The Longest Traffic Jam in History: 8 YEARS", "secs": 33, "atlas_secs": 6, "atlas_share": 0.19, "atlas_frame0": false, "where": "s26-31 outro only", "styles": "toy-3D ships/people, flat maps", "views": 2312},
+  {"id": "Eoxim0DO2g4", "title": "USA vs BRITISH EMPIRE... Over ONE Pig", "secs": 42, "atlas_secs": 4, "atlas_share": 0.10, "atlas_frame0": false, "where": "s37-40 outro only", "styles": "relief map, AI-photoreal pig/people, flat vector, sunburst cards", "views": 1407},
+  {"id": "06A_mm0ZkGw", "title": "He Sold Everything to Meet Her", "secs": 33, "atlas_secs": 2, "atlas_share": 0.06, "atlas_frame0": false, "where": "s29-30 tiny map icon", "styles": "AI Pixar-like 3D, phone UI mock, map, meme insert", "views": 125},
+  {"id": "kP_YrKlOel8", "title": "He Escaped Prison Dressed as a Doctor", "secs": 44, "atlas_secs": 0, "atlas_share": 0.0, "atlas_frame0": false, "where": "absent", "styles": "flat vector cartoon (single style)", "views": 1174}
+ ]
+}

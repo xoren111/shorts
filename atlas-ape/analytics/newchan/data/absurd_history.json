@@ -1,0 +1,423 @@
+{
+ "niche": "absurd_history",
+ "keywords": [
+  "weird history",
+  "crazy history",
+  "history facts",
+  "true story",
+  "absurd history"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:06 UTC",
+ "fresh_uploads": 212,
+ "fresh_uploaders": 184,
+ "new_uploaders": 109,
+ "new_share_of_uploaders": 0.592,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 29,
+ "shorts": 733,
+ "median_views": 1022,
+ "p75_views": 17320,
+ "p90_views": 76405,
+ "share_10k": 0.2797,
+ "share_100k": 0.0873,
+ "share_1m": 0.0055,
+ "ci95_100k": [
+  0.069,
+  0.11
+ ],
+ "hits_100k": 64,
+ "hits_1m": 4,
+ "channels_any_100k": 0.276,
+ "channels_any_1m": 0.103,
+ "median_channel_median": 1015,
+ "top": [
+  {
+   "views": 3598212,
+   "title": "He ESCAPED North Korea Then Came Back 😰",
+   "channel": "Grey",
+   "ch": "UCqBUXTSVOGiH4RxjanCk5AQ",
+   "url": "https://youtube.com/shorts/r9nwlQKbHFI",
+   "age_d": 58
+  },
+  {
+   "views": 3248108,
+   "title": "She Walked Into A Nazi Checkpoint 😰",
+   "channel": "Grey",
+   "ch": "UCqBUXTSVOGiH4RxjanCk5AQ",
+   "url": "https://youtube.com/shorts/5EDzpNphCjY",
+   "age_d": 56
+  },
+  {
+   "views": 2977140,
+   "title": "What Did Cleopatra REALLY Look Like? #history",
+   "channel": "History with Asly ",
+   "ch": "UCv3zC2xsa87tAA-QtuQQSWA",
+   "url": "https://youtube.com/shorts/L4KYpfaudpY",
+   "age_d": 29
+  },
+  {
+   "views": 2274378,
+   "title": "His Arranged Marriage Surprise #history #facts",
+   "channel": "ARCHIV | HUMAN HISTORY ",
+   "ch": "UCtL7jh7mzX7S-xOAKKwVPYw",
+   "url": "https://youtube.com/shorts/GJQn_rhp_UY",
+   "age_d": 23
+  },
+  {
+   "views": 976552,
+   "title": "That Time Freddie Mercury Snuck Princess Diana into a Gay Bar #history",
+   "channel": "History with Asly ",
+   "ch": "UCv3zC2xsa87tAA-QtuQQSWA",
+   "url": "https://youtube.com/shorts/HCnD-JtwZWs",
+   "age_d": 44
+  },
+  {
+   "views": 805502,
+   "title": "His Mother PUSHED Him Off Train 💔",
+   "channel": "Grey",
+   "ch": "UCqBUXTSVOGiH4RxjanCk5AQ",
+   "url": "https://youtube.com/shorts/gjZDaSmPXXw",
+   "age_d": 54
+  },
+  {
+   "views": 777966,
+   "title": "The Smelliest Royal Wedding in History #history",
+   "channel": "History with Asly ",
+   "ch": "UCv3zC2xsa87tAA-QtuQQSWA",
+   "url": "https://youtube.com/shorts/AlN0PYWckQI",
+   "age_d": 39
+  },
+  {
+   "views": 718173,
+   "title": "Man's IMPOSSIBLE 15 Story Climb 😱",
+   "channel": "Grey",
+   "ch": "UCqBUXTSVOGiH4RxjanCk5AQ",
+   "url": "https://youtube.com/shorts/raCoh1ai3aw",
+   "age_d": 61
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCtSFZ8SA7yHIwukS1QKal6w",
+   "title": "Off the BOOKS",
+   "created": "2026-09-23",
+   "subs": 28,
+   "shorts_aged": 32,
+   "max": 707
+  },
+  {
+   "ch": "UC5TQUCyCo5V8HxDoGPIF0lw",
+   "title": "Aadi_expedition17",
+   "created": "2025-11-10",
+   "subs": 4830,
+   "shorts_aged": 45,
+   "max": 527740
+  },
+  {
+   "ch": "UCepxC0gnTPuvqvYoQS5OgoQ",
+   "title": "Weird History Daily",
+   "created": "2026-09-27",
+   "subs": 15,
+   "shorts_aged": 10,
+   "max": 59
+  },
+  {
+   "ch": "UCR7N8DSmJR0xqazDxdcQSBQ",
+   "title": "THE GREY INK ARCHIVE",
+   "created": "2026-09-30",
+   "subs": 17,
+   "shorts_aged": 10,
+   "max": 2985
+  },
+  {
+   "ch": "UCe-RGuNWJXVVwC24jS8ViFA",
+   "title": "fun food history",
+   "created": "2026-10-19",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCD8v5i7z7AesInfWMyUwPRQ",
+   "title": "ClayHistory",
+   "created": "2026-10-18",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCxdpelm9wT3JXY11MQUDJbA",
+   "title": "TimeLayers",
+   "created": "2026-06-01",
+   "subs": 281,
+   "shorts_aged": 19,
+   "max": 53654
+  },
+  {
+   "ch": "UCMb8cLKpMwKR59n3x0yoryQ",
+   "title": "The Past Files",
+   "created": "2026-09-27",
+   "subs": 9,
+   "shorts_aged": 37,
+   "max": 1199
+  },
+  {
+   "ch": "UCaQWU6vnGE71A61EZLxCW6Q",
+   "title": "Lost Archives",
+   "created": "2026-05-16",
+   "subs": 222,
+   "shorts_aged": 43,
+   "max": 1342
+  },
+  {
+   "ch": "UCZdfN-Qa-KIbXBjazidCylg",
+   "title": "Jj",
+   "created": "2026-10-06",
+   "subs": 15,
+   "shorts_aged": 5,
+   "max": 1527
+  },
+  {
+   "ch": "UCu3MUnISinErPYDPoOqrQmg",
+   "title": "ARTM",
+   "created": "2026-10-23",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCJHhK9lYAEFj590gFaXpVwA",
+   "title": "KiSwipe Motivation",
+   "created": "2026-03-30",
+   "subs": 542,
+   "shorts_aged": 26,
+   "max": 273664
+  },
+  {
+   "ch": "UCKwzM9-qRbuxqlenwc6FO3A",
+   "title": "History Gets Weird",
+   "created": "2026-10-24",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCBsJN11jQ4sVfytDjHjgO1A",
+   "title": "Imperium History",
+   "created": "2026-10-12",
+   "subs": 5,
+   "shorts_aged": 6,
+   "max": 262
+  },
+  {
+   "ch": "UCF41ow_wgbgeF4MPvvFdXVg",
+   "title": "SuperSproutBoomers",
+   "created": "2026-09-20",
+   "subs": 45,
+   "shorts_aged": 34,
+   "max": 1315
+  },
+  {
+   "ch": "UCiNXaoHRBqPRr_z9kdxLZLA",
+   "title": "History Unveiled",
+   "created": "2026-08-24",
+   "subs": 6330,
+   "shorts_aged": 3,
+   "max": 94000
+  },
+  {
+   "ch": "UCKN1-IQewC-xbszULYYPZ5g",
+   "title": "Thomas Raleigh",
+   "created": "2026-07-29",
+   "subs": 547,
+   "shorts_aged": 38,
+   "max": 34665
+  },
+  {
+   "ch": "UCv3zC2xsa87tAA-QtuQQSWA",
+   "title": "History with Asly ",
+   "created": "2025-12-28",
+   "subs": 31000,
+   "shorts_aged": 44,
+   "max": 2977140
+  },
+  {
+   "ch": "UCzG6CZDYPIDmnQRC5d0oU5Q",
+   "title": "Stranger Timeline",
+   "created": "2026-10-24",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC07OQbaY12QwoTjlxXyMR4w",
+   "title": "History Repeats Itself",
+   "created": "2026-07-20",
+   "subs": 145,
+   "shorts_aged": 43,
+   "max": 1063
+  },
+  {
+   "ch": "UC7rVIV-q6VclPgY4fFglumg",
+   "title": "History Beyond Dates",
+   "created": "2026-01-20",
+   "subs": 11100,
+   "shorts_aged": 36,
+   "max": 309993
+  },
+  {
+   "ch": "UC3CFrYnsuiVwMkKCEmVVNDg",
+   "title": "CivilizationVault",
+   "created": "2026-10-21",
+   "subs": 21,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC_9O75ijdJL36EpiRciuewg",
+   "title": "Famously Weird",
+   "created": "2026-10-13",
+   "subs": 189,
+   "shorts_aged": 14,
+   "max": 26870
+  },
+  {
+   "ch": "UCqBUXTSVOGiH4RxjanCk5AQ",
+   "title": "Grey",
+   "created": "2026-04-02",
+   "subs": 96900,
+   "shorts_aged": 27,
+   "max": 3598212
+  },
+  {
+   "ch": "UCi3_z5sYiz2MgA6PFn0FwgA",
+   "title": "HexStory",
+   "created": "2026-07-14",
+   "subs": 39,
+   "shorts_aged": 43,
+   "max": 1189
+  },
+  {
+   "ch": "UCbkdfdNpE4ryXAxK8XG2L6g",
+   "title": "Ani History ",
+   "created": "2026-03-22",
+   "subs": 38,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCtL7jh7mzX7S-xOAKKwVPYw",
+   "title": "ARCHIV | HUMAN HISTORY ",
+   "created": "2026-01-12",
+   "subs": 5210,
+   "shorts_aged": 37,
+   "max": 2274378
+  },
+  {
+   "ch": "UCShPLtfGFBGS4yrKioqAphw",
+   "title": "History Stuff",
+   "created": "2026-07-01",
+   "subs": 4150,
+   "shorts_aged": 40,
+   "max": 12484
+  },
+  {
+   "ch": "UCCrDapF6ITyPc491mNSIKJw",
+   "title": "THeHiddenLedger",
+   "created": "2026-07-23",
+   "subs": 508,
+   "shorts_aged": 43,
+   "max": 2510
+  },
+  {
+   "ch": "UClQflGZ9E6iZLeYPAg8y4gQ",
+   "title": "Curio Quest",
+   "created": "2026-10-19",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCl-DTbS9y-4alf_So7bQMow",
+   "title": "Unopened",
+   "created": "2026-09-24",
+   "subs": 5,
+   "shorts_aged": 5,
+   "max": 48
+  },
+  {
+   "ch": "UCjuaVi90OBedhl0qKKTeRQw",
+   "title": "Joyboy Vault",
+   "created": "2026-05-04",
+   "subs": 10400,
+   "shorts_aged": 22,
+   "max": 563295
+  },
+  {
+   "ch": "UC8nf9TVxaJeJiFOSJGYte_w",
+   "title": "Crazy Facts USA",
+   "created": "2026-10-18",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCuz4RL4QawjLA_B7_U9LciA",
+   "title": "Zippi",
+   "created": "2025-12-07",
+   "subs": 362,
+   "shorts_aged": 8,
+   "max": 34215
+  },
+  {
+   "ch": "UCn9mDGJWPrBA374WkpBNjug",
+   "title": "Pockets of history",
+   "created": "2026-08-03",
+   "subs": 10,
+   "shorts_aged": 3,
+   "max": 879
+  },
+  {
+   "ch": "UCM-cnuAbtBSnbs9W-QvK-tg",
+   "title": "Normal Is Weird",
+   "created": "2026-09-01",
+   "subs": 34,
+   "shorts_aged": 21,
+   "max": 4477
+  },
+  {
+   "ch": "UCS-M2i97c1ZUR3T_Ml_W1IQ",
+   "title": "History Went Sideways",
+   "created": "2026-10-05",
+   "subs": 26,
+   "shorts_aged": 27,
+   "max": 1449
+  },
+  {
+   "ch": "UCNCElIkxghZanUuF_JL-y9A",
+   "title": "History Files Of US",
+   "created": "2026-10-19",
+   "subs": 996,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCg4SfjNU_OkkT1_7KtBRs-Q",
+   "title": "Untaught History",
+   "created": "2026-07-11",
+   "subs": 4,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCMUwKzEP6zOuDsjy8QednSw",
+   "title": "History Index",
+   "created": "2025-12-11",
+   "subs": 4620,
+   "shorts_aged": 12,
+   "max": 669243
+  }
+ ]
+}

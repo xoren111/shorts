@@ -1,0 +1,20 @@
+{
+ "S": 47.95,
+ "N": 49.85,
+ "W": -123.9,
+ "E": -121.7,
+ "zoom": 12,
+ "nx": 4401,
+ "ny": 5701,
+ "dlat": 0.0003333333333333333,
+ "dlon": 0.0005,
+ "lat0": 48.6,
+ "lon0": -122.95,
+ "km_per_deg_lat": 111.13,
+ "km_per_deg_lon": 73.61723684782892,
+ "hmin": -60.0,
+ "hmax": 3284.45703125,
+ "tex": "R = 128 + sdf_m/8 (land > 128), G = 255*sqrt(depth_m/400), B = San Juan Island, A = San Juan Islands group",
+ "source": "AWS Terrain Tiles terrarium z12 (Mapzen/Tilezen joerd; SRTM, USGS 3DEP/NED, GMTED2010, ETOPO1, CDEM)",
+ "bathymetry": "terrarium z8 (\u2248400 m/px; z \u2265 9 tiles have 0 m water here), capped by a shelf profile from the coast"
+}

@@ -1,0 +1,423 @@
+{
+ "niche": "anime",
+ "keywords": [
+  "anime edit",
+  "anime facts",
+  "anime moments",
+  "manga",
+  "anime"
+ ],
+ "relevance": "anime|manga|manhwa|otaku|naruto|sasuke|one ?piece|luffy|zoro|goku|vegeta|dragon ?ball|jujutsu|jjk|gojo|sukuna|demon slayer|tanjiro|bleach|ichigo|attack on titan|\\baot\\b|eren|chainsaw|solo leveling|sung jinwoo|hunter ?x ?hunter|gon|killua|my hero|deku|one punch|saitama|death note|light yagami|frieren|dandadan|spy ?x ?family|bluelock|blue lock|haikyuu|tokyo ghoul|jojo|evangelion|pokemon|ghibli|kakashi|itachi|madara|isekai|waifu|kenjaku|toji|yuji|megumi|nezuko|levi|mikasa|zenitsu|rengoku",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:12 UTC",
+ "fresh_uploads": 200,
+ "fresh_uploaders": 179,
+ "new_uploaders": 54,
+ "new_share_of_uploaders": 0.302,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 31,
+ "shorts": 960,
+ "median_views": 11363,
+ "p75_views": 40574,
+ "p90_views": 174705,
+ "share_10k": 0.5125,
+ "share_100k": 0.1406,
+ "share_1m": 0.0219,
+ "ci95_100k": [
+  0.1201,
+  0.1641
+ ],
+ "hits_100k": 135,
+ "hits_1m": 21,
+ "channels_any_100k": 0.484,
+ "channels_any_1m": 0.29,
+ "median_channel_median": 4501,
+ "top": [
+  {
+   "views": 3052891,
+   "title": "Which Naruto Character Wins? (Naruto, Sasuke, Itachi, Kakashi + 12 more)",
+   "channel": "Chef Bounce",
+   "ch": "UCintxRN9WiUBzj5q6aAIc7w",
+   "url": "https://youtube.com/shorts/jB7o39sgZrA",
+   "age_d": 10
+  },
+  {
+   "views": 2724449,
+   "title": "Which Demon Slayer Character Wins? (Rengoku, Tengen, Akaza, Muzan + 12 more)",
+   "channel": "Chef Bounce",
+   "ch": "UCintxRN9WiUBzj5q6aAIc7w",
+   "url": "https://youtube.com/shorts/-CgfdzU0bmI",
+   "age_d": 8
+  },
+  {
+   "views": 2398118,
+   "title": "Which Jujutsu Kaisen Character Wins? Part 1 (Gojo, Sukuna, Megumi, Toji + 12 more)",
+   "channel": "Chef Bounce",
+   "ch": "UCintxRN9WiUBzj5q6aAIc7w",
+   "url": "https://youtube.com/shorts/c9Xew6OtQOw",
+   "age_d": 13
+  },
+  {
+   "views": 2348565,
+   "title": "The Most Chaotic Cat Café💀 #jujutsukaisen #anime #jjk",
+   "channel": "LEOCH ANIME",
+   "ch": "UCV5Nza6mg55j3r6cGwyqFTA",
+   "url": "https://youtube.com/shorts/adpOCJ7Ebig",
+   "age_d": 8
+  },
+  {
+   "views": 2289792,
+   "title": "The Correct Way to Stand Next to Your Friend | Anime Meme",
+   "channel": "LEOCH ANIME",
+   "ch": "UCV5Nza6mg55j3r6cGwyqFTA",
+   "url": "https://youtube.com/shorts/b0faSBUyK00",
+   "age_d": 16
+  },
+  {
+   "views": 2138194,
+   "title": "She got jealous of his sister 😭 #anime #shorts",
+   "channel": "Anime Void Realm",
+   "ch": "UC-qFsRwclkexgNehMS50gZQ",
+   "url": "https://youtube.com/shorts/IIk2WN7zzSk",
+   "age_d": 22
+  },
+  {
+   "views": 1931005,
+   "title": "You Won't Believe These Demon Slayer First Designs 😱🔥 #demonslayer #anime",
+   "channel": "Anime Zuko",
+   "ch": "UCjb8e_mpji-oyTe96PC5Orw",
+   "url": "https://youtube.com/shorts/2vFVDv9TSXU",
+   "age_d": 94
+  },
+  {
+   "views": 1888113,
+   "title": "A Security Guard Accidentally Hit Neymar’s Daughter—Then This Happened! 😱 #shorts",
+   "channel": "Epic Findings",
+   "ch": "UCH2LFONJ-UbcSEuWeQ9uhyg",
+   "url": "https://youtube.com/shorts/TnBRdBZdqBo",
+   "age_d": 46
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCUFi5CIA3Qj1-MCOfoypJzw",
+   "title": "syam anime otaku ",
+   "created": "2026-07-02",
+   "subs": 10,
+   "shorts_aged": 46,
+   "max": 448
+  },
+  {
+   "ch": "UC7CmQjizPm2sy6XbX_uCIkQ",
+   "title": "Vishalverse",
+   "created": "2025-10-27",
+   "subs": 8300,
+   "shorts_aged": 45,
+   "max": 29114
+  },
+  {
+   "ch": "UC6BQdH2z8LxnS-6GMjyMoig",
+   "title": "Daily Content ",
+   "created": "2026-10-21",
+   "subs": 14,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCeCiTlKDNuJznJqAkaTOKQQ",
+   "title": "Lens & Legacy",
+   "created": "2026-02-25",
+   "subs": 104000,
+   "shorts_aged": 42,
+   "max": 1692238
+  },
+  {
+   "ch": "UCLL9_boid0UJMyo0ESTzoKw",
+   "title": "Ani hub ",
+   "created": "2025-12-26",
+   "subs": 228,
+   "shorts_aged": 29,
+   "max": 21444
+  },
+  {
+   "ch": "UCgDlKSwd1lNjXo-4GO8QcSg",
+   "title": "LumenFlix",
+   "created": "2026-03-07",
+   "subs": 45800,
+   "shorts_aged": 42,
+   "max": 1208738
+  },
+  {
+   "ch": "UCOF-07ksvBTtY1RXld8cQpw",
+   "title": "Titico Anime",
+   "created": "2025-11-17",
+   "subs": 8110,
+   "shorts_aged": 19,
+   "max": 934791
+  },
+  {
+   "ch": "UCeM_A9aMOIrVESwjIrHnveA",
+   "title": "All4Nerds",
+   "created": "2026-10-14",
+   "subs": 17,
+   "shorts_aged": 7,
+   "max": 2856
+  },
+  {
+   "ch": "UCRQDsOiBhkMbR-Lklz0Iyag",
+   "title": "@SceneXHub",
+   "created": "2026-10-23",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCjkCieiCWx5nXLVdbUOY7NA",
+   "title": "♡ 𝕄𝕚𝕠𝕟𝕖𝕒 ♡",
+   "created": "2026-05-01",
+   "subs": 8570,
+   "shorts_aged": 45,
+   "max": 1625876
+  },
+  {
+   "ch": "UCBPMXEUZ8e3WOIa4D4gtWvQ",
+   "title": "Anime Is Science · Servokind",
+   "created": "2026-08-19",
+   "subs": 76,
+   "shorts_aged": 4,
+   "max": 1208
+  },
+  {
+   "ch": "UCjQHwjStpS_05VK6XGXwnsw",
+   "title": "AnimiCut",
+   "created": "2026-05-15",
+   "subs": 15500,
+   "shorts_aged": 31,
+   "max": 987848
+  },
+  {
+   "ch": "UCF7acPXw95AdVlXlF5fUiBg",
+   "title": "RK Andrew yt",
+   "created": "2025-12-13",
+   "subs": 541,
+   "shorts_aged": 13,
+   "max": 10
+  },
+  {
+   "ch": "UCyLG41knPpPkCUA7LGk8Qug",
+   "title": "AnimeVortexX",
+   "created": "2026-10-18",
+   "subs": 11,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UClM0MzfGJ7dRQByl8fyA4cw",
+   "title": "Inkloom AI",
+   "created": "2026-07-30",
+   "subs": 42,
+   "shorts_aged": 43,
+   "max": 2082
+  },
+  {
+   "ch": "UC_VZAjWbmipb4clSMUWsQfg",
+   "title": "Anime edits 7766",
+   "created": "2026-03-22",
+   "subs": 34,
+   "shorts_aged": 5,
+   "max": 1405
+  },
+  {
+   "ch": "UCjb8e_mpji-oyTe96PC5Orw",
+   "title": "Anime Zuko",
+   "created": "2025-11-21",
+   "subs": 29400,
+   "shorts_aged": 29,
+   "max": 1931005
+  },
+  {
+   "ch": "UCiWPrLFnyoDdQNVAjuz3DdQ",
+   "title": "NJJE",
+   "created": "2026-08-08",
+   "subs": 7560,
+   "shorts_aged": 42,
+   "max": 113051
+  },
+  {
+   "ch": "UCCDFuG6ZpQql5gxJAG3plvQ",
+   "title": "Himanshu Sharma6282",
+   "created": "2026-10-22",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCRsVq6NXQeWJMgglTz455Ow",
+   "title": "George Z",
+   "created": "2026-04-11",
+   "subs": 660,
+   "shorts_aged": 33,
+   "max": 6566
+  },
+  {
+   "ch": "UCV5Nza6mg55j3r6cGwyqFTA",
+   "title": "LEOCH ANIME",
+   "created": "2026-05-26",
+   "subs": 10000,
+   "shorts_aged": 40,
+   "max": 2348565
+  },
+  {
+   "ch": "UC_ZOgl_rIlbwQodaYQ3LD8Q",
+   "title": "HikariXen",
+   "created": "2025-11-15",
+   "subs": 2850,
+   "shorts_aged": 48,
+   "max": 31396
+  },
+  {
+   "ch": "UCintxRN9WiUBzj5q6aAIc7w",
+   "title": "Chef Bounce",
+   "created": "2026-09-06",
+   "subs": 15900,
+   "shorts_aged": 38,
+   "max": 3052891
+  },
+  {
+   "ch": "UCaJGNCfkeNIQVdGS0hXxPEg",
+   "title": "The Otaku Vault",
+   "created": "2026-10-19",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCH2LFONJ-UbcSEuWeQ9uhyg",
+   "title": "Epic Findings",
+   "created": "2026-06-03",
+   "subs": 130000,
+   "shorts_aged": 43,
+   "max": 1888113
+  },
+  {
+   "ch": "UCud2EaGvjVjsJyA7gzLeFHg",
+   "title": "AnimeBroTV",
+   "created": "2025-12-25",
+   "subs": 13100,
+   "shorts_aged": 43,
+   "max": 1381442
+  },
+  {
+   "ch": "UCblJ07es2RUoE8L6_AqcesA",
+   "title": "ApexList",
+   "created": "2026-09-16",
+   "subs": 733,
+   "shorts_aged": 25,
+   "max": 364017
+  },
+  {
+   "ch": "UC-qFsRwclkexgNehMS50gZQ",
+   "title": "Anime Void Realm",
+   "created": "2026-04-17",
+   "subs": 6530,
+   "shorts_aged": 47,
+   "max": 2138194
+  },
+  {
+   "ch": "UCAHwcLAGO2MUJUaD_q75PIQ",
+   "title": "EvrythingRanking",
+   "created": "2026-09-16",
+   "subs": 1910,
+   "shorts_aged": 20,
+   "max": 68388
+  },
+  {
+   "ch": "UC6ih-oGzFbWGY2-ZuPC-hQQ",
+   "title": "AnimeXFiles",
+   "created": "2026-03-15",
+   "subs": 1430,
+   "shorts_aged": 31,
+   "max": 417631
+  },
+  {
+   "ch": "UCj2fiYhUxDk-W5Ost_0pgtw",
+   "title": "VELVETX ",
+   "created": "2025-10-31",
+   "subs": 1230,
+   "shorts_aged": 43,
+   "max": 45124
+  },
+  {
+   "ch": "UCUlxP4lMXYNnuoR7poTP3fw",
+   "title": "𝐊𝗼𝗰𝗵𝗼 𝐁𝗹𝗮𝗱𝗲!",
+   "created": "2026-10-19",
+   "subs": 110,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCf6t9cNK-7UHwYE3oEE-Pqw",
+   "title": "AniCube Facts",
+   "created": "2026-02-21",
+   "subs": 762,
+   "shorts_aged": 42,
+   "max": 11335
+  },
+  {
+   "ch": "UCAyraQNIWr7DFIeqIspBIPw",
+   "title": "Anime FactZ",
+   "created": "2026-10-15",
+   "subs": 19,
+   "shorts_aged": 1,
+   "max": 771
+  },
+  {
+   "ch": "UCq2dB7Q2Fv_oUNWJ9Q0jDhQ",
+   "title": "JAKIR X GAMING ",
+   "created": "2025-11-02",
+   "subs": 18100,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCCOS48WbwXX_c-5Exh9tzMA",
+   "title": "ANIVAULT",
+   "created": "2026-07-28",
+   "subs": 50,
+   "shorts_aged": 14,
+   "max": 7167
+  },
+  {
+   "ch": "UCmeUXwP9WxQLfyCgmw-CodQ",
+   "title": "BK Senpai",
+   "created": "2026-06-11",
+   "subs": 1540,
+   "shorts_aged": 37,
+   "max": 303591
+  },
+  {
+   "ch": "UCHqRKMklrBB8hz-NlxwKk5Q",
+   "title": "ANIMEFANfare",
+   "created": "2026-10-19",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCF5WScpGttfhsg2aFujdNyg",
+   "title": "WildToon World",
+   "created": "2026-10-10",
+   "subs": 11,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCM0YfT-McEjzdeomaxuN_Bg",
+   "title": "Collecting Cardboards",
+   "created": "2026-02-08",
+   "subs": 325,
+   "shorts_aged": 13,
+   "max": 2281
+  }
+ ]
+}

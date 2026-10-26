@@ -1,0 +1,901 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/khorengrigoryan/.cache/whisper/ggml-large-v3-turbo.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,050"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 50
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,050",
+				"to": "00:00:00,380"
+			},
+			"offsets": {
+				"from": 50,
+				"to": 380
+			},
+			"text": " This"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,380",
+				"to": "00:00:01,040"
+			},
+			"offsets": {
+				"from": 380,
+				"to": 1040
+			},
+			"text": " football"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,040",
+				"to": "00:00:01,400"
+			},
+			"offsets": {
+				"from": 1040,
+				"to": 1400
+			},
+			"text": " game"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,400",
+				"to": "00:00:01,730"
+			},
+			"offsets": {
+				"from": 1400,
+				"to": 1730
+			},
+			"text": " ended"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,730",
+				"to": "00:00:02,470"
+			},
+			"offsets": {
+				"from": 1730,
+				"to": 2470
+			},
+			"text": " 222"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,470",
+				"to": "00:00:02,630"
+			},
+			"offsets": {
+				"from": 2470,
+				"to": 2630
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,630",
+				"to": "00:00:03,500"
+			},
+			"offsets": {
+				"from": 2630,
+				"to": 3500
+			},
+			"text": " nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,500",
+				"to": "00:00:03,700"
+			},
+			"offsets": {
+				"from": 3500,
+				"to": 3700
+			},
+			"text": " The"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,700",
+				"to": "00:00:04,110"
+			},
+			"offsets": {
+				"from": 3700,
+				"to": 4110
+			},
+			"text": " losers"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,110",
+				"to": "00:00:04,540"
+			},
+			"offsets": {
+				"from": 4110,
+				"to": 4540
+			},
+			"text": " didn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,540",
+				"to": "00:00:04,900"
+			},
+			"offsets": {
+				"from": 4540,
+				"to": 4900
+			},
+			"text": " even"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,900",
+				"to": "00:00:05,050"
+			},
+			"offsets": {
+				"from": 4900,
+				"to": 5050
+			},
+			"text": " have"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,050",
+				"to": "00:00:05,110"
+			},
+			"offsets": {
+				"from": 5050,
+				"to": 5110
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,110",
+				"to": "00:00:05,640"
+			},
+			"offsets": {
+				"from": 5110,
+				"to": 5640
+			},
+			"text": " team."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,100",
+				"to": "00:00:06,150"
+			},
+			"offsets": {
+				"from": 6100,
+				"to": 6150
+			},
+			"text": " But"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,150",
+				"to": "00:00:06,480"
+			},
+			"offsets": {
+				"from": 6150,
+				"to": 6480
+			},
+			"text": " skipping"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,480",
+				"to": "00:00:06,710"
+			},
+			"offsets": {
+				"from": 6480,
+				"to": 6710
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,710",
+				"to": "00:00:07,010"
+			},
+			"offsets": {
+				"from": 6710,
+				"to": 7010
+			},
+			"text": " game"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,010",
+				"to": "00:00:07,460"
+			},
+			"offsets": {
+				"from": 7010,
+				"to": 7460
+			},
+			"text": " meant"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,460",
+				"to": "00:00:07,500"
+			},
+			"offsets": {
+				"from": 7460,
+				"to": 7500
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,500",
+				"to": "00:00:08,600"
+			},
+			"offsets": {
+				"from": 7500,
+				"to": 8600
+			},
+			"text": " $3,000"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,600",
+				"to": "00:00:09,200"
+			},
+			"offsets": {
+				"from": 8600,
+				"to": 9200
+			},
+			"text": " penalty."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,640",
+				"to": "00:00:09,640"
+			},
+			"offsets": {
+				"from": 9640,
+				"to": 9640
+			},
+			"text": " And"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,640",
+				"to": "00:00:09,690"
+			},
+			"offsets": {
+				"from": 9640,
+				"to": 9690
+			},
+			"text": " the"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,690",
+				"to": "00:00:10,020"
+			},
+			"offsets": {
+				"from": 9690,
+				"to": 10020
+			},
+			"text": " other"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,020",
+				"to": "00:00:10,320"
+			},
+			"offsets": {
+				"from": 10020,
+				"to": 10320
+			},
+			"text": " coach"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,320",
+				"to": "00:00:10,730"
+			},
+			"offsets": {
+				"from": 10320,
+				"to": 10730
+			},
+			"text": " wanted"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,730",
+				"to": "00:00:11,440"
+			},
+			"offsets": {
+				"from": 10730,
+				"to": 11440
+			},
+			"text": " revenge."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,860",
+				"to": "00:00:11,910"
+			},
+			"offsets": {
+				"from": 11860,
+				"to": 11910
+			},
+			"text": " They'd"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,910",
+				"to": "00:00:12,420"
+			},
+			"offsets": {
+				"from": 11910,
+				"to": 12420
+			},
+			"text": " crushed"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,420",
+				"to": "00:00:12,640"
+			},
+			"offsets": {
+				"from": 12420,
+				"to": 12640
+			},
+			"text": " his"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,640",
+				"to": "00:00:13,260"
+			},
+			"offsets": {
+				"from": 12640,
+				"to": 13260
+			},
+			"text": " baseball"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,260",
+				"to": "00:00:13,550"
+			},
+			"offsets": {
+				"from": 13260,
+				"to": 13550
+			},
+			"text": " team"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,550",
+				"to": "00:00:14,030"
+			},
+			"offsets": {
+				"from": 13550,
+				"to": 14030
+			},
+			"text": " 22"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,030",
+				"to": "00:00:14,150"
+			},
+			"offsets": {
+				"from": 14030,
+				"to": 14150
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,150",
+				"to": "00:00:14,960"
+			},
+			"offsets": {
+				"from": 14150,
+				"to": 14960
+			},
+			"text": " nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,320",
+				"to": "00:00:15,360"
+			},
+			"offsets": {
+				"from": 15320,
+				"to": 15360
+			},
+			"text": " So"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,360",
+				"to": "00:00:15,370"
+			},
+			"offsets": {
+				"from": 15360,
+				"to": 15370
+			},
+			"text": " they"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,370",
+				"to": "00:00:15,700"
+			},
+			"offsets": {
+				"from": 15370,
+				"to": 15700
+			},
+			"text": " sent"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,700",
+				"to": "00:00:15,850"
+			},
+			"offsets": {
+				"from": 15700,
+				"to": 15850
+			},
+			"text": " law"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,850",
+				"to": "00:00:16,380"
+			},
+			"offsets": {
+				"from": 15850,
+				"to": 16380
+			},
+			"text": " students"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,380",
+				"to": "00:00:16,710"
+			},
+			"offsets": {
+				"from": 16380,
+				"to": 16710
+			},
+			"text": " and"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,710",
+				"to": "00:00:16,860"
+			},
+			"offsets": {
+				"from": 16710,
+				"to": 16860
+			},
+			"text": " frat"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,860",
+				"to": "00:00:17,660"
+			},
+			"offsets": {
+				"from": 16860,
+				"to": 17660
+			},
+			"text": " brothers."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,120",
+				"to": "00:00:18,170"
+			},
+			"offsets": {
+				"from": 18120,
+				"to": 18170
+			},
+			"text": " They"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,170",
+				"to": "00:00:18,500"
+			},
+			"offsets": {
+				"from": 18170,
+				"to": 18500
+			},
+			"text": " never"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,500",
+				"to": "00:00:18,670"
+			},
+			"offsets": {
+				"from": 18500,
+				"to": 18670
+			},
+			"text": " got"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,670",
+				"to": "00:00:18,750"
+			},
+			"offsets": {
+				"from": 18670,
+				"to": 18750
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,750",
+				"to": "00:00:19,260"
+			},
+			"offsets": {
+				"from": 18750,
+				"to": 19260
+			},
+			"text": " single"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,260",
+				"to": "00:00:19,680"
+			},
+			"offsets": {
+				"from": 19260,
+				"to": 19680
+			},
+			"text": " first"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,680",
+				"to": "00:00:20,300"
+			},
+			"offsets": {
+				"from": 19680,
+				"to": 20300
+			},
+			"text": " down."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,620",
+				"to": "00:00:20,670"
+			},
+			"offsets": {
+				"from": 20620,
+				"to": 20670
+			},
+			"text": " A"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,670",
+				"to": "00:00:21,050"
+			},
+			"offsets": {
+				"from": 20670,
+				"to": 21050
+			},
+			"text": " reporter"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,050",
+				"to": "00:00:21,460"
+			},
+			"offsets": {
+				"from": 21050,
+				"to": 21460
+			},
+			"text": " joked"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,460",
+				"to": "00:00:22,020"
+			},
+			"offsets": {
+				"from": 21460,
+				"to": 22020
+			},
+			"text": " their"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,020",
+				"to": "00:00:22,210"
+			},
+			"offsets": {
+				"from": 22020,
+				"to": 22210
+			},
+			"text": " best"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,210",
+				"to": "00:00:22,540"
+			},
+			"offsets": {
+				"from": 22210,
+				"to": 22540
+			},
+			"text": " play"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,540",
+				"to": "00:00:22,790"
+			},
+			"offsets": {
+				"from": 22540,
+				"to": 22790
+			},
+			"text": " was"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,790",
+				"to": "00:00:22,870"
+			},
+			"offsets": {
+				"from": 22790,
+				"to": 22870
+			},
+			"text": " a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,870",
+				"to": "00:00:23,530"
+			},
+			"offsets": {
+				"from": 22870,
+				"to": 23530
+			},
+			"text": " six-yard"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,530",
+				"to": "00:00:24,200"
+			},
+			"offsets": {
+				"from": 23530,
+				"to": 24200
+			},
+			"text": " loss."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,620",
+				"to": "00:00:24,690"
+			},
+			"offsets": {
+				"from": 24620,
+				"to": 24690
+			},
+			"text": " Final"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,690",
+				"to": "00:00:25,370"
+			},
+			"offsets": {
+				"from": 24690,
+				"to": 25370
+			},
+			"text": " score,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,370",
+				"to": "00:00:26,250"
+			},
+			"offsets": {
+				"from": 25370,
+				"to": 26250
+			},
+			"text": " 222"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,250",
+				"to": "00:00:26,440"
+			},
+			"offsets": {
+				"from": 26250,
+				"to": 26440
+			},
+			"text": " to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,440",
+				"to": "00:00:27,460"
+			},
+			"offsets": {
+				"from": 26440,
+				"to": 27460
+			},
+			"text": " nothing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,800",
+				"to": "00:00:27,850"
+			},
+			"offsets": {
+				"from": 27800,
+				"to": 27850
+			},
+			"text": " The"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,850",
+				"to": "00:00:28,260"
+			},
+			"offsets": {
+				"from": 27850,
+				"to": 28260
+			},
+			"text": " coach?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,540",
+				"to": "00:00:28,590"
+			},
+			"offsets": {
+				"from": 28540,
+				"to": 28590
+			},
+			"text": " John"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,590",
+				"to": "00:00:29,300"
+			},
+			"offsets": {
+				"from": 28590,
+				"to": 29300
+			},
+			"text": " Heisman."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,620",
+				"to": "00:00:29,670"
+			},
+			"offsets": {
+				"from": 29620,
+				"to": 29670
+			},
+			"text": ""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,670",
+				"to": "00:00:29,820"
+			},
+			"offsets": {
+				"from": 29670,
+				"to": 29820
+			},
+			"text": " The"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,820",
+				"to": "00:00:30,280"
+			},
+			"offsets": {
+				"from": 29820,
+				"to": 30280
+			},
+			"text": " Heisman"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,280",
+				"to": "00:00:30,680"
+			},
+			"offsets": {
+				"from": 30280,
+				"to": 30680
+			},
+			"text": " Trophy"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,680",
+				"to": "00:00:30,810"
+			},
+			"offsets": {
+				"from": 30680,
+				"to": 30810
+			},
+			"text": " is"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,810",
+				"to": "00:00:31,160"
+			},
+			"offsets": {
+				"from": 30810,
+				"to": 31160
+			},
+			"text": " named"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,160",
+				"to": "00:00:31,490"
+			},
+			"offsets": {
+				"from": 31160,
+				"to": 31490
+			},
+			"text": " after"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,490",
+				"to": "00:00:31,780"
+			},
+			"offsets": {
+				"from": 31490,
+				"to": 31780
+			},
+			"text": " him."
+		}
+	]
+}

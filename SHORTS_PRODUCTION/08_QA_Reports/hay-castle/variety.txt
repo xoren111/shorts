@@ -1,0 +1,14 @@
+variety check: out/FINAL/hay_castle_yt.mp4 · slug hay-castle · channel atlas-ape · window 5 · registry /Users/khorengrigoryan/shorts/SHORTS_PRODUCTION/06_Exports/_variety_registry → conman-russell (2026-10-25), ai-farm-girl (2026-10-24), football-222 (2026-10-23), pig-war (2026-10-23), yellow-fleet (2026-10-22)
+  D at 0/1/2 s vs conman-russell   0.504m@-0.17  0.512m@-0.23  0.532@+0.10
+  D at 0/1/2 s vs ai-farm-girl     0.526@+0.30  0.528m@-0.13  0.532m@+0.47
+  D at 0/1/2 s vs football-222     0.520m@-0.23  0.498m@+0.33  0.549@+0.20
+  D at 0/1/2 s vs pig-war          0.518@-0.37  0.531@-0.03  0.511m@+0.40
+  D at 0/1/2 s vs yellow-fleet     0.494@+0.40  0.516  0.522@+0.30
+previous Short on the channel: conman-russell (2026-10-25, delivered)
+  its  «Визуальная идея: стена камеры с зарубками — счётчик побегов: каждая новая зарубка — портал в мультяшную сценку трюка, между сценками тюремные бланки со штампами и одно настоящее фото тюрьмы Хьюстона» / «Кадр 0: рисунок, человек: заключённый в белой робе спокойно выходит из распахнутой стальной двери тюрьмы, руки в карманах, охранник придерживает ему дверь; шаг и наезд камеры с 0.0 s»
+  this «Визуальная идея: Стена из тюков работает как занавес: код то просвечивает её рентгеном, то роняет домино, а сквозной таймер «4 YEARS» над тюками держит ставку героя на виду. На развороте таймер не обнуляется: оказывается, он вообще ещё не запускался, а сам тюк превращается в кирпич стройки.» / «Кадр 0: рисунок, человек: фермер в сапогах на шатающейся лестнице заталкивает последний тюк в стену из сена высотой с дом, из щели торчит ствол пушки на дорогу; тюк влетает на 0.3 s, лестница качается»
+  → QA D2 (manual): frame-0 type (H14: who + material, always inside H1) and main visual device must differ from the previous Short
+sheet → /Users/khorengrigoryan/shorts/SHORTS_PRODUCTION/08_QA_Reports/hay-castle/variety_sheet.jpg
+OK frame 0: nearest yellow-fleet D 0.494 @+0.40 s (ERROR ≤ 0.10, WARNING ≤ 0.35; time search ±0.5 s)
+OK EDIT_PLAN lines differ from the last 5 Shorts (closest: «Кадр 0» of conman-russell, similarity 0.10 < 0.35)
+PASS variety: frame 0: nearest yellow-fleet D 0.494 @+0.40 s (ERROR ≤ 0.10, WARNING ≤ 0.35; time search ±0.5 s); EDIT_PLAN lines differ from the last 5 Shorts (closest: «Кадр 0» of conman-russell, similarity 0.10 < 0.35)

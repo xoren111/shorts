@@ -1,0 +1,10 @@
+0:00.00  Sound_Effects/comedic/sfx_dizzy_whistle_birds_freesound_403002.wav
+0:02.08  Sound_Effects/glitch/sfx_glitch_tape_rewind_freesound_753653.wav
+0:06.59  Sound_Effects/paper_typing_camera/sfx_typewriter_bell_freesound_318687.wav
+0:08.48  Sound_Effects/riser/sfx_riser_build_noise_synth_freesound_334525.wav
+0:17.48  Sound_Effects/riser/sfx_riser_reverse_impact_freesound_244249.wav
+0:33.05  Sound_Effects/riser/sfx_riser_wind_rising_freesound_403003.wav
+0:45.48  Sound_Effects/tension_stinger/sfx_drum_roll_snare_freesound_111653.wav
+0:59.05  Sound_Effects/tension_stinger/sfx_heartbeat_97bpm_freesound_688735.wav
+1:09.95  Sound_Effects/tension_stinger/sfx_heartbeat_deep_bass_freesound_595050.wav
+1:15.89  Sound_Effects/whoosh/sfx_whoosh_zoom_warp_in_freesound_735062.wav

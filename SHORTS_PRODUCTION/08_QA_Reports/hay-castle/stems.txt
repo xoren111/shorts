@@ -1,0 +1,2 @@
+final_mix.wav -14.0 LUFS
+music_ducked.wav -41.2 LUFS

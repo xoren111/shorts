@@ -1,0 +1,309 @@
+[
+ {
+  "name": "H3",
+  "id": "H3",
+  "src": "assets/raw/A/commons-Pigs_Love_Watermelon/src.webm",
+  "t0": 16.24,
+  "t1": 18.45,
+  "crop": [
+   0,
+   0,
+   2160,
+   3840
+  ],
+  "meta": {
+   "page": "https://commons.wikimedia.org/wiki/File:Pigs_Love_Watermelon.webm",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pigs_Love_Watermelon.webm",
+   "title": "Pigs Love Watermelon",
+   "author": "Two Drs Homestead (YouTube, via Wikimedia Commons)",
+   "author_url": "https://www.youtube.com/@twodrshomestead",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "attribution": "\"Pigs Love Watermelon\" by Two Drs Homestead, CC BY 3.0, via Wikimedia Commons",
+   "attribution_required": true,
+   "youtube_original": "https://www.youtube.com/watch?v=RY_8iRuQ7GQ",
+   "desc": "Muddy ginger-and-grey farm pig walks right up to the lens chewing watermelon, mouth open, tongue out, looking straight into camera (vertical phone shot).",
+   "note": "Only 2.2 s: the source cuts at 16.22 s and the pig bumps the lens after 18.5 s. Best 1.5 s: clip 0.0-1.5 (approach + chewing) or 0.4-1.9 (closest, tongue)."
+  }
+ },
+ {
+  "name": "H3_alt1",
+  "id": "H3",
+  "src": "assets/raw/A/pexels-27046428/src.mp4",
+  "t0": 1.0,
+  "t1": 7.0,
+  "crop": [
+   1121,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/a-pig-is-eating-grass-in-the-grass-27046428/",
+   "url": "https://videos.pexels.com/video-files/27046428/12055694_3840_2160_25fps.mp4",
+   "title": "A pig is eating grass in the grass",
+   "author": "Magda Ehlers",
+   "author_url": "https://www.pexels.com/@magda-ehlers-pexels/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Ginger spotted piglet grazing head-on toward the camera, chewing grass, sunny lawn (4K)."
+  }
+ },
+ {
+  "name": "A2",
+  "id": "A2",
+  "src": "assets/raw/A/commons-Pigs_Love_Watermelon/src.webm",
+  "t0": 3.6,
+  "t1": 9.6,
+  "crop": [
+   0,
+   0,
+   2160,
+   3840
+  ],
+  "meta": {
+   "page": "https://commons.wikimedia.org/wiki/File:Pigs_Love_Watermelon.webm",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pigs_Love_Watermelon.webm",
+   "title": "Pigs Love Watermelon",
+   "author": "Two Drs Homestead (YouTube, via Wikimedia Commons)",
+   "author_url": "https://www.youtube.com/@twodrshomestead",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "attribution": "\"Pigs Love Watermelon\" by Two Drs Homestead, CC BY 3.0, via Wikimedia Commons",
+   "attribution_required": true,
+   "youtube_original": "https://www.youtube.com/watch?v=RY_8iRuQ7GQ",
+   "desc": "Same watermelon pigs as H3: extreme close-up munching watermelon; at clip 2.1-2.6 s the pig lifts its wet snout right into the lens (sniff), then goes back to eating.",
+   "note": "Callback to H3 (same video, different shot). Snout-in-lens moment = source 5.7-6.2 s."
+  }
+ },
+ {
+  "name": "A2_alt1",
+  "id": "A2",
+  "src": "assets/raw/A/pixabay-72320/src.mp4",
+  "t0": 2.5,
+  "t1": 7.5,
+  "crop": [
+   1313,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://pixabay.com/videos/wool-pig-pig-piglet-livestock-72320/",
+   "url": "https://cdn.pixabay.com/video/2021/04/26/72320-541904810_large.mp4",
+   "title": "Wool Pig, pig, piglet (Pixabay 72320)",
+   "author": "RoyBuri",
+   "author_url": "https://pixabay.com/users/royburi-3128024/",
+   "licence": "Pixabay Content License (free for commercial use, no attribution required)",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "desc": "Low ground-level shot: curly black-and-tan Mangalica 'wool pigs' walk up and sniff the camera, blue sky."
+  }
+ },
+ {
+  "name": "F1",
+  "id": "F1",
+  "src": "assets/raw/A/pixabay-72323/src.mp4",
+  "t0": 4.0,
+  "t1": 10.0,
+  "crop": [
+   2158,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://pixabay.com/videos/wool-pig-pig-piglet-agriculture-72323/",
+   "url": "https://cdn.pixabay.com/video/2021/04/26/72323-541904817_large.mp4",
+   "title": "Wool Pig, pig, piglet (Pixabay 72323)",
+   "author": "RoyBuri",
+   "author_url": "https://pixabay.com/users/royburi-3128024/",
+   "licence": "Pixabay Content License (free for commercial use, no attribution required)",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "desc": "Ground-level close-up: spotted farm pigs rooting and digging in loose field soil with their snouts, blue sky behind (4K)."
+  }
+ },
+ {
+  "name": "F1_alt1",
+  "id": "F1",
+  "src": "assets/raw/A/pexels-26775351/src.mp4",
+  "t0": 6.0,
+  "t1": 12.0,
+  "crop": [
+   1000,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/a-wild-boar-digging-in-the-dirt-26775351/",
+   "url": "https://videos.pexels.com/video-files/26775351/12005052_3840_2160_30fps.mp4",
+   "title": "A wild boar digging in the dirt",
+   "author": "Mika Mark",
+   "author_url": "https://www.pexels.com/@mika-mark-51669800/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Close-up of a (wild) boar rooting its snout deep into dark garden soil (4K)."
+  }
+ },
+ {
+  "name": "F2",
+  "id": "F2",
+  "src": "assets/raw/A/pexels-28190229/src.mp4",
+  "t0": 0.0,
+  "t1": 5.37,
+  "crop": [
+   100,
+   0,
+   608,
+   1080
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/papa-28190229/",
+   "url": "https://videos.pexels.com/video-files/28190229/12322386_1920_1080_30fps.mp4",
+   "title": "papa",
+   "author": "Antonio Tique",
+   "author_url": "https://www.pexels.com/@antonio-tique-1658244228/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Low-angle close-up of freshly dug red potatoes lying in dark soil, hills and cloudy sky behind (farmer kept out of the 9:16 window)."
+  }
+ },
+ {
+  "name": "F2_alt1",
+  "id": "F2",
+  "src": "assets/raw/A/pexels-7312343/src.mp4",
+  "t0": 30.3,
+  "t1": 35.0,
+  "crop": [
+   700,
+   0,
+   608,
+   1080
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/people-harvesting-potato-7312343/",
+   "url": "https://videos.pexels.com/video-files/7312343/7312343-hd_1920_1080_25fps.mp4",
+   "title": "People Harvesting Potato",
+   "author": "Rizo Zori",
+   "author_url": "https://www.pexels.com/@rizo-zori-41368706/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Close: gloved hand picks yellow potatoes out of dark soil into a red net, more tubers lying around."
+  }
+ },
+ {
+  "name": "F2_alt2",
+  "id": "F2",
+  "src": "assets/raw/A/pexels-30484795/src.mp4",
+  "t0": 8.0,
+  "t1": 14.0,
+  "crop": [
+   1236,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/pigs-grazing-outdoors-in-rural-oslo-30484795/",
+   "url": "https://videos.pexels.com/video-files/30484795/13063122_3840_2160_24fps.mp4",
+   "title": "Pigs Grazing Outdoors in Rural Oslo",
+   "author": "Dominik Gryzbon",
+   "author_url": "https://www.pexels.com/@gryziu/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Pink farm pig munching vegetable scraps on garden soil, head close to camera (4K)."
+  }
+ },
+ {
+  "name": "F5",
+  "id": "F5",
+  "src": "assets/raw/A/pixabay-176712/src.mp4",
+  "t0": 0.3,
+  "t1": 7.3,
+  "crop": [
+   1198,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://pixabay.com/videos/pig-pork-mammal-animal-park-176712/",
+   "url": "https://cdn.pixabay.com/video/2023/08/18/176712-856056300_large.mp4",
+   "title": "Pig, Pork, Mammal (Pixabay 176712)",
+   "author": "Kaffeesüchtig",
+   "author_url": "https://pixabay.com/users/kaffeesüchtig-19168820/",
+   "licence": "Pixabay Content License (free for commercial use, no attribution required)",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "desc": "Frontal close-up of a black pig standing in the sun, looking straight into the camera (4K)."
+  }
+ },
+ {
+  "name": "F5_alt1",
+  "id": "F5",
+  "src": "assets/raw/A/pexels-37659261/src.mp4",
+  "t0": 0.0,
+  "t1": 4.5,
+  "crop": [
+   1198,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/farm-pig-roaming-freely-outdoors-37659261/",
+   "url": "https://videos.pexels.com/video-files/37659261/15964166_3840_2160_25fps.mp4",
+   "title": "Farm Pig Roaming Freely Outdoors",
+   "author": "Magda Ehlers",
+   "author_url": "https://www.pexels.com/@magda-ehlers-pexels/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Black-and-white pot-bellied pig trots straight toward the camera across a sunny sand yard (4K)."
+  }
+ },
+ {
+  "name": "E1",
+  "id": "E1",
+  "src": "assets/raw/A/pexels-37659261/src.mp4",
+  "t0": 9.0,
+  "t1": 16.4,
+  "crop": [
+   1536,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/farm-pig-roaming-freely-outdoors-37659261/",
+   "url": "https://videos.pexels.com/video-files/37659261/15964166_3840_2160_25fps.mp4",
+   "title": "Farm Pig Roaming Freely Outdoors",
+   "author": "Magda Ehlers",
+   "author_url": "https://www.pexels.com/@magda-ehlers-pexels/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Same black-and-white pot-bellied pig lying calmly on warm sand, head on the right, almost static (4K)."
+  }
+ },
+ {
+  "name": "E1_alt1",
+  "id": "E1",
+  "src": "assets/raw/A/pexels-37659262/src.mp4",
+  "t0": 8.0,
+  "t1": 16.0,
+  "crop": [
+   960,
+   0,
+   1215,
+   2160
+  ],
+  "meta": {
+   "page": "https://www.pexels.com/video/peaceful-pig-relaxing-in-warm-sunlight-37659262/",
+   "url": "https://videos.pexels.com/video-files/37659262/15964182_3840_2160_25fps.mp4",
+   "title": "Peaceful Pig Relaxing in Warm Sunlight",
+   "author": "Magda Ehlers",
+   "author_url": "https://www.pexels.com/@magda-ehlers-pexels/",
+   "licence": "Pexels License (free for commercial use, no attribution required)",
+   "licence_url": "https://www.pexels.com/license/",
+   "desc": "Same pig asleep in the sun, close-up of its face; a little bird hops by its belly (4K)."
+  }
+ }
+]

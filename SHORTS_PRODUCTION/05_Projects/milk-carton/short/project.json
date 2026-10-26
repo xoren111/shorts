@@ -1,0 +1,101 @@
+{
+ "slug": "milk-carton",
+ "channel": "atlas-ape",
+ "level": "L2",
+ "library_root": "/Users/khorengrigoryan/shorts/SHORTS_PRODUCTION",
+ "vo": "vo_constantino_C1.wav",
+ "vo_note": "ElevenLabs PAID (atlas-ape/.env.elevenlabs_paid), Constantino ApsbCjXt5HguctE80a0i, eleven_v4, speed 1.0, pauses 0.15 s (vo_paid/tight.py, KEEP hush 0.30 / carton 0.42 / it 0.30 / home 0.30) — take C1 (37.68 s, 126/126 words, capitals sent as written; stronger stress on BUYS), picked by Claude 26.10 under the owner's «закончи»; C2 (lower-case capitals, 37.33 s) kept as take_C2_37s.wav",
+ "music": "short/public/music/music_mischief_maker_kevin_macleod_incompetech_usuan1700009.mp3",
+ "music_license": "Creative Commons Attribution 4.0 International (CC BY 4.0) — credit in the description",
+ "music_gain_db": -21.6,
+ "music_out_word": 54,
+ "music_in_word": 106,
+ "music_end_word": null,
+ "tail_s": 0.3,
+ "loop_s": 0.35,
+ "vo_end": null,
+ "duration": null,
+ "allow_over_60": false,
+ "gold_words": [
+  4,
+  14,
+  19,
+  22,
+  39,
+  49,
+  56,
+  65,
+  71,
+  88,
+  94,
+  105,
+  112,
+  116,
+  120,
+  125
+ ],
+ "teal_words": [],
+ "break_after": [
+  16,
+  18,
+  30,
+  32,
+  40,
+  44,
+  94,
+  107,
+  112,
+  120,
+  121
+ ],
+ "hide_subs": [
+  [
+   14,
+   14
+  ],
+  [
+   55,
+   57
+  ],
+  [
+   58,
+   66
+  ],
+  [
+   116,
+   118
+  ]
+ ],
+ "atlas": null,
+ "ab": {
+  "enabled": false,
+  "variants": {
+   "A": {
+    "atlas_hook": false
+   },
+   "B": {
+    "atlas_hook": true,
+    "atlas_hook_pose": "shock",
+    "atlas_hook_corner": "tr",
+    "atlas_hook_h": 300,
+    "atlas_hook_until": 1.0
+   }
+  }
+ },
+ "variety": {
+  "window": 5
+ },
+ "out_name": "milk_carton.mp4",
+ "align": {
+  "dtw_shift": 0.25,
+  "expand": {},
+  "homophones": {},
+  "numwords": {},
+  "el_words": "vo_constantino_C1_el_words.json",
+  "drop_zero_tail": true
+ },
+ "srt_translations": {},
+ "story_allow": [
+  "MISSING"
+ ]
+}

@@ -1,0 +1,4 @@
+✓ G1 on screen 0–10 s: no date
+! G1 on screen in 0–10 s, not spoken: «CHILD» 0.0 s, «MIISSING» 0.5 s, «IMISSING» 1.5 s, «DSSING» 3.0 s, «VILD» 3.0 s, «SHEL» 3.0 s, «CNEU» 3.5 s, «LNVO» 3.5 s, «EHS» 3.5 s, «TMISSING» 4.0 s, «GHILD» 4.0 s — a name / place caption moves after 10 s
+
+story gates passed (1 warning(s))

@@ -1,0 +1,45 @@
+{
+ "name": "demo_gibraltar",
+ "bbox": [
+  -7.6,
+  35.2,
+  -3.9,
+  37.0
+ ],
+ "proj": "eqc",
+ "fit": "contain",
+ "fitbox": [
+  60.0,
+  300.0,
+  1020.0,
+  1380.0
+ ],
+ "pad": 0.4,
+ "zoom_max": 2.5,
+ "eps": 0.8,
+ "layers": [
+  "land",
+  "lakes",
+  "graticule",
+  "regions"
+ ],
+ "lake_rank": 4,
+ "region_pad": 0.05,
+ "river_rank": 5,
+ "grid": null,
+ "borders": "none",
+ "geojson": [],
+ "select": null,
+ "lang": "en",
+ "period_note": "",
+ "points": {
+  "Gibraltar": [
+   -5.353,
+   36.14
+  ],
+  "Tanger": [
+   -5.8,
+   35.77
+  ]
+ }
+}

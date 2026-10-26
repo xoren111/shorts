@@ -1,0 +1,1 @@
+✓ quarantine hash gate: 78 file(s) hashed against 110 forbidden sha256 (quarantine, download logs, FREE-key ElevenLabs) in 0.06 s

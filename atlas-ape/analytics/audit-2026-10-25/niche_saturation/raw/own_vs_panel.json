@@ -1,0 +1,94 @@
+{
+ "animals": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   30,
+   41,
+   67
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 33
+ },
+ "core_absurd_history": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   51,
+   65,
+   76
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 68
+ },
+ "de_geschichte": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   35,
+   49,
+   70
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 47,
+  "was_waere_wenn_oct_median_87587_pctl_videos": 95,
+  "was_waere_wenn_oct_min_17653_pctl_videos": 84,
+  "was_waere_wenn_oct_median_pctl_of_channel_medians": 97
+ },
+ "es_historias": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   27,
+   42,
+   59
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 56
+ },
+ "geo_maps": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   31,
+   40,
+   69
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 37
+ },
+ "mystery_unsolved": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   73,
+   83,
+   99
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 87
+ },
+ "science_space": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   38,
+   44,
+   62
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 45
+ },
+ "survival_disaster": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   42,
+   50,
+   64
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 57
+ },
+ "true_crime": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   50,
+   63,
+   87
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 60
+ },
+ "whatif_history_maps": {
+  "atlas_ape_3_shorts_aged_3_5d_pctl": [
+   46,
+   56,
+   67
+  ],
+  "atlas_ape_channel_median_1154_pctl_of_channel_medians": 57
+ },
+ "was_waere_wenn_oct": {
+  "n": 29,
+  "median": 87587,
+  "min": 17653,
+  "max": 511363,
+  "ge_100k": 13,
+  "ge_1m": 0,
+  "sum": 4221374
+ }
+}

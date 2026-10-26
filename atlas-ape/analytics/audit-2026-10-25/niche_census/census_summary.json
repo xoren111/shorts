@@ -1,0 +1,1417 @@
+{
+ "A_story|created2025+": {
+  "n_channels": 172,
+  "n_from_100k_search": 4,
+  "n_from_small_search": 168,
+  "ever_100k": 19,
+  "ever_1m": 9,
+  "ever_10m": 0,
+  "small_sample_ever_100k": 15,
+  "small_sample_ever_1m": 5,
+  "median_n_shorts": 24.5,
+  "winners_first_1m_index_median": 19,
+  "winners_first_1m_index_p25_p75": [
+   10.0,
+   23.0
+  ],
+  "winners_days_to_1m_median": 19,
+  "winners_days_to_1m_p25_p75": [
+   13.0,
+   20.0
+  ],
+  "winners_first6_median_of_medians": 9600.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 138,
+    "hit_1m_by_k": 1,
+    "share_1m": 0.007,
+    "hit_100k_by_k": 6,
+    "share_100k": 0.043
+   },
+   "10": {
+    "eligible": 118,
+    "hit_1m_by_k": 3,
+    "share_1m": 0.025,
+    "hit_100k_by_k": 8,
+    "share_100k": 0.068
+   },
+   "20": {
+    "eligible": 93,
+    "hit_1m_by_k": 6,
+    "share_1m": 0.065,
+    "hit_100k_by_k": 12,
+    "share_100k": 0.129
+   },
+   "30": {
+    "eligible": 81,
+    "hit_1m_by_k": 7,
+    "share_1m": 0.086,
+    "hit_100k_by_k": 11,
+    "share_100k": 0.136
+   },
+   "50": {
+    "eligible": 54,
+    "hit_1m_by_k": 5,
+    "share_1m": 0.093,
+    "hit_100k_by_k": 10,
+    "share_100k": 0.185
+   },
+   "100": {
+    "eligible": 24,
+    "hit_1m_by_k": 3,
+    "share_1m": 0.125,
+    "hit_100k_by_k": 6,
+    "share_100k": 0.25
+   },
+   "200": {
+    "eligible": 12,
+    "hit_1m_by_k": 1,
+    "share_1m": 0.083,
+    "hit_100k_by_k": 4,
+    "share_100k": 0.333
+   }
+  },
+  "slow_starters_n": 63,
+  "slow_starters_later_100k": 6,
+  "slow_starters_later_1m": 1,
+  "slow_starters_1m_names": [
+   "POP Lore"
+  ]
+ },
+ "A_story|firstShort2025+": {
+  "n_channels": 183,
+  "n_from_100k_search": 15,
+  "n_from_small_search": 168,
+  "ever_100k": 29,
+  "ever_1m": 18,
+  "ever_10m": 8,
+  "small_sample_ever_100k": 15,
+  "small_sample_ever_1m": 5,
+  "median_n_shorts": 28,
+  "winners_first_1m_index_median": 8.5,
+  "winners_first_1m_index_p25_p75": [
+   3.0,
+   22.0
+  ],
+  "winners_days_to_1m_median": 11.0,
+  "winners_days_to_1m_p25_p75": [
+   2.75,
+   20.0
+  ],
+  "winners_first6_median_of_medians": 39750.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 148,
+    "hit_1m_by_k": 7,
+    "share_1m": 0.047,
+    "hit_100k_by_k": 14,
+    "share_100k": 0.095
+   },
+   "10": {
+    "eligible": 128,
+    "hit_1m_by_k": 9,
+    "share_1m": 0.07,
+    "hit_100k_by_k": 16,
+    "share_100k": 0.125
+   },
+   "20": {
+    "eligible": 103,
+    "hit_1m_by_k": 12,
+    "share_1m": 0.117,
+    "hit_100k_by_k": 20,
+    "share_100k": 0.194
+   },
+   "30": {
+    "eligible": 90,
+    "hit_1m_by_k": 12,
+    "share_1m": 0.133,
+    "hit_100k_by_k": 18,
+    "share_100k": 0.2
+   },
+   "50": {
+    "eligible": 63,
+    "hit_1m_by_k": 11,
+    "share_1m": 0.175,
+    "hit_100k_by_k": 17,
+    "share_100k": 0.27
+   },
+   "100": {
+    "eligible": 33,
+    "hit_1m_by_k": 9,
+    "share_1m": 0.273,
+    "hit_100k_by_k": 14,
+    "share_100k": 0.424
+   },
+   "200": {
+    "eligible": 18,
+    "hit_1m_by_k": 6,
+    "share_1m": 0.333,
+    "hit_100k_by_k": 9,
+    "share_100k": 0.5
+   }
+  },
+  "slow_starters_n": 65,
+  "slow_starters_later_100k": 7,
+  "slow_starters_later_1m": 1,
+  "slow_starters_1m_names": [
+   "POP Lore"
+  ]
+ },
+ "G_weird3D|created2025+": {
+  "n_channels": 5,
+  "n_from_100k_search": 5,
+  "n_from_small_search": 0,
+  "ever_100k": 5,
+  "ever_1m": 5,
+  "ever_10m": 5,
+  "small_sample_ever_100k": 0,
+  "small_sample_ever_1m": 0,
+  "median_n_shorts": 105,
+  "winners_first_1m_index_median": 1,
+  "winners_first_1m_index_p25_p75": [
+   1.0,
+   2.0
+  ],
+  "winners_days_to_1m_median": 0,
+  "winners_days_to_1m_p25_p75": [
+   0.0,
+   1.0
+  ],
+  "winners_first6_median_of_medians": 2250000.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 5,
+    "hit_1m_by_k": 4,
+    "share_1m": 0.8,
+    "hit_100k_by_k": 5,
+    "share_100k": 1.0
+   },
+   "10": {
+    "eligible": 5,
+    "hit_1m_by_k": 5,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 5,
+    "share_100k": 1.0
+   },
+   "20": {
+    "eligible": 5,
+    "hit_1m_by_k": 5,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 5,
+    "share_100k": 1.0
+   },
+   "30": {
+    "eligible": 5,
+    "hit_1m_by_k": 5,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 5,
+    "share_100k": 1.0
+   },
+   "50": {
+    "eligible": 4,
+    "hit_1m_by_k": 4,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 4,
+    "share_100k": 1.0
+   },
+   "100": {
+    "eligible": 3,
+    "hit_1m_by_k": 3,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 3,
+    "share_100k": 1.0
+   },
+   "200": {
+    "eligible": 2,
+    "hit_1m_by_k": 2,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 2,
+    "share_100k": 1.0
+   }
+  },
+  "slow_starters_n": 0,
+  "slow_starters_later_100k": 0,
+  "slow_starters_later_1m": 0,
+  "slow_starters_1m_names": []
+ },
+ "G_weird3D|firstShort2025+": {
+  "n_channels": 6,
+  "n_from_100k_search": 6,
+  "n_from_small_search": 0,
+  "ever_100k": 6,
+  "ever_1m": 6,
+  "ever_10m": 6,
+  "small_sample_ever_100k": 0,
+  "small_sample_ever_1m": 0,
+  "median_n_shorts": 98.0,
+  "winners_first_1m_index_median": 1.0,
+  "winners_first_1m_index_p25_p75": [
+   1.0,
+   1.75
+  ],
+  "winners_days_to_1m_median": 0.0,
+  "winners_days_to_1m_p25_p75": [
+   0.0,
+   0.75
+  ],
+  "winners_first6_median_of_medians": 4300000.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 6,
+    "hit_1m_by_k": 5,
+    "share_1m": 0.833,
+    "hit_100k_by_k": 6,
+    "share_100k": 1.0
+   },
+   "10": {
+    "eligible": 6,
+    "hit_1m_by_k": 6,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 6,
+    "share_100k": 1.0
+   },
+   "20": {
+    "eligible": 5,
+    "hit_1m_by_k": 5,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 5,
+    "share_100k": 1.0
+   },
+   "30": {
+    "eligible": 5,
+    "hit_1m_by_k": 5,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 5,
+    "share_100k": 1.0
+   },
+   "50": {
+    "eligible": 4,
+    "hit_1m_by_k": 4,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 4,
+    "share_100k": 1.0
+   },
+   "100": {
+    "eligible": 3,
+    "hit_1m_by_k": 3,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 3,
+    "share_100k": 1.0
+   },
+   "200": {
+    "eligible": 2,
+    "hit_1m_by_k": 2,
+    "share_1m": 1.0,
+    "hit_100k_by_k": 2,
+    "share_100k": 1.0
+   }
+  },
+  "slow_starters_n": 0,
+  "slow_starters_later_100k": 0,
+  "slow_starters_later_1m": 0,
+  "slow_starters_1m_names": []
+ },
+ "AG_storyformat|created2025+": {
+  "n_channels": 177,
+  "n_from_100k_search": 9,
+  "n_from_small_search": 168,
+  "ever_100k": 24,
+  "ever_1m": 14,
+  "ever_10m": 5,
+  "small_sample_ever_100k": 15,
+  "small_sample_ever_1m": 5,
+  "median_n_shorts": 28,
+  "winners_first_1m_index_median": 10.0,
+  "winners_first_1m_index_p25_p75": [
+   2.75,
+   19.0
+  ],
+  "winners_days_to_1m_median": 14.5,
+  "winners_days_to_1m_p25_p75": [
+   2.25,
+   20.0
+  ],
+  "winners_first6_median_of_medians": 31750.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 143,
+    "hit_1m_by_k": 5,
+    "share_1m": 0.035,
+    "hit_100k_by_k": 11,
+    "share_100k": 0.077
+   },
+   "10": {
+    "eligible": 123,
+    "hit_1m_by_k": 8,
+    "share_1m": 0.065,
+    "hit_100k_by_k": 13,
+    "share_100k": 0.106
+   },
+   "20": {
+    "eligible": 98,
+    "hit_1m_by_k": 11,
+    "share_1m": 0.112,
+    "hit_100k_by_k": 17,
+    "share_100k": 0.173
+   },
+   "30": {
+    "eligible": 86,
+    "hit_1m_by_k": 12,
+    "share_1m": 0.14,
+    "hit_100k_by_k": 16,
+    "share_100k": 0.186
+   },
+   "50": {
+    "eligible": 58,
+    "hit_1m_by_k": 9,
+    "share_1m": 0.155,
+    "hit_100k_by_k": 14,
+    "share_100k": 0.241
+   },
+   "100": {
+    "eligible": 27,
+    "hit_1m_by_k": 6,
+    "share_1m": 0.222,
+    "hit_100k_by_k": 9,
+    "share_100k": 0.333
+   },
+   "200": {
+    "eligible": 14,
+    "hit_1m_by_k": 3,
+    "share_1m": 0.214,
+    "hit_100k_by_k": 6,
+    "share_100k": 0.429
+   }
+  },
+  "slow_starters_n": 63,
+  "slow_starters_later_100k": 6,
+  "slow_starters_later_1m": 1,
+  "slow_starters_1m_names": [
+   "POP Lore"
+  ]
+ },
+ "AG_storyformat|firstShort2025+": {
+  "n_channels": 189,
+  "n_from_100k_search": 21,
+  "n_from_small_search": 168,
+  "ever_100k": 35,
+  "ever_1m": 24,
+  "ever_10m": 14,
+  "small_sample_ever_100k": 15,
+  "small_sample_ever_1m": 5,
+  "median_n_shorts": 30,
+  "winners_first_1m_index_median": 4.5,
+  "winners_first_1m_index_p25_p75": [
+   1.0,
+   19.0
+  ],
+  "winners_days_to_1m_median": 6.0,
+  "winners_days_to_1m_p25_p75": [
+   0.0,
+   20.0
+  ],
+  "winners_first6_median_of_medians": 106750.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 154,
+    "hit_1m_by_k": 12,
+    "share_1m": 0.078,
+    "hit_100k_by_k": 20,
+    "share_100k": 0.13
+   },
+   "10": {
+    "eligible": 134,
+    "hit_1m_by_k": 15,
+    "share_1m": 0.112,
+    "hit_100k_by_k": 22,
+    "share_100k": 0.164
+   },
+   "20": {
+    "eligible": 108,
+    "hit_1m_by_k": 17,
+    "share_1m": 0.157,
+    "hit_100k_by_k": 25,
+    "share_100k": 0.231
+   },
+   "30": {
+    "eligible": 95,
+    "hit_1m_by_k": 17,
+    "share_1m": 0.179,
+    "hit_100k_by_k": 23,
+    "share_100k": 0.242
+   },
+   "50": {
+    "eligible": 67,
+    "hit_1m_by_k": 15,
+    "share_1m": 0.224,
+    "hit_100k_by_k": 21,
+    "share_100k": 0.313
+   },
+   "100": {
+    "eligible": 36,
+    "hit_1m_by_k": 12,
+    "share_1m": 0.333,
+    "hit_100k_by_k": 17,
+    "share_100k": 0.472
+   },
+   "200": {
+    "eligible": 20,
+    "hit_1m_by_k": 8,
+    "share_1m": 0.4,
+    "hit_100k_by_k": 11,
+    "share_100k": 0.55
+   }
+  },
+  "slow_starters_n": 65,
+  "slow_starters_later_100k": 7,
+  "slow_starters_later_1m": 1,
+  "slow_starters_1m_names": [
+   "POP Lore"
+  ]
+ },
+ "ABG_all|created2025+": {
+  "n_channels": 500,
+  "n_from_100k_search": 35,
+  "n_from_small_search": 465,
+  "ever_100k": 75,
+  "ever_1m": 51,
+  "ever_10m": 19,
+  "small_sample_ever_100k": 40,
+  "small_sample_ever_1m": 20,
+  "median_n_shorts": 25.0,
+  "winners_first_1m_index_median": 12,
+  "winners_first_1m_index_p25_p75": [
+   5.0,
+   27.5
+  ],
+  "winners_days_to_1m_median": 15,
+  "winners_days_to_1m_p25_p75": [
+   5.0,
+   36.5
+  ],
+  "winners_first6_median_of_medians": 20000.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 401,
+    "hit_1m_by_k": 15,
+    "share_1m": 0.037,
+    "hit_100k_by_k": 31,
+    "share_100k": 0.077
+   },
+   "10": {
+    "eligible": 351,
+    "hit_1m_by_k": 22,
+    "share_1m": 0.063,
+    "hit_100k_by_k": 39,
+    "share_100k": 0.111
+   },
+   "20": {
+    "eligible": 280,
+    "hit_1m_by_k": 32,
+    "share_1m": 0.114,
+    "hit_100k_by_k": 50,
+    "share_100k": 0.179
+   },
+   "30": {
+    "eligible": 233,
+    "hit_1m_by_k": 37,
+    "share_1m": 0.159,
+    "hit_100k_by_k": 47,
+    "share_100k": 0.202
+   },
+   "50": {
+    "eligible": 170,
+    "hit_1m_by_k": 36,
+    "share_1m": 0.212,
+    "hit_100k_by_k": 50,
+    "share_100k": 0.294
+   },
+   "100": {
+    "eligible": 93,
+    "hit_1m_by_k": 28,
+    "share_1m": 0.301,
+    "hit_100k_by_k": 34,
+    "share_100k": 0.366
+   },
+   "200": {
+    "eligible": 50,
+    "hit_1m_by_k": 18,
+    "share_1m": 0.36,
+    "hit_100k_by_k": 23,
+    "share_100k": 0.46
+   }
+  },
+  "slow_starters_n": 166,
+  "slow_starters_later_100k": 17,
+  "slow_starters_later_1m": 5,
+  "slow_starters_1m_names": [
+   "Echoes of Empire",
+   "Untold History Files",
+   "The Secret Timeline",
+   "PastLens",
+   "POP Lore"
+  ]
+ },
+ "ABG_all|firstShort2025+": {
+  "n_channels": 521,
+  "n_from_100k_search": 57,
+  "n_from_small_search": 464,
+  "ever_100k": 96,
+  "ever_1m": 71,
+  "ever_10m": 31,
+  "small_sample_ever_100k": 40,
+  "small_sample_ever_1m": 20,
+  "median_n_shorts": 27,
+  "winners_first_1m_index_median": 11,
+  "winners_first_1m_index_p25_p75": [
+   3.0,
+   27.5
+  ],
+  "winners_days_to_1m_median": 13,
+  "winners_days_to_1m_p25_p75": [
+   2.0,
+   37.0
+  ],
+  "winners_first6_median_of_medians": 31000.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 422,
+    "hit_1m_by_k": 25,
+    "share_1m": 0.059,
+    "hit_100k_by_k": 47,
+    "share_100k": 0.111
+   },
+   "10": {
+    "eligible": 371,
+    "hit_1m_by_k": 31,
+    "share_1m": 0.084,
+    "hit_100k_by_k": 56,
+    "share_100k": 0.151
+   },
+   "20": {
+    "eligible": 299,
+    "hit_1m_by_k": 44,
+    "share_1m": 0.147,
+    "hit_100k_by_k": 67,
+    "share_100k": 0.224
+   },
+   "30": {
+    "eligible": 251,
+    "hit_1m_by_k": 48,
+    "share_1m": 0.191,
+    "hit_100k_by_k": 63,
+    "share_100k": 0.251
+   },
+   "50": {
+    "eligible": 187,
+    "hit_1m_by_k": 48,
+    "share_1m": 0.257,
+    "hit_100k_by_k": 65,
+    "share_100k": 0.348
+   },
+   "100": {
+    "eligible": 108,
+    "hit_1m_by_k": 40,
+    "share_1m": 0.37,
+    "hit_100k_by_k": 48,
+    "share_100k": 0.444
+   },
+   "200": {
+    "eligible": 60,
+    "hit_1m_by_k": 27,
+    "share_1m": 0.45,
+    "hit_100k_by_k": 32,
+    "share_100k": 0.533
+   }
+  },
+  "slow_starters_n": 168,
+  "slow_starters_later_100k": 18,
+  "slow_starters_later_1m": 5,
+  "slow_starters_1m_names": [
+   "Echoes of Empire",
+   "Untold History Files",
+   "The Secret Timeline",
+   "PastLens",
+   "POP Lore"
+  ]
+ },
+ "B_adjacent|created2025+": {
+  "n_channels": 323,
+  "n_from_100k_search": 26,
+  "n_from_small_search": 297,
+  "ever_100k": 51,
+  "ever_1m": 37,
+  "ever_10m": 14,
+  "small_sample_ever_100k": 25,
+  "small_sample_ever_1m": 15,
+  "median_n_shorts": 25,
+  "winners_first_1m_index_median": 14,
+  "winners_first_1m_index_p25_p75": [
+   5.0,
+   39.0
+  ],
+  "winners_days_to_1m_median": 15,
+  "winners_days_to_1m_p25_p75": [
+   8.0,
+   44.0
+  ],
+  "winners_first6_median_of_medians": 17500.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 258,
+    "hit_1m_by_k": 10,
+    "share_1m": 0.039,
+    "hit_100k_by_k": 20,
+    "share_100k": 0.078
+   },
+   "10": {
+    "eligible": 228,
+    "hit_1m_by_k": 14,
+    "share_1m": 0.061,
+    "hit_100k_by_k": 26,
+    "share_100k": 0.114
+   },
+   "20": {
+    "eligible": 182,
+    "hit_1m_by_k": 21,
+    "share_1m": 0.115,
+    "hit_100k_by_k": 33,
+    "share_100k": 0.181
+   },
+   "30": {
+    "eligible": 147,
+    "hit_1m_by_k": 25,
+    "share_1m": 0.17,
+    "hit_100k_by_k": 31,
+    "share_100k": 0.211
+   },
+   "50": {
+    "eligible": 112,
+    "hit_1m_by_k": 27,
+    "share_1m": 0.241,
+    "hit_100k_by_k": 36,
+    "share_100k": 0.321
+   },
+   "100": {
+    "eligible": 66,
+    "hit_1m_by_k": 22,
+    "share_1m": 0.333,
+    "hit_100k_by_k": 25,
+    "share_100k": 0.379
+   },
+   "200": {
+    "eligible": 36,
+    "hit_1m_by_k": 15,
+    "share_1m": 0.417,
+    "hit_100k_by_k": 17,
+    "share_100k": 0.472
+   }
+  },
+  "slow_starters_n": 103,
+  "slow_starters_later_100k": 11,
+  "slow_starters_later_1m": 4,
+  "slow_starters_1m_names": [
+   "Echoes of Empire",
+   "Untold History Files",
+   "The Secret Timeline",
+   "PastLens"
+  ]
+ },
+ "B_adjacent|firstShort2025+": {
+  "n_channels": 332,
+  "n_from_100k_search": 36,
+  "n_from_small_search": 296,
+  "ever_100k": 61,
+  "ever_1m": 47,
+  "ever_10m": 17,
+  "small_sample_ever_100k": 25,
+  "small_sample_ever_1m": 15,
+  "median_n_shorts": 26.0,
+  "winners_first_1m_index_median": 14,
+  "winners_first_1m_index_p25_p75": [
+   5.5,
+   35.0
+  ],
+  "winners_days_to_1m_median": 17,
+  "winners_days_to_1m_p25_p75": [
+   5.5,
+   50.5
+  ],
+  "winners_first6_median_of_medians": 15500.0,
+  "by_upload_k": {
+   "6": {
+    "eligible": 268,
+    "hit_1m_by_k": 13,
+    "share_1m": 0.049,
+    "hit_100k_by_k": 27,
+    "share_100k": 0.101
+   },
+   "10": {
+    "eligible": 237,
+    "hit_1m_by_k": 16,
+    "share_1m": 0.068,
+    "hit_100k_by_k": 34,
+    "share_100k": 0.143
+   },
+   "20": {
+    "eligible": 191,
+    "hit_1m_by_k": 27,
+    "share_1m": 0.141,
+    "hit_100k_by_k": 42,
+    "share_100k": 0.22
+   },
+   "30": {
+    "eligible": 156,
+    "hit_1m_by_k": 31,
+    "share_1m": 0.199,
+    "hit_100k_by_k": 40,
+    "share_100k": 0.256
+   },
+   "50": {
+    "eligible": 120,
+    "hit_1m_by_k": 33,
+    "share_1m": 0.275,
+    "hit_100k_by_k": 44,
+    "share_100k": 0.367
+   },
+   "100": {
+    "eligible": 72,
+    "hit_1m_by_k": 28,
+    "share_1m": 0.389,
+    "hit_100k_by_k": 31,
+    "share_100k": 0.431
+   },
+   "200": {
+    "eligible": 40,
+    "hit_1m_by_k": 19,
+    "share_1m": 0.475,
+    "hit_100k_by_k": 21,
+    "share_100k": 0.525
+   }
+  },
+  "slow_starters_n": 103,
+  "slow_starters_later_100k": 11,
+  "slow_starters_later_1m": 4,
+  "slow_starters_1m_names": [
+   "Echoes of Empire",
+   "Untold History Files",
+   "The Secret Timeline",
+   "PastLens"
+  ]
+ },
+ "established": {
+  "n": 55,
+  "n_with_12mo_window": 47,
+  "last20_below_12mo": 36,
+  "last20_below_half_12mo": 15,
+  "median_ratio_last20_to_12mo": 0.6571428571428571,
+  "median_ratio_last20_to_all": 0.8,
+  "table": [
+   {
+    "channel": "Zack D. Films",
+    "label": "A",
+    "n_shorts": 3000,
+    "subs": 29400000,
+    "median_all": 13000000.0,
+    "last20_median": 13500000.0,
+    "median_6mo_ago": 8350000.0,
+    "median_12mo_ago": 15500000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Law By Mike",
+    "label": "F",
+    "n_shorts": 1465,
+    "subs": 19900000,
+    "median_all": 3500000,
+    "last20_median": 14000000.0,
+    "median_6mo_ago": 18500000.0,
+    "median_12mo_ago": 38500000.0,
+    "last_short": "2026-10-20"
+   },
+   {
+    "channel": "Sambucha",
+    "label": "F",
+    "n_shorts": 3000,
+    "subs": 12300000,
+    "median_all": 3100000.0,
+    "last20_median": 1750000.0,
+    "median_6mo_ago": 886000.0,
+    "median_12mo_ago": 2750000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "MrBallen",
+    "label": "F",
+    "n_shorts": 317,
+    "subs": 11300000,
+    "median_all": 363000,
+    "last20_median": 154000.0,
+    "median_6mo_ago": 985000.0,
+    "median_12mo_ago": 157500.0,
+    "last_short": "2026-10-23"
+   },
+   {
+    "channel": "Adrian Bliss",
+    "label": "F",
+    "n_shorts": 181,
+    "subs": 6210000,
+    "median_all": 8200000,
+    "last20_median": 608500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 1600000.0,
+    "last_short": "2026-10-09"
+   },
+   {
+    "channel": "onlyjayus",
+    "label": "F",
+    "n_shorts": 1659,
+    "subs": 4670000,
+    "median_all": 832000,
+    "last20_median": 31000.0,
+    "median_6mo_ago": 41500.0,
+    "median_12mo_ago": 63000.0,
+    "last_short": "2026-10-22"
+   },
+   {
+    "channel": "Extra History",
+    "label": "A",
+    "n_shorts": 236,
+    "subs": 4620000,
+    "median_all": 2350000.0,
+    "last20_median": 1150000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 1750000.0,
+    "last_short": "2026-10-22"
+   },
+   {
+    "channel": "Chris Williamson",
+    "label": "F",
+    "n_shorts": 2522,
+    "subs": 4470000,
+    "median_all": 71000.0,
+    "last20_median": 64000.0,
+    "median_6mo_ago": 64000.0,
+    "median_12mo_ago": 45500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Kings and Generals",
+    "label": "B",
+    "n_shorts": 523,
+    "subs": 4220000,
+    "median_all": 123000,
+    "last20_median": 112500.0,
+    "median_6mo_ago": 76500.0,
+    "median_12mo_ago": 71500.0,
+    "last_short": "2026-10-23"
+   },
+   {
+    "channel": "Geography Now",
+    "label": "B",
+    "n_shorts": 757,
+    "subs": 3930000,
+    "median_all": 94000,
+    "last20_median": 147500.0,
+    "median_6mo_ago": 190000.0,
+    "median_12mo_ago": 203500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Absolute History",
+    "label": "A",
+    "n_shorts": 379,
+    "subs": 3700000,
+    "median_all": 467000,
+    "last20_median": 117500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 363500.0,
+    "last_short": "2026-10-15"
+   },
+   {
+    "channel": "Miniminuteman",
+    "label": "F",
+    "n_shorts": 299,
+    "subs": 3510000,
+    "median_all": 2400000,
+    "last20_median": 1600000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 1850000.0,
+    "last_short": "2026-09-25"
+   },
+   {
+    "channel": "MrBallen Shorts",
+    "label": "F",
+    "n_shorts": 1269,
+    "subs": 3240000,
+    "median_all": 355000,
+    "last20_median": 310500.0,
+    "median_6mo_ago": 310500.0,
+    "median_12mo_ago": 174500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Helen Christie",
+    "label": "F",
+    "n_shorts": 497,
+    "subs": 2510000,
+    "median_all": 1100000,
+    "last20_median": 3200000.0,
+    "median_6mo_ago": 7350000.0,
+    "median_12mo_ago": 9250000.0,
+    "last_short": "2026-10-21"
+   },
+   {
+    "channel": "Thomas Mulligan",
+    "label": "A",
+    "n_shorts": 1607,
+    "subs": 2170000,
+    "median_all": 1100000,
+    "last20_median": 1650000.0,
+    "median_6mo_ago": 1450000.0,
+    "median_12mo_ago": 2100000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "GeoGlobeTales",
+    "label": "B",
+    "n_shorts": 163,
+    "subs": 2060000,
+    "median_all": 6000000,
+    "last20_median": 3400000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 11000000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Davidjustinn",
+    "label": "F",
+    "n_shorts": 2054,
+    "subs": 2060000,
+    "median_all": 36500.0,
+    "last20_median": 32000.0,
+    "median_6mo_ago": 25500.0,
+    "median_12mo_ago": 21000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Danny Rayes",
+    "label": "F",
+    "n_shorts": 3000,
+    "subs": 2030000,
+    "median_all": 1100000.0,
+    "last20_median": 653500.0,
+    "median_6mo_ago": 1200000.0,
+    "median_12mo_ago": 2750000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Tyler Morgan - Japan Adventures",
+    "label": "F",
+    "n_shorts": 151,
+    "subs": 1980000,
+    "median_all": 1800000,
+    "last20_median": 1400000.0,
+    "median_6mo_ago": 3300000.0,
+    "median_12mo_ago": 1850000.0,
+    "last_short": "2026-10-23"
+   },
+   {
+    "channel": "History by Mae",
+    "label": "B",
+    "n_shorts": 1056,
+    "subs": 1930000,
+    "median_all": 1600000.0,
+    "last20_median": 1100000.0,
+    "median_6mo_ago": 2000000.0,
+    "median_12mo_ago": 1900000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Rom",
+    "label": "A",
+    "n_shorts": 767,
+    "subs": 1320000,
+    "median_all": 604000,
+    "last20_median": 931000.0,
+    "median_6mo_ago": 1148500.0,
+    "median_12mo_ago": 1200000.0,
+    "last_short": "2026-10-23"
+   },
+   {
+    "channel": "Ryan Kelly Comedy",
+    "label": "F",
+    "n_shorts": 1047,
+    "subs": 1220000,
+    "median_all": 79000,
+    "last20_median": 1350000.0,
+    "median_6mo_ago": 1600000.0,
+    "median_12mo_ago": 1450000.0,
+    "last_short": "2026-10-23"
+   },
+   {
+    "channel": "MerryMemes",
+    "label": "B",
+    "n_shorts": 1856,
+    "subs": 1040000,
+    "median_all": 77000.0,
+    "last20_median": 28000.0,
+    "median_6mo_ago": 19500.0,
+    "median_12mo_ago": 23500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Polandball Official",
+    "label": "B",
+    "n_shorts": 945,
+    "subs": 957000,
+    "median_all": 1200000,
+    "last20_median": 511500.0,
+    "median_6mo_ago": 1048500.0,
+    "median_12mo_ago": 966500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "camelot historia ",
+    "label": "B",
+    "n_shorts": 929,
+    "subs": 914000,
+    "median_all": 120000,
+    "last20_median": 96000.0,
+    "median_6mo_ago": 118500.0,
+    "median_12mo_ago": 238000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "History Piece",
+    "label": "B",
+    "n_shorts": 861,
+    "subs": 904000,
+    "median_all": 66000,
+    "last20_median": 98500.0,
+    "median_6mo_ago": 27500.0,
+    "median_12mo_ago": 68000.0,
+    "last_short": "2026-10-23"
+   },
+   {
+    "channel": "History of Everything Podcast",
+    "label": "B",
+    "n_shorts": 817,
+    "subs": 830000,
+    "median_all": 167000,
+    "last20_median": 98000.0,
+    "median_6mo_ago": 36500.0,
+    "median_12mo_ago": 299500.0,
+    "last_short": "2026-10-22"
+   },
+   {
+    "channel": "Adorian",
+    "label": "F",
+    "n_shorts": 807,
+    "subs": 799000,
+    "median_all": 369000,
+    "last20_median": 133500.0,
+    "median_6mo_ago": 440500.0,
+    "median_12mo_ago": 381500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "HistoryLegends",
+    "label": "B",
+    "n_shorts": 182,
+    "subs": 794000,
+    "median_all": 188000.0,
+    "last20_median": 218500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 168500.0,
+    "last_short": "2026-10-04"
+   },
+   {
+    "channel": "How Much?",
+    "label": "A",
+    "n_shorts": 576,
+    "subs": 733000,
+    "median_all": 831500.0,
+    "last20_median": 2400000.0,
+    "median_6mo_ago": 5000000.0,
+    "median_12mo_ago": 4200000.0,
+    "last_short": "2026-10-09"
+   },
+   {
+    "channel": "Factinate",
+    "label": "B",
+    "n_shorts": 292,
+    "subs": 563000,
+    "median_all": 23000.0,
+    "last20_median": 16000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-09-19"
+   },
+   {
+    "channel": "Happy Earth",
+    "label": "B",
+    "n_shorts": 449,
+    "subs": 562000,
+    "median_all": 1100000,
+    "last20_median": 1050000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-10-18"
+   },
+   {
+    "channel": "Gengy ",
+    "label": "B",
+    "n_shorts": 246,
+    "subs": 539000,
+    "median_all": 506500.0,
+    "last20_median": 38500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-10-02"
+   },
+   {
+    "channel": "SAOZ",
+    "label": "B",
+    "n_shorts": 1305,
+    "subs": 523000,
+    "median_all": 158000,
+    "last20_median": 253500.0,
+    "median_6mo_ago": 97500.0,
+    "median_12mo_ago": 368000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "History on Maps",
+    "label": "B",
+    "n_shorts": 100,
+    "subs": 418000,
+    "median_all": 293500.0,
+    "last20_median": 236500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 388000.0,
+    "last_short": "2026-10-21"
+   },
+   {
+    "channel": "Geoballz Animations",
+    "label": "B",
+    "n_shorts": 169,
+    "subs": 370000,
+    "median_all": 532000,
+    "last20_median": 728000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-09-13"
+   },
+   {
+    "channel": "Em August",
+    "label": "F",
+    "n_shorts": 244,
+    "subs": 360000,
+    "median_all": 155500.0,
+    "last20_median": 107500.0,
+    "median_6mo_ago": 425500.0,
+    "median_12mo_ago": 310500.0,
+    "last_short": "2026-10-16"
+   },
+   {
+    "channel": "Historical Lens",
+    "label": "B",
+    "n_shorts": 1546,
+    "subs": 331000,
+    "median_all": 14000.0,
+    "last20_median": 20500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 70500.0,
+    "last_short": "2026-10-20"
+   },
+   {
+    "channel": "King Animations",
+    "label": "B",
+    "n_shorts": 85,
+    "subs": 319000,
+    "median_all": 3000000,
+    "last20_median": 7300000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-08-28"
+   },
+   {
+    "channel": "curiousitygeek",
+    "label": "B",
+    "n_shorts": 249,
+    "subs": 309000,
+    "median_all": 59000,
+    "last20_median": 20500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 24000.0,
+    "last_short": "2026-10-14"
+   },
+   {
+    "channel": "Hot For History",
+    "label": "B",
+    "n_shorts": 1282,
+    "subs": 295000,
+    "median_all": 17000.0,
+    "last20_median": 2000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 6800.0,
+    "last_short": "2026-09-22"
+   },
+   {
+    "channel": "Call of Historia",
+    "label": "B",
+    "n_shorts": 414,
+    "subs": 242000,
+    "median_all": 35000.0,
+    "last20_median": 45500.0,
+    "median_6mo_ago": 42500.0,
+    "median_12mo_ago": 194500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "TimeTravelTales",
+    "label": "B",
+    "n_shorts": 618,
+    "subs": 205000,
+    "median_all": 52000.0,
+    "last20_median": 65000.0,
+    "median_6mo_ago": 39500.0,
+    "median_12mo_ago": 38000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Underground Bullets",
+    "label": "A",
+    "n_shorts": 825,
+    "subs": 199000,
+    "median_all": 86000,
+    "last20_median": 394000.0,
+    "median_6mo_ago": 286500.0,
+    "median_12mo_ago": 61000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Artworks of Scanhead",
+    "label": "A",
+    "n_shorts": 1113,
+    "subs": 169000,
+    "median_all": 16000,
+    "last20_median": 62500.0,
+    "median_6mo_ago": 7050.0,
+    "median_12mo_ago": 68500.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Conqr",
+    "label": "B",
+    "n_shorts": 459,
+    "subs": 155000,
+    "median_all": 7500,
+    "last20_median": 2400.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 4600.0,
+    "last_short": "2026-09-12"
+   },
+   {
+    "channel": "Willdude",
+    "label": "B",
+    "n_shorts": 136,
+    "subs": 139000,
+    "median_all": 561000.0,
+    "last20_median": 379000.0,
+    "median_6mo_ago": 601000.0,
+    "median_12mo_ago": 618500.0,
+    "last_short": "2026-10-20"
+   },
+   {
+    "channel": "The Giant Killer",
+    "label": "A",
+    "n_shorts": 2029,
+    "subs": 139000,
+    "median_all": 4200,
+    "last20_median": 1500.0,
+    "median_6mo_ago": 3900.0,
+    "median_12mo_ago": 2950.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "Geo Gravity",
+    "label": "B",
+    "n_shorts": 94,
+    "subs": 105000,
+    "median_all": 91000.0,
+    "last20_median": 60500.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-10-15"
+   },
+   {
+    "channel": "Explore history",
+    "label": "B",
+    "n_shorts": 883,
+    "subs": 93700,
+    "median_all": 20000,
+    "last20_median": 62500.0,
+    "median_6mo_ago": 5050.0,
+    "median_12mo_ago": 19000.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "History Now",
+    "label": "B",
+    "n_shorts": 175,
+    "subs": 92800,
+    "median_all": 430000,
+    "last20_median": 212000.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": 425500.0,
+    "last_short": "2026-10-23"
+   },
+   {
+    "channel": "Fireside Unsolved",
+    "label": "B",
+    "n_shorts": 729,
+    "subs": 52100,
+    "median_all": 1000,
+    "last20_median": 9000.0,
+    "median_6mo_ago": 1000.0,
+    "median_12mo_ago": 974.0,
+    "last_short": "2026-10-24"
+   },
+   {
+    "channel": "WorldHistory",
+    "label": "B",
+    "n_shorts": 151,
+    "subs": 44600,
+    "median_all": 20000,
+    "last20_median": 9850.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-09-15"
+   },
+   {
+    "channel": "conseq.",
+    "label": "B",
+    "n_shorts": 75,
+    "subs": 16600,
+    "median_all": 10000,
+    "last20_median": 5950.0,
+    "median_6mo_ago": null,
+    "median_12mo_ago": null,
+    "last_short": "2026-09-06"
+   },
+   {
+    "channel": "Pint-Sized History",
+    "label": "B",
+    "n_shorts": 253,
+    "subs": 1210,
+    "median_all": 1200,
+    "last20_median": 1000.0,
+    "median_6mo_ago": 1600.0,
+    "median_12mo_ago": 1300.0,
+    "last_short": "2026-10-24"
+   }
+  ]
+ }
+}

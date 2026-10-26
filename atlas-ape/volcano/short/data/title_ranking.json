@@ -1,0 +1,944 @@
+{
+  "summary": "Generate hype-but-honest titles for the Humans vs Volcano Short, check YouTube for clones, score with 3 judges",
+  "agentCount": 7,
+  "logs": [
+    "45 unique candidates"
+  ],
+  "result": {
+    "total": 45,
+    "judgesReturned": 3,
+    "ranked": [
+      {
+        "id": 1,
+        "title": "Bombing Lava Wasn't Even the Craziest Plan",
+        "pattern": "Escalation: absurd step first, crazier payoff held back (42 chars)",
+        "why": "The bombing is the hook, and the viewer taps to see what beat it. It restates the first spoken line almost word for word, so the title matches the first second of the video.",
+        "chars": 42,
+        "close_matches": 0,
+        "best_match": "none (no title above 0.6 similarity)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 8.33,
+        "judges": {
+          "data": "8: 42 chars, no clones, echoes the VO hook; turns the saturated 'bombed lava' fact into an escalation tease with a keyword",
+          "viewer": "9: Instant absurd hook plus an escalation tease, and it hands off cleanly to the VO line 2. Native and fresh.",
+          "honesty": "8: Rewords the VO's own hook, makes no claim about whether the bombs worked, and the escalation tease is paid off; honest and on-brand."
+        }
+      },
+      {
+        "id": 30,
+        "title": "We Brought Bombs to a Lava Fight",
+        "pattern": "Idiom twist ('brought a knife to a gunfight'), a plain statement of humans acting against lava",
+        "why": "It's short and meme-able like the 1.85M 'He tried to stop flowing lava', the familiar idiom makes it read instantly, and it pays off in the first second with 'The US Army once bombed a volcano' (32 chars).",
+        "chars": 32,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 8,
+        "judges": {
+          "data": "8: 32 chars, an idiom-twist plain statement of humans acting on lava (the 1.85M winner pattern), no clones, highly shareable",
+          "viewer": "9: A twist on an idiom every US viewer knows: funny, 32 chars, instantly clear, honest, and it matches the bombing opener exactly. Most tappable.",
+          "honesty": "7: Fun, true idiom twist that does not claim success or failure; Hawaii only, and the idiom slightly suggests the bombing was foolish."
+        }
+      },
+      {
+        "id": 13,
+        "title": "Humans 2, Volcano 0. Kind Of.",
+        "pattern": "Scoreboard with a deliberately unfinished caveat (29 chars)",
+        "why": "This is the one angle nobody else uses, a real-history scoreboard. 'Kind Of' teases the 'we don't talk about Hawaii' ending. Under 30 characters, it is in the best-performing length range.",
+        "chars": 29,
+        "close_matches": 0,
+        "best_match": "none (no scoreboard-style titles found)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7.67,
+        "judges": {
+          "data": "7: 29 chars, unique scoreboard angle nobody owns, 'Kind Of' opens a gap; a number-led title and only 'volcano' for search",
+          "viewer": "8: Short, cheeky, and a scoreboard angle nobody else uses. 'Kind Of' opens a real gap. The link to the opener is weaker.",
+          "honesty": "8: The video's own final score, and 'Kind Of' honestly flags the Hawaii caveat; a natural fit for a 'Humans vs X' series."
+        }
+      },
+      {
+        "id": 25,
+        "title": "What Stops Lava When Walls Don't?",
+        "pattern": "Setback first, then held-back answer, like the 36.9K 'Lava Flowed Over a Giant Wall. What Stopped It?' (33 chars)",
+        "why": "Takes the fastest-rising pattern in the scan in a shorter, new wording. It is true to Etna, where dirt walls were overrun, and the answer is held back: blowing up the tunnel at the source, then the ocean.",
+        "chars": 33,
+        "close_matches": 0,
+        "best_match": "none (same concept as 'Lava Flowed Over a Giant Wall. What Stopped It?' 38K, but the wording differs, ratio 0.29)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7.67,
+        "judges": {
+          "data": "9: 33 chars, the breakout setback-then-question concept in fresh wording (ratio 0.29), 'stops lava' search value, fits the whole video",
+          "viewer": "7: Tight version of the proven setback-then-answer pattern. Solid and honest, a bit dry.",
+          "honesty": "7: Setback then a held-back answer, accurate and paid off by Etna and Iceland; clean and honest."
+        }
+      },
+      {
+        "id": 31,
+        "title": "Humans Picked a Fight With a Volcano",
+        "pattern": "Absurd-premise statement in versus framing",
+        "why": "It's the 'went to war with a volcano' premise from the 2.59M Portuguese hit, written as one confident sentence with no place or year, it sets up the Humans vs Volcano story, and the bombing line opens the fight (36 chars).",
+        "chars": 36,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'Aang FIGHTS a Volcano!' 116,541, ratio 0.63; on topic: 'Fighting a Volcano with Water? (And Winning!)' 1,784)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7.33,
+        "judges": {
+          "data": "7: A plain absurd-premise statement in the 'Humans vs Natural Disasters' (1.73M) vein, no close clones; no 'lava'",
+          "viewer": "7: Plain, native, absurd premise. Good, but it lacks a specific hook image.",
+          "honesty": "8: A plain human-vs-volcano statement with no overclaim and a strong 'Humans vs X' series voice; fun and trustworthy."
+        }
+      },
+      {
+        "id": 32,
+        "title": "Lava Got Bombed, Blown Up and Hosed Down",
+        "pattern": "Escalating list of three weird weapons, with lava as the victim",
+        "why": "Three bigger and bigger verbs promise a montage and honestly cover bombs, the explosives on the lava tube and the seawater, without saying dynamite, giving a date or claiming the bombs worked. The first verb lands on the opening line (40 chars).",
+        "chars": 40,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7.33,
+        "judges": {
+          "data": "6: A fun three-weapon list with 'lava', no clones; reads as a list with no curiosity gap",
+          "viewer": "8: Lively rhythm and three ridiculous verbs, all true. 'Hosed down' is funny. It gives the methods away but makes you want to see them.",
+          "honesty": "8: All three methods are accurate (bombed, tube blown up, hosed with seawater); covers the whole video honestly and stays playful."
+        }
+      },
+      {
+        "id": 41,
+        "title": "Can You Beat a Volcano? We Kept Score",
+        "pattern": "Hypothetical 'Can you stop lava' hook answered with a real scoreboard",
+        "why": "It catches the biggest demand ('What if / Can X stop lava') but promises real history and a tally instead of fiction, a fresh spin on the proposed 'Can You Stop Lava? Humans Tried 3 Times'. The bombing line is the first entry on the scoreboard (37 chars).",
+        "chars": 37,
+        "close_matches": 2,
+        "best_match": "Can Sticky Beat a Volcano? (clause 0.85; also 'Can You Plug A Volcano?' 2.2M, clause 0.82)",
+        "best_match_views": 47000,
+        "fact_risk": "none",
+        "mean": 7.33,
+        "judges": {
+          "data": "7: Can-you hook (cf. 'Can You Plug A Volcano?' 2.2M) answered with the unique real scoreboard; 2 loose matches",
+          "viewer": "7: Nice question-plus-scoreboard pairing, but the first clause is close to existing titles.",
+          "honesty": "8: Hypothetical hook answered honestly with the video's real scoreboard; 'We Kept Score' is a good channel voice for a recurring series."
+        }
+      },
+      {
+        "id": 2,
+        "title": "The Craziest Way Humans Ever Fought Lava",
+        "pattern": "Superlative curiosity gap, answer withheld (40 chars)",
+        "why": "It promises one wild method without naming it. The VO opens with 'not even the craziest way we fought lava', so the claim is set up at once and pays off with Iceland.",
+        "chars": 40,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'the Craziest Lava Moment's Ever' 177K, ratio 0.66, part of the 'Ranking the Craziest Lava Moments' genre that reaches 35M)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7,
+        "judges": {
+          "data": "7: Fits the huge 'craziest lava moments' genre and states humans vs lava plainly, but a generic superlative that reads like a listicle",
+          "viewer": "7: Clear and fits the VO, but it reads like a generic 'craziest' listicle and has no concrete image.",
+          "honesty": "7: 'Craziest ever' is subjective puffery the video supports ('Iceland went full crazy'); honest but a generic superlative."
+        }
+      },
+      {
+        "id": 7,
+        "title": "Lava Climbed Their Wall. Plan B Was Wild.",
+        "pattern": "Setback first, payoff held back (41 chars)",
+        "why": "This is the 'Lava Flowed Over a Giant Wall' structure that hit 36.9K, with a new punchline. 'Wild' teases the tunnel blast without giving it away, and the bombing hook keeps the 'wild' feel going from the start.",
+        "chars": 41,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'Lava Breached the Wall! New eruption...' Grindavik news 50,951, first clause 0.76; same idea as 'Lava Flowed Over a Giant Wall. What Stopped It?' 38K)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7,
+        "judges": {
+          "data": "7: Setback-first like the 36.9K breakout, no clones, has 'lava'; 'Plan B Was Wild' is vaguer than a real question",
+          "viewer": "7: Setback first is a proven pattern and the image is vivid. 'Was Wild' is a little generic and doesn't match the bombing opener.",
+          "honesty": "7: Accurate for Etna (walls overrun, then the tube was blown up); a 'Plan B' tease the video pays off."
+        }
+      },
+      {
+        "id": 16,
+        "title": "Can Bombs Stop Lava? Scientists Still Argue",
+        "pattern": "'Can X stop lava?' question plus an open scientific dispute (43 chars)",
+        "why": "Uses the proven 'Can ice really stop lava?' search phrasing, and the second half opens a real curiosity gap instead of a bare question. It quotes the voice-over's 'Scientists still argue' word for word, so it stays honest about the dispute.",
+        "chars": 43,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'Can Ice Stop Lava?' 1,600, clause 0.78, a generic 'Can X Stop Lava?' template)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7,
+        "judges": {
+          "data": "8: Stacks two proven patterns ('Can X stop lava?' and the 2.59M 'did it work' doubt), 43 chars, 0 clones, strong search",
+          "viewer": "6: Honest and clear, but it only covers one case and undersells the escalation.",
+          "honesty": "7: States the scientific dispute exactly with zero overclaim, which builds trust; covers only the Hawaii hook, not the scoreboard."
+        }
+      },
+      {
+        "id": 22,
+        "title": "How Do You Win a Fight With a Volcano?",
+        "pattern": "'How do you...' challenge with a fight frame (38 chars)",
+        "why": "Has the 'went to war with a volcano' energy that carried the 2.59M cartoon, and sets up the episode's unique scoreboard payoff ('Humans two. Volcano zero'). Nobody in English owns the multi-case 'humans vs volcano' angle.",
+        "chars": 38,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'Engineers Actually Won a Fight Against a Volcano' 1,250, ratio 0.61; 'How to Defeat a Volcano' 26K, ratio 0.60)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7,
+        "judges": {
+          "data": "7: 'How do you' challenge with a fight frame, no clones, fits the multi-case scoreboard; no 'lava' keyword",
+          "viewer": "7: Clean, native, honest challenge frame. Good but not distinctive.",
+          "honesty": "7: Honest fight-frame question that the video answers with its scoreboard; fits the series."
+        }
+      },
+      {
+        "id": 29,
+        "title": "Bombing Lava Wasn't Even the Craziest Part",
+        "pattern": "Absurd premise plus an escalation tease (setback-first variant that holds the answer back)",
+        "why": "It flips the cloned 'Army bombed a volcano' line into a cliffhanger, the viewer has to stay to find out what beats bombing lava, and it matches the opening 'not even the craziest way we fought lava' almost word for word (42 chars, no place, no year).",
+        "chars": 42,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 7,
+        "judges": {
+          "data": "7: A near duplicate of #1; 'Part' is vaguer than 'Plan', so the escalation is less concrete",
+          "viewer": "7: Same hook as 1, but 'Part' is vaguer than 'Plan'. Pick 1 over this.",
+          "honesty": "7: Same honest hook as #1, but 'Part' is vaguer than 'Plan'; keep one of the two, and #1 is the better one."
+        }
+      },
+      {
+        "id": 35,
+        "title": "Patton Once Planned an Air Strike on Lava",
+        "pattern": "Famous person in an absurd premise",
+        "why": "A US audience knows Patton, so a general planning an air strike on lava is an instant 'wait, what?'. It's literally true (he planned the 1935 bombing), stays clear of the cloned 'US Army bombed' wording, and is said on screen in the first 15 seconds (41 chars).",
+        "chars": 41,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'Man vs. Lava – the Bizarre History of Bombing a Volcano (Airstrikes on Lava Flows!)' 1,030)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 6.67,
+        "judges": {
+          "data": "6: Famous name plus an absurd premise with no clones; a name works like a place tag (low ceiling in the scan), Hawaii only",
+          "viewer": "7: A fresh weird-history fact with a famous name. It reads like a trivia statement, without much tension.",
+          "honesty": "7: Accurate, and the famous name adds credibility; Hawaii only and slightly dry for 'hype'."
+        }
+      },
+      {
+        "id": 39,
+        "title": "Humanity's Weirdest Weapons Against Lava",
+        "pattern": "Ranking or compilation of weird weapons, with a curiosity tease",
+        "why": "'Weirdest weapons' promises several escalating reveals and suits the multi-case format no competitor has, and bombers are a strong weird weapon #1 for the opening line (40 chars).",
+        "chars": 40,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'The Weirdest Weapons Ever Built' 449, ratio 0.60)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 6.67,
+        "judges": {
+          "data": "6: A compilation tease like '3 Ridiculous Ways...' (6.8K ceiling), no clones; generic",
+          "viewer": "7: Clear listicle promise with broad appeal. Safe rather than hype.",
+          "honesty": "7: Honest compilation framing that fits an education channel; a little flat on hype."
+        }
+      },
+      {
+        "id": 3,
+        "title": "Each Plan to Stop Lava Got Crazier",
+        "pattern": "Pure escalation, plain human-vs-lava statement (34 chars)",
+        "why": "It is short and has no place or year, which is the winning profile in the scan. 'Got crazier' makes people stay for the next step, and it matches the bombs-to-explosives-to-ocean order of the VO.",
+        "chars": 34,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'How to STOP Lava with Water' 1,136, ratio 0.66)",
+        "best_match_views": 0,
+        "fact_risk": "low: 'each plan got crazier' reads as one escalating timeline, but the cases are separate (1935, 1992, 1973). It matches the video's order, not the real chronology",
+        "mean": 6.33,
+        "judges": {
+          "data": "8: 34 chars (best band), 'stop lava' is the top search phrase, pure escalation, no clones; slight chronology fudge only",
+          "viewer": "6: Fine escalation, but flat. 'Plan' feels abstract and the single-timeline framing isn't quite accurate.",
+          "honesty": "5: Makes three separate events (1935, 1992, 1973) look like one escalating sequence, which is mildly misleading about chronology."
+        }
+      },
+      {
+        "id": 9,
+        "title": "How Do You Stop Lava That Climbs Walls?",
+        "pattern": "Curiosity-gap question built on a setback (39 chars)",
+        "why": "The question only works because the obvious answer, a wall, is ruled out right in it. That opens a real gap, not a bare question. It sits in the 'Can X stop lava?' demand space.",
+        "chars": 39,
+        "close_matches": 1,
+        "best_match": "how do you stop lava first play #clashroyale (same 5-word phrase, but it is an unrelated game Short)",
+        "best_match_views": 5200,
+        "fact_risk": "none",
+        "mean": 6.33,
+        "judges": {
+          "data": "7: 'Stop lava' question built on a setback; the only match is an unrelated game Short, a solid curiosity gap",
+          "viewer": "6: Real curiosity, but clunky phrasing. It also echoes an unrelated game title.",
+          "honesty": "6: Honest curiosity gap with no overclaim; the only clone is an unrelated game Short, but it is a bit generic."
+        }
+      },
+      {
+        "id": 14,
+        "title": "Lava vs Humans. The Final Score Is Weird.",
+        "pattern": "Versus framing with an oddity left unexplained (41 chars)",
+        "why": "'Weird' points to the uncounted third fight without explaining it, so the viewer has to watch to the end. That also helps retention. It fits the channel's 'Humans vs Volcano' scoreboard idea.",
+        "chars": 41,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'Lava vs Human Hand | Shocking Results...' 1,500, first clause only, different topic)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 6.33,
+        "judges": {
+          "data": "6: Versus plus scoreboard tease with no clones, but 'weird' is soft and the hook is weak",
+          "viewer": "6: Same scoreboard idea as 13, said with less punch. 'Is Weird' is filler.",
+          "honesty": "7: Honest versus framing ('weird' fits the 2-0 with an asterisk); 'Lava vs Humans' reverses the series wording."
+        }
+      },
+      {
+        "id": 27,
+        "title": "Can Humans Beat a Volcano? The Real Score",
+        "pattern": "Hypothetical question plus scoreboard tease (41 chars)",
+        "why": "Combines the 'can you stop lava' demand with the episode's unique angle, a real-history scoreboard nobody else has. 'The Real Score' sets up the 'Humans two. Volcano zero' ending and the Hawaii joke.",
+        "chars": 41,
+        "close_matches": 1,
+        "best_match": "Can Sticky Beat a Volcano? (first clause 0.80, one word swapped)",
+        "best_match_views": 47000,
+        "fact_risk": "none",
+        "mean": 6.33,
+        "judges": {
+          "data": "6: Can-X plus scoreboard tease; the first clause is one word off a 47K kids cartoon, and the 41-char tail is weak",
+          "viewer": "6: OK combo, but two halves dilute each other and the first clause is near-cloned.",
+          "honesty": "7: Honest scoreboard tease with a series feel; 'The Real Score' is a bit generic and the first clause echoes a kids cartoon title."
+        }
+      },
+      {
+        "id": 10,
+        "title": "Lava Almost Sealed the Harbor. What Stopped It?",
+        "pattern": "Near-disaster setback plus 'What stopped it?' (47 chars)",
+        "why": "It uses the proven 'What Stopped It?' ending on the most dramatic stakes, a town's harbor about to close. The video answers it with seawater, and the lava stopping about 100 m short matches the fact sheet.",
+        "chars": 47,
+        "close_matches": 1,
+        "best_match": "Lava Flowed Over a Giant Wall. What Stopped It? (same two-beat template with the identical 'What Stopped It?' payoff, the recent breakout)",
+        "best_match_views": 38000,
+        "fact_risk": "none",
+        "mean": 6,
+        "judges": {
+          "data": "5: 47 chars (over ideal) and a near copy of the breakout's 'What Stopped It?' template; 'harbor' is a weak stake",
+          "viewer": "6: Lifts the breakout template almost word for word. 'Sealed the harbor' gives a young US viewer little to picture.",
+          "honesty": "7: Accurate for Heimaey (lava stopped ~100 m short), and the video answers it; it borrows the breakout's template and is long at 47 chars."
+        }
+      },
+      {
+        "id": 17,
+        "title": "Patton Planned to Bomb Lava. Did It Work?",
+        "pattern": "Famous-name setup then 'did it work?' doubt (41 chars)",
+        "why": "For US viewers, Patton is a stronger hook than a place name, and he isn't one of the cloned 'US Army bombed' titles. The 'did it work?' doubt mirrors the 2.59M Portuguese hit. The title says he planned it, not that he was a general, and leaves the outcome open.",
+        "chars": 41,
+        "close_matches": 3,
+        "best_match": "The U.S. Army Bombed Lava. Did It Work? (also 'They bombed Mauna Loa's lava — did it work?' 1,318 and '...in Hawaii… Did It Work?' 159)",
+        "best_match_views": 1190,
+        "fact_risk": "none (an open question; the video's answer is 'disputed')",
+        "mean": 6,
+        "judges": {
+          "data": "5: The Patton name adds novelty, but 'Did It Work?' lands in the 3-clone bombing cluster (~1.2K)",
+          "viewer": "6: The Patton name is a nice surprise, but 'Did It Work?' is the cloned cluster and many 16-30s won't know the name.",
+          "honesty": "7: Accurate (then-Lt. Col. Patton planned it) and an honest open question, but it uses the cloned 'Did It Work?' format."
+        }
+      },
+      {
+        "id": 20,
+        "title": "Can the Ocean Beat a Volcano?",
+        "pattern": "Absurd matchup hypothetical 'Can X beat Y?' (29 chars)",
+        "why": "Under 30 characters, which is the best length bracket. It sounds like the 'can ice stop lava' fiction Shorts but is paid off by real history: 5 months of pumping seawater kept the harbor open. It avoids the cloned 'Town That Fought a Volcano With Seawater (and Won)' wording.",
+        "chars": 29,
+        "close_matches": 1,
+        "best_match": "Can Sticky Beat a Volcano? (kids cartoon, one word swapped, ratio 0.79; the concept is also in 'Ocean vs Volcano — Who Wins This Brutal Battle?' 3,616)",
+        "best_match_views": 47000,
+        "fact_risk": "low: 'beat a volcano' can read as stopping the eruption, but the seawater only halted the lava front near the harbor",
+        "mean": 6,
+        "judges": {
+          "data": "6: 29 chars, a can-X hypothetical with demand; one word off a 47K kids cartoon, Iceland only, slight overclaim",
+          "viewer": "7: Short, fun absurd matchup that taps the 'can X stop lava' demand. It slightly overclaims and doesn't link to the bombing opener.",
+          "honesty": "5: 'Beat a volcano' overstates what happened (the seawater only halted the lava front near the harbor), and it is a one-word swap of a kids cartoon title."
+        }
+      },
+      {
+        "id": 23,
+        "title": "Lava Is Coming for Your Town. Now What?",
+        "pattern": "Put-the-viewer-in-it scenario, like the 560K 'One Week To Stop a Volcano' hit (39 chars)",
+        "why": "Uses the high-stakes 'what would you do' framing that drives the biggest hypothetical Shorts. Every case in the video really is a town facing lava ('Lava is crawling toward a city', 'Etna is coming for a town'), so the premise is literal.",
+        "chars": 39,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "low: the POV/how-to framing promises advice, but the video tells three historical cases (it does echo the VO's 'Etna is coming for a town')",
+        "mean": 6,
+        "judges": {
+          "data": "7: POV scenario like the 560K 'One Week To Stop a Volcano', echoes the VO; implies advice the video does not give",
+          "viewer": "6: The POV pull works, but it promises survival advice and the video tells history.",
+          "honesty": "5: The POV framing promises survival advice, but the video is three history cases; a mild mismatch."
+        }
+      },
+      {
+        "id": 26,
+        "title": "Bombs or the Ocean: What Stops Lava?",
+        "pattern": "Method-vs-method 'which one works' question (36 chars)",
+        "why": "Puts the two most surprising methods side by side and asks the search question everyone types: what stops lava? It doesn't say the bombs worked or failed; the video gives the honest split verdict.",
+        "chars": 36,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'The Ocean Can't Stop This Volcano!' 1,200, ratio 0.64)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 6,
+        "judges": {
+          "data": "6: Method-vs-method 'what stops lava' with search value and no clones; a flat construction",
+          "viewer": "6: Clear method-vs-method, but it reads like a science quiz rather than hype.",
+          "honesty": "6: Honest open comparison, but it implies the video settles whether bombs work, which it deliberately does not."
+        }
+      },
+      {
+        "id": 33,
+        "title": "Humans vs Volcano: Who's Actually Winning?",
+        "pattern": "Versus scoreboard question with a real curiosity gap",
+        "why": "It names the unique angle nobody owns (a real multi-case scoreboard), the question gets answered by 'Final score: Humans two. Volcano zero', and 'actually' hints the answer is surprising (42 chars).",
+        "chars": 42,
+        "close_matches": 2,
+        "best_match": "Humans vs Volcanoes: The Shocking Carbon Truth (same lead phrase, clause 0.94; also 'Man vs Volcano! ... Survival Thriller Explained' 3.96M, clause 0.90)",
+        "best_match_views": 1500,
+        "fact_risk": "none",
+        "mean": 6,
+        "judges": {
+          "data": "5: 2 close matches on the 'Humans/Man vs Volcano' lead, and the stock 'Who's Actually Winning?' adds little",
+          "viewer": "6: Generic versus question. The lead phrase is already used on YouTube.",
+          "honesty": "7: Series-defining and honest, but the lead phrase collides with an unrelated 'Humans vs Volcanoes' carbon video."
+        }
+      },
+      {
+        "id": 38,
+        "title": "Humans 2, Volcano 0. Don't Ask About Round 1",
+        "pattern": "Scoreboard with a held-back answer (the Hawaii joke as a teaser)",
+        "why": "The score creates an instant 'how?', and 'don't ask about round 1' makes viewers ask about the 1935 bombing, which is exactly what the first line delivers. It never says whether the bombs worked (44 chars).",
+        "chars": 44,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "low: implies Round 1 (Hawaii) was a loss, while the video only says the bombs' effect is disputed. It matches the 'we don't talk about Hawaii' joke",
+        "mean": 6,
+        "judges": {
+          "data": "5: 44 chars, the scoreboard angle, but it implies the Hawaii outcome was a loss",
+          "viewer": "7: Fun tease, but longer and wordier than 13, and it implies Hawaii was a loss.",
+          "honesty": "6: Mirrors the VO's closing joke, but 'Don't Ask About Round 1' hints Hawaii was a loss; less clean than #13."
+        }
+      },
+      {
+        "id": 40,
+        "title": "Nobody Told Humans You Can't Beat Lava",
+        "pattern": "Underdog defiance with personality",
+        "why": "It plays on the common belief that lava can't be stopped and then sides with the stubborn humans, which matches the video's 2-0 result, and the bombing opener is the first act of defiance (38 chars).",
+        "chars": 38,
+        "close_matches": 1,
+        "best_match": "Nobody told us about the lava (weak lexical match, ratio 0.758, different meaning)",
+        "best_match_views": 13000,
+        "fact_risk": "none",
+        "mean": 6,
+        "judges": {
+          "data": "6: A defiance hook with no real clone; a little wordy and abstract",
+          "viewer": "6: Has attitude, but the phrasing is a little awkward and it doesn't land fast.",
+          "honesty": "6: Fun defiance, but 'beat lava' leans triumphal beyond the video's caveated 2-0."
+        }
+      },
+      {
+        "id": 5,
+        "title": "Bombs? Maybe. Walls? Failed. Then the Ocean.",
+        "pattern": "Rapid setback scoreboard, then twist (44 chars)",
+        "why": "It runs in VO order. 'Maybe' stays honest about the disputed bombing, 'Failed' is the Etna setback, and 'the Ocean' is a strange enough twist to earn the tap.",
+        "chars": 44,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "none ('Maybe' fits the disputed bombing, and Etna's walls really were overrun)",
+        "mean": 5.67,
+        "judges": {
+          "data": "5: Clever doubt beat, but choppy, no lava keyword, and at the top of the length band",
+          "viewer": "5: Too choppy to take in mid-scroll. Four fragments make the viewer work before they care.",
+          "honesty": "7: 'Maybe' keeps Hawaii disputed and 'Walls? Failed' is accurate; follows the video's order but skips the Etna blast win."
+        }
+      },
+      {
+        "id": 8,
+        "title": "Walls Didn't Stop the Lava. This Did.",
+        "pattern": "Setback, then a withheld answer pointing at the video (37 chars)",
+        "why": "'This Did' only gets answered by watching. It is honest: in the VO the tunnel blast leaves the town losing one building, and Etna counts toward 'Humans two'.",
+        "chars": 37,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'They Couldn't Stop the Lava. So They Aimed It.' 1,513, ratio 0.62)",
+        "best_match_views": 0,
+        "fact_risk": "low: at Etna the explosives redirected the flow (the town lost one building) and the video never says they 'stopped' it. Only accurate if 'this' means the Iceland seawater",
+        "mean": 5.67,
+        "judges": {
+          "data": "7: 37 chars, setback then a withheld answer, 'stop the lava' search value; 'this did' is ambiguous for Etna",
+          "viewer": "5: Strong gap, but 'This Did' is vague bait, and the Etna payoff redirected the lava rather than stopping it.",
+          "honesty": "5: 'This did' suggests one thing stopped the lava; at Etna the blast redirected it, so this is only accurate if read as the Iceland seawater."
+        }
+      },
+      {
+        "id": 15,
+        "title": "What If You Bombed Lava? The Army Did.",
+        "pattern": "Hypothetical 'What if you...?' answered with a real-history twist (38 chars)",
+        "why": "Rides the 'what if you bombed a volcano' search demand (42.8K, 60M nuke fiction), then promises it really happened. The first spoken line, 'The US Army once bombed a volcano', pays it off in under 2 seconds. It claims nothing about whether the bombing worked.",
+        "chars": 38,
+        "close_matches": 1,
+        "best_match": "What if you bombed a volcano? #science #lava #experiment (one word swapped; the second half also echoes the cloned 'U.S. Army Bombed' pattern)",
+        "best_match_views": 42846,
+        "fact_risk": "none (the bombers were US Army Air Corps)",
+        "mean": 5.67,
+        "judges": {
+          "data": "5: Rides what-if demand, but it is one word off the 42.8K 'What if you bombed a volcano?' and echoes the cloned 'Army bombed'",
+          "viewer": "6: The hypothetical-then-real twist is nice, but it's one word off a 42K title and borrows the cloned Army framing.",
+          "honesty": "6: Accurate (the bombers were Army Air Corps), but it is a one-word swap of a 42K title and echoes the cloned 'Army bombed' pattern."
+        }
+      },
+      {
+        "id": 18,
+        "title": "Bombing Lava: Genius or Pointless?",
+        "pattern": "Two-sided verdict question (34 chars)",
+        "why": "Short, and it makes the viewer pick a side, which drives comments. It is honest because the video says scientists still argue whether the bombs did anything. The first line about bombing a volcano lands right on the premise.",
+        "chars": 34,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 5.67,
+        "judges": {
+          "data": "6: 34 chars, a two-sided verdict with no clones; covers only the Hawaii segment and has little search pull",
+          "viewer": "5: A colon-debate format that reads like a dull explainer. Scrollable.",
+          "honesty": "6: Two-sided question that matches the dispute; 'Pointless' leans slightly loaded and it covers Hawaii only."
+        }
+      },
+      {
+        "id": 44,
+        "title": "We Bombed Lava. Then It Got Weirder.",
+        "pattern": "earlier proposal",
+        "why": "baseline from the first package",
+        "chars": 36,
+        "close_matches": 3,
+        "best_match": "The U.S. Army Bombed Lava. Did It Work? (same 'bombed lava' opener as the cloned cluster; also 'They bombed Mauna Loa's lava — did it work?' 1,318 and '...in Hawaii…' 159)",
+        "best_match_views": 1190,
+        "fact_risk": "none",
+        "mean": 5.67,
+        "judges": {
+          "data": "5: Earlier proposal: opens with the cloned 'bombed lava' phrasing (~1.2K cluster)",
+          "viewer": "6: Earlier proposal: works with the opener, but the 'bombed lava' opener is cloned and 'Got Weirder' is soft.",
+          "honesty": "6: Honest, but the 'bombed lava' opener is the cloned cluster."
+        }
+      },
+      {
+        "id": 45,
+        "title": "Lava Beat the Walls. So They Blew It Up.",
+        "pattern": "earlier proposal",
+        "why": "baseline from the first package",
+        "chars": 40,
+        "close_matches": 2,
+        "best_match": "They Couldn't Stop the Lava. So They Aimed It. (same 'X. So They ___ It.' two-beat structure; first clause also close to 'Lava Breached the Wall!...' 50,951, clause 0.83)",
+        "best_match_views": 1513,
+        "fact_risk": "none",
+        "mean": 5.67,
+        "judges": {
+          "data": "5: Earlier proposal: 2 structural matches ('So They ___ It'), Etna only",
+          "viewer": "6: Earlier proposal: a nice two-beat, but the structure is already used and it covers only Etna.",
+          "honesty": "6: Accurate for Etna (the tube was blown up after the walls failed); 'It' is ambiguous and it reuses a known two-beat structure."
+        }
+      },
+      {
+        "id": 34,
+        "title": "We Don't Talk About the Volcano We Bombed",
+        "pattern": "Meme reference ('We Don't Talk About Bruno') built on the video's own closing joke",
+        "why": "US viewers know the meme and want to know why we don't talk about it. That makes the bombing outcome a mystery without claiming it worked or failed, it connects the first line to the last one, and it rewards rewatches (41 chars).",
+        "chars": 41,
+        "close_matches": 0,
+        "best_match": "none on topic (riffs on the Encanto meme 'We Don't Talk About Bruno' 654M; 'We Don't Talk About Pluto' parody 4.4M)",
+        "best_match_views": 0,
+        "fact_risk": "low: hints the bombing was an embarrassing failure (disputed in fact), but it mirrors the VO's own closing line. It also gives away the ending punchline",
+        "mean": 5.33,
+        "judges": {
+          "data": "5: A meme riff, but it spoils the ending punchline, implies the bombing failed, and has weak search value",
+          "viewer": "7: The Bruno meme lands with this age group and it mirrors the VO, but it spoils the closing joke and implies failure.",
+          "honesty": "4: Implies the bombing was an embarrassing failure (the effect is disputed) and gives away the ending punchline."
+        }
+      },
+      {
+        "id": 36,
+        "title": "The Volcano Didn't See the Ocean Coming",
+        "pattern": "Personified villain with a 'didn't see it coming' twist",
+        "why": "Giving the volcano a personality makes it a cartoon rivalry that suits the Atlas Ape tone, it teases the craziest weapon without copying the seawater clones, and it pays off on 'they fight a volcano… with the ocean' (39 chars).",
+        "chars": 39,
+        "close_matches": 1,
+        "best_match": "The Volcano Hidden in the Ocean (weak lexical match, ratio 0.754, different meaning)",
+        "best_match_views": 627,
+        "fact_risk": "low: personification implies the ocean beat the eruption itself, but the seawater only halted the lava front near the harbor",
+        "mean": 5.33,
+        "judges": {
+          "data": "5: Personified twist with low search value and a slight overclaim about beating the volcano",
+          "viewer": "6: Cute personification, but it overclaims slightly and is disconnected from the bombing opener.",
+          "honesty": "5: Personification overstates the win (the ocean only halted the lava front near the harbor, not the eruption)."
+        }
+      },
+      {
+        "id": 43,
+        "title": "Can You Stop Lava? Humans Tried 3 Times",
+        "pattern": "earlier proposal",
+        "why": "baseline from the first package",
+        "chars": 39,
+        "close_matches": 3,
+        "best_match": "Can you stop a lava flow? How people have tried in the past (also the identical template 'Can a Wall of Dirt Stop Lava? Iceland Tried It 9 Times' 250, and 'Can Humans Stop a Lava Flow?' 48)",
+        "best_match_views": 14610,
+        "fact_risk": "low: 'Tried 3 Times' reads as only three attempts in history, but there were many more (e.g. Etna 1983, Grindavik walls). The video just shows three",
+        "mean": 5.33,
+        "judges": {
+          "data": "5: Earlier proposal: 3 close matches with the same template, and a number in the title",
+          "viewer": "6: Earlier proposal: clear, but a templated format with existing near-matches.",
+          "honesty": "5: 'Tried 3 Times' implies only three attempts in history, a mild overclaim, and it uses a crowded template."
+        }
+      },
+      {
+        "id": 6,
+        "title": "They Bombed Lava. Scientists Still Argue.",
+        "pattern": "Absurd act, then a 'did it work?' doubt left open (41 chars)",
+        "why": "This uses the doubt hook from the 2.59M Portuguese hit, but not the cloned 'Army bombed a volcano' wording. It matches the VO line 'Scientists still argue' and never claims the bombs worked or failed.",
+        "chars": 41,
+        "close_matches": 3,
+        "best_match": "They bombed Mauna Loa's lava — did it work? #Shorts (also 'The U.S. Army Bombed Lava. Did It Work?' 1,190 and '...in Hawaii… Did It Work?' 159; this is the cloned 'bombed lava + doubt' cluster)",
+        "best_match_views": 1318,
+        "fact_risk": "none",
+        "mean": 5,
+        "judges": {
+          "data": "4: 3 close matches in the cloned 'bombed lava + doubt' cluster that stalls at ~1K",
+          "viewer": "5: Decent doubt hook, but it sits in the cloned 'bombed lava' cluster and only covers Hawaii.",
+          "honesty": "6: Fully accurate and keeps the dispute open, but it sits in a cloned 'bombed lava + doubt' cluster and covers only the hook."
+        }
+      },
+      {
+        "id": 11,
+        "title": "The Ground Ripped Open. Then They Fought Back.",
+        "pattern": "Catastrophe first, comeback held back (46 chars)",
+        "why": "It opens on a strong image, the ground ripping open, which is a VO line, and then promises a fight. How they fought back stays hidden, which avoids the cloned 'seawater' titles.",
+        "chars": 46,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'The Ground Split Open and Nobody Saw It Coming' 655, ratio 0.56; 'He Ground Split Open… Then This Happened!' 26, ratio 0.60)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 5,
+        "judges": {
+          "data": "4: 46 chars, no lava/volcano keyword, so zero search value; generic disaster phrasing",
+          "viewer": "5: Dramatic but there's no lava or volcano cue, so it could be any disaster video. Generic.",
+          "honesty": "6: Accurate and taken from the VO, but there is no lava or volcano cue, so the title alone does not say what the video is about."
+        }
+      },
+      {
+        "id": 42,
+        "title": "They Aimed the Ocean at a Volcano",
+        "pattern": "Absurd-weapon statement (an extreme fresh variant of 'They [used X] to stop lava')",
+        "why": "'Aimed the ocean' is a vivid, slightly unbelievable image that avoids the cloned 'fought a volcano with seawater (and won)' wording. It's honest about the 5 months of pumped seawater, and the opening line says straight away that bombing was not even the craziest weapon (33 chars).",
+        "chars": 33,
+        "close_matches": 1,
+        "best_match": "They poured the ocean onto a volcano. And the IMPOSSIBLE happened (clause 0.84; part of the cloned 'fought a volcano with the ocean' cluster, 107-817 views)",
+        "best_match_views": 2900,
+        "fact_risk": "low: the seawater was sprayed on the advancing lava flow, not aimed at the volcano itself",
+        "mean": 5,
+        "judges": {
+          "data": "4: Part of the cloned 'fought a volcano with the ocean' cluster (107-817 views)",
+          "viewer": "6: Vivid, but it belongs to the cloned seawater cluster and is technically inexact.",
+          "honesty": "5: The seawater was sprayed on the lava flow, not aimed at the volcano; it also sits in the cloned seawater cluster."
+        }
+      },
+      {
+        "id": 37,
+        "title": "Lava Messed With the Wrong Species",
+        "pattern": "Meme format ('messed with the wrong X') from the humans' side",
+        "why": "It's a confident, shareable flex that fits the video's own 2-0 score, and it frames the bombing opener as round one of humans hitting back (34 chars).",
+        "chars": 34,
+        "close_matches": 10,
+        "best_match": "You Messed with the Wrong Species #fantasy #hfy #redditstories (a common HFY sci-fi meme phrase, 10 titles contain it)",
+        "best_match_views": 1100,
+        "fact_risk": "none",
+        "mean": 4.67,
+        "judges": {
+          "data": "3: 10 matches of the HFY 'wrong species' meme, heavily cloned",
+          "viewer": "7: A meme young viewers know, used confidently and in the right spirit for the 2-0 score, though the phrase is common elsewhere.",
+          "honesty": "4: Overused HFY meme with 10 clones, and its triumphalism ignores the disputed Hawaii case; off-brand bragging."
+        }
+      },
+      {
+        "id": 12,
+        "title": "They Saved the Harbor. Then It Got Better.",
+        "pattern": "Win, then an unexpected twist (42 chars)",
+        "why": "It flips the usual disaster arc. People tap to find out how a lava flow could make things better, and it is true: the new rock improved the harbor.",
+        "chars": 42,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'They Escaped the Volcano — Then Went Back' 1,800, ratio 0.63)",
+        "best_match_views": 0,
+        "fact_risk": "none",
+        "mean": 4.33,
+        "judges": {
+          "data": "3: No topic keyword, a low-stakes twist, no proven pattern",
+          "viewer": "4: Harbor stakes don't grab anyone, and the twist sounds like a shrug.",
+          "honesty": "6: True (the new rock improved the harbor), but it gives away the payoff and has no lava cue."
+        }
+      },
+      {
+        "id": 4,
+        "title": "Plan A: Bombs. Plan B: Explosives. Plan C?",
+        "pattern": "Escalation list with an open final slot (42 chars)",
+        "why": "The empty 'Plan C?' is a real gap the video fills with the ocean. Plan A is the bomber hook in the first line. It says 'explosives', not dynamite.",
+        "chars": 42,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "low: presents three separate events as one sequence of plans, and 'Bombs' vs 'Explosives' reads as the same thing twice",
+        "mean": 4,
+        "judges": {
+          "data": "4: No lava/volcano keyword; 'Bombs' and 'Explosives' read as the same thing, so the escalation falls flat",
+          "viewer": "4: 'Bombs' and 'Explosives' read as the same thing, so the list deflates. The format feels dated.",
+          "honesty": "4: Presents three separate events as one plan sequence, and 'Bombs' vs 'Explosives' reads as the same thing twice; muddled and slightly misleading."
+        }
+      },
+      {
+        "id": 24,
+        "title": "What If Lava Opened Up Under Your Town?",
+        "pattern": "Personal 'What if...' disaster hypothetical (39 chars)",
+        "why": "Draws on the Heimaey moment ('The ground rips open on an island of 5,300 people') without naming a place or year, which the data says suppresses views. It promises a survival story the video delivers: almost everyone out in six hours.",
+        "chars": 39,
+        "close_matches": 0,
+        "best_match": "none (nearest: 'What if lava comes out from under the city?' 457, ratio 0.62, same premise; 'What if a volcano erupted next to your town?' 1,100)",
+        "best_match_views": 0,
+        "fact_risk": "low: the Heimaey fissure opened at the edge of town, not under it, and the video is real history, not a hypothetical",
+        "mean": 4,
+        "judges": {
+          "data": "5: What-if demand, but the premise is factually off (the fissure opened at the town's edge) and the video is history, not a hypothetical",
+          "viewer": "4: A hypothetical over a real-history video, slightly wrong on the facts, and a near-clone premise.",
+          "honesty": "3: Factually off (the Heimaey fissure opened at the edge of town, not under it), and it frames real history as a hypothetical."
+        }
+      },
+      {
+        "id": 28,
+        "title": "Walls Failed. Bombs? Maybe. Then the Ocean.",
+        "pattern": "Escalating three-beat list with a doubt beat (43 chars)",
+        "why": "Every beat matches the facts: the walls were overrun, the bombs are disputed ('Maybe'), and the ocean held the lava off the harbor. The rhythm feels like a countdown to the 'full crazy' finale. It skips place names and years, which the data says keep titles under 17K and 6.8K.",
+        "chars": 43,
+        "close_matches": 0,
+        "best_match": "none",
+        "best_match_views": 0,
+        "fact_risk": "low: the order suggests bombs were tried after the walls in the same fight. At Etna the explosives after the walls worked; the 'maybe' only applies to Hawaii 1935",
+        "mean": 4,
+        "judges": {
+          "data": "4: Duplicate of #5 with a misleading order (bombs after walls); no keyword",
+          "viewer": "4: Same choppiness as 5, and the order wrongly implies one fight.",
+          "honesty": "4: Order suggests bombs were tried after walls in the same fight, mixing up Hawaii's disputed bombs with Etna's successful blast."
+        }
+      },
+      {
+        "id": 19,
+        "title": "Scientists Still Can't Agree If This Worked",
+        "pattern": "Withheld subject plus expert-doubt hook (43 chars)",
+        "why": "'This' is never named, which forces the tap. The doubt is the true state of the 1935 bombing debate. The cold open, 'The US Army once bombed a volcano', reveals what 'this' is right away.",
+        "chars": 43,
+        "close_matches": 8,
+        "best_match": "Scientists still can't agree if this nearly killed us #Shorts (an overused off-topic template: also '...If This Is an Organ' 11, '...Can't Agree If This Is Alive' 11, plus 5 more with 'Scientists Still Can't Agree')",
+        "best_match_views": 704,
+        "fact_risk": "none (has no lava/volcano cue and only fits the Hawaii segment)",
+        "mean": 3,
+        "judges": {
+          "data": "2: 8 clones of an overused off-topic template, no lava/volcano cue",
+          "viewer": "3: Overused template with no lava cue at all. Pure vague bait.",
+          "honesty": "4: Vague withheld-subject bait in an overused template with no topic cue; it fits only the Hawaii segment, which feels evasive for the brand."
+        }
+      },
+      {
+        "id": 21,
+        "title": "What Would You Throw at a Volcano?",
+        "pattern": "Second-person challenge (34 chars)",
+        "why": "Asks the viewer to play along, and the video answers with three real options: bombs, explosives at the source, and the ocean. 'Not even the craziest way we fought lava' in the first line promises the escalation.",
+        "chars": 34,
+        "close_matches": 1,
+        "best_match": "What If You Throw Ice Into A Volcano? (ratio 0.78; part of the huge 'things thrown into a volcano' genre, 58 titles, up to 26M)",
+        "best_match_views": 1200000,
+        "fact_risk": "mismatch: suggests the 'throw objects into a volcano' genre, but the video is about stopping lava flows (bombing, blasting a tube, seawater). Viewers may feel misled",
+        "mean": 2,
+        "judges": {
+          "data": "2: Points at the 'throw things into a volcano' genre, a content mismatch that risks a misleading-title penalty",
+          "viewer": "2: Promises the 'throwing stuff in a volcano' genre. The click would feel bait-and-switch.",
+          "honesty": "2: Points to the 'things thrown into a volcano' genre, but the video is about stopping lava flows; viewers would feel misled."
+        }
+      }
+    ]
+  },
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Generate"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Check"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 3,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "gen:gap",
+      "phaseIndex": 1,
+      "phaseTitle": "Generate",
+      "agentId": "a3e8481dea3fe7f5a",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1792439190857,
+      "queuedAt": 1792439190834,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You write YouTube Shorts titles. \nVIDEO: \"Humans vs Volcano\", a 76.8 s vertical YouTube Short (English) on the channel \"The Atlas Ape\" (cartoon orangutan host, bright 3D maps + archive photos). Target audience: English-speaking (US) Shorts viewers.\nFULL VOICE-OVER: \"The US Army once bombed a volcano. And that's not even the craziest way we fought lava. 1935, Hawaii. Lava is crawling toward a city.…",
+      "promptFramed": true,
+      "lastProgressAt": 1792439291214,
+      "tokens": 65461,
+      "toolCalls": 2,
+      "durationMs": 100356,
+      "resultPreview": "{\"titles\":[{\"title\":\"Bombing Lava Wasn't Even the Craziest Plan\",\"pattern\":\"Escalation: absurd step first, crazier payoff held back (42 chars)\",\"why\":\"The bombing is the hook, and the viewer taps to see what beat it. It restates the first spoken line almost word for word, so the title matches the first second of the video.\"},{\"title\":\"The Craziest Way Humans Ever Fought Lava\",\"pattern\":\"Superlativ…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "gen:whatif",
+      "phaseIndex": 1,
+      "phaseTitle": "Generate",
+      "agentId": "a2577b61ba0baf5b1",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1792439190857,
+      "queuedAt": 1792439190835,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You write YouTube Shorts titles. \nVIDEO: \"Humans vs Volcano\", a 76.8 s vertical YouTube Short (English) on the channel \"The Atlas Ape\" (cartoon orangutan host, bright 3D maps + archive photos). Target audience: English-speaking (US) Shorts viewers.\nFULL VOICE-OVER: \"The US Army once bombed a volcano. And that's not even the craziest way we fought lava. 1935, Hawaii. Lava is crawling toward a city.…",
+      "promptFramed": true,
+      "lastProgressAt": 1792439255762,
+      "tokens": 74255,
+      "toolCalls": 3,
+      "durationMs": 62692,
+      "resultPreview": "{\"titles\":[{\"title\":\"What If You Bombed Lava? The Army Did.\",\"pattern\":\"Hypothetical 'What if you...?' answered with a real-history twist (38 chars)\",\"why\":\"Rides the 'what if you bombed a volcano' search demand (42.8K, 60M nuke fiction), then promises it really happened. The first spoken line, 'The US Army once bombed a volcano', pays it off in under 2 seconds. It claims nothing about whether the…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "gen:absurd",
+      "phaseIndex": 1,
+      "phaseTitle": "Generate",
+      "agentId": "a0f1f649b5a18a1f0",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1792439190857,
+      "queuedAt": 1792439190835,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You write YouTube Shorts titles. \nVIDEO: \"Humans vs Volcano\", a 76.8 s vertical YouTube Short (English) on the channel \"The Atlas Ape\" (cartoon orangutan host, bright 3D maps + archive photos). Target audience: English-speaking (US) Shorts viewers.\nFULL VOICE-OVER: \"The US Army once bombed a volcano. And that's not even the craziest way we fought lava. 1935, Hawaii. Lava is crawling toward a city.…",
+      "promptFramed": true,
+      "lastProgressAt": 1792439250119,
+      "tokens": 73449,
+      "toolCalls": 3,
+      "durationMs": 57048,
+      "resultPreview": "{\"titles\":[{\"title\":\"Bombing Lava Wasn't Even the Craziest Part\",\"pattern\":\"Absurd premise plus an escalation tease (setback-first variant that holds the answer back)\",\"why\":\"It flips the cloned 'Army bombed a volcano' line into a cliffhanger, the viewer has to stay to find out what beats bombing lava, and it matches the opening 'not even the craziest way we fought lava' almost word for word (42 c…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "check:clones+facts",
+      "phaseIndex": 2,
+      "phaseTitle": "Check",
+      "agentId": "a8963fc16588b5dcb",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1792439291229,
+      "queuedAt": 1792439291216,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "VIDEO: \"Humans vs Volcano\", a 76.8 s vertical YouTube Short (English) on the channel \"The Atlas Ape\" (cartoon orangutan host, bright 3D maps + archive photos). Target audience: English-speaking (US) Shorts viewers.\nFULL VOICE-OVER: \"The US Army once bombed a volcano. And that's not even the craziest way we fought lava. 1935, Hawaii. Lava is crawling toward a city. The plan? Bombers. Planned by… Ge…",
+      "promptFramed": true,
+      "lastProgressAt": 1792439946443,
+      "tokens": 124059,
+      "toolCalls": 16,
+      "durationMs": 655214,
+      "resultPreview": "{\"items\":[{\"id\":1,\"title\":\"Bombing Lava Wasn't Even the Craziest Plan\",\"chars\":42,\"close_matches\":0,\"best_match\":\"none (no title above 0.6 similarity)\",\"best_match_views\":0,\"fact_risk\":\"none\"},{\"id\":2,\"title\":\"The Craziest Way Humans Ever Fought Lava\",\"chars\":40,\"close_matches\":0,\"best_match\":\"none (nearest: 'the Craziest Lava Moment's Ever' 177K, ratio 0.66, part of the 'Ranking the Craziest Lava…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "judge:data",
+      "phaseIndex": 3,
+      "phaseTitle": "Judge",
+      "agentId": "add368fda4b4452f9",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1792439946474,
+      "queuedAt": 1792439946451,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "VIDEO: \"Humans vs Volcano\", a 76.8 s vertical YouTube Short (English) on the channel \"The Atlas Ape\" (cartoon orangutan host, bright 3D maps + archive photos). Target audience: English-speaking (US) Shorts viewers.\nFULL VOICE-OVER: \"The US Army once bombed a volcano. And that's not even the craziest way we fought lava. 1935, Hawaii. Lava is crawling toward a city. The plan? Bombers. Planned by… Ge…",
+      "promptFramed": true,
+      "lastProgressAt": 1792440008942,
+      "tokens": 70906,
+      "toolCalls": 2,
+      "durationMs": 62467,
+      "resultPreview": "{\"scores\":[{\"id\":1,\"score\":8,\"note\":\"42 chars, no clones, echoes the VO hook; turns the saturated 'bombed lava' fact into an escalation tease with a keyword\"},{\"id\":2,\"score\":7,\"note\":\"Fits the huge 'craziest lava moments' genre and states humans vs lava plainly, but a generic superlative that reads like a listicle\"},{\"id\":3,\"score\":8,\"note\":\"34 chars (best band), 'stop lava' is the top search phr…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "judge:viewer",
+      "phaseIndex": 3,
+      "phaseTitle": "Judge",
+      "agentId": "ac66ec44459660960",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1792439946475,
+      "queuedAt": 1792439946451,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "VIDEO: \"Humans vs Volcano\", a 76.8 s vertical YouTube Short (English) on the channel \"The Atlas Ape\" (cartoon orangutan host, bright 3D maps + archive photos). Target audience: English-speaking (US) Shorts viewers.\nFULL VOICE-OVER: \"The US Army once bombed a volcano. And that's not even the craziest way we fought lava. 1935, Hawaii. Lava is crawling toward a city. The plan? Bombers. Planned by… Ge…",
+      "promptFramed": true,
+      "lastProgressAt": 1792440003408,
+      "tokens": 65395,
+      "toolCalls": 1,
+      "durationMs": 54271,
+      "resultPreview": "{\"scores\":[{\"id\":1,\"title\":\"Bombing Lava Wasn't Even the Craziest Plan\",\"score\":9,\"note\":\"Instant absurd hook plus an escalation tease, and it hands off cleanly to the VO line 2. Native and fresh.\"},{\"id\":2,\"title\":\"The Craziest Way Humans Ever Fought Lava\",\"score\":7,\"note\":\"Clear and fits the VO, but it reads like a generic 'craziest' listicle and has no concrete image.\"},{\"id\":3,\"title\":\"Each Pl…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "judge:honesty",
+      "phaseIndex": 3,
+      "phaseTitle": "Judge",
+      "agentId": "a9fe0843a28abc98f",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1792439946475,
+      "queuedAt": 1792439946451,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "VIDEO: \"Humans vs Volcano\", a 76.8 s vertical YouTube Short (English) on the channel \"The Atlas Ape\" (cartoon orangutan host, bright 3D maps + archive photos). Target audience: English-speaking (US) Shorts viewers.\nFULL VOICE-OVER: \"The US Army once bombed a volcano. And that's not even the craziest way we fought lava. 1935, Hawaii. Lava is crawling toward a city. The plan? Bombers. Planned by… Ge…",
+      "promptFramed": true,
+      "lastProgressAt": 1792440016897,
+      "tokens": 65401,
+      "toolCalls": 1,
+      "durationMs": 67759,
+      "resultPreview": "{\"scores\":[{\"id\":1,\"score\":8,\"note\":\"Rewords the VO's own hook, makes no claim about whether the bombs worked, and the escalation tease is paid off; honest and on-brand.\"},{\"id\":2,\"score\":7,\"note\":\"'Craziest ever' is subjective puffery the video supports ('Iceland went full crazy'); honest but a generic superlative.\"},{\"id\":3,\"score\":5,\"note\":\"Makes three separate events (1935, 1992, 1973) look li…"
+    }
+  ],
+  "totalTokens": 538926,
+  "totalToolCalls": 28
+}

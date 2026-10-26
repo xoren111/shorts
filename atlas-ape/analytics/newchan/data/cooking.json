@@ -1,0 +1,423 @@
+{
+ "niche": "cooking",
+ "keywords": [
+  "recipe",
+  "cooking",
+  "easy recipe",
+  "street food",
+  "food hacks"
+ ],
+ "relevance": "",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:09 UTC",
+ "fresh_uploads": 164,
+ "fresh_uploaders": 135,
+ "new_uploaders": 45,
+ "new_share_of_uploaders": 0.333,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 36,
+ "shorts": 972,
+ "median_views": 5667,
+ "p75_views": 42524,
+ "p90_views": 206797,
+ "share_10k": 0.4558,
+ "share_100k": 0.1615,
+ "share_1m": 0.035,
+ "ci95_100k": [
+  0.1397,
+  0.186
+ ],
+ "hits_100k": 157,
+ "hits_1m": 34,
+ "channels_any_100k": 0.417,
+ "channels_any_1m": 0.25,
+ "median_channel_median": 1567,
+ "top": [
+  {
+   "views": 21032860,
+   "title": "Whole Beluga Cooked Over a Campfire",
+   "channel": "WildFire Cook",
+   "ch": "UCHGM2sFm5EnCLPdeYaXbC3Q",
+   "url": "https://youtube.com/shorts/TVtFLaS4ZoE",
+   "age_d": 37
+  },
+  {
+   "views": 20023893,
+   "title": "Deep-Fried Whole Ostrich",
+   "channel": "WildFire Cook",
+   "ch": "UCHGM2sFm5EnCLPdeYaXbC3Q",
+   "url": "https://youtube.com/shorts/DC4VsPadpik",
+   "age_d": 30
+  },
+  {
+   "views": 14301440,
+   "title": "Giant Naqqa Caught & Cooked Over an Open Fire",
+   "channel": "WildFire Cook",
+   "ch": "UCHGM2sFm5EnCLPdeYaXbC3Q",
+   "url": "https://youtube.com/shorts/pyhisZlL6f8",
+   "age_d": 36
+  },
+  {
+   "views": 11291078,
+   "title": "Make Your Hair Look Thicker in Seconds!#shorts #makeup",
+   "channel": "CleoCuddles",
+   "ch": "UCr_9RNTCtF50o3gIXaO15cA",
+   "url": "https://youtube.com/shorts/ynzBqEHL2Jg",
+   "age_d": 45
+  },
+  {
+   "views": 9234766,
+   "title": "But You Won't Be Flying The U2",
+   "channel": "Hidden Scenes",
+   "ch": "UCfa8MpvxSvTZJ2zlYXohu5Q",
+   "url": "https://youtube.com/shorts/TV_nISBAdIM",
+   "age_d": 50
+  },
+  {
+   "views": 9073475,
+   "title": "1,000-Lb Giant Bull Cooked for a Massive Village Feast",
+   "channel": "WildFire Cook",
+   "ch": "UCHGM2sFm5EnCLPdeYaXbC3Q",
+   "url": "https://youtube.com/shorts/QwgmULzmw2k",
+   "age_d": 49
+  },
+  {
+   "views": 8336208,
+   "title": "Honey-Salted Beef Shawarma",
+   "channel": "WildFire Cook",
+   "ch": "UCHGM2sFm5EnCLPdeYaXbC3Q",
+   "url": "https://youtube.com/shorts/2LZyc_uMUbw",
+   "age_d": 45
+  },
+  {
+   "views": 7875433,
+   "title": "Fire-Grilled Sturgeon & Caviar",
+   "channel": "WildFire Cook",
+   "ch": "UCHGM2sFm5EnCLPdeYaXbC3Q",
+   "url": "https://youtube.com/shorts/PM9mGaQBnPw",
+   "age_d": 22
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCfa8MpvxSvTZJ2zlYXohu5Q",
+   "title": "Hidden Scenes",
+   "created": "2026-07-18",
+   "subs": 2970,
+   "shorts_aged": 26,
+   "max": 9234766
+  },
+  {
+   "ch": "UCrbtzdqq1phCUOz9i6kVkUQ",
+   "title": "Cooking made easy",
+   "created": "2026-03-25",
+   "subs": 59,
+   "shorts_aged": 5,
+   "max": 599
+  },
+  {
+   "ch": "UCDsmx4hzhq9vTvSD0FLDOPg",
+   "title": "Ms Aspire",
+   "created": "2026-07-09",
+   "subs": 9,
+   "shorts_aged": 10,
+   "max": 385
+  },
+  {
+   "ch": "UC8oxreBhwObzGsmHn3D7eJA",
+   "title": "Home & Hungry",
+   "created": "2026-09-22",
+   "subs": 13,
+   "shorts_aged": 16,
+   "max": 2257
+  },
+  {
+   "ch": "UCCkyrcL0e2ZF1xhvWB2FP4Q",
+   "title": "Anday ",
+   "created": "2026-07-01",
+   "subs": 67,
+   "shorts_aged": 44,
+   "max": 3747
+  },
+  {
+   "ch": "UCWsItcjm_dedtGsKE3Ub2Aw",
+   "title": "Simple Food Recipes",
+   "created": "2026-10-02",
+   "subs": 59,
+   "shorts_aged": 10,
+   "max": 12324
+  },
+  {
+   "ch": "UCbJH6IOSMmJPW5bUUHalyBg",
+   "title": "Foodi By Food",
+   "created": "2026-09-15",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCZh0Oc_hu7QaVMtQm2myj7A",
+   "title": "Anabolic Cooking",
+   "created": "2026-09-03",
+   "subs": 29,
+   "shorts_aged": 16,
+   "max": 3953
+  },
+  {
+   "ch": "UCS-UYHHgdosjN_-r68DT4Uw",
+   "title": "Easy & Tasty Kitchen",
+   "created": "2026-10-13",
+   "subs": 0,
+   "shorts_aged": 11,
+   "max": 49
+  },
+  {
+   "ch": "UCvdztI3dAiIgQTl-6zDl6oQ",
+   "title": "The corey family",
+   "created": "2026-01-28",
+   "subs": 151000,
+   "shorts_aged": 31,
+   "max": 1793978
+  },
+  {
+   "ch": "UCMnW8UtYideB_PLraSwQVew",
+   "title": "Chase Hoffman",
+   "created": "2026-08-18",
+   "subs": 3940,
+   "shorts_aged": 44,
+   "max": 1184843
+  },
+  {
+   "ch": "UCG6_enwcmlVUGg9goYKTNgg",
+   "title": "Huy Van",
+   "created": "2025-12-18",
+   "subs": 210000,
+   "shorts_aged": 35,
+   "max": 1855711
+  },
+  {
+   "ch": "UCfUEay3duyHpmMhedbR1vqA",
+   "title": "Mira Kitchen",
+   "created": "2026-10-09",
+   "subs": 2,
+   "shorts_aged": 22,
+   "max": 157
+  },
+  {
+   "ch": "UC3E94-4lp77V7Hajs331Oyg",
+   "title": "Village Cooking Treats",
+   "created": "2026-07-08",
+   "subs": 27300,
+   "shorts_aged": 44,
+   "max": 1861459
+  },
+  {
+   "ch": "UC96p3SBKV7zjiVnhVcixsmA",
+   "title": "Low Lift Kitchen | Easy Meals",
+   "created": "2026-10-09",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCfZC2FyK9KTKw38YDJIj-UA",
+   "title": "Savory Secrets",
+   "created": "2026-04-09",
+   "subs": 1200,
+   "shorts_aged": 43,
+   "max": 8104
+  },
+  {
+   "ch": "UC_2Mv6DBAnllyxsGwgvbAKQ",
+   "title": "Rogue Cook | Sassy Reactions 🥀",
+   "created": "2025-11-29",
+   "subs": 34000,
+   "shorts_aged": 47,
+   "max": 7785087
+  },
+  {
+   "ch": "UCfSWtyhALslBD4jcP5UGPPg",
+   "title": "Nick",
+   "created": "2026-08-11",
+   "subs": 102,
+   "shorts_aged": 42,
+   "max": 1619
+  },
+  {
+   "ch": "UCqgql9FMM9fecZeRHmcA7og",
+   "title": "Vistaro USA",
+   "created": "2026-08-03",
+   "subs": 18,
+   "shorts_aged": 38,
+   "max": 9017
+  },
+  {
+   "ch": "UC8hhWrRqpcDiQ4Zs3DYjpcA",
+   "title": "Delicious Recipe",
+   "created": "2025-11-21",
+   "subs": 347000,
+   "shorts_aged": 16,
+   "max": 316963
+  },
+  {
+   "ch": "UCb9zkIFJjjKPB4QHlO6F7PQ",
+   "title": "whatanacooks",
+   "created": "2026-10-04",
+   "subs": 52,
+   "shorts_aged": 9,
+   "max": 1346
+  },
+  {
+   "ch": "UCfiqtLHO2qVPfA3YQ26pQow",
+   "title": "The Meal World",
+   "created": "2026-10-23",
+   "subs": 1,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCqM3lRHi1c35LXF1BtNF1NA",
+   "title": "Chef Pathaan",
+   "created": "2026-10-07",
+   "subs": 2110,
+   "shorts_aged": 13,
+   "max": 13678
+  },
+  {
+   "ch": "UCX7LCxyYhc693vuW8aEvGqw",
+   "title": "Zwin Life Hacks",
+   "created": "2026-10-06",
+   "subs": 74,
+   "shorts_aged": 8,
+   "max": 16486
+  },
+  {
+   "ch": "UCxY8eRPAJ94t5y29rmh4sYw",
+   "title": "Christy | Food Hacks",
+   "created": "2026-09-04",
+   "subs": 43,
+   "shorts_aged": 42,
+   "max": 2287
+  },
+  {
+   "ch": "UCWiQ1tZRSV6olYxl9EBR9eQ",
+   "title": "Georgia",
+   "created": "2026-10-08",
+   "subs": 4,
+   "shorts_aged": 6,
+   "max": 662
+  },
+  {
+   "ch": "UCFXGauvoCQKL6kse4-IfBBA",
+   "title": "Cook With Love.9554",
+   "created": "2026-07-09",
+   "subs": 152,
+   "shorts_aged": 45,
+   "max": 4996
+  },
+  {
+   "ch": "UCyLPYq-wyXnW2-45g0u5JjQ",
+   "title": "Yan Food Hacks",
+   "created": "2026-10-16",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC4K_7kd4MHyucS9pWXP5gBA",
+   "title": "Bhoji Bharat",
+   "created": "2026-03-06",
+   "subs": 11700,
+   "shorts_aged": 43,
+   "max": 454155
+  },
+  {
+   "ch": "UCSlDiu5rfIzwzdazkFUBWzA",
+   "title": "COOKING CORNER-DQC",
+   "created": "2026-09-17",
+   "subs": 16,
+   "shorts_aged": 20,
+   "max": 1298
+  },
+  {
+   "ch": "UCaQYveLaGx9MHQPScgsaP6Q",
+   "title": "Home Cooked by Oksana",
+   "created": "2026-08-08",
+   "subs": 3950,
+   "shorts_aged": 33,
+   "max": 399859
+  },
+  {
+   "ch": "UCr_9RNTCtF50o3gIXaO15cA",
+   "title": "CleoCuddles",
+   "created": "2026-07-13",
+   "subs": 51500,
+   "shorts_aged": 45,
+   "max": 11291078
+  },
+  {
+   "ch": "UCTmSTc_g3N99DvUF9lJx1TQ",
+   "title": "Yash Spice Lab",
+   "created": "2026-03-02",
+   "subs": 28400,
+   "shorts_aged": 45,
+   "max": 483504
+  },
+  {
+   "ch": "UChy8OIq9vQq84IWASnu1-ow",
+   "title": "The Seraphic Diaries",
+   "created": "2026-08-07",
+   "subs": 80,
+   "shorts_aged": 11,
+   "max": 2766
+  },
+  {
+   "ch": "UCekPsBju_i37m2cUN4sbApA",
+   "title": "JAPAN FOOD MAP",
+   "created": "2026-02-03",
+   "subs": 33800,
+   "shorts_aged": 42,
+   "max": 3903562
+  },
+  {
+   "ch": "UC5zQiJrUktlrK0MAG1zHRAg",
+   "title": "Ollies",
+   "created": "2026-08-24",
+   "subs": 18,
+   "shorts_aged": 4,
+   "max": 7177
+  },
+  {
+   "ch": "UCQBNnDqtjSikCaGt_Yc-Tcw",
+   "title": "Foodie by Vanessa",
+   "created": "2025-11-19",
+   "subs": 662,
+   "shorts_aged": 47,
+   "max": 145477
+  },
+  {
+   "ch": "UChkEW8LPlFcU9oErlKXFBFQ",
+   "title": "Edward",
+   "created": "2026-10-15",
+   "subs": 17800,
+   "shorts_aged": 7,
+   "max": 242659
+  },
+  {
+   "ch": "UCHGM2sFm5EnCLPdeYaXbC3Q",
+   "title": "WildFire Cook",
+   "created": "2025-12-14",
+   "subs": 950000,
+   "shorts_aged": 44,
+   "max": 21032860
+  },
+  {
+   "ch": "UCx1Q53e1ge_0mR5eYT86-eQ",
+   "title": "Delicious food by Safiya",
+   "created": "2025-11-02",
+   "subs": 1240,
+   "shorts_aged": 8,
+   "max": 20535
+  }
+ ]
+}

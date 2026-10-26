@@ -1,0 +1,4 @@
+✓ G1 on screen 0–10 s: no date
+! G1 on screen in 0–10 s, not spoken: «CLD» 2.0 s — a name / place caption moves after 10 s
+
+story gates passed (1 warning(s))

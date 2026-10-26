@@ -1,0 +1,654 @@
+<style>
+#dash-root { --dash-gutter: clamp(16px, 4vw, 40px); }
+.aa { max-width: 72rem; margin-inline: auto; display: grid; gap: calc(var(--cds-gap-xl) * 1.5); font-family: var(--font-anthropic-sans); color: var(--color-fg); padding-block: var(--cds-pad-md) var(--cds-pad-xl); }
+.aa-head { display: grid; gap: var(--cds-gap-sm); }
+.aa-eyebrow { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); letter-spacing: .06em; text-transform: uppercase; margin: 0; }
+.aa h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: clamp(2rem, 4.5vw, 2.75rem); line-height: 1.08; margin: 0; text-wrap: balance; }
+.aa-lede { font-size: 1.125rem; line-height: 1.55; max-width: 66ch; margin: 0; }
+.aa-meta { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; }
+.aa section { display: grid; gap: var(--cds-gap-md); scroll-margin-top: 1rem; }
+.aa h2 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); line-height: 1.2; margin: 0; text-wrap: balance; }
+.aa-sub { color: var(--color-fg-muted); margin: 0; max-width: 70ch; line-height: 1.5; }
+.aa-grid { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); }
+.aa-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-sm); align-content: start; min-width: 0; }
+.aa-card h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; line-height: 1.3; }
+.aa-note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; line-height: 1.45; }
+.aa-wide { grid-column: 1 / -1; }
+
+.aa-verdict { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); }
+.aa-verdict .aa-card { border-top: 3px solid var(--aa-mark, var(--color-border-line)); }
+.aa-verdict .aa-card:nth-child(3) { --aa-mark: var(--color-bad); }
+.aa-verdict .aa-card:nth-child(4) { --aa-mark: var(--color-warn); }
+.aa-verdict .aa-card:nth-child(5) { --aa-mark: var(--color-warn); }
+.aa-label { font-size: var(--cds-font-size-caption); letter-spacing: .06em; text-transform: uppercase; color: var(--color-fg-muted); margin: 0; }
+.aa-body { margin: 0; line-height: 1.55; }
+
+.aa-tiles { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); }
+.aa-tile { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-md) var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); }
+.aa-big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: clamp(1.6rem, 3vw, 2.1rem); line-height: 1.1; font-variant-numeric: tabular-nums; min-height: 1.1em; }
+.aa-tile .aa-note { min-height: 2.9em; }
+
+.aa-chart { position: relative; min-width: 0; }
+.aa-chart svg { display: block; overflow: visible; }
+.aa-chart text { font-family: var(--font-anthropic-sans); }
+.aa-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; padding: 0; list-style: none; }
+.aa-legend li { display: inline-flex; align-items: center; gap: .4rem; }
+.aa-sw { display: inline-block; width: .7rem; height: .7rem; border-radius: 3px; flex: none; }
+.aa-tip { position: absolute; z-index: 5; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); pointer-events: none; min-width: 9rem; max-width: 16rem; display: grid; gap: 2px; }
+.aa-tip-h { color: var(--cds-text-secondary); }
+.aa-tip-r { display: flex; align-items: center; gap: .4rem; }
+.aa-tip-r span:nth-last-child(2) { flex: 1; }
+.aa-tip-r b { font-weight: 600; font-variant-numeric: tabular-nums; }
+.aa-fail { display: flex; align-items: center; justify-content: center; gap: .5rem; min-height: inherit; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.aa-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+
+.aa-tablebox { overflow-x: auto; }
+.aa-table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-body); font-variant-numeric: tabular-nums; }
+.aa-table th { text-align: right; font-weight: var(--cds-font-weight-medium); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: bottom; line-height: 1.3; }
+.aa-table td { text-align: right; padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.aa-table th:first-child, .aa-table td:first-child { text-align: left; }
+.aa-table tr:last-child td { border-bottom: 0; }
+.aa-table-wrap td:first-child, .aa-table-wrap td:nth-child(6), .aa-table-wrap td:nth-child(7) { white-space: normal; text-align: left; min-width: 10rem; }
+.aa-table-wrap th:nth-child(6), .aa-table-wrap th:nth-child(7) { text-align: left; }
+.aa-table-wrap tr.aa-us td { font-weight: 600; }
+
+.aa-list { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--cds-gap-sm); }
+.aa-list li { display: grid; grid-template-columns: auto 1fr; gap: var(--cds-gap-sm); line-height: 1.5; }
+.aa-dot { width: .5rem; height: .5rem; border-radius: 50%; margin-top: .55em; }
+.aa-yes .aa-dot { background: var(--color-ok); }
+.aa-no .aa-dot { background: var(--color-bad); }
+.aa-unknown .aa-dot { background: var(--color-fg-muted); }
+
+.aa-ranked { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--cds-gap-md); counter-reset: aa; }
+.aa-ranked > li { counter-increment: aa; display: grid; grid-template-columns: 2.2rem 1fr; gap: var(--cds-gap-sm); align-items: start; }
+.aa-ranked > li::before { content: counter(aa); font-family: var(--font-anthropic-serif); font-size: 1.5rem; line-height: 1.1; color: var(--color-fg-muted); font-variant-numeric: tabular-nums; }
+.aa-ranked h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0 0 .25rem; line-height: 1.3; }
+.aa-ranked p { margin: 0; line-height: 1.55; max-width: 72ch; }
+.aa-gate { display: grid; grid-template-columns: auto 1fr; gap: .5rem; margin-top: .35rem !important; padding: var(--cds-pad-xs) var(--cds-pad-sm); border: 1px dashed var(--color-border-line); border-radius: var(--cds-radius); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.aa-gate::before { content: "Проверка до загрузки"; font-weight: 600; color: var(--color-fg); }
+
+.aa-plan { margin: 0; display: grid; grid-template-columns: minmax(5rem, auto) 1fr; gap: var(--cds-gap-sm) var(--cds-gap-lg); }
+.aa-plan dt { font-weight: var(--cds-font-weight-medium); }
+.aa-plan dd { margin: 0; line-height: 1.55; max-width: 72ch; }
+.aa-rec { border-left: 3px solid var(--color-ok); }
+@media (max-width: 30rem) { .aa-plan { grid-template-columns: 1fr; gap: 0 0; } .aa-plan dd { margin-bottom: var(--cds-gap-sm); } }
+
+[data-dash-source-state=empty] { color: transparent; }
+[data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+</style>
+
+<div class="aa">
+  <header class="aa-head" id="top">
+    <p class="aa-eyebrow">ATLAS APE · @ATLASAPE-S · YouTube Shorts</p>
+    <h1>Аудит канала: идём ли мы к миллиону</h1>
+    <p class="aa-lede dash-skeleton" id="takeaway" data-source="report">—</p>
+    <p class="aa-meta">Снимок YouTube API: <span data-source="channel" data-field="pulled_utc" data-row="0" class="dash-skeleton">—</span> UTC. Счётчики просмотров свежие, Analytics отстаёт на несколько дней.</p>
+  </header>
+
+  <section id="verdict">
+    <h2>Вердикт</h2>
+    <div class="aa-verdict" id="verdict-cards" data-source="report"></div>
+  </section>
+
+  <section id="numbers">
+    <h2>Цифры канала</h2>
+    <div class="aa-tiles">
+      <div class="aa-tile"><p class="aa-label">Просмотры</p><div class="aa-big dash-skeleton" data-source="totals" data-field="views" data-row="0">—</div><p class="aa-note">сумма шести Shorts по счётчикам</p></div>
+      <div class="aa-tile"><p class="aa-label">Медиана ролика</p><div class="aa-big dash-skeleton" data-source="totals" data-field="median" data-row="0">—</div><p class="aa-note">столько набирает типичный наш ролик</p></div>
+      <div class="aa-tile"><p class="aa-label">Лучший ролик</p><div class="aa-big dash-skeleton" data-source="totals" data-field="best" data-row="0">—</div><p class="aa-note">Yellow Fleet, со второй волной</p></div>
+      <div class="aa-tile"><p class="aa-label">Подписчики</p><div class="aa-big dash-skeleton" data-source="channel" data-field="subscribers" data-row="0">—</div><p class="aa-note">на канале сейчас</p></div>
+      <div class="aa-tile"><p class="aa-label">Репосты</p><div class="aa-big dash-skeleton" data-source="totals" data-field="shares" data-row="0">—</div><p class="aa-note">по Analytics, у всех роликов ноль</p></div>
+    </div>
+
+    <div class="aa-grid">
+      <div class="aa-card" id="card-views">
+        <h3>Каждый ролик застревает на стартовой порции</h3>
+        <p class="aa-note">Просмотры на момент снимка. Светлая часть пришла после последнего дня Analytics: у Yellow Fleet и Pig War это вторая волна.</p>
+        <ul class="aa-legend" id="legend-views"></ul>
+        <div class="aa-chart" id="ch-views" data-source="videos" style="min-height: 15rem"></div>
+      </div>
+      <div class="aa-card" id="card-funnel">
+        <h3>Из 100 просмотров</h3>
+        <p class="aa-note">Сколько не пролистали сразу, сколько дожили до 20-й секунды и до конца. Только ролики, по которым Analytics уже есть.</p>
+        <ul class="aa-legend" id="legend-funnel"></ul>
+        <div class="aa-chart" id="ch-funnel" data-source="videos" style="min-height: 15rem"></div>
+      </div>
+    </div>
+
+    <div class="aa-card">
+      <h3>Все шесть роликов</h3>
+      <p class="aa-note">«Остались (Studio)» — со скриншотов Studio. «Остались (API)» — вовлечённые просмотры к просмотрам. Досмотр считается только по тем, кто не пролистал. Прочерк — Analytics по ролику ещё нет.</p>
+      <div class="aa-tablebox">
+        <table class="aa-table" id="tbl-videos" data-source="videos" data-row-key="video">
+          <thead><tr>
+            <th data-field="video">Ролик</th>
+            <th data-field="duration_s">Длина, с</th>
+            <th data-field="views_now">Просмотры</th>
+            <th data-field="stayed_studio">Остались (Studio), %</th>
+            <th data-field="engaged_pct">Остались (API), %</th>
+            <th data-field="avg_view_pct">Досмотр, %</th>
+            <th data-field="reach20">Из 100 на 20 с</th>
+            <th data-field="reach_end">Из 100 до конца</th>
+            <th data-field="likes_now">Лайки</th>
+            <th data-field="shares">Репосты</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section id="retention">
+    <h2>Где уходят зрители</h2>
+    <p class="aa-sub">Кривые удержания из Analytics: какая доля не пролиставших ещё смотрит на каждой секунде. Выше полной высоты в начале — повторы петли.</p>
+    <div class="aa-card">
+      <h3>Самая большая дыра на секундах 4–7</h3>
+      <p class="aa-note">Заштрихована зона 4–7 с: на всех четырёх кривых зрители уходят там быстрее всего. Наведите на график, чтобы увидеть значения.</p>
+      <div class="aa-chart" id="ch-retention" data-source="retention" style="min-height: 20rem"></div>
+    </div>
+    <div class="aa-grid">
+      <div class="aa-card aa-yes">
+        <h3>Признаки интереса</h3>
+        <ul class="aa-list" id="list-yes" data-source="report"></ul>
+      </div>
+      <div class="aa-card aa-no">
+        <h3>Признаки равнодушия</h3>
+        <ul class="aa-list" id="list-no" data-source="report"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="bad">
+    <h2>Плохие моменты</h2>
+    <p class="aa-sub">По весу: сверху то, что стоит больше всего зрителей.</p>
+    <ol class="aa-ranked" id="list-bad" data-source="report"></ol>
+  </section>
+
+  <section id="fix">
+    <h2>Обязательно исправить</h2>
+    <p class="aa-sub">По ожидаемому эффекту. У каждого пункта проверка, которую можно сделать до загрузки.</p>
+    <ol class="aa-ranked" id="list-fix" data-source="report"></ol>
+  </section>
+
+  <section id="niche">
+    <h2>Ниша: занята или нет</h2>
+    <p class="aa-sub">Внизу переполнена, наверху место есть. Решает не тема, а то, насколько сильный у канала старт.</p>
+    <div class="aa-grid">
+      <div class="aa-card">
+        <h3>Свежие ролики: как часто берут 100K</h3>
+        <p class="aa-note">Английские Shorts возрастом 3–30 дней у случайных авторов, октябрь 2026. Наша ниша почти в самом низу.</p>
+        <div class="aa-chart" id="ch-niche" data-source="niche" style="min-height: 12rem"></div>
+      </div>
+      <div class="aa-card">
+        <h3>Старт решает: кто потом взял 1 млн</h3>
+        <p class="aa-note">Новые каналы с 30+ Shorts, сгруппированные по лучшему ролику из первых шести. Доля тех, кто позже взял 1 млн. Выборка из поиска, поэтому это оценки сверху.</p>
+        <div class="aa-chart" id="ch-odds" data-source="odds" style="min-height: 13rem"></div>
+      </div>
+      <div class="aa-card aa-wide">
+        <h3>Медиана первых шести роликов</h3>
+        <p class="aa-note">Логарифмическая шкала. Будущие миллионники стартуют намного выше остальных новых каналов; ATLAS APE пока стартует на уровне остальных.</p>
+        <div class="aa-chart" id="ch-bench" data-source="benchmarks" style="min-height: 12rem"></div>
+      </div>
+    </div>
+    <div class="aa-grid" id="niche-alt" data-source="report"></div>
+    <div class="aa-card aa-rec" id="niche-rec" data-source="report"></div>
+  </section>
+
+  <section id="newchan">
+    <h2>Где новым каналам легче всего</h2>
+    <p class="aa-sub">Перепись 31 ниши английских Shorts: каналы младше года, которые выкладывали ролики на этой неделе, по 40 на нишу, их Shorts возрастом 7–120 дней. Сортировка по типичному каналу, а не по одному удачному.</p>
+    <div class="aa-card">
+      <h3>Доля новых каналов, у которых типичный Short набирает 10K и больше</h3>
+      <p class="aa-note">Полоска — доля каналов, тонкая линия — 95-процентный интервал. Верхние шесть ниш статистически не различаются между собой. Тёмные полоски — ниши, где цифры честные; светлые — загрязнённые или шумные. Наведите, чтобы увидеть детали.</p>
+      <div class="aa-chart" id="ch-newchan" data-source="newchan" style="min-height: 40rem"></div>
+    </div>
+    <div class="aa-card">
+      <h3>Все 31 ниша</h3>
+      <p class="aa-note">«Хиты ≥100K» — доля роликов, набравших 100K, когда от каждого канала берётся не больше 10 роликов. «Каналы с 1 млн» — доля каналов, у которых есть хотя бы один ролик на миллион.</p>
+      <div class="aa-tablebox">
+        <table class="aa-table aa-table-wrap" id="tbl-newchan" data-source="newchan" data-row-key="label">
+          <thead><tr>
+            <th data-field="label">Ниша</th>
+            <th data-field="channels">Каналов</th>
+            <th data-field="ch_med10k">Типичный ролик ≥10K, % каналов</th>
+            <th data-field="capped_100k">Хиты ≥100K, %</th>
+            <th data-field="ch_any1m">Каналы с 1 млн, %</th>
+            <th data-field="verdict">Насколько честно</th>
+            <th data-field="risk">Подвох</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section id="plan">
+    <h2>План на 14 дней</h2>
+    <div class="aa-card"><dl class="aa-plan" id="list-plan" data-source="report"></dl></div>
+  </section>
+
+  <section id="unknown">
+    <h2>Чего мы не знаем</h2>
+    <div class="aa-grid">
+      <div class="aa-card aa-unknown"><ul class="aa-list" id="list-unknown" data-source="report"></ul></div>
+      <div class="aa-card">
+        <h3>Откуда смотрят</h3>
+        <p class="aa-note">Просмотры по странам за дни, которые уже есть в Analytics. Стартовую порцию YouTube раздаёт широко, не только в США.</p>
+        <div class="aa-chart" id="ch-countries" data-source="countries" style="min-height: 15rem"></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+(function () {
+  const ru = d3.formatLocale({ decimal: ',', thousands: ' ', grouping: [3], currency: ['', ''] });
+  const fInt = ru.format(',d');
+  const f1 = ru.format(',.1f');
+  const fPct0 = ru.format('.0%');
+  const fPct1 = ru.format('.1%');
+  const has = (v) => v !== '' && v !== null && v !== undefined;
+  const C = dash.colors;
+  const muted = 'var(--cds-chart-muted)';
+
+  dash.calc('totals', {
+    inputs: ['videos'],
+    title: 'Итоги по шести роликам',
+    description: 'Сумма, медиана и максимум просмотров по счётчикам, сумма репостов по Analytics.',
+    fn: (videos) => {
+      const v = videos.map((r) => +r.views_now).sort((a, b) => a - b);
+      const n = v.length;
+      const median = n % 2 ? v[(n - 1) / 2] : (v[n / 2 - 1] + v[n / 2]) / 2;
+      const shares = videos.reduce((a, r) => a + (r.shares === '' ? 0 : +r.shares), 0);
+      return [{ views: v.reduce((a, b) => a + b, 0), median: median, best: v[n - 1], shares: shares }];
+    },
+  });
+
+  function el(tag, cls, text) {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined) e.textContent = text;
+    return e;
+  }
+  function failed(box) {
+    box.replaceChildren(el('div', 'aa-fail', 'Не загрузилось'));
+  }
+  function ready(box, d) {
+    if (d.status === 'ok') { box.classList.remove('dash-skeleton'); return true; }
+    if (d.status === 'error') { box.classList.remove('dash-skeleton'); failed(box); return false; }
+    box.classList.add('dash-skeleton');
+    return false;
+  }
+  function svgIn(box, h) {
+    box.querySelectorAll('svg, .aa-fail').forEach((n) => n.remove());
+    const w = Math.max(280, box.clientWidth);
+    const svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`).attr('height', h);
+    return { svg, w };
+  }
+  function measure(svg, texts, size) {
+    const g = svg.append('g').attr('font-size', size || 12);
+    let m = 0;
+    texts.forEach((t) => { const n = g.append('text').text(t).node(); m = Math.max(m, n.getComputedTextLength()); });
+    g.remove();
+    return Math.ceil(m);
+  }
+  function tipOf(box) {
+    let t = box.querySelector('.aa-tip');
+    if (!t) { t = el('div', 'aa-tip'); t.hidden = true; box.appendChild(t); }
+    return t;
+  }
+  function showTip(box, x, y, head, lines) {
+    const t = tipOf(box);
+    t.replaceChildren(el('div', 'aa-tip-h', head));
+    lines.forEach(([color, label, val]) => {
+      const r = el('div', 'aa-tip-r');
+      if (color) { const s = el('span', 'aa-sw'); s.style.background = color; r.appendChild(s); }
+      r.append(el('span', '', label), el('b', '', val));
+      t.appendChild(r);
+    });
+    t.hidden = false;
+    const bw = box.clientWidth, tw = t.offsetWidth, th = t.offsetHeight;
+    let left = x + 14; if (left + tw > bw) left = x - tw - 14; if (left < 0) left = 0;
+    let top = y - th - 10; if (top < 0) top = y + 14;
+    t.style.left = left + 'px'; t.style.top = top + 'px';
+  }
+  function hideTip(box) { const t = box.querySelector('.aa-tip'); if (t) t.hidden = true; }
+  function legend(id, items) {
+    const ul = document.getElementById(id);
+    ul.replaceChildren(...items.map(([c, label]) => { const li = el('li'); const s = el('span', 'aa-sw'); s.style.background = c; li.append(s, el('span', '', label)); return li; }));
+  }
+  function gridX(g, x, h, ticks, fmt) {
+    const ax = g.append('g').attr('transform', `translate(0,${h})`).call(d3.axisBottom(x).ticks(ticks).tickFormat(fmt).tickSize(-h).tickPadding(6));
+    ax.attr('font-size', null).attr('font-family', null);
+    ax.select('.domain').remove();
+    ax.selectAll('.tick line').attr('stroke', 'var(--cds-chart-grid)');
+    ax.selectAll('.tick text').attr('fill', 'var(--color-fg-muted)').attr('font-size', 11);
+    return ax;
+  }
+
+  // ---------- text ----------
+  function drawText(d) {
+    const ids = ['takeaway', 'verdict-cards', 'list-yes', 'list-no', 'list-bad', 'list-fix', 'niche-alt', 'niche-rec', 'list-plan', 'list-unknown'];
+    const boxes = ids.map((i) => document.getElementById(i));
+    if (!boxes.every((b) => ready(b, d))) return;
+    const rows = d.data;
+    const of = (s) => rows.filter((r) => r.section === s).sort((a, b) => a.i - b.i);
+    const t = of('takeaway')[0];
+    document.getElementById('takeaway').textContent = t ? t.body : '';
+
+    document.getElementById('verdict-cards').replaceChildren(...of('verdict').map((r) => {
+      const c = el('div', 'aa-card'); c.append(el('p', 'aa-label', r.title), el('p', 'aa-body', r.body)); return c;
+    }));
+    const bullets = (id, s) => document.getElementById(id).replaceChildren(...of(s).map((r) => {
+      const li = el('li'); li.append(el('span', 'aa-dot'), el('span', '', r.title)); return li;
+    }));
+    bullets('list-yes', 'interest_yes');
+    bullets('list-no', 'interest_no');
+    bullets('list-unknown', 'unknown');
+    document.getElementById('list-bad').replaceChildren(...of('bad').map((r) => {
+      const li = el('li'); const d2 = el('div'); d2.append(el('h3', '', r.title), el('p', '', r.body)); li.appendChild(d2); return li;
+    }));
+    document.getElementById('list-fix').replaceChildren(...of('fix').map((r) => {
+      const li = el('li'); const d2 = el('div'); d2.append(el('h3', '', r.title), el('p', 'aa-gate', r.gate)); li.appendChild(d2); return li;
+    }));
+    document.getElementById('niche-alt').replaceChildren(...of('niche_alt').map((r) => {
+      const c = el('div', 'aa-card'); c.append(el('p', 'aa-label', 'Что работает у других'), el('h3', '', r.title), el('p', 'aa-body', r.body)); return c;
+    }));
+    const rec = of('niche_rec')[0];
+    document.getElementById('niche-rec').replaceChildren(el('h3', '', rec ? rec.title : ''), el('p', 'aa-body', rec ? rec.body : ''));
+    document.getElementById('list-plan').replaceChildren(...of('plan').flatMap((r) => [el('dt', '', r.title), el('dd', '', r.body)]));
+  }
+
+  // ---------- tiles ----------
+  function drawTiles() {
+    const tot = dash.data('totals');
+    const ch = dash.data('channel');
+    document.querySelectorAll('[data-source="totals"]').forEach((n) => {
+      if (tot.status === 'ok' && tot.data[0]) { n.classList.remove('dash-skeleton'); n.textContent = fInt(tot.data[0][n.dataset.field]); }
+      else if (tot.status === 'error') { n.classList.remove('dash-skeleton'); n.textContent = '—'; }
+    });
+    document.querySelectorAll('[data-source="channel"]').forEach((n) => {
+      if (ch.status === 'ok' && ch.data[0]) {
+        n.classList.remove('dash-skeleton');
+        const v = ch.data[0][n.dataset.field];
+        n.textContent = n.dataset.field === 'subscribers' ? fInt(+v) : v;
+      } else if (ch.status === 'error') { n.classList.remove('dash-skeleton'); n.textContent = '—'; }
+    });
+  }
+
+  // ---------- views per video ----------
+  function drawViews(d) {
+    const box = document.getElementById('ch-views');
+    legend('legend-views', [[C[0], 'до последнего дня Analytics'], [C[1], 'пришло после'], [muted, 'Analytics ещё нет']]);
+    if (!ready(box, d)) return;
+    const rows = d.data.slice().sort((a, b) => +a.n - +b.n);
+    const barH = 22, gap = 14, top = 4;
+    const h = top + rows.length * (barH + gap) + 26;
+    const { svg, w } = svgIn(box, h);
+    const labels = rows.map((r) => `${r.n}. ${r.video}`);
+    const ml = measure(svg, labels, 12) + 12;
+    const valW = measure(svg, rows.map((r) => fInt(+r.views_now)), 12) + 10;
+    const x = d3.scaleLinear([0, d3.max(rows, (r) => +r.views_now)], [0, Math.max(60, w - ml - valW)]).nice();
+    const g = svg.append('g').attr('transform', `translate(${ml},${top})`);
+    const ih = rows.length * (barH + gap) - gap;
+    gridX(g, x, ih, Math.max(2, Math.floor((w - ml) / 90)), fInt);
+    rows.forEach((r, i) => {
+      const y = i * (barH + gap);
+      const now = +r.views_now;
+      const base = has(r.ana_views) ? Math.min(+r.ana_views, now) : now;
+      const row = g.append('g').attr('transform', `translate(0,${y})`);
+      row.append('text').attr('x', -10).attr('y', barH / 2).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 12).attr('fill', 'var(--color-fg)').text(labels[i]);
+      row.append('rect').attr('width', Math.max(2, x(base))).attr('height', barH).attr('rx', 4).attr('fill', has(r.ana_views) ? C[0] : muted);
+      if (has(r.ana_views) && now > base) row.append('rect').attr('x', x(base)).attr('width', x(now) - x(base)).attr('height', barH).attr('rx', 4).attr('fill', C[1]);
+      row.append('text').attr('x', x(now) + 6).attr('y', barH / 2).attr('dy', '0.35em').attr('font-size', 12).attr('fill', 'var(--color-fg)').attr('font-weight', 600).text(fInt(now));
+      row.append('rect').attr('width', x.range()[1] + valW).attr('height', barH + gap).attr('y', -gap / 2).attr('fill', 'transparent')
+        .on('mousemove', (ev) => {
+          const [mx, my] = d3.pointer(ev, box);
+          const lines = [[null, 'Просмотры сейчас', fInt(now)], [null, 'Возраст, ч', f1(+r.age_h)]];
+          if (has(r.ana_views)) lines.push([C[0], 'По Analytics', fInt(+r.ana_views)], [C[1], 'Пришло после', fInt(+r.wave_after_22)]);
+          showTip(box, mx, my, r.title, lines);
+        })
+        .on('mouseleave', () => hideTip(box));
+    });
+  }
+
+  // ---------- funnel ----------
+  function drawFunnel(d) {
+    const box = document.getElementById('ch-funnel');
+    const series = [['engaged_pct', 'не пролистали', C[0]], ['reach20', 'дожили до 20-й секунды', C[1]], ['reach_end', 'дожили до конца', C[2]]];
+    legend('legend-funnel', series.map((s) => [s[2], s[1]]));
+    if (!ready(box, d)) return;
+    const rows = d.data.filter((r) => has(r.engaged_pct)).sort((a, b) => +a.n - +b.n);
+    const bh = 11, bg = 3, gg = 18;
+    const groupH = series.length * bh + (series.length - 1) * bg;
+    const h = rows.length * (groupH + gg) + 24;
+    const { svg, w } = svgIn(box, h);
+    const ml = measure(svg, rows.map((r) => r.video), 12) + 12;
+    const x = d3.scaleLinear([0, 100], [0, Math.max(60, w - ml - 40)]);
+    const g = svg.append('g').attr('transform', `translate(${ml},4)`);
+    gridX(g, x, rows.length * (groupH + gg) - gg, 4, (v) => fInt(v));
+    rows.forEach((r, i) => {
+      const y0 = i * (groupH + gg);
+      const grp = g.append('g').attr('transform', `translate(0,${y0})`);
+      grp.append('text').attr('x', -10).attr('y', groupH / 2).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 12).attr('fill', 'var(--color-fg)').text(r.video);
+      series.forEach(([k, , c], j) => {
+        const v = +r[k];
+        const y = j * (bh + bg);
+        grp.append('rect').attr('y', y).attr('width', Math.max(2, x(v))).attr('height', bh).attr('rx', 3).attr('fill', c);
+        grp.append('text').attr('x', x(v) + 5).attr('y', y + bh / 2).attr('dy', '0.35em').attr('font-size', 11).attr('fill', 'var(--color-fg-muted)').text(f1(v));
+      });
+      grp.append('rect').attr('y', -gg / 2).attr('width', x.range()[1] + 40).attr('height', groupH + gg).attr('fill', 'transparent')
+        .on('mousemove', (ev) => { const [mx, my] = d3.pointer(ev, box); showTip(box, mx, my, r.video, series.map(([k, label, c]) => [c, label, f1(+r[k])])); })
+        .on('mouseleave', () => hideTip(box));
+    });
+  }
+
+  // ---------- table ----------
+  function drawTable(d) {
+    const tb = document.querySelector('#tbl-videos tbody');
+    if (d.status !== 'ok') { tb.replaceChildren(); return; }
+    const cols = ['video', 'duration_s', 'views_now', 'stayed_studio', 'engaged_pct', 'avg_view_pct', 'reach20', 'reach_end', 'likes_now', 'shares'];
+    const intCols = new Set(['duration_s', 'views_now', 'likes_now', 'shares']);
+    tb.replaceChildren(...d.data.slice().sort((a, b) => +a.n - +b.n).map((r) => {
+      const tr = el('tr');
+      cols.forEach((c) => {
+        const v = r[c];
+        let txt = v;
+        if (c !== 'video') txt = has(v) ? (intCols.has(c) ? fInt(+v) : f1(+v)) : '—';
+        tr.appendChild(el('td', '', txt));
+      });
+      return tr;
+    }));
+  }
+
+  // ---------- retention ----------
+  function drawRetention(d) {
+    const box = document.getElementById('ch-retention');
+    if (!ready(box, d)) return;
+    const byV = d3.group(d.data.map((r) => ({ video: r.video, t: +r.t_s, y: +r.watch_pct, rel: +r.relative })), (r) => r.video);
+    const names = Array.from(byV.keys());
+    const h = 320;
+    const { svg, w } = svgIn(box, h);
+    const endLabels = names.map((n) => n);
+    const mr = measure(svg, endLabels, 12) + 14;
+    const m = { t: 10, r: mr, b: 30, l: 40 };
+    const iw = w - m.l - m.r, ih = h - m.t - m.b;
+    const x = d3.scaleLinear([0, d3.max(d.data, (r) => +r.t_s)], [0, iw]).nice();
+    const y = d3.scaleLinear([0, Math.max(100, d3.max(d.data, (r) => +r.watch_pct))], [ih, 0]).nice();
+    const g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+    g.append('rect').attr('x', x(4)).attr('width', x(7) - x(4)).attr('y', 0).attr('height', ih).attr('fill', 'var(--color-bad)').attr('opacity', 0.1);
+    g.append('text').attr('x', (x(4) + x(7)) / 2).attr('y', 12).attr('text-anchor', 'middle').attr('font-size', 11).attr('fill', 'var(--color-bad)').text('4–7 с');
+    const yax = g.append('g').call(d3.axisLeft(y).ticks(5).tickFormat((v) => fInt(v) + ' %').tickSize(-iw).tickPadding(6));
+    yax.attr('font-size', null).attr('font-family', null);
+    yax.select('.domain').remove();
+    yax.selectAll('.tick line').attr('stroke', 'var(--cds-chart-grid)');
+    yax.selectAll('.tick text').attr('fill', 'var(--color-fg-muted)').attr('font-size', 11);
+    const xax = gridX(g, x, ih, Math.max(3, Math.floor(iw / 70)), (v) => fInt(v) + ' с');
+    xax.selectAll('.tick line').attr('stroke', 'none');
+    g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(100)).attr('y2', y(100)).attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '4 4');
+    const line = d3.line().x((p) => x(p.t)).y((p) => y(p.y));
+    const ends = [];
+    names.forEach((n, i) => {
+      const pts = byV.get(n);
+      g.append('path').attr('d', line(pts)).attr('fill', 'none').attr('stroke', C[i % C.length]).attr('stroke-width', 2).attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round');
+      const last = pts[pts.length - 1];
+      g.append('circle').attr('cx', x(last.t)).attr('cy', y(last.y)).attr('r', 3).attr('fill', C[i % C.length]);
+      ends.push({ n, i, x: x(last.t), y: y(last.y) });
+    });
+    ends.sort((a, b) => a.y - b.y);
+    for (let k = 1; k < ends.length; k++) if (ends[k].y - ends[k - 1].y < 14) ends[k].y = ends[k - 1].y + 14;
+    ends.forEach((e) => g.append('text').attr('x', Math.max(e.x, x.range()[1]) + 8).attr('y', e.y).attr('dy', '0.35em').attr('font-size', 12).attr('fill', C[e.i % C.length]).text(e.n));
+    const rule = g.append('line').attr('y1', 0).attr('y2', ih).attr('stroke', 'var(--cds-chart-axis)').attr('opacity', 0);
+    g.append('rect').attr('width', iw).attr('height', ih).attr('fill', 'transparent')
+      .on('mousemove', (ev) => {
+        const [px] = d3.pointer(ev);
+        const t = x.invert(px);
+        rule.attr('x1', px).attr('x2', px).attr('opacity', 1);
+        const lines = [];
+        names.forEach((n, i) => {
+          const pts = byV.get(n);
+          if (t > pts[pts.length - 1].t + 0.5) return;
+          const p = pts.reduce((a, b) => (Math.abs(b.t - t) < Math.abs(a.t - t) ? b : a));
+          lines.push([C[i % C.length], n, `${fInt(p.y)} % · отн. ${ru.format('.2f')(p.rel)}`]);
+        });
+        const [mx, my] = d3.pointer(ev, box);
+        showTip(box, mx, my, `${f1(t)} с`, lines);
+      })
+      .on('mouseleave', () => { rule.attr('opacity', 0); hideTip(box); });
+  }
+
+  // ---------- horizontal bar helper ----------
+  function hbars(box, rows, opt) {
+    const barH = opt.barH || 18, gap = opt.gap || 10;
+    const h = rows.length * (barH + gap) + 26;
+    const { svg, w } = svgIn(box, h);
+    const ml = measure(svg, rows.map(opt.label), 12) + 12;
+    const valW = measure(svg, rows.map(opt.valText), 12) + 10;
+    const x = (opt.log ? d3.scaleLog([opt.min, opt.max], [0, Math.max(60, w - ml - valW)]) : d3.scaleLinear([0, opt.max], [0, Math.max(60, w - ml - valW)]));
+    if (!opt.log) x.nice();
+    const g = svg.append('g').attr('transform', `translate(${ml},4)`);
+    const ih = rows.length * (barH + gap) - gap;
+    const ax = gridX(g, x, ih, opt.ticks || 4, opt.tickFmt);
+    if (opt.log) ax.selectAll('.tick text').filter((v) => ![100, 1000, 10000, 100000].includes(v)).remove();
+    rows.forEach((r, i) => {
+      const y = i * (barH + gap);
+      const row = g.append('g').attr('transform', `translate(0,${y})`);
+      row.append('text').attr('x', -10).attr('y', barH / 2).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 12)
+        .attr('fill', 'var(--color-fg)').attr('font-weight', opt.bold && opt.bold(r) ? 600 : null).text(opt.label(r));
+      const v = opt.value(r);
+      const x0 = opt.log ? 0 : x(0);
+      row.append('rect').attr('x', x0).attr('width', Math.max(2, x(v) - x0)).attr('height', barH).attr('rx', 4).attr('fill', opt.color(r));
+      row.append('text').attr('x', x(v) + 6).attr('y', barH / 2).attr('dy', '0.35em').attr('font-size', 12).attr('fill', 'var(--color-fg)').text(opt.valText(r));
+      if (opt.tip) row.append('rect').attr('width', x.range()[1] + valW).attr('height', barH + gap).attr('y', -gap / 2).attr('fill', 'transparent')
+        .on('mousemove', (ev) => { const [mx, my] = d3.pointer(ev, box); const t = opt.tip(r); showTip(box, mx, my, t[0], t[1]); })
+        .on('mouseleave', () => hideTip(box));
+    });
+  }
+
+  function drawNiche(d) {
+    const box = document.getElementById('ch-niche');
+    if (!ready(box, d)) return;
+    const rows = d.data.slice().sort((a, b) => +b.share_100k - +a.share_100k);
+    hbars(box, rows, {
+      label: (r) => r.niche, value: (r) => +r.share_100k, max: d3.max(rows, (r) => +r.share_100k),
+      valText: (r) => f1(+r.share_100k) + ' %', tickFmt: (v) => fInt(v) + ' %', bold: (r) => r.key === 'core',
+      color: (r) => (r.key === 'core' ? C[0] : muted),
+      tip: (r) => [r.niche, [[null, 'Медиана просмотров', fInt(+r.median_views)], [null, 'Доля ≥10K', f1(+r.share_10k) + ' %'], [null, 'Доля ≥1 млн', ru.format('.2f')(+r.share_1m) + ' %'], [null, 'Роликов ≥1 млн за 90 дней', fInt(+r.hits_1m_90d)], [null, 'Авторов за 48 ч, не меньше', fInt(+r.uploaders_48h)]]],
+    });
+  }
+
+  function drawOdds(d) {
+    const box = document.getElementById('ch-odds');
+    if (!ready(box, d)) return;
+    const rows = d.data.slice();
+    hbars(box, rows, {
+      barH: 22, gap: 14,
+      label: (r) => (r.atlas === 'yes' ? `${r.bucket} · мы здесь` : r.bucket), value: (r) => +r.share_1m, max: 1,
+      valText: (r) => `${fPct0(+r.share_1m)} (${fInt(+r.ever_1m)} из ${fInt(+r.channels)})`, tickFmt: fPct0,
+      bold: (r) => r.atlas === 'yes', color: (r) => (r.atlas === 'yes' ? 'var(--cds-chart-status-critical)' : C[0]),
+      tip: (r) => [`Лучший из первых 6: ${r.bucket}`, [[null, 'Каналов', fInt(+r.channels)], [null, 'Потом взяли 1 млн', fInt(+r.ever_1m)], [null, 'Потом взяли 100K', fInt(+r.ever_100k)]]],
+    });
+  }
+
+  function drawBench(d) {
+    const box = document.getElementById('ch-bench');
+    if (!ready(box, d)) return;
+    const rows = d.data.slice();
+    const colorOf = { us: 'var(--cds-chart-status-critical)', ref: muted };
+    hbars(box, rows, {
+      barH: 20, gap: 12, log: true, min: 100, max: d3.max(rows, (r) => +r.median_views) * 1.15,
+      label: (r) => r.group, value: (r) => +r.median_views, valText: (r) => fInt(+r.median_views), tickFmt: fInt,
+      bold: (r) => r.kind === 'us', color: (r) => colorOf[r.kind] || muted,
+    });
+  }
+
+  function drawCountries(d) {
+    const box = document.getElementById('ch-countries');
+    if (!ready(box, d)) return;
+    const rows = d.data.slice().sort((a, b) => +b.views - +a.views);
+    hbars(box, rows, {
+      barH: 14, gap: 8, label: (r) => r.country, value: (r) => +r.views, max: d3.max(rows, (r) => +r.views),
+      valText: (r) => fInt(+r.views), tickFmt: fInt, color: (r) => (['US', 'GB', 'CA', 'AU'].includes(r.country) ? C[0] : muted),
+      tip: (r) => [r.country, [[null, 'Просмотры', fInt(+r.views)], [null, 'Досмотр, %', f1(+r.avg_view_pct)]]],
+    });
+  }
+
+  function drawNewchan(d) {
+    const box = document.getElementById('ch-newchan');
+    const tb = document.querySelector('#tbl-newchan tbody');
+    if (!ready(box, d)) { tb.replaceChildren(); return; }
+    const rows = d.data.slice().sort((a, b) => +a.rank - +b.rank);
+    const us = (r) => r.niche === 'absurd_history';
+    const honest = (r) => /^надёжно/.test(r.verdict);
+    const barH = 14, gap = 8;
+    const h = rows.length * (barH + gap) + 26;
+    const { svg, w } = svgIn(box, h);
+    const ml = measure(svg, rows.map((r) => r.label), 12) + 12;
+    const valW = measure(svg, ['100 %'], 12) + 12;
+    const x = d3.scaleLinear([0, 100], [0, Math.max(60, w - ml - valW)]);
+    const g = svg.append('g').attr('transform', `translate(${ml},4)`);
+    gridX(g, x, rows.length * (barH + gap) - gap, 5, (v) => fInt(v) + ' %');
+    rows.forEach((r, i) => {
+      const y = i * (barH + gap);
+      const row = g.append('g').attr('transform', `translate(0,${y})`);
+      const col = us(r) ? 'var(--cds-chart-status-critical)' : honest(r) ? C[0] : muted;
+      row.append('text').attr('x', -10).attr('y', barH / 2).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 12)
+        .attr('fill', 'var(--color-fg)').attr('font-weight', us(r) ? 600 : null).text(r.label);
+      row.append('rect').attr('width', Math.max(2, x(+r.ch_med10k))).attr('height', barH).attr('rx', 4).attr('fill', col);
+      row.append('line').attr('x1', x(+r.ch_med10k_lo)).attr('x2', x(+r.ch_med10k_hi)).attr('y1', barH / 2).attr('y2', barH / 2)
+        .attr('stroke', 'var(--color-fg)').attr('stroke-opacity', 0.45).attr('stroke-width', 1.5);
+      row.append('text').attr('x', x(Math.max(+r.ch_med10k, +r.ch_med10k_hi)) + 6).attr('y', barH / 2).attr('dy', '0.35em').attr('font-size', 11)
+        .attr('fill', 'var(--color-fg-muted)').text(f1(+r.ch_med10k) + ' %');
+      row.append('rect').attr('width', x.range()[1] + valW).attr('height', barH + gap).attr('y', -gap / 2).attr('fill', 'transparent')
+        .on('mousemove', (ev) => {
+          const [mx, my] = d3.pointer(ev, box);
+          showTip(box, mx, my, r.label, [[null, 'Типичный ролик ≥10K', `${f1(+r.ch_med10k)} % (${f1(+r.ch_med10k_lo)}–${f1(+r.ch_med10k_hi)})`],
+            [null, 'Хиты ≥100K', f1(+r.capped_100k) + ' %'], [null, 'Каналы с 1 млн', f1(+r.ch_any1m) + ' %'],
+            [null, 'Каналов в выборке', fInt(+r.channels)], [null, 'Оценка', r.verdict]]);
+        })
+        .on('mouseleave', () => hideTip(box));
+    });
+    tb.replaceChildren(...rows.map((r) => {
+      const tr = el('tr', us(r) ? 'aa-us' : '');
+      tr.append(el('td', '', r.label), el('td', '', fInt(+r.channels)), el('td', '', f1(+r.ch_med10k)), el('td', '', f1(+r.capped_100k)),
+        el('td', '', f1(+r.ch_any1m)), el('td', '', r.verdict), el('td', '', r.risk));
+      return tr;
+    }));
+  }
+
+  dash.onData(() => {
+    drawNewchan(dash.data('newchan'));
+    drawText(dash.data('report'));
+    drawTiles();
+    const v = dash.data('videos');
+    drawViews(v);
+    drawFunnel(v);
+    drawTable(v);
+    drawRetention(dash.data('retention'));
+    drawNiche(dash.data('niche'));
+    drawOdds(dash.data('odds'));
+    drawBench(dash.data('benchmarks'));
+    drawCountries(dash.data('countries'));
+  });
+})();
+</script>

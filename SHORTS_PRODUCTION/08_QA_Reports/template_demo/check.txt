@@ -1,0 +1,13 @@
+✓ 15 events anchored to VO words
+✓ max gap between visual events 1.57 s (level L2 limit 2)
+✓ 13.5 events / 10 s (level L2 band 10–14)
+✓ 6 beats contiguous 0 → 11.08 s, scenes exported
+✓ 18 SFX cues, all in the library (5 entries with licence)
+✓ 1 pictures / clips referenced in the code, all present and credited
+✓ 1 on-screen texts with numbers checked against FACTS.md
+✓ no Atlas card in this Short (project.atlas = null)
+✓ 19 files in public/: no quarantine / FREE-key / meme files; 0 Mixkit files re-downloaded by hand
+✓ duration 11.08 s (VO end 10.33 s, loop from 10.68 s)
+! VO is the DEMO voice (macOS say, personal non-commercial use only) — never publish it
+
+all checks passed (1 warning(s)) → out/timeline.json

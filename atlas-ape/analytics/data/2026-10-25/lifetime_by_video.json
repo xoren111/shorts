@@ -1,0 +1,69 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "engagedViews,views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,likes,dislikes,shares,comments,subscribersGained,subscribersLost",
+  "dimensions": "video",
+  "sort": "-views",
+  "maxResults": 200
+ },
+ "rows": [
+  {
+   "video": "TD53YW6dqoY",
+   "engagedViews": 465,
+   "views": 1168,
+   "estimatedMinutesWatched": 222,
+   "averageViewDuration": 26,
+   "averageViewPercentage": 81.28,
+   "likes": 9,
+   "dislikes": 0,
+   "shares": 0,
+   "comments": 2,
+   "subscribersGained": 0,
+   "subscribersLost": 0
+  },
+  {
+   "video": "w52iSlkYlOg",
+   "engagedViews": 706,
+   "views": 1150,
+   "estimatedMinutesWatched": 346,
+   "averageViewDuration": 28,
+   "averageViewPercentage": 45.33,
+   "likes": 12,
+   "dislikes": 0,
+   "shares": 0,
+   "comments": 0,
+   "subscribersGained": 0,
+   "subscribersLost": 0
+  },
+  {
+   "video": "Eoxim0DO2g4",
+   "engagedViews": 385,
+   "views": 788,
+   "estimatedMinutesWatched": 197,
+   "averageViewDuration": 29,
+   "averageViewPercentage": 70.38,
+   "likes": 23,
+   "dislikes": 0,
+   "shares": 0,
+   "comments": 1,
+   "subscribersGained": 1,
+   "subscribersLost": 0
+  },
+  {
+   "video": "yR42PjbnqEo",
+   "engagedViews": 367,
+   "views": 662,
+   "estimatedMinutesWatched": 257,
+   "averageViewDuration": 40,
+   "averageViewPercentage": 53.06999999999999,
+   "likes": 13,
+   "dislikes": 0,
+   "shares": 0,
+   "comments": 0,
+   "subscribersGained": 1,
+   "subscribersLost": 0
+  }
+ ]
+}

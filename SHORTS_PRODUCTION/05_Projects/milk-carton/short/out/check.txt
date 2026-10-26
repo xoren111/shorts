@@ -1,0 +1,39 @@
+✓ 52 events anchored to VO words
+✓ max gap between visual events 1.41 s (level L2 limit 2)
+✓ 13.7 events / 10 s (level L2 band 10–14)
+✓ 23 beats contiguous 0 → 37.97 s, scenes exported
+✓ 129 SFX cues, all in the library (34 entries with licence)
+✓ 4 pictures / clips / fonts referenced in the code, all present and credited
+✓ 1 Lottie file(s), all present and credited (0 used by the Short)
+✓ 1 3D insert(s) complete and credited (0.9 MB in public/3d)
+✓ 0 on-screen texts with numbers checked against FACTS.md (0 from charts)
+✓ no Atlas in this Short (project.atlas = null; ATLAS APE: no Atlas until the owner asks, F5 / G6)
+✓ 77 files in public/: no quarantine / FREE-key ElevenLabs / Mixkit files
+✓ 78 files hashed: no copy of a quarantined / FREE-key ElevenLabs file (110 sha256)
+✓ duration 37.97 s (VO end 37.82 s, loop from 37.62 s)
+✓ no memes (public/memes empty or absent, no «Мем:» lines)
+✓ A/B test off (project.ab.enabled = false): one version, composition Short
+✓ EDIT_PLAN lines differ from the last 5 Shorts (closest: «Визуальная идея» of hay-castle, similarity 0.10 < 0.35)
+  previous Short on the channel: hay-castle (2026-10-25, delivered)
+    its  «Визуальная идея: Стена из тюков работает как занавес: код то просвечивает её рентгеном, то роняет домино, а сквозной таймер «4 YEARS» над тюками держит ставку героя на виду. На развороте таймер не обнуляется: оказывается, он вообще ещё не запускался, а сам тюк превращается в кирпич стройки.» / «Кадр 0: рисунок, человек: фермер в сапогах на шатающейся лестнице заталкивает последний тюк в стену из сена высотой с дом, из щели торчит ствол пушки на дорогу; тюк влетает на 0.3 s, лестница качается»
+    this «Визуальная идея: Одна и та же нарисованная картонка с её лицом — сквозной предмет, который код передаёт из сцены в сцену (холодильник → лазер кассы → ножницы → кейс для кукол → холодильник соседки → линия печати → стена пакетов → снова холодильник кадра 0); взрослых видно только по рукам (часы отчима, браслет матери, клетчатый рукав отца), лиц нет никогда.» / «Кадр 0: рисунок, человек: девочка лет семи крупно (лицо, у A1 был человек в полный рост — H14/Т7) у открытого холодильника уже в движении с 0.0 s — поворачивает голову к въезжающему пакету и подаётся вперёд, глаза расширяются; мужская рука (только манжета и часы) подносит к её щеке пакет молока, на нём её зеркальная копия под огромным MISSING; на 0.45 s глаза на фото встают вровень с её глазами — удар баса без остановки кадра; на 1.0 s она тычет пальцем себе в щёку»
+    → QA D2 (manual): frame-0 type (H14: who + material, always inside H1) and main visual device must differ from the previous Short
+✓ 5 <Kinetic> in test galleries (Gallery.tsx, KineticGallery.tsx, MotionDemo.tsx) — not checked
+✓ 0 kinetic phrase(s): ranges valid, subtitles hidden (hide_subs), numbers in FACTS.md
+✓ no maps in this Short (only test compositions import maps)
+  data/maps/demo_lisbon_rio.json: test map of Gallery.tsx, MapsDemo.tsx, MotionDemo.tsx (borders modern) — not checked as part of the Short
+  data/maps/demo_reich1937.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders historical, 1937) — not checked as part of the Short
+  data/maps/demo_gibraltar.json: test map of MapsDemo.tsx, MotionDemo.tsx (borders none) — not checked as part of the Short
+✓ data/tracks/keaton_wind.json: test track of Gallery.tsx, MotionDemo.tsx (clip pdfilm_keaton_wind_struggle_steamboat_bill_jr_1928_commons.mp4 not in public/ — the tests draw a labelled empty frame)
+· G1 VO 0–5 s: «This girl finds her own face on milk. Under a word she can't read: MISSING. The»
+· G1 VO 5–10 s: «man holding it can. "Hey, you're famous!" he says. "Is that me?" "Hush." He» → by eye: setup said by 5.0 s, this line opens how? / what next? (not who? / when?)
+· G2 length 38.0 s (series band in the card; standard R10 30–45 s, cap 59 s)
+✓ G1 0–10 s of the VO: no year or month that reads as a date
+✓ G2 twist «BUYS» at 17.56 s = 46.2% of 37.97 s (word 56/126 = 44%); window 35%–55%
+✓ G2 tail 0.30 s ≤ 1.5 s
+✓ G4 screenshot moment at 19.5 s: мужчина, который помог её похитить, увидел на пакете молока её фото под словом MISSING, ку
+✓ G5 series A, ролик 2/8, variable «baseline»
+✓ G5 level, voice id, music, length, memes match series card A (style, ending, voice settings: by eye)
+✓ G6 Atlas matches the series card (none, 0 window(s))
+
+all checks passed (0 warning(s)) → out/timeline.json

@@ -1,0 +1,11 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "shares",
+  "dimensions": "sharingService",
+  "sort": "-shares"
+ },
+ "rows": []
+}

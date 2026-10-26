@@ -1,0 +1,45 @@
+{
+ "name": "demo_lisbon_rio",
+ "bbox": [
+  -50.0,
+  -28.0,
+  -2.0,
+  44.0
+ ],
+ "proj": "merc",
+ "fit": "contain",
+ "fitbox": [
+  60.0,
+  300.0,
+  1020.0,
+  1380.0
+ ],
+ "pad": 0.4,
+ "zoom_max": 2.5,
+ "eps": 1.2,
+ "layers": [
+  "land",
+  "lakes",
+  "graticule",
+  "regions"
+ ],
+ "lake_rank": 4,
+ "region_pad": 0.05,
+ "river_rank": 5,
+ "grid": null,
+ "borders": "modern",
+ "geojson": [],
+ "select": null,
+ "lang": "en",
+ "period_note": "",
+ "points": {
+  "Lisboa": [
+   -9.139,
+   38.722
+  ],
+  "Rio de Janeiro": [
+   -43.173,
+   -22.907
+  ]
+ }
+}

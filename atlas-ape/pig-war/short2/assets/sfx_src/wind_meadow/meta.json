@@ -1,0 +1,71 @@
+[
+ {
+  "title": "Park ambiences",
+  "file": "park_ambience_birds.wav",
+  "url": "https://opengameart.org/content/park-ambiences",
+  "download": "https://opengameart.org/sites/default/files/park_ambience_birds.wav",
+  "licence": "CC0",
+  "artist": "Thimras",
+  "attribution_note": ""
+ },
+ {
+  "title": "Park ambiences",
+  "file": "park_ambience_river.wav",
+  "url": "https://opengameart.org/content/park-ambiences",
+  "download": "https://opengameart.org/sites/default/files/park_ambience_river.wav",
+  "licence": "CC0",
+  "artist": "Thimras",
+  "attribution_note": ""
+ },
+ {
+  "title": "Park ambiences",
+  "file": "park_ambience_wind.wav",
+  "url": "https://opengameart.org/content/park-ambiences",
+  "download": "https://opengameart.org/sites/default/files/park_ambience_wind.wav",
+  "licence": "CC0",
+  "artist": "Thimras",
+  "attribution_note": ""
+ },
+ {
+  "title": "File:Gentle breeze and birds singing.ogg",
+  "file": "Gentle_breeze_and_birds_singing.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:Gentle_breeze_and_birds_singing.ogg",
+  "download": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gentle_breeze_and_birds_singing.ogg",
+  "licence": "Public domain",
+  "licence_url": "",
+  "artist": "ezwa",
+  "credit": "http://www.pdsounds.org/audio/download/129/wind_and_birds_singing.mp3 PDSounds description: http://www.pdsounds.org/sounds/gentle_breeze_and_birds_singing Transferred by Fæ",
+  "description": "Title Gentle breeze with a Blackcap Sylvia atricapilla and a Chaffinch Fringilla coelebs singing Artist ezwa Original mp3 data Length:0:33 minutes (512.7 KB) Format:MP3 Mono 44kHz 128Kbps (CBR) User tags Ambience, Birds, Birdsong, Breeze, Countryside, Garden, Wind Type Natural PDSounds record number 129 Comment Sunny afternoon, gentle breeze, the wind was blowing on the mic with birds singing in t",
+  "duration": 32.54857142857143
+ },
+ {
+  "title": "File:Birdsong mild sunny day.ogg",
+  "file": "Birdsong_mild_sunny_day.ogg",
+  "url": "https://commons.wikimedia.org/wiki/File:Birdsong_mild_sunny_day.ogg",
+  "download": "https://upload.wikimedia.org/wikipedia/commons/7/75/Birdsong_mild_sunny_day.ogg",
+  "licence": "Public domain",
+  "licence_url": "",
+  "artist": "stephan",
+  "credit": "http://www.pdsounds.org/audio/download/104/vogel.mp3 PDSounds description: http://www.pdsounds.org/sounds/birdsong_mild_sunny_day Transferred by Fæ",
+  "description": "Title Birdsong mild sunny day Artist stephan Original mp3 data Length:0:37 minutes (717.9 KB) Format:MP3 Stereo 44kHz 160Kbps (CBR) User tags Ambience, Birds, Birdsong, Countryside, Nature, sunny, twittering, warm, Weather, Woods Type Single Subject, Natural PDSounds record number 104 Comment Bird Song. Sunny April day in germany. Open light woods. Sounds like Summer. Mild breeze. Warm.",
+  "duration": 36.54530612244898
+ },
+ {
+  "title": "summer meadow with wind",
+  "file": "fs639459_Garuda1982.mp3",
+  "url": "https://freesound.org/people/Garuda1982/sounds/639459/",
+  "download": "https://cdn.freesound.org/previews/639/639459_2061858-hq.mp3 (freesound HQ preview, 128 kbps; no account)",
+  "licence": "CC0 1.0",
+  "artist": "Garuda1982",
+  "description": "summer meadow with wind recorded with mixpre 6II and audio technica bp4025."
+ },
+ {
+  "title": "summer meadow near village in the morning",
+  "file": "fs692048_Garuda1982.mp3",
+  "url": "https://freesound.org/people/Garuda1982/sounds/692048/",
+  "download": "https://cdn.freesound.org/previews/692/692048_2061858-hq.mp3 (freesound HQ preview, 128 kbps; no account)",
+  "licence": "CC0 1.0",
+  "artist": "Garuda1982",
+  "description": "summer meadow near village in the morning recorded with Zoom F3 recorder and clippy em 272 microphone. 16bit/48khz. Time 07:00AM Germany/near Leipzig GPS: 51.10938541646582, 12.337500743320993 Weather 18° C"
+ }
+]

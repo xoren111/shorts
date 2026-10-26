@@ -1,0 +1,19 @@
+✓ 15 events anchored to VO words
+✓ max gap between visual events 1.57 s (level L2 limit 2)
+✓ 13.5 events / 10 s (level L2 band 10–14)
+✓ 6 beats contiguous 0 → 11.08 s, scenes exported
+✓ 18 SFX cues, all in the library (5 entries with licence)
+✓ 3 pictures / clips / fonts referenced in the code, all present and credited
+✓ 1 Lottie file(s), all present and credited (0 used by the Short)
+✓ 1 3D insert(s) complete and credited (0.9 MB in public/3d)
+✓ 1 on-screen texts with numbers checked against FACTS.md
+! Atlas Ape Short without Atlas (project.atlas = null): Atlas owns the finale (F5) — add a window, or record the owner's decision in the EDIT_PLAN line «Отступления от R1–R10: F5 …»
+✓ 45 files in public/: no quarantine / FREE-key ElevenLabs / Mixkit files
+✓ 46 files hashed: no copy of a quarantined / FREE-key ElevenLabs file (110 sha256)
+! duration 11.08 s is outside the 30–45 s target (R10)
+✓ duration 11.08 s (VO end 10.33 s, loop from 10.68 s)
+! VO is the DEMO voice (macOS say, personal non-commercial use only) — never publish it
+✓ no memes (public/memes empty or absent, no «Мем:» lines)
+✓ A/B test off (project.ab.enabled = false): one version, composition Short
+
+all checks passed (3 warning(s)) → out/timeline.json

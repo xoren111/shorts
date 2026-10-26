@@ -1,0 +1,14 @@
+variety check: out/FINAL/conman_russell_yt.mp4 · slug conman-russell · channel atlas-ape · window 5 · registry /Users/khorengrigoryan/shorts/SHORTS_PRODUCTION/06_Exports/_variety_registry → ai-farm-girl (2026-10-24), football-222 (2026-10-23), pig-war (2026-10-23), yellow-fleet (2026-10-22), rabbits (2026-10-20)
+  D at 0/1/2 s vs ai-farm-girl     0.450@+0.07  0.464m@+0.40  0.446m@-0.07
+  D at 0/1/2 s vs football-222     0.547  0.495@+0.30  0.499m
+  D at 0/1/2 s vs pig-war          0.551@+0.33  0.568@-0.50  0.572m@-0.43
+  D at 0/1/2 s vs yellow-fleet     0.558m@+0.43  0.553@-0.17  0.559m@-0.33
+  D at 0/1/2 s vs rabbits          0.549@+0.17  0.551@-0.17  0.552@-0.43
+previous Short on the channel: ai-farm-girl (2026-10-24, delivered)
+  its  «Визуальная идея: Flow и Veo плюс рисованный интерфейс телефона: штампы SOLD, лента подписчиков, глитч-раскрытие фейковой AI-девушки и мемы» / «Кадр 0: Flow-кадр: мужчина ночью в тесной комнате улыбается телефону с фото девушки, crash-zoom от лица»
+  this «Визуальная идея: стена камеры с зарубками — счётчик побегов: каждая новая зарубка — портал в мультяшную сценку трюка, между сценками тюремные бланки со штампами и одно настоящее фото тюрьмы Хьюстона» / «Кадр 0: рисунок, человек: заключённый в белой робе спокойно выходит из распахнутой стальной двери тюрьмы, руки в карманах, охранник придерживает ему дверь; шаг и наезд камеры с 0.0 s»
+  → QA D2 (manual): frame-0 type (H14: who + material, always inside H1) and main visual device must differ from the previous Short
+sheet → /Users/khorengrigoryan/shorts/SHORTS_PRODUCTION/08_QA_Reports/conman-russell/variety_sheet.jpg
+OK frame 0: nearest ai-farm-girl D 0.450 @+0.07 s (ERROR ≤ 0.10, WARNING ≤ 0.35; time search ±0.5 s)
+OK EDIT_PLAN lines differ from the last 5 Shorts (closest: «Визуальная идея» of football-222, similarity 0.06 < 0.35)
+PASS variety: frame 0: nearest ai-farm-girl D 0.450 @+0.07 s (ERROR ≤ 0.10, WARNING ≤ 0.35; time search ±0.5 s); EDIT_PLAN lines differ from the last 5 Shorts (closest: «Визуальная идея» of football-222, similarity 0.06 < 0.35)

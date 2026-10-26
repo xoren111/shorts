@@ -1,0 +1,183 @@
+{
+ "slug": "hay-castle",
+ "channel": "atlas-ape",
+ "level": "L2",
+ "library_root": "/Users/khorengrigoryan/shorts/SHORTS_PRODUCTION",
+ "vo": "vo_constantino_C2.wav",
+ "vo_note": "ElevenLabs PAID (atlas-ape/.env.elevenlabs_paid), Constantino ApsbCjXt5HguctE80a0i, eleven_v4, speed 1.0, pauses 0.15 s (vo_paid/tight.py, KEEP won 0.42 / started 0.30 / rejected 0.30 / jail 0.24) — take C2 (38.12 s, 124/124 words), picked by Claude 25.10 under the owner's go-ahead; C1 kept as take_C1_39s.wav",
+ "music": "short/public/music/music_mischief_maker_kevin_macleod_incompetech_usuan1700009.mp3",
+ "music_license": "Creative Commons Attribution 4.0 International (CC BY 4.0) — credit in the description",
+ "music_gain_db": -21.6,
+ "music_out_word": 54,
+ "music_in_word": 109,
+ "music_end_word": null,
+ "tail_s": 0.3,
+ "loop_s": 0.35,
+ "vo_end": null,
+ "duration": null,
+ "allow_over_60": false,
+ "gold_words": [
+  4,
+  10,
+  17,
+  19,
+  20,
+  40,
+  54,
+  62,
+  64,
+  79,
+  83,
+  85,
+  100,
+  108,
+  114
+ ],
+ "teal_words": [],
+ "break_after": [],
+ "hide_subs": [
+  [
+   19,
+   20
+  ],
+  [
+   44,
+   45
+  ],
+  [
+   59,
+   65
+  ],
+  [
+   98,
+   99
+  ],
+  [
+   100,
+   100
+  ]
+ ],
+ "atlas": null,
+ "ab": {
+  "enabled": false,
+  "variants": {
+   "A": {
+    "atlas_hook": false
+   },
+   "B": {
+    "atlas_hook": true,
+    "atlas_hook_pose": "shock",
+    "atlas_hook_corner": "tr",
+    "atlas_hook_h": 300,
+    "atlas_hook_until": 1.0
+   }
+  }
+ },
+ "variety": {
+  "window": 5
+ },
+ "out_name": "hay_castle.mp4",
+ "align": {
+  "dtw_shift": 0.25,
+  "expand": {},
+  "homophones": {
+   "bails": "bales"
+  },
+  "numwords": {},
+  "el_words": "vo_constantino_C2_el_words.json",
+  "drop_zero_tail": true
+ },
+ "srt_translations": {
+  "es": [
+   "Esconde un castillo entero detrás",
+   "del heno para que nunca lo derriben.",
+   "Su apuesta:",
+   "que nadie lo vea en cuatro años.",
+   "Una mirada del ayuntamiento",
+   "y pueden ordenar derribarlo.",
+   "Almenas.",
+   "Cañones.",
+   "Su familia vive dentro.",
+   "El ayuntamiento no ve nada.",
+   "Cuatro años después, caen las pacas.",
+   "Cree que ha ganado.",
+   "Entonces el tribunal dictamina:",
+   "esconderlo era parte de construirlo.",
+   "Así que no estaba terminado",
+   "hasta que quitaron el heno.",
+   "El plazo ni siquiera había empezado.",
+   "¿Su última defensa?",
+   "Murciélagos.",
+   "Y tritones.",
+   "Al parecer, se mudaron allí.",
+   "Si lo derriban, dice,",
+   "violarán la ley de fauna.",
+   "Rechazado.",
+   "El juez:",
+   "derríbalo o vas a la cárcel.",
+   "Así que derriba su propio castillo.",
+   "Vencido por el heno con que lo escondió."
+  ],
+  "pt-BR": [
+   "Ele esconde um castelo inteiro atrás",
+   "do feno para que nunca seja demolido.",
+   "A aposta dele:",
+   "ninguém pode ver por quatro anos.",
+   "Um olhar da prefeitura",
+   "e podem mandar derrubar.",
+   "Ameias.",
+   "Canhões.",
+   "A família dele mora lá dentro.",
+   "A prefeitura não vê nada.",
+   "Quatro anos depois, os fardos caem.",
+   "Ele acha que venceu.",
+   "Então o tribunal decide:",
+   "esconder fazia parte de construir.",
+   "Então não estava pronto",
+   "até o feno sair.",
+   "O prazo nem tinha começado.",
+   "Última cartada?",
+   "Morcegos.",
+   "E tritões.",
+   "Parece que se mudaram para lá.",
+   "Se derrubar, diz ele,",
+   "vai violar a lei da vida selvagem.",
+   "Rejeitado.",
+   "O juiz:",
+   "derrube ou vá para a prisão.",
+   "Então ele derruba o próprio castelo.",
+   "Derrotado pelo feno que o escondia."
+  ],
+  "fr": [
+   "Il cache un château entier derrière",
+   "du foin pour qu'on ne puisse jamais le raser.",
+   "Son pari :",
+   "rester invisible pendant quatre ans.",
+   "Un regard de la mairie,",
+   "et elle peut ordonner sa démolition.",
+   "Des créneaux.",
+   "Des canons.",
+   "Sa famille vit dedans.",
+   "La mairie ne voit rien.",
+   "Quatre ans plus tard, les bottes tombent.",
+   "Il croit avoir gagné.",
+   "Puis le tribunal tranche :",
+   "le cacher faisait partie de le construire.",
+   "Donc il n'était pas terminé",
+   "avant qu'on retire le foin.",
+   "Le délai n'avait même pas commencé.",
+   "Son dernier recours ?",
+   "Des chauves-souris.",
+   "Et des tritons.",
+   "Ils auraient emménagé.",
+   "Le démolir, dit-il,",
+   "violerait la loi sur la faune.",
+   "Rejeté.",
+   "Le juge :",
+   "démolis-le ou c'est la prison.",
+   "Alors il rase son propre château.",
+   "Vaincu par le foin qui le cachait."
+  ]
+ },
+ "story_allow": []
+}

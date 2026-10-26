@@ -1,0 +1,675 @@
+[
+ {
+  "t": 0.0,
+  "subtitle": "THIS MAN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 0.5,
+  "subtitle": "OUT",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 1.0,
+  "subtitle": "MAXIMUM SECURITY",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 1.5,
+  "subtitle": "MAXIMUM SECURITY",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 2.0,
+  "subtitle": "MAXIMUM-SECURITY",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 2.5,
+  "subtitle": "PRISON FOUR",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 3.0,
+  "subtitle": "NPRISON FOUE TIMESI",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 3.5,
+  "subtitle": "1THE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 4.0,
+  "subtitle": "THE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 4.5,
+  "subtitle": "THE DOOR",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 5.0,
+  "subtitle": "FIRST",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 5.5,
+  "subtitle": "DRESSED",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 6.0,
+  "subtitle": "WORKMAN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 6.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 7.0,
+  "subtitle": "HE TAPPED A",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 7.5,
+  "subtitle": "POLICE RADIO",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 8.0,
+  "subtitle": "THE GUARDS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 8.5,
+  "subtitle": "THE GUARDS' WINDOW",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 9.0,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 9.5,
+  "subtitle": "AND WALKED OUT",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 10.0,
+  "subtitle": "SECOND",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 10.5,
+  "subtitle": "SECOND",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 11.0,
+  "subtitle": "POSING AS A",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 11.5,
+  "subtitle": "HE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 12.0,
+  "subtitle": "HÉ PHONED THE",
+  "overlays": [
+   "RBBBABB",
+   "EBB5E / SHEERRESE",
+   "Houston, Texas"
+  ],
+  "credits": [],
+  "flags": [
+   "CLUTTER «RBBBABB» | «EBB5E / SHEERRESE» | «Houston, Texas»"
+  ]
+ },
+ {
+  "t": 12.5,
+  "subtitle": "JAIL AND",
+  "overlays": [
+   "BBRAD",
+   "Houston, Texas"
+  ],
+  "credits": [],
+  "flags": [
+   "CLUTTER «BBRAD» | «Houston, Texas»"
+  ]
+ },
+ {
+  "t": 13.0,
+  "subtitle": "HIS",
+  "overlays": [],
+  "credits": [
+   "AMOUNT",
+   "OWN"
+  ],
+  "flags": []
+ },
+ {
+  "t": 13.5,
+  "subtitle": "FROM",
+  "overlays": [],
+  "credits": [
+   "AMOUNT"
+  ],
+  "flags": []
+ },
+ {
+  "t": 14.0,
+  "subtitle": "",
+  "overlays": [
+   "$900,000"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 14.5,
+  "subtitle": "",
+  "overlays": [
+   "$900,000"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 15.0,
+  "subtitle": "",
+  "overlays": [
+   "$900,000"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 15.5,
+  "subtitle": "",
+  "overlays": [
+   "$900,000 / $45,000"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 16.0,
+  "subtitle": "",
+  "overlays": [
+   "$000,000"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 16.5,
+  "subtitle": "THIRD",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 17.0,
+  "subtitle": "HE COLORED",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 17.5,
+  "subtitle": "UNIFORM",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 18.0,
+  "subtitle": "UNIFORM GREEN",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 18.5,
+  "subtitle": "MARKERS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 19.0,
+  "subtitle": "MARKERS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 19.5,
+  "subtitle": "THE GUARD SAW",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 20.0,
+  "subtitle": "A DOCTOR",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 20.5,
+  "subtitle": "OPENED",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 21.0,
+  "subtitle": "OPENED THE FRONT",
+  "overlays": [
+   "Estelle Unit • Huntsville, Texas"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 21.5,
+  "subtitle": "DOOR",
+  "overlays": [
+   "Estelle Unit • Huntsville, Texas"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 22.0,
+  "subtitle": "FOURTH",
+  "overlays": [
+   "1080"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 22.5,
+  "subtitle": "FAKE MEDICAL",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 23.0,
+  "subtitle": "FAKE MEDICAL RECORDS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 23.5,
+  "subtitle": "CONVINCED",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 24.0,
+  "subtitle": "CONVINCED THE PRISON",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 24.5,
+  "subtitle": "HE WAS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 25.0,
+  "subtitle": "-HE-WAS DYING",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 25.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 26.0,
+  "subtitle": "TO A HOSPICE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 26.5,
+  "subtitle": "TO A HOSPICE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 27.0,
+  "subtitle": "THEN TEXAS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 27.5,
+  "subtitle": "THE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 28.0,
+  "subtitle": "THE NEWS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 28.5,
+  "subtitle": "",
+  "overlays": [
+   "STEVEN R"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 29.0,
+  "subtitle": "",
+  "overlays": [
+   "STEVEN RUSSELL"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 29.5,
+  "subtitle": "",
+  "overlays": [
+   "STEVEN RUSSELL / DECEASED"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 30.0,
+  "subtitle": "HE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 30.5,
+  "subtitle": "HE WASN'T",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 31.0,
+  "subtitle": "POSING AS A",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 31.5,
+  "subtitle": "DOCTOR",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 32.0,
+  "subtitle": "OED CHECKED",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 32.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 33.0,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 33.5,
+  "subtitle": "HIMSELF",
+  "overlays": [
+   "DECEASED"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 34.0,
+  "subtitle": "HIMSELF DEAD",
+  "overlays": [
+   "DECEASED"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 34.5,
+  "subtitle": "",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 35.0,
+  "subtitle": "THE ONE MISTAKE",
+  "overlays": [
+   "WANTED"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 35.5,
+  "subtitle": "THAT CAUGHT HIM?",
+  "overlays": [
+   "WANTED"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 36.0,
+  "subtitle": "HE COULDN'T",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 36.5,
+  "subtitle": "AWAY",
+  "overlays": [
+   "МОTН!"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 37.0,
+  "subtitle": "AWAY FROM THE",
+  "overlays": [
+   "MOTHL"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 37.5,
+  "subtitle": "MAN HE LOVED",
+  "overlays": [
+   "Phillip Morris"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 38.0,
+  "subtitle": "MAN HE LOVED",
+  "overlays": [
+   "Phillip Morris"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 38.5,
+  "subtitle": "TEXAS",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 39.0,
+  "subtitle": "TEXAS GAVE HIM",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 39.5,
+  "subtitle": "",
+  "overlays": [
+   "43 / YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 40.0,
+  "subtitle": "",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 40.5,
+  "subtitle": "",
+  "overlays": [
+   "YEARS"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 41.0,
+  "subtitle": "",
+  "overlays": [
+   "П4141 / YEARSI"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 41.5,
+  "subtitle": "ONE HOUR A",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 42.0,
+  "subtitle": "DAY OUTSIDE",
+  "overlays": [
+   "12"
+  ],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 42.5,
+  "subtitle": "CELL",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ },
+ {
+  "t": 43.0,
+  "subtitle": "BECAUSE",
+  "overlays": [],
+  "credits": [],
+  "flags": []
+ }
+]

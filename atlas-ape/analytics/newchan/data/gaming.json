@@ -1,0 +1,423 @@
+{
+ "niche": "gaming",
+ "keywords": [
+  "minecraft",
+  "roblox",
+  "gta",
+  "fortnite",
+  "gaming"
+ ],
+ "relevance": "minecraft|roblox|\\bgta\\b|fortnite|gaming|gamer|\\bgames?\\b|gameplay|brawl ?stars|clash|\\bcod\\b|warzone|call of duty|valorant|apex|pubg|free ?fire|among us|xbox|playstation|\\bps5\\b|nintendo|switch 2|mario|zelda|pokemon|speedrun|skyrim|elden ring|\\bmods?\\b|steam|blox|brookhaven|grow a garden|steal a brainrot|99 nights|\\bobby\\b|bedwars|hypixel|creeper|herobrine|\\bnpc\\b|boss fight|level|rank(ed)?\\b|\\bfnaf\\b|terraria|rocket league|overwatch|league of legends|dota|cs2|counter.?strike|rdr2|red dead|cyberpunk|hollow knight|silksong|\\bgg\\b",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:23 UTC",
+ "fresh_uploads": 321,
+ "fresh_uploaders": 267,
+ "new_uploaders": 50,
+ "new_share_of_uploaders": 0.187,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 39,
+ "shorts": 1256,
+ "median_views": 47734,
+ "p75_views": 400767,
+ "p90_views": 2026407,
+ "share_10k": 0.7691,
+ "share_100k": 0.4013,
+ "share_1m": 0.1529,
+ "ci95_100k": [
+  0.3745,
+  0.4286
+ ],
+ "hits_100k": 504,
+ "hits_1m": 192,
+ "channels_any_100k": 0.667,
+ "channels_any_1m": 0.462,
+ "median_channel_median": 32216,
+ "top": [
+  {
+   "views": 32992251,
+   "title": "GTA V New Build a Queen Run Spider-man vs Messi Funny Epic Challenge! #spiderman #gta",
+   "channel": "DAMNBOO",
+   "ch": "UCHPL2nvHXjXZUIt0veHAhRg",
+   "url": "https://youtube.com/shorts/_pkYDMDqLj8",
+   "age_d": 61
+  },
+  {
+   "views": 24201793,
+   "title": "I Got Trapped in a Netherite Prison #minecraft",
+   "channel": "Yellow Block",
+   "ch": "UCE2_l4_C6RT2qYTqDBpz5tg",
+   "url": "https://youtube.com/shorts/-yDv9qa0RE0",
+   "age_d": 55
+  },
+  {
+   "views": 21258808,
+   "title": "Roblox Noob Unboxing #roblox #robloxnoob #99nightsroblox",
+   "channel": "Bloxica",
+   "ch": "UC461jHlukLAVrR_ygZyEqLg",
+   "url": "https://youtube.com/shorts/5EFVNI24xNk",
+   "age_d": 21
+  },
+  {
+   "views": 20109479,
+   "title": "Troll Got Trolled 😂",
+   "channel": "Buki Boo",
+   "ch": "UCkhn7wrazHjWR0YCQYAOYeA",
+   "url": "https://youtube.com/shorts/xD57ovS9soM",
+   "age_d": 78
+  },
+  {
+   "views": 17657591,
+   "title": "Old Roblox vs New Roblox: Which Era Was Actually Better? #roblox #robloxshorts #oldrobloxи#newroblox",
+   "channel": "Pinky",
+   "ch": "UC5Eby9iZQ0S_mmw1wVz1JVg",
+   "url": "https://youtube.com/shorts/VRqhgQExpBI",
+   "age_d": 48
+  },
+  {
+   "views": 15708365,
+   "title": "Minecraft Only 4 Players Per Room! 💀",
+   "channel": "Buki Boo",
+   "ch": "UCkhn7wrazHjWR0YCQYAOYeA",
+   "url": "https://youtube.com/shorts/cKbj3Qicpx8",
+   "age_d": 18
+  },
+  {
+   "views": 13881377,
+   "title": "Verity Helps Us in Squid Game 💀",
+   "channel": "Buki Boo",
+   "ch": "UCkhn7wrazHjWR0YCQYAOYeA",
+   "url": "https://youtube.com/shorts/gMQDhrfVAL8",
+   "age_d": 67
+  },
+  {
+   "views": 13375548,
+   "title": "When the Music Stops 😂 | Minecraft Challenge",
+   "channel": "Buki Boo",
+   "ch": "UCkhn7wrazHjWR0YCQYAOYeA",
+   "url": "https://youtube.com/shorts/72fBMQGh6OE",
+   "age_d": 53
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UC5Eby9iZQ0S_mmw1wVz1JVg",
+   "title": "Pinky",
+   "created": "2026-05-21",
+   "subs": 536000,
+   "shorts_aged": 47,
+   "max": 17657591
+  },
+  {
+   "ch": "UCx6z_CWcHLDZswga6r_NlBg",
+   "title": "NIKI QUEEN ",
+   "created": "2026-05-27",
+   "subs": 25700,
+   "shorts_aged": 25,
+   "max": 1937948
+  },
+  {
+   "ch": "UChGeFb9yd77Joia88cccSfg",
+   "title": "Zavian",
+   "created": "2026-04-30",
+   "subs": 491000,
+   "shorts_aged": 44,
+   "max": 11813746
+  },
+  {
+   "ch": "UC461jHlukLAVrR_ygZyEqLg",
+   "title": "Bloxica",
+   "created": "2026-06-02",
+   "subs": 25600,
+   "shorts_aged": 38,
+   "max": 21258808
+  },
+  {
+   "ch": "UCdZrbbOXHmXx7aLNvkms2zw",
+   "title": "TyleBlox",
+   "created": "2026-07-26",
+   "subs": 62400,
+   "shorts_aged": 42,
+   "max": 4179654
+  },
+  {
+   "ch": "UCD6V6pbfir06D8Jw7Z5NJ7w",
+   "title": "TheVoiddtt",
+   "created": "2026-09-22",
+   "subs": 502,
+   "shorts_aged": 22,
+   "max": 27793
+  },
+  {
+   "ch": "UC6_s0wC3wCfkniDfmapPCaA",
+   "title": "ZyraxV",
+   "created": "2026-03-15",
+   "subs": 3000,
+   "shorts_aged": 7,
+   "max": 31663
+  },
+  {
+   "ch": "UC_MFIgBjA_gcgy6vgSxQUoA",
+   "title": "Dimaag Ghumao",
+   "created": "2026-10-17",
+   "subs": 148,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCdLRjzJ4RC_gRVOMA1hwGKA",
+   "title": "Rubi_X",
+   "created": "2026-07-25",
+   "subs": 813,
+   "shorts_aged": 44,
+   "max": 37348
+  },
+  {
+   "ch": "UCfXL3eE4rJvwUIbO94J0uyQ",
+   "title": "ZorbexRB",
+   "created": "2026-03-09",
+   "subs": 64900,
+   "shorts_aged": 43,
+   "max": 5061810
+  },
+  {
+   "ch": "UCMJbha5CfdVeckO_O-_QXPA",
+   "title": "ElevenBlox",
+   "created": "2026-02-15",
+   "subs": 58300,
+   "shorts_aged": 19,
+   "max": 2420621
+  },
+  {
+   "ch": "UCZjO7v67QUqv_t0k7VhEUkQ",
+   "title": "BloxBlox",
+   "created": "2026-09-14",
+   "subs": 170,
+   "shorts_aged": 20,
+   "max": 15351
+  },
+  {
+   "ch": "UCUsahWhfbfsPjLc1VBzwyvw",
+   "title": "ITS JAY GAMING",
+   "created": "2026-09-06",
+   "subs": 2320,
+   "shorts_aged": 33,
+   "max": 61911
+  },
+  {
+   "ch": "UCTw5bZC2awKHo1K1uvw72Rg",
+   "title": "   Roblok",
+   "created": "2026-09-28",
+   "subs": 22,
+   "shorts_aged": 11,
+   "max": 1517
+  },
+  {
+   "ch": "UCFoiHxEgCtVsGBjdrkQs8fg",
+   "title": "DotGuy",
+   "created": "2026-07-17",
+   "subs": 14400,
+   "shorts_aged": 42,
+   "max": 7469385
+  },
+  {
+   "ch": "UC8DqDgPiSWaS-VaTDOFlQvQ",
+   "title": "FNCompTV",
+   "created": "2026-06-21",
+   "subs": 1020,
+   "shorts_aged": 39,
+   "max": 41875
+  },
+  {
+   "ch": "UCHPL2nvHXjXZUIt0veHAhRg",
+   "title": "DAMNBOO",
+   "created": "2026-01-14",
+   "subs": 40200,
+   "shorts_aged": 11,
+   "max": 32992251
+  },
+  {
+   "ch": "UCdZGIlBUAjbjfC7q4QR2hbw",
+   "title": "SAMIM GTA5",
+   "created": "2026-08-26",
+   "subs": 2890,
+   "shorts_aged": 21,
+   "max": 2657377
+  },
+  {
+   "ch": "UCkhn7wrazHjWR0YCQYAOYeA",
+   "title": "Buki Boo",
+   "created": "2026-02-08",
+   "subs": 264000,
+   "shorts_aged": 47,
+   "max": 20109479
+  },
+  {
+   "ch": "UCtv03yESNHggkmF4wXReWLA",
+   "title": "Built to Become",
+   "created": "2026-03-30",
+   "subs": 602,
+   "shorts_aged": 14,
+   "max": 474
+  },
+  {
+   "ch": "UCE2_l4_C6RT2qYTqDBpz5tg",
+   "title": "Yellow Block",
+   "created": "2025-10-29",
+   "subs": 73500,
+   "shorts_aged": 46,
+   "max": 24201793
+  },
+  {
+   "ch": "UC4OHzCsQwad_NdMKcZBXJkA",
+   "title": "Glip Fizz",
+   "created": "2026-05-30",
+   "subs": 1500,
+   "shorts_aged": 8,
+   "max": 32837
+  },
+  {
+   "ch": "UCPd3ZNCHO6MXSxLzuQ905HQ",
+   "title": "Vic I Kinder & Toys",
+   "created": "2026-02-01",
+   "subs": 29800,
+   "shorts_aged": 33,
+   "max": 136291
+  },
+  {
+   "ch": "UC0QmBafQmNmxQvC_dW_MOzw",
+   "title": "GTA Riot",
+   "created": "2026-10-03",
+   "subs": 403,
+   "shorts_aged": 19,
+   "max": 291890
+  },
+  {
+   "ch": "UCjFJVGwgkSit81NGdxVsVqg",
+   "title": "Future Chalkline",
+   "created": "2025-12-03",
+   "subs": 7460,
+   "shorts_aged": 43,
+   "max": 1020342
+  },
+  {
+   "ch": "UCY9a7Va4vnB72WGECgzDiDA",
+   "title": "Gamming Simulator",
+   "created": "2026-04-02",
+   "subs": 8110,
+   "shorts_aged": 18,
+   "max": 1385289
+  },
+  {
+   "ch": "UCki-ZEsqetqDXJTBMh9McFA",
+   "title": "Vivo Toon",
+   "created": "2026-04-07",
+   "subs": 565000,
+   "shorts_aged": 42,
+   "max": 6788552
+  },
+  {
+   "ch": "UCM4kbmMeCPfILO55fg4jwpA",
+   "title": "\nAzyn_ix",
+   "created": "2026-07-15",
+   "subs": 3180,
+   "shorts_aged": 43,
+   "max": 140622
+  },
+  {
+   "ch": "UCXV705IToelC5eo4Tb3ssXQ",
+   "title": "Poplarlog",
+   "created": "2026-09-10",
+   "subs": 12100,
+   "shorts_aged": 39,
+   "max": 1539797
+  },
+  {
+   "ch": "UCuHGvkWpg7j8iNxR3cdghCw",
+   "title": "Noob to lagend",
+   "created": "2026-08-31",
+   "subs": 45,
+   "shorts_aged": 43,
+   "max": 1503
+  },
+  {
+   "ch": "UCWzneld_7UedXfBkrJPaqCg",
+   "title": "USA ROBLOX HUB",
+   "created": "2026-06-10",
+   "subs": 11000,
+   "shorts_aged": 33,
+   "max": 60608
+  },
+  {
+   "ch": "UCX2XcVHtxyCDnqVEqhu8qmQ",
+   "title": "Res FN",
+   "created": "2026-08-11",
+   "subs": 1130,
+   "shorts_aged": 4,
+   "max": 30762
+  },
+  {
+   "ch": "UCxFWmo_fpAOEyAD7SxTgUPw",
+   "title": "Marii Moon",
+   "created": "2026-05-15",
+   "subs": 270000,
+   "shorts_aged": 43,
+   "max": 986468
+  },
+  {
+   "ch": "UCGGfGb4FLK3OiP0sAEP8xTw",
+   "title": "Mami Roblox",
+   "created": "2026-04-21",
+   "subs": 25800,
+   "shorts_aged": 43,
+   "max": 459056
+  },
+  {
+   "ch": "UC1nkwnZDsSS21ZQkaglkrBw",
+   "title": "QazGTA",
+   "created": "2026-09-24",
+   "subs": 1890,
+   "shorts_aged": 23,
+   "max": 281373
+  },
+  {
+   "ch": "UC24dOSVa6Eow_7MZYIbQe7A",
+   "title": "Mini Tech Studio ",
+   "created": "2026-07-11",
+   "subs": 2830,
+   "shorts_aged": 39,
+   "max": 48709
+  },
+  {
+   "ch": "UC6aCM8zcpFi6awDO7dQDIbw",
+   "title": "Roblox_Rai",
+   "created": "2026-03-31",
+   "subs": 54800,
+   "shorts_aged": 36,
+   "max": 352348
+  },
+  {
+   "ch": "UCQE0ZNpjomWQZKy-c8HpV1g",
+   "title": "Sleepy Mikey! - Minecraft",
+   "created": "2026-05-29",
+   "subs": 645000,
+   "shorts_aged": 43,
+   "max": 10432183
+  },
+  {
+   "ch": "UCc2umGYA5H42AysuZnLsqaQ",
+   "title": "Jxzclips",
+   "created": "2026-07-17",
+   "subs": 502,
+   "shorts_aged": 43,
+   "max": 216036
+  },
+  {
+   "ch": "UCpJr9g1LCNdFnhTFR_s7blA",
+   "title": "Ani Roblox",
+   "created": "2026-01-11",
+   "subs": 475000,
+   "shorts_aged": 46,
+   "max": 6130193
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage",
+  "dimensions": "country",
+  "sort": "-views",
+  "maxResults": 50
+ },
+ "rows": [
+  {
+   "country": "US",
+   "views": 915,
+   "estimatedMinutesWatched": 263,
+   "averageViewDuration": 30,
+   "averageViewPercentage": 59.11
+  },
+  {
+   "country": "PH",
+   "views": 578,
+   "estimatedMinutesWatched": 154,
+   "averageViewDuration": 28,
+   "averageViewPercentage": 48.16
+  },
+  {
+   "country": "IN",
+   "views": 198,
+   "estimatedMinutesWatched": 58,
+   "averageViewDuration": 33,
+   "averageViewPercentage": 59.77
+  },
+  {
+   "country": "ID",
+   "views": 174,
+   "estimatedMinutesWatched": 38,
+   "averageViewDuration": 28,
+   "averageViewPercentage": 53.39
+  },
+  {
+   "country": "MY",
+   "views": 128,
+   "estimatedMinutesWatched": 30,
+   "averageViewDuration": 30,
+   "averageViewPercentage": 55.69
+  },
+  {
+   "country": "AU",
+   "views": 101,
+   "estimatedMinutesWatched": 29,
+   "averageViewDuration": 26,
+   "averageViewPercentage": 45.84
+  },
+  {
+   "country": "CA",
+   "views": 97,
+   "estimatedMinutesWatched": 27,
+   "averageViewDuration": 34,
+   "averageViewPercentage": 74.55
+  },
+  {
+   "country": "GB",
+   "views": 73,
+   "estimatedMinutesWatched": 23,
+   "averageViewDuration": 32,
+   "averageViewPercentage": 61.55
+  },
+  {
+   "country": "RU",
+   "views": 49,
+   "estimatedMinutesWatched": 7,
+   "averageViewDuration": 24,
+   "averageViewPercentage": 56.279999999999994
+  },
+  {
+   "country": "KH",
+   "views": 47,
+   "estimatedMinutesWatched": 8,
+   "averageViewDuration": 23,
+   "averageViewPercentage": 53.90999999999999
+  },
+  {
+   "country": "MM",
+   "views": 46,
+   "estimatedMinutesWatched": 11,
+   "averageViewDuration": 26,
+   "averageViewPercentage": 58.93999999999999
+  },
+  {
+   "country": "VN",
+   "views": 31,
+   "estimatedMinutesWatched": 3,
+   "averageViewDuration": 16,
+   "averageViewPercentage": 45.34
+  },
+  {
+   "country": "NL",
+   "views": 29,
+   "estimatedMinutesWatched": 5,
+   "averageViewDuration": 21,
+   "averageViewPercentage": 41.64
+  },
+  {
+   "country": "DE",
+   "views": 27,
+   "estimatedMinutesWatched": 8,
+   "averageViewDuration": 39,
+   "averageViewPercentage": 51.629999999999995
+  },
+  {
+   "country": "TH",
+   "views": 26,
+   "estimatedMinutesWatched": 7,
+   "averageViewDuration": 31,
+   "averageViewPercentage": 62.45
+  },
+  {
+   "country": "MN",
+   "views": 26,
+   "estimatedMinutesWatched": 8,
+   "averageViewDuration": 39,
+   "averageViewPercentage": 79.51
+  },
+  {
+   "country": "SG",
+   "views": 21,
+   "estimatedMinutesWatched": 5,
+   "averageViewDuration": 30,
+   "averageViewPercentage": 61.44
+  },
+  {
+   "country": "ZA",
+   "views": 14,
+   "estimatedMinutesWatched": 4,
+   "averageViewDuration": 24,
+   "averageViewPercentage": 54.74
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+  "shot": "H3",
+  "file": "H3_alt1.mp4",
+  "variant": "H3_alt1",
+  "source_page": "https://www.pexels.com/video/a-pig-is-eating-grass-in-the-grass-27046428/",
+  "direct_url": "https://videos.pexels.com/video-files/27046428/12055694_3840_2160_25fps.mp4",
+  "title": "A pig is eating grass in the grass",
+  "author": "Magda Ehlers",
+  "author_url": "https://www.pexels.com/@magda-ehlers-pexels/",
+  "licence": "Pexels License (free for commercial use, no attribution required)",
+  "licence_url": "https://www.pexels.com/license/",
+  "attribution": null,
+  "source_file": "assets/raw/A/pexels-27046428/src.mp4",
+  "source_resolution": "3840x2160",
+  "source_fps": "25/1",
+  "segment": {
+    "t0": 1.0,
+    "t1": 7.0
+  },
+  "crop": {
+    "x": 1121,
+    "y": 0,
+    "w": 1215,
+    "h": 2160
+  },
+  "upscale": 1.067,
+  "output": {
+    "w": 1296,
+    "h": 2304,
+    "fps": "25/1",
+    "duration": 6.0,
+    "codec": "h264 crf16",
+    "audio": false
+  },
+  "description": "Ginger spotted piglet grazing head-on toward the camera, chewing grass, sunny lawn (4K)."
+}

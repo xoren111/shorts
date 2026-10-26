@@ -1,0 +1,68 @@
+[
+ {
+  "track": "End Of Valor - Density & Time",
+  "dur": 184.2,
+  "bpm": 99,
+  "offset": 86.5,
+  "fit": 0.791,
+  "iceland_lift": 0.43,
+  "peak_in_track": 136.0,
+  "peak_in_video": 49.5,
+  "file": "End Of Valor - Density & Time.mp3"
+ },
+ {
+  "track": "The Marble Cinematic University - Ezra Lipp",
+  "dur": 122.0,
+  "bpm": 112,
+  "offset": 41.5,
+  "fit": 0.868,
+  "iceland_lift": 0.09,
+  "peak_in_track": 104.0,
+  "peak_in_video": 62.5,
+  "file": "The Marble Cinematic University - Ezra Lipp.mp3"
+ },
+ {
+  "track": "Rogue Force - Jimena Contreras",
+  "dur": 98.0,
+  "bpm": 118,
+  "offset": 5.5,
+  "fit": 0.702,
+  "iceland_lift": 0.19,
+  "peak_in_track": 63.0,
+  "peak_in_video": 57.5,
+  "file": "Rogue Force - Jimena Contreras.mp3"
+ },
+ {
+  "track": "Man Versus Tank - The Soundings",
+  "dur": 120.3,
+  "bpm": 89,
+  "offset": 0.0,
+  "fit": 0.617,
+  "iceland_lift": 0.01,
+  "peak_in_track": 43.5,
+  "peak_in_video": 43.5,
+  "file": "Man Versus Tank - The Soundings.mp3"
+ },
+ {
+  "track": "Battle Of The Beast - The Soundings",
+  "dur": 128.0,
+  "bpm": 123,
+  "offset": 49.5,
+  "fit": 0.482,
+  "iceland_lift": 0.11,
+  "peak_in_track": 98.0,
+  "peak_in_video": 48.5,
+  "file": "Battle Of The Beast - The Soundings.mp3"
+ },
+ {
+  "track": "Sagas - The Grey Room _ Density & Time",
+  "dur": 190.0,
+  "bpm": 129,
+  "offset": 108.0,
+  "fit": 0.437,
+  "iceland_lift": 0.06,
+  "peak_in_track": 108.0,
+  "peak_in_video": 0.0,
+  "file": "Sagas - The Grey Room _ Density & Time.mp3"
+ }
+]

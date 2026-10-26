@@ -1,0 +1,712 @@
+{
+ "duration": 36.7,
+ "events": [
+  {
+   "id": "hook",
+   "t": -0.04,
+   "what": "teaser: the rusty yellow fleet, then dawn 1967: the convoy glides into the narrow canal",
+   "sfx": [
+    {
+     "name": "diesel_hum",
+     "gain": -22,
+     "dur": 3.7
+    },
+    {
+     "name": "seagulls",
+     "gain": -20
+    },
+    {
+     "name": "sea_waves",
+     "gain": -28,
+     "dur": 3.6
+    },
+    {
+     "name": "metal_groan",
+     "gain": -24,
+     "dur": 0.6
+    },
+    {
+     "name": "whoosh_rev",
+     "gain": -21,
+     "at": 0.25
+    }
+   ]
+  },
+  {
+   "id": "label",
+   "t": 0.427,
+   "what": "locator map card pops (June 1967): the canal glows, the convoy dot runs north",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -19
+    },
+    {
+     "name": "swish_short",
+     "gain": -26,
+     "at": 0.15
+    }
+   ]
+  },
+  {
+   "id": "horn",
+   "t": 2.155,
+   "what": "a cheerful short horn from the lead ship",
+   "sfx": [
+    {
+     "name": "boat_horn",
+     "gain": -19,
+     "dur": 0.8
+    }
+   ]
+  },
+  {
+   "id": "later",
+   "t": 3.26,
+   "what": "same camera, eight years later: sand-yellow rusty ships on tow ropes",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -18
+    },
+    {
+     "name": "diesel_hum",
+     "gain": -27,
+     "dur": 2.2
+    },
+    {
+     "name": "metal_groan",
+     "gain": -24,
+     "at": 0.5
+    }
+   ]
+  },
+  {
+   "id": "eight",
+   "t": 3.933,
+   "what": "KEYFACT 8 YEARS + the 1967→1975 bar fills",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -16
+    },
+    {
+     "name": "riser_short",
+     "gain": -24,
+     "at": 0.05,
+     "dur": 0.8
+    }
+   ]
+  },
+  {
+   "id": "war",
+   "t": 5.14,
+   "what": "convoy in the canal from the west bank",
+   "sfx": [
+    {
+     "name": "whoosh_fast",
+     "gain": -19
+    },
+    {
+     "name": "diesel_hum",
+     "gain": -26,
+     "dur": 2.2
+    }
+   ]
+  },
+  {
+   "id": "jets",
+   "t": 5.867,
+   "what": "two toy jets streak over the ships, cream trails; label Six-Day War",
+   "sfx": [
+    {
+     "name": "jet_flyby",
+     "gain": -11,
+     "at": -0.95
+    }
+   ]
+  },
+  {
+   "id": "smoke",
+   "t": 6.51,
+   "what": "cream smoke columns rise far on the eastern horizon",
+   "sfx": [
+    {
+     "name": "explosion_far",
+     "gain": -17
+    },
+    {
+     "name": "explosion_far",
+     "gain": -20,
+     "at": 0.35
+    }
+   ]
+  },
+  {
+   "id": "alarm",
+   "t": 6.935,
+   "what": "the convoy sounds its horn",
+   "sfx": [
+    {
+     "name": "ship_horn_low",
+     "gain": -18,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "sink",
+   "t": 7.14,
+   "what": "paper cutaway of the canal: our convoy in the middle",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -17
+    }
+   ]
+  },
+  {
+   "id": "sank1",
+   "t": 7.738,
+   "what": "the north blockship tilts and sinks with bubbles",
+   "sfx": [
+    {
+     "name": "metal_groan",
+     "gain": -14
+    },
+    {
+     "name": "bubbles_sink",
+     "gain": -15,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "sank2",
+   "t": 8.336,
+   "what": "the south blockship sinks; convoy stuck between the masts",
+   "sfx": [
+    {
+     "name": "metal_groan",
+     "gain": -16
+    },
+    {
+     "name": "bubbles_sink",
+     "gain": -16,
+     "at": 0.2
+    }
+   ]
+  },
+  {
+   "id": "front",
+   "t": 8.989,
+   "what": "from above: toy tanks + tents on both banks, label Egypt ⟷ Israel",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -18
+    },
+    {
+     "name": "tank_tracks",
+     "gain": -17,
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "id": "line",
+   "t": 10.732,
+   "what": "a dashed front line draws itself down the water",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -19
+    }
+   ]
+  },
+  {
+   "id": "lake",
+   "t": 11.57,
+   "what": "rising over the Great Bitter Lake: 14 ships, scuttled masts at both ends",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -18
+    },
+    {
+     "name": "sea_waves",
+     "gain": -24,
+     "dur": 2.4
+    },
+    {
+     "name": "seagulls",
+     "gain": -26
+    }
+   ]
+  },
+  {
+   "id": "nowhere",
+   "t": 12.64,
+   "what": "map card: the Great Bitter Lake with the 14 ships",
+   "sfx": [
+    {
+     "name": "pop_in",
+     "gain": -18
+    },
+    {
+     "name": "pop_in",
+     "gain": -24,
+     "at": 0.35
+    }
+   ]
+  },
+  {
+   "id": "blocks",
+   "t": 13.125,
+   "what": "red no-entry marks close both ends of the lake",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -17
+    },
+    {
+     "name": "stamp",
+     "gain": -19,
+     "at": 0.12
+    }
+   ]
+  },
+  {
+   "id": "storm",
+   "t": 13.66,
+   "what": "an ochre storm wall rolls over the fleet",
+   "sfx": [
+    {
+     "name": "sandstorm",
+     "gain": -10,
+     "dur": 3.4
+    }
+   ]
+  },
+  {
+   "id": "yellow",
+   "t": 15.048,
+   "what": "the ships turn yellow",
+   "sfx": [
+    {
+     "name": "dust_puff",
+     "gain": -20
+    }
+   ]
+  },
+  {
+   "id": "fleet",
+   "t": 15.79,
+   "what": "hero shot of the yellow fleet",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -20
+    },
+    {
+     "name": "ship_horn_low",
+     "gain": -17,
+     "at": 0.35,
+     "dur": 1.4
+    }
+   ]
+  },
+  {
+   "id": "friends",
+   "t": 16.78,
+   "what": "British + Polish ships side by side; 8 flags pop in, split West | East",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -18
+    },
+    {
+     "name": "sea_waves",
+     "gain": -27,
+     "dur": 3.4
+    },
+    {
+     "name": "pop_in",
+     "gain": -24,
+     "at": 0.3
+    },
+    {
+     "name": "pop_in",
+     "gain": -24,
+     "at": 0.46
+    },
+    {
+     "name": "pop_in",
+     "gain": -24,
+     "at": 0.62
+    },
+    {
+     "name": "pop_in",
+     "gain": -24,
+     "at": 0.78
+    }
+   ]
+  },
+  {
+   "id": "rivals",
+   "t": 17.695,
+   "what": "sailors stare across the gap, arms crossed",
+   "sfx": [
+    {
+     "name": "pin_drop",
+     "gain": -21
+    }
+   ]
+  },
+  {
+   "id": "plank",
+   "t": 18.65,
+   "what": "a plank swings down across the gap",
+   "sfx": [
+    {
+     "name": "plank_creak",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "shake",
+   "t": 19.631,
+   "what": "handshake in the middle, everyone waves",
+   "sfx": [
+    {
+     "name": "crowd_hey",
+     "gain": -13
+    },
+    {
+     "name": "sparkle_ding",
+     "gain": -23,
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "id": "football",
+   "t": 19.95,
+   "what": "behind the goal: the striker dribbles at us, shoots, keeper dives, net bulges, he celebrates",
+   "sfx": [
+    {
+     "name": "ball_kick",
+     "gain": -9,
+     "at": 0.5
+    },
+    {
+     "name": "crowd_cheer_short",
+     "gain": -16,
+     "at": 0.82
+    }
+   ]
+  },
+  {
+   "id": "stamps",
+   "t": 21.06,
+   "what": "3D: a sailor stomps on the linocut block, hops off, the block flips → a fresh sheet of yellow stamps",
+   "sfx": [
+    {
+     "name": "stamp",
+     "gain": -12,
+     "at": 0.25
+    },
+    {
+     "name": "swish_short",
+     "gain": -18,
+     "at": 0.55
+    }
+   ]
+  },
+  {
+   "id": "race",
+   "t": 22.22,
+   "what": "rowing race full-screen + two PiP cards (diving off a plank, sprint through the finish tape); label 14 events",
+   "sfx": [
+    {
+     "name": "start_whistle",
+     "gain": -15,
+     "at": 0.05
+    },
+    {
+     "name": "oar_splashes",
+     "gain": -14,
+     "dur": 1.7
+    },
+    {
+     "name": "crowd_roar",
+     "gain": -22,
+     "dur": 1.6
+    },
+    {
+     "name": "pop_in",
+     "gain": -20,
+     "at": 0.22
+    },
+    {
+     "name": "pop_in",
+     "gain": -21,
+     "at": 0.5
+    },
+    {
+     "name": "oar_splashes",
+     "gain": -15,
+     "at": 0.9,
+     "dur": 0.5
+    },
+    {
+     "name": "crowd_cheer_short",
+     "gain": -19,
+     "at": 1.1
+    }
+   ]
+  },
+  {
+   "id": "olympics",
+   "t": 22.841,
+   "what": "the lead boat pulls ahead, oars flashing",
+   "sfx": []
+  },
+  {
+   "id": "podium",
+   "t": 23.58,
+   "what": "podium on deck: Poland 1st, West Germany 2nd, Britain 3rd",
+   "sfx": [
+    {
+     "name": "fanfare_hit",
+     "gain": -14
+    },
+    {
+     "name": "crowd_roar",
+     "gain": -18,
+     "at": 0.2,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "won",
+   "t": 24.06,
+   "what": "winner raises his arms, confetti",
+   "sfx": [
+    {
+     "name": "sparkle_ding",
+     "gain": -18
+    }
+   ]
+  },
+  {
+   "id": "clear",
+   "t": 24.378,
+   "what": "eight years later: tugs tow the rusty yellow ships out of the canal",
+   "sfx": [
+    {
+     "name": "whoosh_big",
+     "gain": -18
+    },
+    {
+     "name": "diesel_hum",
+     "gain": -24,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "tow",
+   "t": 25.13,
+   "what": "toon: tugs tow the yellow ships; two German ships steam north on their own",
+   "sfx": [
+    {
+     "name": "diesel_hum",
+     "gain": -17,
+     "dur": 1.9
+    },
+    {
+     "name": "ship_horn_low",
+     "gain": -16,
+     "at": 0.7,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "two",
+   "t": 25.647,
+   "what": "label Münsterland · Nordwind",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -23
+    }
+   ]
+  },
+  {
+   "id": "hamburg",
+   "t": 26.75,
+   "what": "route map Suez → Hamburg draws round Europe, then the Hamburg pier: fireboats, crowd",
+   "sfx": [
+    {
+     "name": "whoosh_rev",
+     "gain": -20,
+     "at": 0.1
+    },
+    {
+     "name": "whoosh_big",
+     "gain": -18
+    },
+    {
+     "name": "crowd_roar",
+     "gain": -17,
+     "dur": 3.2
+    },
+    {
+     "name": "water_hose",
+     "gain": -20,
+     "dur": 3
+    },
+    {
+     "name": "ship_horn_low",
+     "gain": -15,
+     "at": 0.4,
+     "dur": 1.4
+    }
+   ]
+  },
+  {
+   "id": "thousands",
+   "t": 28.763,
+   "what": "the crowd cheers louder",
+   "sfx": [
+    {
+     "name": "crowd_roar",
+     "gain": -15,
+     "dur": 1.8
+    }
+   ]
+  },
+  {
+   "id": "photo",
+   "t": 29.017,
+   "what": "fireboat arches peak, hats fly, the ship sounds her horn",
+   "sfx": [
+    {
+     "name": "boat_horn",
+     "gain": -20,
+     "dur": 0.9,
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "id": "hold",
+   "t": 29.86,
+   "what": "in the hold: the hatch lifts, light pours in",
+   "sfx": [
+    {
+     "name": "hatch_open",
+     "gain": -12
+    },
+    {
+     "name": "whoosh_rev",
+     "gain": -24
+    }
+   ]
+  },
+  {
+   "id": "crate",
+   "t": 30.453,
+   "what": "camera tilts down to the dusty crate; Atlas enters lower-left",
+   "sfx": [
+    {
+     "name": "swish_short",
+     "gain": -22
+    }
+   ]
+  },
+  {
+   "id": "clocks",
+   "t": 31.19,
+   "what": "the crate front drops: rows of pastel kitchen clocks",
+   "sfx": [
+    {
+     "name": "crate_drop",
+     "gain": -9,
+     "at": 0.05
+    },
+    {
+     "name": "dust_puff",
+     "gain": -19,
+     "at": 0.35
+    },
+    {
+     "name": "clocks_ticking",
+     "gain": -13,
+     "at": 0.4
+    }
+   ]
+  },
+  {
+   "id": "push",
+   "t": 31.97,
+   "what": "push in on the clocks",
+   "sfx": [
+    {
+     "name": "clocks_ticking",
+     "gain": -15,
+     "from": 0.3
+    }
+   ]
+  },
+  {
+   "id": "late",
+   "t": 33.496,
+   "what": "Atlas winks; ship bell",
+   "sfx": [
+    {
+     "name": "ship_bell",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "stars",
+   "t": 33.9,
+   "what": "delivery-rating card with five empty stars pops in; Atlas thinks",
+   "sfx": [
+    {
+     "name": "notify_ding",
+     "gain": -11
+    },
+    {
+     "name": "clocks_ticking",
+     "gain": -18,
+     "at": 0.4,
+     "from": 0.6
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "t": 35.698,
+   "what": "dissolve back to the opening frame (loop)",
+   "sfx": [
+    {
+     "name": "seagulls",
+     "gain": -24
+    },
+    {
+     "name": "boat_horn",
+     "gain": -22,
+     "at": 0.35,
+     "dur": 0.6
+    }
+   ]
+  }
+ ]
+}

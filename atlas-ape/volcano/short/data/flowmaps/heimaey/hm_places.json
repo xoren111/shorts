@@ -1,0 +1,1367 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-17T21:54:04Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 445065531,
+  "lat": 63.4372814,
+  "lon": -20.2941317,
+  "tags": {
+    "name": "Hundraðmannahellir",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 445065569,
+  "lat": 63.4297789,
+  "lon": -20.2428368,
+  "tags": {
+    "name": "Páskahellir",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 445065622,
+  "lat": 63.4323223,
+  "lon": -20.2472829,
+  "tags": {
+    "ele": "200",
+    "name": "Eldfell",
+    "name:ru": "Эльдфетль",
+    "natural": "volcano",
+    "wikidata": "Q217274",
+    "wikipedia": "is:Eldfell"
+  }
+},
+{
+  "type": "node",
+  "id": 445065623,
+  "lat": 63.4293400,
+  "lon": -20.2595637,
+  "tags": {
+    "description": "Part of active Vestmannaeyjar sytem.",
+    "ele": "227",
+    "name": "Helgafell",
+    "natural": "volcano",
+    "volcano:status": "active",
+    "volcano:type": "scoria",
+    "wikidata": "Q1141849",
+    "wikipedia": "en:Helgafell (volcano)"
+  }
+},
+{
+  "type": "node",
+  "id": 457702046,
+  "lat": 63.4401009,
+  "lon": -20.2785899,
+  "tags": {
+    "alt_name": "Vestmannaeyjar",
+    "name": "Vestmannaeyjabær",
+    "name:af": "Vestmannaeyjar",
+    "name:ar": "يستمان",
+    "name:bn": "ভেস্টমান্না দ্বীপপুঞ্জ",
+    "name:ca": "Vestmannaeyjar",
+    "name:cs": "Vestmannaeyjar",
+    "name:cy": "Vestmannaeyjar",
+    "name:da": "Vestmannaeyjar",
+    "name:de": "Westmännerinseln",
+    "name:el": "Βέστμανεγιαρ",
+    "name:en": "Vestmannaeyjar",
+    "name:eo": "Vestmannaeyjar",
+    "name:es": "Islas Vestman",
+    "name:et": "Vestmannaeyjar",
+    "name:eu": "Vestmannaeyjar",
+    "name:fa": "جزایر وستمن",
+    "name:fi": "Vestmannasaaret",
+    "name:fo": "Vestmannaoyggjarnar",
+    "name:fr": "Îles Vestmann",
+    "name:ga": "Vestmannaeyjar",
+    "name:he": "וסטמאנאאיאר",
+    "name:hr": "Vestmannaeyjar",
+    "name:hu": "Vestmannaeyjar",
+    "name:id": "Vestmannaeyjar",
+    "name:ie": "Vestmannaeyjar",
+    "name:io": "Vestmannaeyjar",
+    "name:it": "Vestmannaeyjar",
+    "name:ja": "ヴェストマン諸島",
+    "name:ko": "베스트만나에이야르 제도",
+    "name:la": "Vestmannorum Insulae",
+    "name:lb": "Vestmannaeyjar",
+    "name:lt": "Vestmanaejaras",
+    "name:mk": "Вестмански Острови",
+    "name:ms": "Vestmannaeyjar",
+    "name:nb": "Vestmannaeyjar",
+    "name:nl": "Vestmannaeyjar",
+    "name:nn": "Vestmannaeyjar",
+    "name:os": "Вестманнаэйяр",
+    "name:pl": "Vestmannaeyjar",
+    "name:pt": "Vestmannaeyjar",
+    "name:qu": "Vestmannaeyjar",
+    "name:ro": "Vestmannaeyjar",
+    "name:ru": "Вестманнаэйяр",
+    "name:sl": "Vestmanski otoki",
+    "name:sq": "Vestmannaeyjar",
+    "name:sv": "Västmannaöarna",
+    "name:th": "แวสต์มานาเอย์ยาร์",
+    "name:tr": "Vestmann Adaları",
+    "name:uk": "Вестманнові острови",
+    "name:vi": "Vestmannaeyjar",
+    "name:vo": "Vestmannaeyjar",
+    "name:zh": "韦斯特曼纳埃亚尔",
+    "place": "town",
+    "population": "4518",
+    "population:date": "2026",
+    "source:population": "https://px.hagstofa.is/pxis/pxweb/is/Ibuar/Ibuar__mannfjoldi__2_byggdir__Byggdakjarnar/MAN030101.px/",
+    "wikidata": "Q187251",
+    "wikipedia": "is:Vestmannaeyjar"
+  }
+},
+{
+  "type": "node",
+  "id": 1835849835,
+  "lat": 63.4365708,
+  "lon": -20.2278424,
+  "tags": {
+    "man_made": "lighthouse",
+    "name": "Urðir",
+    "seamark:light:1:character": "Fl",
+    "seamark:light:1:colour": "red",
+    "seamark:light:1:group": "3",
+    "seamark:light:1:height": "32",
+    "seamark:light:1:period": "15",
+    "seamark:light:1:range": "12",
+    "seamark:light:1:sector_end": "182",
+    "seamark:light:1:sector_start": "137",
+    "seamark:light:2:character": "Fl",
+    "seamark:light:2:colour": "white",
+    "seamark:light:2:group": "3",
+    "seamark:light:2:height": "32",
+    "seamark:light:2:period": "15",
+    "seamark:light:2:range": "15",
+    "seamark:light:2:sector_end": "206",
+    "seamark:light:2:sector_start": "182",
+    "seamark:light:3:character": "Fl",
+    "seamark:light:3:colour": "green",
+    "seamark:light:3:group": "3",
+    "seamark:light:3:height": "32",
+    "seamark:light:3:period": "15",
+    "seamark:light:3:range": "12",
+    "seamark:light:3:sector_end": "257",
+    "seamark:light:3:sector_start": "206",
+    "seamark:light:4:character": "Fl",
+    "seamark:light:4:colour": "white",
+    "seamark:light:4:group": "3",
+    "seamark:light:4:height": "32",
+    "seamark:light:4:period": "15",
+    "seamark:light:4:range": "15",
+    "seamark:light:4:sector_end": "290",
+    "seamark:light:4:sector_start": "257",
+    "seamark:light:5:character": "Fl",
+    "seamark:light:5:colour": "red",
+    "seamark:light:5:group": "3",
+    "seamark:light:5:height": "32",
+    "seamark:light:5:period": "15",
+    "seamark:light:5:range": "12",
+    "seamark:light:5:sector_end": "335",
+    "seamark:light:5:sector_start": "290",
+    "seamark:light:6:character": "Fl",
+    "seamark:light:6:colour": "white",
+    "seamark:light:6:group": "3",
+    "seamark:light:6:height": "32",
+    "seamark:light:6:period": "15",
+    "seamark:light:6:range": "15",
+    "seamark:light:6:sector_end": "15",
+    "seamark:light:6:sector_start": "335",
+    "seamark:light:7:character": "Fl",
+    "seamark:light:7:colour": "green",
+    "seamark:light:7:group": "3",
+    "seamark:light:7:height": "32",
+    "seamark:light:7:period": "15",
+    "seamark:light:7:range": "12",
+    "seamark:light:7:sector_end": "60",
+    "seamark:light:7:sector_start": "15",
+    "seamark:light:reference": "L 4786",
+    "seamark:name": "Urdarviti",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 115. 2010-09-09.",
+    "wikidata": "Q3378164"
+  }
+},
+{
+  "type": "node",
+  "id": 3676442516,
+  "lat": 63.4438107,
+  "lon": -20.2614565,
+  "tags": {
+    "name": "Skansinn",
+    "tourism": "museum",
+    "website": "https://www.visitvestmannaeyjar.is/skansinn"
+  }
+},
+{
+  "type": "node",
+  "id": 3676442522,
+  "lat": 63.4500346,
+  "lon": -20.2611937,
+  "tags": {
+    "ele": "283",
+    "name": "Heimaklettur",
+    "name:en": "Home Rock",
+    "natural": "peak",
+    "wikidata": "Q607932"
+  }
+},
+{
+  "type": "node",
+  "id": 5752673922,
+  "lat": 63.4382567,
+  "lon": -20.2587519,
+  "tags": {
+    "board_type": "history",
+    "information": "board",
+    "name": "Kirkjubæjarbraut 17",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 11747862256,
+  "lat": 63.4482882,
+  "lon": -20.2870711,
+  "tags": {
+    "ele": "226",
+    "name": "Stóraklif",
+    "natural": "peak",
+    "source": "Atlas 1:50:000"
+  }
+},
+{
+  "type": "node",
+  "id": 11747862257,
+  "lat": 63.4470364,
+  "lon": -20.2892730,
+  "tags": {
+    "name": "Litlaklif",
+    "natural": "peak"
+  }
+},
+{
+  "type": "node",
+  "id": 11747862259,
+  "lat": 63.4531146,
+  "lon": -20.2552695,
+  "tags": {
+    "fixme": "exact position, elevation",
+    "name": "Miðklettur",
+    "natural": "peak",
+    "source:name": "Atlas 1:50:000"
+  }
+},
+{
+  "type": "node",
+  "id": 11747862260,
+  "lat": 63.4536257,
+  "lon": -20.2475354,
+  "tags": {
+    "ele": "209",
+    "name": "Ystiklettur",
+    "natural": "peak",
+    "source": "Atlas 1:50:000"
+  }
+},
+{
+  "type": "node",
+  "id": 11747862264,
+  "lat": 63.4202097,
+  "lon": -20.2721917,
+  "tags": {
+    "ele": "188",
+    "name": "Sæfjall",
+    "natural": "peak",
+    "source": "Atlas 1:50.000"
+  }
+},
+{
+  "type": "node",
+  "id": 11747935870,
+  "lat": 63.4452991,
+  "lon": -20.2918035,
+  "tags": {
+    "fixme": "exact position, elevation",
+    "name": "Há",
+    "natural": "peak"
+  }
+},
+{
+  "type": "way",
+  "id": 25722111,
+  "center": {
+    "lat": 63.4606553,
+    "lon": -20.2392872
+  },
+  "tags": {
+    "name": "Hnaus",
+    "natural": "coastline",
+    "place": "islet"
+  }
+},
+{
+  "type": "way",
+  "id": 48320180,
+  "center": {
+    "lat": 63.4346700,
+    "lon": -20.2848974
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lane_markings": "yes",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Hraunvegur",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320183,
+  "center": {
+    "lat": 63.4423936,
+    "lon": -20.2424267
+  },
+  "tags": {
+    "designation": "T",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "90",
+    "name": "Eldfellsvegur",
+    "oneway": "no",
+    "ref": "239",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320190,
+  "center": {
+    "lat": 63.4372211,
+    "lon": -20.2578864
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "90",
+    "name": "Eldfellsvegur",
+    "old_ref": "239",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320192,
+  "center": {
+    "lat": 63.4432866,
+    "lon": -20.2586205
+  },
+  "tags": {
+    "designation": "T",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Eldfellsvegur",
+    "oneway": "no",
+    "ref": "239",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320208,
+  "center": {
+    "lat": 63.4337468,
+    "lon": -20.2908299
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Foldahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320212,
+  "center": {
+    "lat": 63.4328506,
+    "lon": -20.2949607
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Hraunhamar",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320214,
+  "center": {
+    "lat": 63.4333557,
+    "lon": -20.2939013
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Goðahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320220,
+  "center": {
+    "lat": 63.4333829,
+    "lon": -20.2940291
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Goðahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320228,
+  "center": {
+    "lat": 63.4326766,
+    "lon": -20.2833534
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Hrauntún",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320231,
+  "center": {
+    "lat": 63.4333474,
+    "lon": -20.2872157
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kleifahraun",
+    "ourfootprints:road_type": "6",
+    "source": "ourfootprints",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320232,
+  "center": {
+    "lat": 63.4320254,
+    "lon": -20.2828272
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Hrauntún",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320233,
+  "center": {
+    "lat": 63.4333552,
+    "lon": -20.2827013
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Hrauntún",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320234,
+  "center": {
+    "lat": 63.4343262,
+    "lon": -20.2863223
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Eyjahraun",
+    "ourfootprints:road_type": "6",
+    "source": "ourfootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 48320235,
+  "center": {
+    "lat": 63.4336644,
+    "lon": -20.2829696
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "50",
+    "name": "Hrauntún",
+    "oneway": "no",
+    "ourfootprints:road_type": "6",
+    "service": "alley",
+    "source": "ourfootprints",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320236,
+  "center": {
+    "lat": 63.4341612,
+    "lon": -20.2822129
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "50",
+    "name": "Hrauntún",
+    "ourfootprints:road_type": "6",
+    "service": "alley",
+    "source": "ourfootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 48320274,
+  "center": {
+    "lat": 63.4387347,
+    "lon": -20.2808681
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Hraunslóð"
+  }
+},
+{
+  "type": "way",
+  "id": 48320294,
+  "center": {
+    "lat": 63.4361629,
+    "lon": -20.2870334
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Bessahraun",
+    "ofp:name": "Bessahraun",
+    "ourfootprints:road_type": "6",
+    "source": "ourfootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 48320296,
+  "center": {
+    "lat": 63.4357915,
+    "lon": -20.2877761
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Bessahraun",
+    "ourfootprints:road_type": "6",
+    "service": "parking_aisle",
+    "source": "ourfootprints",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48320299,
+  "center": {
+    "lat": 63.4367712,
+    "lon": -20.2886249
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Bessahraun"
+  }
+},
+{
+  "type": "way",
+  "id": 48320301,
+  "center": {
+    "lat": 63.4354623,
+    "lon": -20.2846548
+  },
+  "tags": {
+    "highway": "residential",
+    "name": "Eyjahraun",
+    "ourfootprints:road_type": "6",
+    "source": "ourfootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 48320353,
+  "center": {
+    "lat": 63.4438313,
+    "lon": -20.2784019
+  },
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "unclassified",
+    "name": "Hafnargata",
+    "ofp:name": "Hafnargata",
+    "ourfootprints:road_type": "6",
+    "source": "ourfootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 48320369,
+  "center": {
+    "lat": 63.4365143,
+    "lon": -20.2629003
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Helgafellsbraut",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 200176791,
+  "center": {
+    "lat": 63.4384979,
+    "lon": -20.2609968
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kirkjubæjarbraut",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 243556288,
+  "center": {
+    "lat": 63.4317655,
+    "lon": -20.2680801
+  },
+  "tags": {
+    "highway": "service",
+    "name": "Helgafell"
+  }
+},
+{
+  "type": "way",
+  "id": 243556293,
+  "center": {
+    "lat": 63.4304276,
+    "lon": -20.2691343
+  },
+  "tags": {
+    "highway": "service",
+    "name": "Helgafellsvöllur"
+  }
+},
+{
+  "type": "way",
+  "id": 243556294,
+  "center": {
+    "lat": 63.4310303,
+    "lon": -20.2683461
+  },
+  "tags": {
+    "leisure": "pitch",
+    "name": "Helgafellsvöllur",
+    "sport": "soccer",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 402051612,
+  "center": {
+    "lat": 63.4457618,
+    "lon": -20.2544070
+  },
+  "tags": {
+    "landuse": "quarry",
+    "name": "Skansfjara"
+  }
+},
+{
+  "type": "way",
+  "id": 507622041,
+  "center": {
+    "lat": 63.4347775,
+    "lon": -20.2802041
+  },
+  "tags": {
+    "highway": "footway",
+    "name": "Hrauntún",
+    "ourfootprints:road_type": "6",
+    "source": "ourfootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 507622086,
+  "center": {
+    "lat": 63.4362776,
+    "lon": -20.2876551
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Bessahraun"
+  }
+},
+{
+  "type": "way",
+  "id": 507622095,
+  "center": {
+    "lat": 63.4334421,
+    "lon": -20.2891133
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Foldahraun"
+  }
+},
+{
+  "type": "way",
+  "id": 507622096,
+  "center": {
+    "lat": 63.4333833,
+    "lon": -20.2918325
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Foldahraun"
+  }
+},
+{
+  "type": "way",
+  "id": 507622097,
+  "center": {
+    "lat": 63.4339269,
+    "lon": -20.2901760
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Foldahraun",
+    "oneway": "no",
+    "service": "parking_aisle",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 507622098,
+  "center": {
+    "lat": 63.4338277,
+    "lon": -20.2903281
+  },
+  "tags": {
+    "highway": "service",
+    "name": "Foldahraun",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 507622099,
+  "center": {
+    "lat": 63.4338226,
+    "lon": -20.2913509
+  },
+  "tags": {
+    "highway": "service",
+    "name": "Foldahraun",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 507622103,
+  "center": {
+    "lat": 63.4359083,
+    "lon": -20.2864687
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Bessahraun"
+  }
+},
+{
+  "type": "way",
+  "id": 507622628,
+  "center": {
+    "lat": 63.4513263,
+    "lon": -20.2859746
+  },
+  "tags": {
+    "name": "Örn",
+    "natural": "coastline",
+    "place": "islet",
+    "source:name": "Atlas 1:50:000"
+  }
+},
+{
+  "type": "way",
+  "id": 544537758,
+  "center": {
+    "lat": 63.4328552,
+    "lon": -20.2871788
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kleifahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 544537761,
+  "center": {
+    "lat": 63.4327236,
+    "lon": -20.2866083
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kleifahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 544537763,
+  "center": {
+    "lat": 63.4324485,
+    "lon": -20.2868288
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kleifahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 544537765,
+  "center": {
+    "lat": 63.4329219,
+    "lon": -20.2875043
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kleifahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 544537766,
+  "center": {
+    "lat": 63.4326562,
+    "lon": -20.2877128
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kleifahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 544538440,
+  "center": {
+    "lat": 63.4320965,
+    "lon": -20.2848730
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "50",
+    "name": "Hrauntún"
+  }
+},
+{
+  "type": "way",
+  "id": 544538441,
+  "center": {
+    "lat": 63.4317526,
+    "lon": -20.2849666
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "50",
+    "name": "Hrauntún",
+    "service": "alley"
+  }
+},
+{
+  "type": "way",
+  "id": 544538442,
+  "center": {
+    "lat": 63.4317283,
+    "lon": -20.2838902
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "50",
+    "name": "Hrauntún"
+  }
+},
+{
+  "type": "way",
+  "id": 671851452,
+  "center": {
+    "lat": 63.4566677,
+    "lon": -20.2497732
+  },
+  "tags": {
+    "natural": "coastline",
+    "place": "islet"
+  }
+},
+{
+  "type": "way",
+  "id": 803365486,
+  "center": {
+    "lat": 63.4340158,
+    "lon": -20.2949755
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Goðahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 803365489,
+  "center": {
+    "lat": 63.4332387,
+    "lon": -20.2859605
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Kleifahraun",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 874009367,
+  "center": {
+    "lat": 63.4341671,
+    "lon": -20.2912486
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Foldahraun",
+    "service": "alley",
+    "surface": "concrete:plates"
+  }
+},
+{
+  "type": "way",
+  "id": 874009370,
+  "center": {
+    "lat": 63.4341610,
+    "lon": -20.2920360
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Foldahraun",
+    "service": "alley",
+    "surface": "concrete:plates"
+  }
+},
+{
+  "type": "way",
+  "id": 874009372,
+  "center": {
+    "lat": 63.4341739,
+    "lon": -20.2904446
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Foldahraun",
+    "service": "alley",
+    "surface": "concrete:plates"
+  }
+},
+{
+  "type": "way",
+  "id": 874009374,
+  "center": {
+    "lat": 63.4342428,
+    "lon": -20.2896768
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Foldahraun",
+    "service": "alley",
+    "surface": "concrete:plates"
+  }
+},
+{
+  "type": "way",
+  "id": 874009387,
+  "center": {
+    "lat": 63.4333896,
+    "lon": -20.2904751
+  },
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Foldahraun"
+  }
+},
+{
+  "type": "way",
+  "id": 1238125564,
+  "center": {
+    "lat": 63.4328733,
+    "lon": -20.2886671
+  },
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Hraunhamar",
+    "ourfootprints:road_type": "5",
+    "source": "ourfootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1238125565,
+  "center": {
+    "lat": 63.4330186,
+    "lon": -20.2883513
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lane_markings": "yes",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Hraunvegur",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1264486960,
+  "center": {
+    "lat": 63.4430706,
+    "lon": -20.3044845
+  },
+  "tags": {
+    "name": "Dalsfjall",
+    "natural": "ridge"
+  }
+},
+{
+  "type": "way",
+  "id": 1291570466,
+  "center": {
+    "lat": 63.4416845,
+    "lon": -20.2373976
+  },
+  "tags": {
+    "highway": "service",
+    "name": "Eldfellsvegur",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 1304665684,
+  "center": {
+    "lat": 63.4414043,
+    "lon": -20.2519647
+  },
+  "tags": {
+    "designation": "T",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "90",
+    "name": "Eldfellsvegur",
+    "oneway": "no",
+    "ref": "239",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1304665685,
+  "center": {
+    "lat": 63.4418692,
+    "lon": -20.2476729
+  },
+  "tags": {
+    "designation": "T",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "90",
+    "name": "Eldfellsvegur",
+    "oneway": "no",
+    "ref": "239",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1304665686,
+  "center": {
+    "lat": 63.4428648,
+    "lon": -20.2387915
+  },
+  "tags": {
+    "designation": "T",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "90",
+    "name": "Eldfellsvegur",
+    "oneway": "no",
+    "ref": "239",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1524532335,
+  "center": {
+    "lat": 63.4338379,
+    "lon": -20.2888812
+  },
+  "tags": {
+    "highway": "service",
+    "name": "Foldahraun",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1524532337,
+  "center": {
+    "lat": 63.4341158,
+    "lon": -20.2888356
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Foldahraun",
+    "service": "alley",
+    "surface": "concrete:plates"
+  }
+},
+{
+  "type": "way",
+  "id": 1524532338,
+  "center": {
+    "lat": 63.4341240,
+    "lon": -20.2880371
+  },
+  "tags": {
+    "highway": "service",
+    "maxspeed": "15",
+    "name": "Foldahraun",
+    "service": "alley",
+    "surface": "concrete:plates"
+  }
+},
+{
+  "type": "way",
+  "id": 1524536327,
+  "center": {
+    "lat": 63.4334194,
+    "lon": -20.2626538
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Helgafellsbraut",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1524539712,
+  "center": {
+    "lat": 63.4419866,
+    "lon": -20.2552881
+  },
+  "tags": {
+    "designation": "T",
+    "highway": "secondary",
+    "maxspeed": "90",
+    "name": "Eldfellsvegur",
+    "oneway": "no",
+    "ref": "239",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "relation",
+  "id": 183820,
+  "center": {
+    "lat": 63.4425367,
+    "lon": -20.2498676
+  },
+  "tags": {
+    "designation": "T",
+    "name": "Eldfellsvegur",
+    "network": "IS",
+    "ref": "239",
+    "route": "road",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 3342236,
+  "center": {
+    "lat": 63.3940269,
+    "lon": -20.3927992
+  },
+  "tags": {
+    "name": "Vestmannaeyjar",
+    "name:de": "Westmännerinseln",
+    "name:en": "Westman Islands",
+    "name:es": "Islas Vestman",
+    "name:fr": "Îles Vestmann",
+    "name:is": "Vestmannaeyjar",
+    "name:lt": "Vestmanaejaras",
+    "name:ru": "Вестманнаэйяр",
+    "name:sv": "Västmannaöarna",
+    "name:th": "แวสต์มานาเอย์ยาร์",
+    "place": "archipelago",
+    "type": "multipolygon",
+    "wikidata": "Q187251",
+    "wikipedia": "is:Vestmannaeyjar"
+  }
+},
+{
+  "type": "relation",
+  "id": 5487617,
+  "center": {
+    "lat": 63.4266133,
+    "lon": -20.2710184
+  },
+  "tags": {
+    "name": "Heimaey",
+    "name:en": "Home Island",
+    "name:ru": "Хеймаэй",
+    "name:sv": "Hemön",
+    "place": "island",
+    "type": "multipolygon",
+    "wikidata": "Q211182",
+    "wikipedia": "is:Heimaey"
+  }
+},
+{
+  "type": "relation",
+  "id": 14433166,
+  "center": {
+    "lat": 63.4156295,
+    "lon": -20.2595471
+  },
+  "tags": {
+    "name": "Stóri-Stakkur",
+    "place": "islet",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14433167,
+  "center": {
+    "lat": 63.4165100,
+    "lon": -20.2609327
+  },
+  "tags": {
+    "name": "Litli-Stakkur",
+    "place": "islet",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14455130,
+  "center": {
+    "lat": 63.4454345,
+    "lon": -20.2473703
+  },
+  "tags": {
+    "email": "info@laxey.is",
+    "lifeguard": "no",
+    "name": "Gjábakkafjara",
+    "natural": "beach",
+    "opening_date": "Unkown",
+    "supervised": "no",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 17706529,
+  "center": {
+    "lat": 63.4411048,
+    "lon": -20.2311268
+  },
+  "tags": {
+    "name": "Viðlagafjara",
+    "natural": "beach",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

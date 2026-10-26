@@ -1,0 +1,1323 @@
+{
+ "duration": 38.42,
+ "vo_end": 38.27,
+ "loop_t": 38.07,
+ "level": "L2",
+ "ab": [],
+ "events": [
+  {
+   "id": "hook",
+   "t": 0.02,
+   "what": "frame 0: farmer on the swaying ladder shoves the last bale toward a slot in the bale wall: stone merlon – crenel with a cannon barrel aimed at the road – slit merlon; an orange pennant pokes up through the tarp",
+   "sfx": [
+    {
+     "name": "straw_rustle",
+     "gain": -15,
+     "at": -0.030000000000000002,
+     "from": 0.14,
+     "dur": 0.45
+    }
+   ]
+  },
+  {
+   "id": "thump",
+   "t": 0.298,
+   "what": "the bale thumps into the gap (the crenel, barrel and slit merlon stay visible): straw dust volumes, 8 px shake, crash-zoom out to the house-high wall, ladder sways hard",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -5,
+     "at": -0.05,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -12,
+     "at": -0.02,
+     "from": 0
+    },
+    {
+     "name": "straw_rustle",
+     "gain": -14,
+     "at": -0.010000000000000002,
+     "from": 0.14,
+     "dur": 0.8
+    },
+    {
+     "name": "whoosh_zoom",
+     "gain": -16,
+     "at": 0.25,
+     "from": 0.38,
+     "dur": 0.8
+    }
+   ]
+  },
+  {
+   "id": "poke",
+   "t": 1.021,
+   "what": "snap onto the crenel: the cannon barrel pokes further out at the road; slow push-in; on «hay» the farmer pats the wall (small straw puff)",
+   "sfx": [
+    {
+     "name": "type_key",
+     "gain": -15,
+     "at": 0.060000000000000005,
+     "from": 0
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -18,
+     "at": 0.12,
+     "from": 0
+    },
+    {
+     "name": "wood_thud",
+     "gain": -17,
+     "at": 0.8110000000000002,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "straw_rustle",
+     "gain": -21,
+     "at": 0.8310000000000002,
+     "from": 0.14,
+     "dur": 0.4
+    }
+   ]
+  },
+  {
+   "id": "never",
+   "t": 1.978,
+   "what": "PUNCH to the whole wall; a padlock pops in with its shackle open, a wrecking ball starts its swing from the right",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -17,
+     "at": 0.03,
+     "from": 0.5499999999999999,
+     "dur": 0.7
+    },
+    {
+     "name": "whoosh_windy",
+     "gain": -20,
+     "at": 0.6499999999999999,
+     "from": 1,
+     "dur": 1.4
+    }
+   ]
+  },
+  {
+   "id": "padlock",
+   "t": 2.584,
+   "what": "the giant padlock snaps shut, chains run out across the bales",
+   "sfx": [
+    {
+     "name": "type_key",
+     "gain": -7,
+     "at": -0.04,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -16,
+     "at": 0.01,
+     "from": 0
+    },
+    {
+     "name": "paper_slide",
+     "gain": -20,
+     "at": 0.09999999999999999,
+     "from": 1.0899999999999999,
+     "dur": 0.4
+    }
+   ]
+  },
+  {
+   "id": "clang",
+   "t": 3.118,
+   "what": "the wrecking ball hits the padlock (impact star at the contact point, shake), hops off twice and droops back against it; the farmer crosses his arms",
+   "sfx": [
+    {
+     "name": "impact_quick",
+     "gain": -7,
+     "at": -0.05,
+     "from": 0.09999999999999999,
+     "dur": 1
+    },
+    {
+     "name": "type_bell",
+     "gain": -13,
+     "at": -0.02,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "bet",
+   "t": 3.84,
+   "what": "WHIP to the ladder: the farmer gives a thumbs-up",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "eye",
+   "t": 4.693,
+   "what": "a crossed-out eye pops in the sky above the tarp (wide open, blinks only later)",
+   "sfx": [
+    {
+     "name": "pop_lips",
+     "gain": -13,
+     "at": -0.05,
+     "from": 0.15000000000000002
+    }
+   ]
+  },
+  {
+   "id": "timer",
+   "t": 5.464,
+   "what": "the «4 YEARS» flip timer slams onto the bales (its subtitle hidden), the eye flies into its badge, the flap starts rolling",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -8,
+     "at": -0.02,
+     "from": 0
+    },
+    {
+     "name": "straw_rustle",
+     "gain": -18,
+     "at": 0,
+     "from": 0.14,
+     "dur": 0.5
+    },
+    {
+     "name": "clock_tick",
+     "gain": -20,
+     "at": 0.3,
+     "from": 0.4,
+     "dur": 0.75
+    }
+   ]
+  },
+  {
+   "id": "look",
+   "t": 6.38,
+   "what": "WHIP to the road: a plain car crawls in under the wall",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -20,
+     "at": 0.35000000000000003,
+     "from": 0.19,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "driver",
+   "t": 6.66,
+   "what": "CUT to a 0.37 s close-up of the driver in his teal car: his eyes slide, his head turns up and to the left, toward the bale wall towering behind him (mouth drops open)",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -19,
+     "at": 0.06999999999999999,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -22,
+     "at": 0.16999999999999998,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "council",
+   "t": 7.054,
+   "what": "CUT to a 0.45 s face close-up: the farmer freezes on the ladder with a sweat drop, the ticking stops; back wide, the driver's head stays turned to the wall (back of his head) and a dotted eyeline runs from his window to the cannon slot",
+   "sfx": [
+    {
+     "name": "heart_thud",
+     "gain": -9,
+     "at": -0.030000000000000002,
+     "from": 3.3200000000000003,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "stamp",
+   "t": 7.821,
+   "what": "a giant blank rubber stamp drops over the wall and hovers, wobbling",
+   "sfx": [
+    {
+     "name": "swell_dark",
+     "gain": -16,
+     "at": 0.25,
+     "from": 1.6199999999999999,
+     "dur": 1
+    },
+    {
+     "name": "wood_thud",
+     "gain": -16,
+     "at": 0.25,
+     "from": 0.12000000000000001
+    }
+   ]
+  },
+  {
+   "id": "gone",
+   "t": 8.561,
+   "what": "the stamp lifts away, the driver looks ahead and drives on, the ticking resumes",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -15,
+     "at": 0.05,
+     "from": 0.19,
+     "dur": 0.8
+    },
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -19,
+     "at": 0.2,
+     "from": 0
+    },
+    {
+     "name": "clock_tick",
+     "gain": -22,
+     "at": 0.12,
+     "from": 0.4,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "xray",
+   "t": 8.91,
+   "what": "ZOOM-THROUGH into an x-ray scan of the bales: two silo towers, battlements pop up",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "type_key",
+     "gain": -12,
+     "at": 0.28,
+     "from": 0
+    },
+    {
+     "name": "wood_thud",
+     "gain": -15,
+     "at": 0.35000000000000003,
+     "from": 0.12000000000000001
+    }
+   ]
+  },
+  {
+   "id": "cannon",
+   "t": 9.69,
+   "what": "PUNCH on the tower: a cannon rolls forward (9.72–9.90 s) and puffs smoke at 9.87 s, all inside the 0.44 s shot (no shot fired)",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -19,
+     "at": 0.03,
+     "from": 0.5499999999999999,
+     "dur": 0.7
+    },
+    {
+     "name": "paper_slide",
+     "gain": -15,
+     "at": 0,
+     "from": 1.0899999999999999,
+     "dur": 0.3
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "rooms",
+   "t": 10.41,
+   "what": "cut to the whole house, its front walls fade to a dollhouse; rooms click on one by one: table with three silhouettes (no faces), TV glow, laundry upstairs",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -21,
+     "at": -0.16599999999999981,
+     "from": 0.19,
+     "dur": 0.6
+    },
+    {
+     "name": "type_key",
+     "gain": -14,
+     "at": -0.04,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -15,
+     "at": 0.4969999999999986,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -15,
+     "at": 0.8739999999999988,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "seasons",
+   "t": 11.94,
+   "what": "WHIP outside: the timer needle races; the same plain car flashes past three times as the field flips snow → blossom → autumn, the driver never turns",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -17,
+     "at": 0.19,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -16,
+     "at": 0.7839999999999991,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -16,
+     "at": 1.280000000000001,
+     "from": 1.03,
+     "dur": 0.9
+    },
+    {
+     "name": "clock_tick",
+     "gain": -17,
+     "at": 0.1,
+     "from": 0.4,
+     "dur": 1.6
+    }
+   ]
+  },
+  {
+   "id": "ding",
+   "t": 13.7,
+   "what": "summer again: the timer hits «4 YEARS ✓» — DING, check badge, orange glow",
+   "sfx": [
+    {
+     "name": "ding_win",
+     "gain": -9,
+     "at": -0.05,
+     "from": 0.15000000000000002
+    }
+   ]
+  },
+  {
+   "id": "tarp",
+   "t": 14.309,
+   "what": "the tarp whips off and takes the timer with it",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -11,
+     "at": -0.05,
+     "from": 0
+    },
+    {
+     "name": "whoosh_fast",
+     "gain": -19,
+     "at": 0.05,
+     "from": 1.03,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "topple",
+   "t": 14.418,
+   "what": "the bales topple like dominoes and reveal the house: timber framing, two battlemented towers, a cannon, a flag (all down by 15.4 s, held before the punch)",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -11,
+     "at": 0.31,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "wood_thud",
+     "gain": -13,
+     "at": 0.51,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "wood_thud",
+     "gain": -12,
+     "at": 0.73,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "impact_stomp",
+     "gain": -15,
+     "at": 0.5499999999999999,
+     "from": 1.5,
+     "dur": 1.4
+    },
+    {
+     "name": "straw_rustle",
+     "gain": -15,
+     "at": 0.31,
+     "from": 0.14,
+     "dur": 1
+    }
+   ]
+  },
+  {
+   "id": "won",
+   "t": 15.7,
+   "what": "PUNCH to the tower top: the farmer in a party hat raises a party popper",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -18,
+     "at": 0.03,
+     "from": 0.5499999999999999,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "popper",
+   "t": 16.29,
+   "what": "the popper bursts — streamers and confetti; the music bed cuts here",
+   "sfx": [
+    {
+     "name": "pop_lips",
+     "gain": -6,
+     "at": -0.05,
+     "from": 0.15000000000000002
+    },
+    {
+     "name": "swish_quick",
+     "gain": -19,
+     "at": -0.010000000000000002,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "freeze",
+   "t": 17.1,
+   "what": "silence: the confetti freezes in mid-air, a giant gavel descends from the top, its shadow swallows the farmer",
+   "sfx": [
+    {
+     "name": "impact_sub_boom_kenney",
+     "gain": -13,
+     "at": 0.15000000000000002,
+     "from": 0.16999999999999998
+    }
+   ]
+  },
+  {
+   "id": "twist",
+   "t": 18.1,
+   "what": "PUNCH: card «HIDING IT =» (subtitles hidden); a bale hovers over a bale-shaped gap in the castle wall, the gavel above",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -15,
+     "at": 0.03,
+     "from": 0.5499999999999999,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "slam",
+   "t": 18.769,
+   "what": "the gavel slams the bale into the wall like a brick: click, impact star, flash, dust; «BUILDING IT» lands in orange, the bale glows",
+   "sfx": [
+    {
+     "name": "boom_cine",
+     "gain": -9,
+     "at": -0.05,
+     "from": 0.22000000000000003,
+     "dur": 1.6
+    },
+    {
+     "name": "wood_thud",
+     "gain": -6,
+     "at": -0.05,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -10,
+     "at": -0.02,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -10,
+     "at": 0.07999999999999999,
+     "from": 0
+    },
+    {
+     "name": "pop_drop_soft_kenney",
+     "gain": -13,
+     "at": 0.35999999999999743,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "page",
+   "t": 19.86,
+   "what": "WHIP: the ruling page alone, centred, slow push-in; a highlighter swipes «part of the totality of the operations»",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "pen_sign",
+     "gain": -14,
+     "at": 0.13999999999999946,
+     "from": 0.48000000000000004,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "rewind",
+   "t": 20.544,
+   "what": "WHIP to the field: the fallen bales rewind back up onto the wall and hide the castle again",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -17,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "tape_rewind",
+     "gain": -13,
+     "at": 0.02,
+     "from": 0,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "bar",
+   "t": 20.719,
+   "what": "a «COMPLETED» bar pops in over the wall and stalls just short of full",
+   "sfx": [
+    {
+     "name": "blip_select",
+     "gain": -15,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "blip_select",
+     "gain": -17,
+     "at": 0.29,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "fall",
+   "t": 21.046,
+   "what": "CUT close to the right tower: the bales come down in a flurry; one last bale is left teetering on the merlons",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -13,
+     "at": 0.15000000000000002,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "wood_thud",
+     "gain": -14,
+     "at": 0.33,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "straw_rustle",
+     "gain": -16,
+     "at": 0.05,
+     "from": 0.14,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "tip",
+   "t": 21.551,
+   "what": "the last bale tips over the edge in slow motion, then drops fast — the camera follows it down",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -16,
+     "at": 0.2,
+     "from": 0.19,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "full",
+   "t": 22.028,
+   "what": "the last bale lands on the heap — only now the bar fills and glows",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -10,
+     "at": -0.05,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "blip_confirm_kenney",
+     "gain": -12,
+     "at": 0.04,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "clock",
+   "t": 22.18,
+   "what": "PUNCH: the «4 YEARS ✓» timer over a big dial whose needle sits at the far end, trembling; the farmer in his party hat",
+   "sfx": [
+    {
+     "name": "whoosh_cine",
+     "gain": -18,
+     "at": 0.03,
+     "from": 0.5499999999999999,
+     "dur": 0.7
+    },
+    {
+     "name": "clock_tick",
+     "gain": -19,
+     "at": 0.1,
+     "from": 0.4,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "deflate",
+   "t": 22.569,
+   "what": "his party hat deflates",
+   "sfx": [
+    {
+     "name": "slide_down",
+     "gain": -12,
+     "at": 0.25,
+     "from": 0.72
+    }
+   ]
+  },
+  {
+   "id": "start",
+   "t": 23.214,
+   "what": "the big needle snaps back past START and settles on it (overshoot, shake, white ring at START), the check badge drops away — never a reset counter",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -10,
+     "at": 0.05,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "impact_quick",
+     "gain": -19,
+     "at": 0.05,
+     "from": 0.09999999999999999,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "stand",
+   "t": 23.99,
+   "what": "WHIP to a tight shot of the farmer, arms crossed on the battlements; the camera widens as an excavator rolls up and parks right of the house (inside x ≤ 860)",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -19,
+     "at": 0.25,
+     "from": 0.19,
+     "dur": 0.9
+    }
+   ]
+  },
+  {
+   "id": "bat",
+   "t": 25.02,
+   "what": "SCREENSHOT MOMENT: the camera dives to the eave, a bat in a barrister wig drops upside down (held ~3 s, blinks, wig wobble)",
+   "sfx": [
+    {
+     "name": "page_turn",
+     "gain": -9,
+     "at": -0.030000000000000002,
+     "from": 0.19
+    },
+    {
+     "name": "whoosh_zoom",
+     "gain": -19,
+     "at": -0.05,
+     "from": 0.38,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "newt",
+   "t": 25.726,
+   "what": "a newt with a tiny suitcase pops out of the rain-butt with a splash",
+   "sfx": [
+    {
+     "name": "pop_mouth",
+     "gain": -9,
+     "at": -0.01,
+     "from": 0
+    },
+    {
+     "name": "pop_lips",
+     "gain": -15,
+     "at": 0,
+     "from": 0.15000000000000002
+    }
+   ]
+  },
+  {
+   "id": "movedin",
+   "t": 26.43,
+   "what": "a «HOME» doormat slides in under them; the tiny suitcase is set down by the door; a little picture frame is hung above the door and swings",
+   "sfx": [
+    {
+     "name": "paper_slide",
+     "gain": -12,
+     "at": 0.25,
+     "from": 1.0899999999999999,
+     "dur": 0.45
+    },
+    {
+     "name": "wood_thud",
+     "gain": -16,
+     "at": 0.6249999999999986,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "pop_mouth",
+     "gain": -16,
+     "at": 0.7149999999999985,
+     "from": 0
+    },
+    {
+     "name": "type_key",
+     "gain": -19,
+     "at": 0.7249999999999985,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "knock",
+   "t": 27.62,
+   "what": "pull back: the excavator arm unfolds from its travel pose (bucket curled above the ground) and the claw creeps toward the bat (the bat stays in front of the arm)",
+   "sfx": [
+    {
+     "name": "riser_build",
+     "gain": -19,
+     "at": 0.1,
+     "from": 5.6,
+     "dur": 2.3
+    }
+   ]
+  },
+  {
+   "id": "sign",
+   "t": 29.265,
+   "what": "the bat flips up a «WILDLIFE LAW» sign (its subtitle hidden)",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -13,
+     "at": -0.05,
+     "from": 0
+    },
+    {
+     "name": "page_turn",
+     "gain": -15,
+     "at": 0.05,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "screech",
+   "t": 30.034,
+   "what": "the claw screeches to a stop inches short of the sign (≥ 80 px clear of the bat): sparks, the cab pitches, shake",
+   "sfx": [
+    {
+     "name": "record_scratch",
+     "gain": -11,
+     "at": -0.05,
+     "from": 0.76,
+     "dur": 0.6
+    },
+    {
+     "name": "impact_quick",
+     "gain": -19,
+     "at": -0.030000000000000002,
+     "from": 0.09999999999999999,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "rejected",
+   "t": 30.62,
+   "what": "PUNCH-IN on the sign (≈ 655 px wide): a huge red stamp slams the REJECTED print onto it (its subtitle hidden), lifts fast; the camera pulls back as the newt belly-slides out and the bat flaps off up-left, the sign drops onto the doormat",
+   "sfx": [
+    {
+     "name": "impact_punch_heavy_kenney",
+     "gain": -5,
+     "at": -0.02,
+     "from": 0
+    },
+    {
+     "name": "wood_thud",
+     "gain": -10,
+     "at": -0.05,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "whoosh_air_soft",
+     "gain": -18,
+     "at": 0.37,
+     "from": 0.19,
+     "dur": 0.5
+    },
+    {
+     "name": "swish_quick",
+     "gain": -17,
+     "at": 0.33,
+     "from": 0
+    },
+    {
+     "name": "page_turn",
+     "gain": -14,
+     "at": 0.41000000000000003,
+     "from": 0.19
+    }
+   ]
+  },
+  {
+   "id": "judge",
+   "t": 31.56,
+   "what": "WHIP: two doors; a deadline clock without digits ticks, a gavel swings like a pendulum between them; the farmer stands just right of its arc",
+   "sfx": [
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.09000000000000001,
+     "from": 0
+    },
+    {
+     "name": "clock_tick",
+     "gain": -18,
+     "at": 0.1,
+     "from": 0.4,
+     "dur": 2.5
+    }
+   ]
+  },
+  {
+   "id": "leftdoor",
+   "t": 32.2,
+   "what": "the left door swings open on a working excavator",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -15,
+     "at": 0.05,
+     "from": 0.19,
+     "dur": 0.7
+    }
+   ]
+  },
+  {
+   "id": "rightdoor",
+   "t": 33.152,
+   "what": "the right door swings open on cell bars; the clock bells shake",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -15,
+     "at": 0.05,
+     "from": 0.19,
+     "dur": 0.7
+    },
+    {
+     "name": "impact_quick",
+     "gain": -18,
+     "at": 0.2,
+     "from": 0.09999999999999999,
+     "dur": 0.6
+    }
+   ]
+  },
+  {
+   "id": "tears",
+   "t": 34.16,
+   "what": "ZOOM-THROUGH the left door: the excavator in front of the flag tower bites its top, the flag topples (music back, low); the farmer stands aside right of the house at its scale, cap in hand",
+   "sfx": [
+    {
+     "name": "whoosh_zoom",
+     "gain": -15,
+     "at": 0.16999999999999998,
+     "from": 0.38,
+     "dur": 0.8
+    },
+    {
+     "name": "straw_rustle",
+     "gain": -9,
+     "at": 0.35000000000000003,
+     "from": 0.14,
+     "dur": 0.6
+    },
+    {
+     "name": "impact_quick",
+     "gain": -14,
+     "at": 0.35000000000000003,
+     "from": 0.09999999999999999,
+     "dur": 0.8
+    },
+    {
+     "name": "swish_quick",
+     "gain": -16,
+     "at": 0.4279999999999979,
+     "from": 0
+    }
+   ]
+  },
+  {
+   "id": "collapse",
+   "t": 35.167,
+   "what": "the house sinks into a rubble heap behind a stone-dust volume",
+   "sfx": [
+    {
+     "name": "impact_stomp",
+     "gain": -8,
+     "at": -0.05,
+     "from": 1.5,
+     "dur": 1.6
+    },
+    {
+     "name": "boom_cine",
+     "gain": -18,
+     "at": 0,
+     "from": 0.22000000000000003,
+     "dur": 1.2
+    }
+   ]
+  },
+  {
+   "id": "plot",
+   "t": 36.12,
+   "what": "CUT: the dust has cleared to an empty plot; one lone bale rolls in and stops at his boots",
+   "sfx": [
+    {
+     "name": "whoosh_air_soft",
+     "gain": -19,
+     "at": 0.05,
+     "from": 0.19,
+     "dur": 0.7
+    },
+    {
+     "name": "wood_thud",
+     "gain": -15,
+     "at": 0.61,
+     "from": 0.12000000000000001
+    }
+   ]
+  },
+  {
+   "id": "sit",
+   "t": 36.726,
+   "what": "he plops down on the bale (slow push-in); two small straw puffs beside it, the bale stays fully visible",
+   "sfx": [
+    {
+     "name": "wood_thud",
+     "gain": -14,
+     "at": -0.05,
+     "from": 0.12000000000000001
+    },
+    {
+     "name": "straw_rustle",
+     "gain": -20,
+     "at": -0.030000000000000002,
+     "from": 0.14,
+     "dur": 0.4
+    }
+   ]
+  },
+  {
+   "id": "lift",
+   "t": 37.38,
+   "what": "he lifts the bale up to his chest, the camera pushes to the frame-0 framing",
+   "sfx": [
+    {
+     "name": "straw_rustle",
+     "gain": -17,
+     "at": 0,
+     "from": 0.14,
+     "dur": 0.5
+    }
+   ]
+  },
+  {
+   "id": "loop",
+   "t": 37.775,
+   "what": "HARD MATCH CUT into frame 0: on the ladder with the same bale; the last 0.35 s dissolve into frame 0 (loop)",
+   "sfx": [
+    {
+     "name": "swell_rev",
+     "gain": -14,
+     "at": 0.04500000000000226,
+     "from": 2.38,
+     "dur": 0.62
+    }
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "k": "hook",
+   "t0": 0,
+   "t1": 1.978,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Hook"
+  },
+  {
+   "k": "never",
+   "t0": 1.978,
+   "t1": 3.84,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Never"
+  },
+  {
+   "k": "bet",
+   "t0": 3.84,
+   "t1": 6.38,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "Bet"
+  },
+  {
+   "k": "look",
+   "t0": 6.38,
+   "t1": 7.378,
+   "tr": "whipR",
+   "subY": 1250,
+   "scene": "Look"
+  },
+  {
+   "k": "gone",
+   "t0": 7.378,
+   "t1": 8.91,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Gone"
+  },
+  {
+   "k": "battlements",
+   "t0": 8.91,
+   "t1": 9.69,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "Battlements"
+  },
+  {
+   "k": "cannons",
+   "t0": 9.69,
+   "t1": 10.134,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Cannons"
+  },
+  {
+   "k": "family",
+   "t0": 10.134,
+   "t1": 11.94,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Family"
+  },
+  {
+   "k": "neversees",
+   "t0": 11.94,
+   "t1": 13.66,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "NeverSees"
+  },
+  {
+   "k": "down",
+   "t0": 13.66,
+   "t1": 15.7,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Down"
+  },
+  {
+   "k": "won",
+   "t0": 15.7,
+   "t1": 17.04,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Won"
+  },
+  {
+   "k": "court",
+   "t0": 17.04,
+   "t1": 18.1,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Court"
+  },
+  {
+   "k": "twist",
+   "t0": 18.1,
+   "t1": 19.86,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Twist"
+  },
+  {
+   "k": "unfinished",
+   "t0": 19.86,
+   "t1": 22.18,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "Unfinished"
+  },
+  {
+   "k": "clock",
+   "t0": 22.18,
+   "t1": 23.99,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Clock"
+  },
+  {
+   "k": "bats",
+   "t0": 23.99,
+   "t1": 26.37,
+   "tr": "whipR",
+   "subY": 1250,
+   "scene": "Bats"
+  },
+  {
+   "k": "movedin",
+   "t0": 26.37,
+   "t1": 27.62,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "MovedIn"
+  },
+  {
+   "k": "knock",
+   "t0": 27.62,
+   "t1": 30.54,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Knock"
+  },
+  {
+   "k": "rejected",
+   "t0": 30.54,
+   "t1": 31.56,
+   "tr": "punch",
+   "subY": 1250,
+   "scene": "Rejected"
+  },
+  {
+   "k": "judge",
+   "t0": 31.56,
+   "t1": 34.16,
+   "tr": "whipL",
+   "subY": 1250,
+   "scene": "Judge"
+  },
+  {
+   "k": "tears",
+   "t0": 34.16,
+   "t1": 36.12,
+   "tr": "zoomthru",
+   "subY": 1250,
+   "scene": "Tears"
+  },
+  {
+   "k": "beaten",
+   "t0": 36.12,
+   "t1": 37.775,
+   "tr": "none",
+   "subY": 1250,
+   "scene": "Beaten"
+  },
+  {
+   "k": "loop",
+   "t0": 37.775,
+   "t1": 38.42,
+   "tr": "fade",
+   "subY": 1250,
+   "scene": "Loop"
+  }
+ ]
+}

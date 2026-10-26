@@ -1,0 +1,14 @@
+variety check: out/FINAL/milk_carton_yt.mp4 · slug milk-carton · channel atlas-ape · window 5 · registry /Users/khorengrigoryan/shorts/SHORTS_PRODUCTION/06_Exports/_variety_registry → hay-castle (2026-10-25), conman-russell (2026-10-25), ai-farm-girl (2026-10-24), football-222 (2026-10-23), pig-war (2026-10-23)
+  D at 0/1/2 s vs hay-castle       0.487m@-0.03  0.507@+0.27  0.486m@-0.13
+  D at 0/1/2 s vs conman-russell   0.490@-0.40  0.492m@-0.13  0.493m@+0.47
+  D at 0/1/2 s vs ai-farm-girl     0.481m@+0.07  0.504m@-0.40  0.501@-0.20
+  D at 0/1/2 s vs football-222     0.514@+0.10  0.512m@+0.07  0.534@+0.23
+  D at 0/1/2 s vs pig-war          0.547@-0.37  0.535@-0.03  0.540m@+0.30
+previous Short on the channel: hay-castle (2026-10-25, delivered)
+  its  «Визуальная идея: Стена из тюков работает как занавес: код то просвечивает её рентгеном, то роняет домино, а сквозной таймер «4 YEARS» над тюками держит ставку героя на виду. На развороте таймер не обнуляется: оказывается, он вообще ещё не запускался, а сам тюк превращается в кирпич стройки.» / «Кадр 0: рисунок, человек: фермер в сапогах на шатающейся лестнице заталкивает последний тюк в стену из сена высотой с дом, из щели торчит ствол пушки на дорогу; тюк влетает на 0.3 s, лестница качается»
+  this «Визуальная идея: Одна и та же нарисованная картонка с её лицом — сквозной предмет, который код передаёт из сцены в сцену (холодильник → лазер кассы → ножницы → кейс для кукол → холодильник соседки → линия печати → стена пакетов → снова холодильник кадра 0); взрослых видно только по рукам (часы отчима, браслет матери, клетчатый рукав отца), лиц нет никогда.» / «Кадр 0: рисунок, человек: девочка лет семи крупно (лицо, у A1 был человек в полный рост — H14/Т7) у открытого холодильника уже в движении с 0.0 s — поворачивает голову к въезжающему пакету и подаётся вперёд, глаза расширяются; мужская рука (только манжета и часы) подносит к её щеке пакет молока, на нём её зеркальная копия под огромным MISSING; на 0.45 s глаза на фото встают вровень с её глазами — удар баса без остановки кадра; на 1.0 s она тычет пальцем себе в щёку»
+  → QA D2 (manual): frame-0 type (H14: who + material, always inside H1) and main visual device must differ from the previous Short
+sheet → /Users/khorengrigoryan/shorts/SHORTS_PRODUCTION/08_QA_Reports/milk-carton/variety_sheet.jpg
+OK frame 0: nearest ai-farm-girl D 0.481 @+0.07 s (ERROR ≤ 0.10, WARNING ≤ 0.35; time search ±0.5 s)
+OK EDIT_PLAN lines differ from the last 5 Shorts (closest: «Визуальная идея» of hay-castle, similarity 0.10 < 0.35)
+PASS variety: frame 0: nearest ai-farm-girl D 0.481 @+0.07 s (ERROR ≤ 0.10, WARNING ≤ 0.35; time search ±0.5 s); EDIT_PLAN lines differ from the last 5 Shorts (closest: «Визуальная идея» of hay-castle, similarity 0.10 < 0.35)

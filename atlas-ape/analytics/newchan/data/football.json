@@ -1,0 +1,423 @@
+{
+ "niche": "football",
+ "keywords": [
+  "football edit",
+  "soccer",
+  "football facts",
+  "ronaldo",
+  "messi"
+ ],
+ "relevance": "football|soccer|futbol|ronaldo|messi|neymar|mbapp|haaland|yamal|\\bcr7\\b|\\bgoal|premier league|champions league|\\bucl\\b|fifa|world cup|barca|barcelona|real madrid|man ?utd|manchester|liverpool|chelsea|arsenal|\\bpsg\\b|bayern|penalty|striker|vinicius|bellingham|salah|\\bkane\\b|zidane|pele|maradona|free ?kick|dribbl|skills",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:15 UTC",
+ "fresh_uploads": 317,
+ "fresh_uploaders": 281,
+ "new_uploaders": 125,
+ "new_share_of_uploaders": 0.445,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 30,
+ "shorts": 798,
+ "median_views": 7043,
+ "p75_views": 29898,
+ "p90_views": 70672,
+ "share_10k": 0.4486,
+ "share_100k": 0.0764,
+ "share_1m": 0.015,
+ "ci95_100k": [
+  0.06,
+  0.097
+ ],
+ "hits_100k": 61,
+ "hits_1m": 12,
+ "channels_any_100k": 0.367,
+ "channels_any_1m": 0.233,
+ "median_channel_median": 7985,
+ "top": [
+  {
+   "views": 15546023,
+   "title": "Yildiz VS Lehmann VS De Jong VS Güler VS Neymar VS Messi VS Ronaldo",
+   "channel": "Football Goat",
+   "ch": "UCpJfg2tnWvXe2hulNLGFpvw",
+   "url": "https://youtube.com/shorts/nC50bC6-TGA",
+   "age_d": 35
+  },
+  {
+   "views": 4487539,
+   "title": "Find Yamal, Ronaldo & Haaland! ⚽😱 | Football Quiz #footballshorts",
+   "channel": "PitchPeek",
+   "ch": "UCsgpVCDI9pzKvMzfcOU2q2A",
+   "url": "https://youtube.com/shorts/d4qPvaD6jKs",
+   "age_d": 9
+  },
+  {
+   "views": 4257087,
+   "title": "Ranking relatable football POVs",
+   "channel": "AMUSED BY ZAINNU",
+   "ch": "UCCSTEAC4Jz3xalteWO56xVw",
+   "url": "https://youtube.com/shorts/7Z9pZf7fRVc",
+   "age_d": 117
+  },
+  {
+   "views": 4093264,
+   "title": "Ranking best soccer moments #soccer",
+   "channel": "AMUSED BY ZAINNU",
+   "ch": "UCCSTEAC4Jz3xalteWO56xVw",
+   "url": "https://youtube.com/shorts/p7j-asDaxnA",
+   "age_d": 23
+  },
+  {
+   "views": 3605202,
+   "title": "Find Yamal, Bellingham & Mbappé! ⚽😱 | Football Quiz | Part 2 #football #soccer",
+   "channel": "PitchPeek",
+   "ch": "UCsgpVCDI9pzKvMzfcOU2q2A",
+   "url": "https://youtube.com/shorts/UsMANDQ4u_M",
+   "age_d": 8
+  },
+  {
+   "views": 3080412,
+   "title": "STRAY KIDS vs BTS 😱🥚 WHO WON THE EGG BATTLE?! 🏆",
+   "channel": "CLASH ZONE",
+   "ch": "UCLL72phqysEJDQyuwIzEqcw",
+   "url": "https://youtube.com/shorts/qsO4PmMYCdI",
+   "age_d": 12
+  },
+  {
+   "views": 1908993,
+   "title": "Footballers Getting Cooked🥶| Football Highlights🔥| Soccer  Edits👌  #cr7 #messi #ronaldinho #soccer",
+   "channel": "Roast Utd",
+   "ch": "UCqh1kkx3kU_zLzDhGOGHh3A",
+   "url": "https://youtube.com/shorts/ObW_3fSjqGc",
+   "age_d": 29
+  },
+  {
+   "views": 1418828,
+   "title": "Respect is paramount in football 🤯🔥 #fyp #Soccer #football #soccertiktok #footballtiktok",
+   "channel": "zu'qii'iiiiu",
+   "ch": "UCJ98oxhdK4hUqV50WIo1q7g",
+   "url": "https://youtube.com/shorts/MA2IVRg70fo",
+   "age_d": 15
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCVKosqtTwK4CCWWxooEAeMg",
+   "title": "Handam Edits",
+   "created": "2026-06-11",
+   "subs": 35,
+   "shorts_aged": 3,
+   "max": 1265
+  },
+  {
+   "ch": "UCDNKVISLMpa1B8aftWN7-Rw",
+   "title": "PeakPlay",
+   "created": "2026-10-01",
+   "subs": 1890,
+   "shorts_aged": 24,
+   "max": 36332
+  },
+  {
+   "ch": "UCDE6rrw7wsh6axcydaqvRNg",
+   "title": "SoccerFive",
+   "created": "2026-06-30",
+   "subs": 1250,
+   "shorts_aged": 41,
+   "max": 26453
+  },
+  {
+   "ch": "UCAEkRF1QoBf0OoYhoqgTr0w",
+   "title": "SoccerVerse",
+   "created": "2026-10-12",
+   "subs": 2890,
+   "shorts_aged": 3,
+   "max": 828949
+  },
+  {
+   "ch": "UCqoaauN77NuGpP3988xDVGw",
+   "title": "Goaltheory",
+   "created": "2026-07-28",
+   "subs": 46,
+   "shorts_aged": 10,
+   "max": 3542
+  },
+  {
+   "ch": "UCpGIJF4Pm03KKki76WPZbSA",
+   "title": "Hug Gi",
+   "created": "2026-08-14",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCpJfg2tnWvXe2hulNLGFpvw",
+   "title": "Football Goat",
+   "created": "2026-01-14",
+   "subs": 243000,
+   "shorts_aged": 45,
+   "max": 15546023
+  },
+  {
+   "ch": "UCJ98oxhdK4hUqV50WIo1q7g",
+   "title": "zu'qii'iiiiu",
+   "created": "2026-06-16",
+   "subs": 16200,
+   "shorts_aged": 44,
+   "max": 1418828
+  },
+  {
+   "ch": "UCzNJKrz70MkQ6Ev8irSX-0g",
+   "title": "Futbol talks",
+   "created": "2026-10-22",
+   "subs": 23,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCTNbhlnBcAjLVcVPpikZC-g",
+   "title": "R4nd0m-224",
+   "created": "2026-04-13",
+   "subs": 361,
+   "shorts_aged": 31,
+   "max": 2285
+  },
+  {
+   "ch": "UCqh1kkx3kU_zLzDhGOGHh3A",
+   "title": "Roast Utd",
+   "created": "2026-07-04",
+   "subs": 5610,
+   "shorts_aged": 24,
+   "max": 1908993
+  },
+  {
+   "ch": "UCQC14tqyjlO2eWHtW7KDVAA",
+   "title": "Goal Genius",
+   "created": "2026-06-12",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCOn0dxJOidKgDEYA_GbtmlQ",
+   "title": "korasfooty",
+   "created": "2026-10-21",
+   "subs": 6,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCXTE9HwaBhGtpqnG9zvFd-g",
+   "title": "RyxFut7 ",
+   "created": "2026-10-06",
+   "subs": 929,
+   "shorts_aged": 6,
+   "max": 531602
+  },
+  {
+   "ch": "UCIqDyiQCXd8hvKroZh3yXzg",
+   "title": "Football Detailing",
+   "created": "2025-10-26",
+   "subs": 9160,
+   "shorts_aged": 30,
+   "max": 262377
+  },
+  {
+   "ch": "UCCSTEAC4Jz3xalteWO56xVw",
+   "title": "AMUSED BY ZAINNU",
+   "created": "2026-04-03",
+   "subs": 16600,
+   "shorts_aged": 30,
+   "max": 4257087
+  },
+  {
+   "ch": "UCTehCaCy2Ln9N8fQA3zEbgg",
+   "title": "basicedits.",
+   "created": "2026-06-01",
+   "subs": 17,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCx5ACF9u3D5YQ7Y4Sg0A6iA",
+   "title": "Futballshutball",
+   "created": "2026-06-30",
+   "subs": 378,
+   "shorts_aged": 25,
+   "max": 1498
+  },
+  {
+   "ch": "UCBrfCU-yPz4K6TGh8LESWKQ",
+   "title": "WORLD FOOTBALLER",
+   "created": "2026-10-18",
+   "subs": 280,
+   "shorts_aged": 1,
+   "max": 23773
+  },
+  {
+   "ch": "UC2ftGOIYhsVLEPFVYMpC1hA",
+   "title": "Wholesome Balls",
+   "created": "2026-01-04",
+   "subs": 442,
+   "shorts_aged": 24,
+   "max": 57173
+  },
+  {
+   "ch": "UCXFHb8GZlCaineuoxZWxRBw",
+   "title": "GloKick",
+   "created": "2026-08-02",
+   "subs": 10300,
+   "shorts_aged": 24,
+   "max": 1133793
+  },
+  {
+   "ch": "UCJ-f6aQUcRXkMOyXt-QqUVQ",
+   "title": "Football ",
+   "created": "2026-07-30",
+   "subs": 2030,
+   "shorts_aged": 45,
+   "max": 26722
+  },
+  {
+   "ch": "UC2dtrZiJ_a7QWnlbfAS_Mmw",
+   "title": "SportVault29",
+   "created": "2026-06-02",
+   "subs": 9,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCVGWPhtsMBuYtRrQCA3f1ew",
+   "title": "The Football Zone TV",
+   "created": "2026-04-15",
+   "subs": 26,
+   "shorts_aged": 4,
+   "max": 46
+  },
+  {
+   "ch": "UCsgpVCDI9pzKvMzfcOU2q2A",
+   "title": "PitchPeek",
+   "created": "2026-07-28",
+   "subs": 4540,
+   "shorts_aged": 33,
+   "max": 4487539
+  },
+  {
+   "ch": "UCClVSziQS9McTvIg0ZTyMYA",
+   "title": "Ravelo",
+   "created": "2026-10-04",
+   "subs": 227,
+   "shorts_aged": 22,
+   "max": 10865
+  },
+  {
+   "ch": "UCd-9xXdDPmcEWUoF-bhatxA",
+   "title": "Soccer Things",
+   "created": "2026-04-29",
+   "subs": 3900,
+   "shorts_aged": 37,
+   "max": 72227
+  },
+  {
+   "ch": "UCn4EkV_FV8HkKgSvivugvuA",
+   "title": "CR7 Ranks",
+   "created": "2026-08-27",
+   "subs": 313,
+   "shorts_aged": 31,
+   "max": 13286
+  },
+  {
+   "ch": "UCpd_5ap_izjZJDN6UTN68pQ",
+   "title": "wcdu",
+   "created": "2026-06-17",
+   "subs": 34,
+   "shorts_aged": 15,
+   "max": 2436
+  },
+  {
+   "ch": "UCZvcorCIayd_ubsszdRESfQ",
+   "title": "JamesDasBoot",
+   "created": "2026-08-12",
+   "subs": 42,
+   "shorts_aged": 27,
+   "max": 25198
+  },
+  {
+   "ch": "UCQWBpDkd1L4ibTF3z-hyO6g",
+   "title": "Ellisy Jr",
+   "created": "2026-07-15",
+   "subs": 221,
+   "shorts_aged": 40,
+   "max": 35193
+  },
+  {
+   "ch": "UCgk4Ix-bo6JAk7Aw7gGWLtA",
+   "title": "FIFA FOOTBOLER ",
+   "created": "2026-10-19",
+   "subs": 23,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCtG15WhT1D_Wy91M3H7n31Q",
+   "title": "USAGoltrix",
+   "created": "2026-07-30",
+   "subs": 280,
+   "shorts_aged": 42,
+   "max": 29245
+  },
+  {
+   "ch": "UCAxi92Hxr1QLb0S4foDDwug",
+   "title": "Soccer Zen",
+   "created": "2026-05-24",
+   "subs": 1710,
+   "shorts_aged": 18,
+   "max": 1997
+  },
+  {
+   "ch": "UC-lqpn6Ls8r-aABYB3iPD5w",
+   "title": "JFOOT ",
+   "created": "2025-12-13",
+   "subs": 2940,
+   "shorts_aged": 33,
+   "max": 28396
+  },
+  {
+   "ch": "UC-o8PXpj52phmbO6kqMhACQ",
+   "title": "Inter foot",
+   "created": "2026-10-23",
+   "subs": 38,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCAcFC0FfGiWg6p0MD3jFIbw",
+   "title": "👿Devang😈",
+   "created": "2026-07-02",
+   "subs": 779,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC2_7vDYSn3GqQAPBUol--kQ",
+   "title": "The Footy",
+   "created": "2026-10-24",
+   "subs": 7,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCagIuTHR-IYEt5yiv1d98yg",
+   "title": "TsAtk",
+   "created": "2026-07-30",
+   "subs": 6620,
+   "shorts_aged": 45,
+   "max": 150471
+  },
+  {
+   "ch": "UCLL72phqysEJDQyuwIzEqcw",
+   "title": "CLASH ZONE",
+   "created": "2026-09-07",
+   "subs": 9090,
+   "shorts_aged": 41,
+   "max": 3080412
+  }
+ ]
+}

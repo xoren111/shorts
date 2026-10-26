@@ -1,0 +1,51 @@
+== headline
+ABG 500 100k 75 1m 51 median best 1700.0 best<5k 0.664
+AG 177 100k 24 1m 14 median best 1700 best<5k 0.644
+A 172 100k 19 1m 9 median best 1650.0 best<5k 0.663
+cohort Aug-Oct 248 median best 1200.0 median n 10.0 100k 12 1m ['PolySoldier', 'War facts'] source Counter({'search <100K': 244, 'search ≥100K / seed': 4})
+5-12 Shorts 103 share best<2312 0.816 of which first Short within 30 d 83
+== slow starters (first6_max<thr): (hit1M by k, eligible, hit100K by k)
+AG 3000 {30: (0, 58, 0), 50: (0, 38, 1), 100: (0, 17, 2), 150: (0, 13, 2), 'ever(n>=30)': (0, 58, 5)}
+AG 5000 {30: (0, 63, 0), 50: (0, 42, 2), 100: (1, 19, 3), 150: (0, 13, 2), 'ever(n>=30)': (1, 63, 6)}
+AG 20000 {30: (0, 68, 1), 50: (0, 45, 4), 100: (2, 21, 4), 150: (1, 15, 3), 'ever(n>=30)': (2, 68, 8)}
+ABG 3000 {30: (1, 152, 3), 50: (2, 105, 8), 100: (1, 55, 4), 150: (1, 36, 3), 'ever(n>=30)': (4, 152, 15)}
+ABG 5000 {30: (1, 166, 4), 50: (2, 116, 10), 100: (2, 59, 5), 150: (1, 38, 3), 'ever(n>=30)': (5, 166, 17)}
+ABG 20000 {30: (2, 184, 6), 50: (4, 129, 16), 100: (6, 68, 11), 150: (5, 46, 9), 'ever(n>=30)': (11, 184, 26)}
+wilson 0/42 (0.0, 0.084) 2/116 (0.005, 0.061) 1/38 (0.005, 0.135) 5/166 (0.013, 0.069)
+== fast starters / early-signal bands
+ABG first6max>=100K 32 ever1M 27 | first6max already >=1M 16 | first6max in [100K,1M) 16 of which ever1M 11
+   n>=30 first6max [0,5000): 166 ever1M 5 ever100K 17
+   n>=30 first6max [5000,20000): 18 ever1M 6 ever100K 9
+   n>=30 first6max [20000,100000): 20 ever1M 12 ever100K 14
+   n>=30 first6max [100000,1000000): 14 ever1M 11 ever100K 14
+   winners 51 first6max>=100K 27 >=20K 40 >=5K 46
+   winners first6_median: median 20000.0 p25 3900.0 | non-winners (n>=6) median 537.0
+   winners label mix Counter({'B': 37, 'A': 9, 'G': 5}) median first-1M idx 12 <=28 38 median days 15
+   late bloomers 12 / 123
+AG first6max>=100K 11 ever1M 9 | first6max already >=1M 5 | first6max in [100K,1M) 6 of which ever1M 4
+   n>=30 first6max [0,5000): 63 ever1M 1 ever100K 6
+   n>=30 first6max [5000,20000): 5 ever1M 1 ever100K 2
+   n>=30 first6max [20000,100000): 7 ever1M 3 ever100K 4
+   n>=30 first6max [100000,1000000): 6 ever1M 4 ever100K 6
+   winners 14 first6max>=100K 9 >=20K 12 >=5K 13
+   winners first6_median: median 31750.0 p25 3900.0 | non-winners (n>=6) median 602.0
+   winners label mix Counter({'A': 9, 'G': 5}) median first-1M idx 10.0 <=28 12 median days 14.5
+   late bloomers 2 / 41
+ATLAS first6 median 1164.0 max 2312
+== cadence (Shorts/day, first->last Short), new ABG n>=10
+winners 0.62 non-winners 0.95
+== fatigue of the NEW breakouts (excluded from the established table)
+Hoodie Guy last20 10000000.0 12mo 17500000.0 6mo 11500000.0
+Zeck Felms last20 1300000.0 12mo 2950000.0 6mo 1750000.0
+Past Diary last20 167500.0 12mo 469000.0 6mo 111000.0
+The Art Of War last20 181500.0 12mo 1200000.0 6mo 328000.0
+Low Poly Shorts last20 5950000.0 12mo 6250000.0 6mo 7050000.0
+Underground Bullets last20 394000.0 12mo 61000.0 6mo 286500.0
+established n 47 labels Counter({'B': 23, 'F': 15, 'A': 9}) below 36 median ratio 0.657
+  excl F 32 below 24 median 0.673
+  6-month window 35 below 18 median 0.844
+  Loaded Dice in established table? False
+== 1M+ discovered Shorts since 2026-07-01
+niche incl F 27 F 4 created2025+ 3 firstShort2025+ 12
+prison-escape titles among them [(13551063, 'Zack D. Films', 'He Used Kitchen Supplies To Escape Prison 😬'), (2035895, 'Rom', 'He Escaped Prison With Peanut Butter 😳'), (3148810, 'Zack D. Films', 'Prisoners Escaped Using A Handbook 😵'), (13030663, 'onca', 'He Escaped Prison Using SOUP🤯🍜')]
+ATLAS channel in discovered Shorts: 0

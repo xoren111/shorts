@@ -1,0 +1,17 @@
+{
+ "query": {
+  "ids": "channel==MINE",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-25",
+  "metrics": "views,estimatedMinutesWatched,averageViewPercentage",
+  "dimensions": "creatorContentType"
+ },
+ "rows": [
+  {
+   "creatorContentType": "shorts",
+   "views": 3768,
+   "estimatedMinutesWatched": 1022,
+   "averageViewPercentage": 56.61000000000001
+  }
+ ]
+}

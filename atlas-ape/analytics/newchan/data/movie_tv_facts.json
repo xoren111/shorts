@@ -1,0 +1,423 @@
+{
+ "niche": "movie_tv_facts",
+ "keywords": [
+  "movie facts",
+  "movie details",
+  "behind the scenes",
+  "film facts",
+  "movie mistakes"
+ ],
+ "relevance": "movie|film|cinema|actor|actress|hollywood|marvel|netflix|tv show|series|episode|scene|director|sitcom|disney|pixar|\\bcast\\b|starring|trailer",
+ "cutoff": "2025-10-25",
+ "pulled": "2026-10-25 10:09 UTC",
+ "fresh_uploads": 170,
+ "fresh_uploaders": 142,
+ "new_uploaders": 54,
+ "new_share_of_uploaders": 0.38,
+ "sampled_channels": 40,
+ "channels_with_aged_shorts": 31,
+ "shorts": 911,
+ "median_views": 16461,
+ "p75_views": 40395,
+ "p90_views": 252687,
+ "share_10k": 0.5488,
+ "share_100k": 0.1405,
+ "share_1m": 0.0461,
+ "ci95_100k": [
+  0.1194,
+  0.1646
+ ],
+ "hits_100k": 128,
+ "hits_1m": 42,
+ "channels_any_100k": 0.387,
+ "channels_any_1m": 0.161,
+ "median_channel_median": 12655,
+ "top": [
+  {
+   "views": 39262518,
+   "title": "Eating food from 3 different countries in one bite-meme 😂",
+   "channel": "Crispi Queen",
+   "ch": "UCHRgV4RDgg_pzv12Xj1PaOQ",
+   "url": "https://youtube.com/shorts/lrSqDtGe200",
+   "age_d": 14
+  },
+  {
+   "views": 28615445,
+   "title": "Behind the scenes of Eating food from different countries in one bite-POV2😂",
+   "channel": "Crispi Queen",
+   "ch": "UCHRgV4RDgg_pzv12Xj1PaOQ",
+   "url": "https://youtube.com/shorts/R_gqg7H6Tb4",
+   "age_d": 7
+  },
+  {
+   "views": 20995189,
+   "title": "One Hand Movement Gave Away His Position... | Breaking Bad",
+   "channel": "Just Scoopz",
+   "ch": "UC9154E-hfzPnEUw2dUCglww",
+   "url": "https://youtube.com/shorts/GLpGnLzQ07c",
+   "age_d": 17
+  },
+  {
+   "views": 9587274,
+   "title": "Look Closely At What's Hiding Here 💀 | The Warrior's Way (2010)",
+   "channel": "Just Scoopz",
+   "ch": "UC9154E-hfzPnEUw2dUCglww",
+   "url": "https://youtube.com/shorts/Vt5PM1Q-0Es",
+   "age_d": 18
+  },
+  {
+   "views": 6583840,
+   "title": "Charlie And The Chocolate Factory Behind The Scenes",
+   "channel": "Movie Charm",
+   "ch": "UC9xOOU1QgWHJfr4Fh26zc6w",
+   "url": "https://youtube.com/shorts/w7wadow32zI",
+   "age_d": 19
+  },
+  {
+   "views": 4439276,
+   "title": "Eat spiciest emoticons with my little brother in car!? 🍩🥵",
+   "channel": "Crispi Queen",
+   "ch": "UCHRgV4RDgg_pzv12Xj1PaOQ",
+   "url": "https://youtube.com/shorts/BVjOtpKH3pk",
+   "age_d": 50
+  },
+  {
+   "views": 4187655,
+   "title": "This Is How Old vs. New Oompa Loompas Were Actually Made!",
+   "channel": "Movie Charm",
+   "ch": "UC9xOOU1QgWHJfr4Fh26zc6w",
+   "url": "https://youtube.com/shorts/vRICvn2LwZ8",
+   "age_d": 17
+  },
+  {
+   "views": 3885008,
+   "title": "recreating emoticons in Roblox 🍬 #shorts",
+   "channel": "Crispi Queen",
+   "ch": "UCHRgV4RDgg_pzv12Xj1PaOQ",
+   "url": "https://youtube.com/shorts/R-xiZKKnD70",
+   "age_d": 60
+  }
+ ],
+ "sample": [
+  {
+   "ch": "UCIjoTKselPiXJqVMmU-Do3Q",
+   "title": "CineSpire",
+   "created": "2026-09-20",
+   "subs": 562,
+   "shorts_aged": 24,
+   "max": 111407
+  },
+  {
+   "ch": "UC8ug8lmLVNGXc3HcVazinBw",
+   "title": "SpideyGrowlithe",
+   "created": "2025-12-11",
+   "subs": 137,
+   "shorts_aged": 36,
+   "max": 3199
+  },
+  {
+   "ch": "UCHRgV4RDgg_pzv12Xj1PaOQ",
+   "title": "Crispi Queen",
+   "created": "2026-06-24",
+   "subs": 383000,
+   "shorts_aged": 43,
+   "max": 39262518
+  },
+  {
+   "ch": "UC1RuaMihQLoSqF5CSTYVCoQ",
+   "title": "moviesfacxs",
+   "created": "2026-09-22",
+   "subs": 15,
+   "shorts_aged": 21,
+   "max": 42615
+  },
+  {
+   "ch": "UCjWgXVYGobOdamT2xCZjaWg",
+   "title": "Hollow Earth Files",
+   "created": "2026-10-09",
+   "subs": 7,
+   "shorts_aged": 7,
+   "max": 1761
+  },
+  {
+   "ch": "UCrRrAwGYvNnD95dqCRP13Fg",
+   "title": "CELEBRITY 1+1",
+   "created": "2026-07-11",
+   "subs": 1110,
+   "shorts_aged": 31,
+   "max": 587130
+  },
+  {
+   "ch": "UCIdkMltW6REE1SBkjKBvROQ",
+   "title": "RandBro",
+   "created": "2026-01-16",
+   "subs": 513,
+   "shorts_aged": 35,
+   "max": 38888
+  },
+  {
+   "ch": "UClwrvYjq3Pw6P3rwuZwTdNQ",
+   "title": "Fact X",
+   "created": "2026-10-12",
+   "subs": 89,
+   "shorts_aged": 8,
+   "max": 5443
+  },
+  {
+   "ch": "UCpbMUYBdLai0ijXxDoslM9Q",
+   "title": "FrameZar",
+   "created": "2026-06-15",
+   "subs": 1160,
+   "shorts_aged": 36,
+   "max": 61869
+  },
+  {
+   "ch": "UCjyzczbCFfRFszz6keXsGeQ",
+   "title": "RiddleTiddle",
+   "created": "2026-10-18",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCoLVtzvjGDhnaUKGKMhnqSA",
+   "title": "MOVETRON",
+   "created": "2026-06-05",
+   "subs": 1210,
+   "shorts_aged": 36,
+   "max": 54563
+  },
+  {
+   "ch": "UCMdaDmpo0E_lPLFF9dtXxXw",
+   "title": "6 Minutes Of Movie Tales - Finance & Tech⁠",
+   "created": "2026-02-25",
+   "subs": 63,
+   "shorts_aged": 41,
+   "max": 1141
+  },
+  {
+   "ch": "UC7jbvHOMxmjIcWCAYyGsRlA",
+   "title": "Pixel Earth",
+   "created": "2026-05-03",
+   "subs": 1470,
+   "shorts_aged": 41,
+   "max": 62096
+  },
+  {
+   "ch": "UCAu9RswugbK72ahXIzlRqgA",
+   "title": "kuniedata",
+   "created": "2026-05-26",
+   "subs": 2190,
+   "shorts_aged": 44,
+   "max": 30922
+  },
+  {
+   "ch": "UCPJj72yL6rYM34mO_Xw3_jA",
+   "title": "Wait, that explains it!!",
+   "created": "2026-10-22",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCLlYAEm13O5rQdhNqSHGFkg",
+   "title": "C-Rad's Recaps",
+   "created": "2026-10-19",
+   "subs": 12,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCcsUG6yztZKUTGqGL3JXZZg",
+   "title": "Blizzy",
+   "created": "2026-06-13",
+   "subs": 2150,
+   "shorts_aged": 32,
+   "max": 708851
+  },
+  {
+   "ch": "UCS1Y5v_DeshV7de4ksO0MUQ",
+   "title": "Detail Dive",
+   "created": "2026-05-26",
+   "subs": 17800,
+   "shorts_aged": 44,
+   "max": 2937651
+  },
+  {
+   "ch": "UC62eQOgQB4_AyvAGQQRjk8g",
+   "title": "Suflix",
+   "created": "2026-09-29",
+   "subs": 334,
+   "shorts_aged": 19,
+   "max": 48793
+  },
+  {
+   "ch": "UCcx1TRkrjeAxm28K8W_lbxw",
+   "title": "Theoretically",
+   "created": "2025-11-11",
+   "subs": 28400,
+   "shorts_aged": 16,
+   "max": 551614
+  },
+  {
+   "ch": "UCj_OvyIfMeuSAinix1BLFfw",
+   "title": "KiraX 🎬 ",
+   "created": "2026-08-15",
+   "subs": 403,
+   "shorts_aged": 32,
+   "max": 855541
+  },
+  {
+   "ch": "UCbpqLuBWp5rOvnJbrAZXKuQ",
+   "title": "Cinema Unmasked",
+   "created": "2026-09-12",
+   "subs": 2,
+   "shorts_aged": 1,
+   "max": 1543
+  },
+  {
+   "ch": "UCd6LRPawZBQdGKR_SFTUXsw",
+   "title": "Itsdoll",
+   "created": "2026-07-08",
+   "subs": 4340,
+   "shorts_aged": 29,
+   "max": 410107
+  },
+  {
+   "ch": "UCealC2qYhxqST7bT0zB0pVQ",
+   "title": "SFlix",
+   "created": "2026-08-08",
+   "subs": 3,
+   "shorts_aged": 36,
+   "max": 267
+  },
+  {
+   "ch": "UC5Xt8Z-SCIcM8le3QA1ObMQ",
+   "title": "Johnys Oops Factory",
+   "created": "2026-10-20",
+   "subs": 53,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC0Ev5k5U9dLJuGBfyqYLJKA",
+   "title": "Paw vault",
+   "created": "2026-09-29",
+   "subs": 20,
+   "shorts_aged": 31,
+   "max": 63662
+  },
+  {
+   "ch": "UC9xOOU1QgWHJfr4Fh26zc6w",
+   "title": "Movie Charm",
+   "created": "2026-01-02",
+   "subs": 21400,
+   "shorts_aged": 45,
+   "max": 6583840
+  },
+  {
+   "ch": "UC9D3bq0NSu4UkEqto1aJKhA",
+   "title": "Pictora ",
+   "created": "2026-01-23",
+   "subs": 17200,
+   "shorts_aged": 8,
+   "max": 30251
+  },
+  {
+   "ch": "UCfkATuLerZ1ZHn4xl9KLdQA",
+   "title": "Scene Velvet",
+   "created": "2026-10-10",
+   "subs": 0,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCEKS1SMN1T7qsShwI1lmZ2w",
+   "title": "Aura Critic",
+   "created": "2026-04-30",
+   "subs": 1360,
+   "shorts_aged": 29,
+   "max": 119999
+  },
+  {
+   "ch": "UCU0Vfqit6id0s4afO_rCUFw",
+   "title": "Wudi Mmm",
+   "created": "2026-09-27",
+   "subs": 24,
+   "shorts_aged": 34,
+   "max": 1971
+  },
+  {
+   "ch": "UCKghRjoMlM2TxdUPiIEy4-w",
+   "title": "Scene By Scene ",
+   "created": "2026-01-24",
+   "subs": 13100,
+   "shorts_aged": 44,
+   "max": 68830
+  },
+  {
+   "ch": "UCMPnmwccprSt378Qez16P-w",
+   "title": "Luts Cinema",
+   "created": "2026-09-30",
+   "subs": 2,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCVx89ZDSQJjRjoMsWhtaidw",
+   "title": "Hindsightory",
+   "created": "2026-10-04",
+   "subs": 5,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UC9154E-hfzPnEUw2dUCglww",
+   "title": "Just Scoopz",
+   "created": "2026-07-15",
+   "subs": 6470,
+   "shorts_aged": 37,
+   "max": 20995189
+  },
+  {
+   "ch": "UCUeUzGgZM7WEyk3Z_8E9RAA",
+   "title": "UMA Explained",
+   "created": "2025-11-06",
+   "subs": 27000,
+   "shorts_aged": 44,
+   "max": 1712297
+  },
+  {
+   "ch": "UCGJIstHYLTpfgUhxffNZzlA",
+   "title": "MoviesTimes",
+   "created": "2026-10-21",
+   "subs": 12,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCi9PfAzu0iPzmFL0E4Opg9A",
+   "title": "filmcoded",
+   "created": "2026-10-20",
+   "subs": 3,
+   "shorts_aged": 0,
+   "max": 0
+  },
+  {
+   "ch": "UCsQ-RzTi7ZmJOdIaq0T5eIw",
+   "title": "His Facts",
+   "created": "2026-06-09",
+   "subs": 13,
+   "shorts_aged": 4,
+   "max": 400
+  },
+  {
+   "ch": "UCzfTfpSEfmDyLMMcCLZY7kQ",
+   "title": "celeb trends",
+   "created": "2026-07-10",
+   "subs": 829,
+   "shorts_aged": 23,
+   "max": 33238
+  }
+ ]
+}

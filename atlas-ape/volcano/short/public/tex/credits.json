@@ -1,0 +1,74 @@
+[
+  {
+    "class": "rock",
+    "asset_id": "gray_rocks",
+    "name": "Gray Rocks",
+    "url": "https://polyhaven.com/a/gray_rocks",
+    "licence": "CC0",
+    "authors": [
+      "Dimitrios Savva"
+    ],
+    "real_size_m": 1.8,
+    "files": {
+      "diff": "rock_diff.jpg",
+      "nor": "rock_nor.jpg"
+    },
+    "resolution": "2k",
+    "normal_convention": "OpenGL (nor_gl)",
+    "note": "angular rock rubble, a'a clinker look"
+  },
+  {
+    "class": "grass",
+    "asset_id": "aerial_rocks_04",
+    "name": "Aerial Rocks 04",
+    "url": "https://polyhaven.com/a/aerial_rocks_04",
+    "licence": "CC0",
+    "authors": [
+      "Rob Tuytel"
+    ],
+    "real_size_m": 80.0,
+    "files": {
+      "diff": "grass_diff.jpg",
+      "nor": "grass_nor.jpg"
+    },
+    "resolution": "2k",
+    "normal_convention": "OpenGL (nor_gl)",
+    "note": "aerial: moss/scrub over rock"
+  },
+  {
+    "class": "soil",
+    "asset_id": "dry_ground_rocks",
+    "name": "Dry Ground Rocks",
+    "url": "https://polyhaven.com/a/dry_ground_rocks",
+    "licence": "CC0",
+    "authors": [
+      "Rob Tuytel"
+    ],
+    "real_size_m": 4.0,
+    "files": {
+      "diff": "soil_diff.jpg",
+      "nor": "soil_nor.jpg"
+    },
+    "resolution": "2k",
+    "normal_convention": "OpenGL (nor_gl)",
+    "note": "dry brown soil with pebbles"
+  },
+  {
+    "class": "cliff",
+    "asset_id": "dark_rock_02",
+    "name": "Dark Rock 02",
+    "url": "https://polyhaven.com/a/dark_rock_02",
+    "licence": "CC0",
+    "authors": [
+      "Amal Kumar"
+    ],
+    "real_size_m": 2.0,
+    "files": {
+      "diff": "cliff_diff.jpg",
+      "nor": "cliff_nor.jpg"
+    },
+    "resolution": "2k",
+    "normal_convention": "OpenGL (nor_gl)",
+    "note": "dark fractured rock face"
+  }
+]

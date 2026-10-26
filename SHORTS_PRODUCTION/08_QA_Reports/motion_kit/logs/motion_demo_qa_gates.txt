@@ -1,0 +1,5 @@
+  motion_0_1 21.84 | motion 1-6 10.99 | motion_mean 8.51 | static run 0 | cuts/10s 2.76 | words/s 3.17
+PASS M1 motion 0-1 = 21.84 (L2 >= 20)
+PASS M2 motion 1-6 mean = 10.99 (L2 >= 10)
+PASS M3 motion_mean = 8.51 (L2 >= 7)
+PASS M4 static run (s with motion < 1.0) = 0 (L2 <= 0)

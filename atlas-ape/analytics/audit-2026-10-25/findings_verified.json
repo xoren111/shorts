@@ -1,0 +1,1126 @@
+[
+ {
+  "key": "videos-A",
+  "folder": "videos_A",
+  "summary": "All three Shorts stalled at the new-channel test ceiling: 653, 1,150 and 1,168 views in their first wave, 0 shares, 1 subscriber, and 97–98 % of views from the Shorts feed. Only Yellow Fleet got a second push (+1,144 views between 23.10 and 25.10). The topics are not what failed. The failures are in execution and can be timed to the second. One method note first: the API retention curve and AVP count only viewers who did not swipe. Mean audienceWatchRatio equals AVP (0.540/0.468/0.851 vs 53/45/81 %), and minutes×60 divided by engaged views equals AVD. So Yellow Fleet's \"81 %\" means 81 % of the 40 % who stayed. Per 100 feed views, only 15 (Volcano), 9 (Rabbits) and 18.5 (Yellow Fleet) plays are still running at the last second. Volcano lost 34 % of its non-swipers in 5.4–10 s, exactly on the meta line plus \"1935, Hawaii.\" over a globe dive and a satellite map. Its relative retention hit 0.255 there, the bottom quarter of similar-length videos. Rabbits lost 60 % in 5–19.5 s while it walked through an Australia map, \"≈600 million by 1950 (CSIRO)\", a £25,000 prize card, Pasteur and the Rodd Island lab (relative 0.242). Both then gave up another 40–48 % of their remaining viewers on a static scoreboard outro after the payoff. Yellow Fleet is the opposite case. Its body and loop are the best on the channel (AVP 81 %, relative retention 0.83 at the end, replay proxy 0.43 vs 0.20), but its first 5 s are a near-still canal with a title card and no living being (motion 0.56–0.87). 60 % of feed viewers swiped it. Measured against the reference medians, all three are slower than even the flop group: 0 hard cuts (dissolve-only style rule) vs 2.0 for flops, motion in second 0–1 of 4.0/1.9/0.7 vs 10.3, and 1.9–2.7 words/s vs 2.9. Rabbits had the best stayed rate (61 %) because the story's own animals were acting at frame 0 under a riddle line. That suggests \"subject doing the absurd thing at frame 0\" matters more than the mascot (hypothesis, N=3).",
+  "tables": "### Per-video metrics (sources: data/2026-10-25/summary.json, per_video.json; videos_A/analysis.json, basis_check.json, measure_*.json, dataapi_recheck.json)\n\n| Metric | Volcano yR42PjbnqEo | Rabbits w52iSlkYlOg | Yellow Fleet TD53YW6dqoY | Viral / Flop median |\n|---|---|---|---|---|\n| Length (file) | 76.8 s | 62.0 s | 32.1 s | |\n| Views Data API 25.10 07:53 UTC | 663 | 1,154 | 2,312 | |\n| Views Analytics (to 22.10 PT) | 662 | 1,150 | 1,168 | |\n| Daily PT views | 53 / 276 / 324 / 9 → dead | 286 / 409 / 455 → +4 after | 1,101 / 67 → +1,144 on 23–25.10 (2nd wave) | |\n| Stayed (engaged/views) | 55.4 % | 61.4 % | 39.8 % | Isaac 79.6 % |\n| AVP (engaged basis) / AVD | 53.1 % / 40 s | 45.3 % / 28 s | 81.3 % / 26 s | |\n| Replay proxy (awr@1 % − 1) | 0.20 | 0.20 | 0.43 | |\n| awr @10 s / 20 s / end | 0.665 / 0.55 / 0.267 | 0.813 / 0.41 / 0.153 | 0.905 / 0.765 / 0.465 | |\n| Per 100 feed views still playing @10 s / 20 s / end | 36.9 / 30.5 / 14.8 | 50.2 / 25.3 / 9.4 | 36.0 / 30.5 / 18.5 | |\n| Relative retention min (at s) / max / end | 0.255 (6.9 s) / 0.64 / 0.47 | 0.242 (12.4 s) / 0.72 / 0.54 | 0.482 (7.1 s) / 0.83 / 0.83 | 0.5 = median |\n| Likes / per 100 views | 13 / 1.96 | 12 / 1.04 | 18 / 0.78 | |\n| Shares / subs / comments | 0 / 1 / 0 | 0 / 0 / 0 | 0 / 0 / 2 | |\n| Shorts-feed share | 97.0 % | 97.7 % | 97.5 % | |\n| Top countries (views) | US 187, IN 63, PH 62, DE 18 | PH 347, US 193, AU 37, MY 31 | US 322, PH 87, IN 57, ID 51, CA 43 | |\n| Motion s 0–1 / s 1–6 | 4.04 / 4.08 | 1.90 / 2.62 | 0.72 / 1.03 | 23.6 / 10.3 ; refs 11–16 |\n| Hard cuts per 10 s | 0.0 | 0.0 | 0.0 | 3.6 / 2.0 |\n| Words/s (whisper) | 2.01 | 1.93 | 2.65 | 3.26 / 2.91 |\n| Frame 0 | Atlas (lower ~45 %) + dusk volcano; biplane enters 0.5 s, bomb 1.0 s, blast 2.0 s | 13 rabbits walking off the ship + Atlas; date label 'England October 1859' from 0.5 s | still canal + ships, static '1-DAY TRIP' card, no living being, ~5 s near-still | winners: absurd event on a living being, close, moving |\n\n### Where viewers leave (awr = audienceWatchRatio, engaged basis; words from project words.json; frames in videos_A/frames/)\n\n| Video | Window | awr change | Words spoken | On screen |\n|---|---|---|---|---|\n| Volcano | 5.4–10.0 s | 1.008 → 0.665 (−34 %) | '…way we fought lava.' [0.71 s pause] '1935, Hawaii.' | photo collage → 'Iceland 1973' card → globe from space '1935' → satellite map 'Mauna Loa / HAWAII' |\n| Volcano | 67–76.8 s | 0.444 → 0.267 (−40 %) | 'Final score: Humans two. Volcano zero. And Hawaii? We don't talk about Hawaii.' | static scoreboard + Atlas, motion 0.29–0.91 |\n| Rabbits | 7.6–12.6 s | 0.933 → 0.677 | 'Twenty-four became hundreds of millions. Australia fought back.' | flat Australia map + '≈600 million by 1950 (CSIRO)' → rabbit field |\n| Rabbits | 15.8–19.5 s | 0.594 → 0.418 | 'Louis Pasteur entered. With chicken cholera.' | £25,000 / NSW 1887 card → Pasteur photo + 'He sent his team to Sydney' → 'Rodd Island lab' |\n| Rabbits | 51.7–62 s | 0.296 → 0.153 (−48 %) | 'Three rounds: rabbits two, flies one, Australia zero… Probably.' | static scoreboard + Atlas, motion 0.11–1.17 |\n| Yellow Fleet | 0–2 s | 1.430 → 1.237 | 'Fourteen ships entered the Suez Canal' | still canal + '1-DAY TRIP' (partly loopers leaving on the 2nd pass) |\n| Yellow Fleet | 4.6–7.6 s | 1.148 → 0.970 | '…eight years later. Halfway through, war broke out. Egypt sank…' | '8 YEARS' card → canal side view → jet → flat 2D ship diagram |\n| Yellow Fleet | 29.4–32.1 s | 0.673 → 0.465 | 'How many stars for this delivery?' | rating card → seamless loop to frame 0 |\n\n### 3 biggest execution mistakes repeated across these videos\n\n| # | Mistake | Measured evidence |\n|---|---|---|\n| 1 | The first 0–5 s don't show the story's subject moving (a still scene, a title card, or the mascot instead of the absurd event) | motion in s 0–1 4.04/1.90/0.72 and s 0–5 4.14/1.82/0.75 vs flop 10.3 / viral 23.6; 0 hard cuts; stayed 55.4/61.4/39.8 % vs 79.6 % benchmark; stillest opening (YF) = worst stayed, the one with the story's animals acting (Rabbits) = best |\n| 2 | Context dump right after the hook (dates, places, globe/maps, names, prize/lab labels) at 1.4–1.8 w/s in s 4–20 | Volcano −34 % in 5.4–10 s, relative 0.255; Rabbits −60 % in 5–19.5 s, relative 0.242; YF variant B, with dates removed, holds relative 0.48–0.54 in 5–14 s (~2×) |\n| 3 | Static scoreboard recap after the payoff, plus overlong multi-part structure (77 s / 63 s, 3 stories / 3 rounds) | Volcano outro −40 %, relative 0.64 → 0.46; Rabbits outro −48 %, relative 0.72 → 0.50; YF (33 s, 2 s CTA + seamless loop) relative rises to 0.83, replay 0.43 vs 0.20 |",
+  "findings": [
+   {
+    "id": "V-all-0",
+    "claim": "The API retention curve and AVP describe only viewers who did NOT swipe (engaged basis); they must be multiplied by stayed% to get the real funnel.",
+    "evidence": "mean audienceWatchRatio 0.540/0.468/0.851 = AVP 53.1/45.3/81.3 %; minutes*60/engagedViews 42.0/29.4/28.6 s = AVD 40/28/26 s (videos_A/basis_check.json, data/2026-10-25/summary.json). Per 100 feed views still playing at the end: Volcano 14.8, Rabbits 9.4, Yellow Fleet 18.5.",
+    "severity": "medium",
+    "confidence": "high",
+    "action": "Judge every Short on stayed% × curve, never on AVP alone (YF '81 %' = 81 % of the 40 % who stayed)."
+   },
+   {
+    "id": "V-volcano-1",
+    "claim": "Volcano loses a third of its non-swiping audience in 5.4–10 s, exactly on the meta line + '1935, Hawaii.' + globe dive + satellite map.",
+    "evidence": "per_video.json: awr 1.008 @5.4 s -> 0.877 @6.2 s (steepest single 1 % bucket of the three videos, -0.131) -> 0.744 @7.7 s -> 0.665 @10 s (-34 %); relativeRetentionPerformance min 0.255 @6.9 s, stays 0.255–0.27 until ~17 s. VO (volcano/short/data/words.json): '…craziest way we fought lava.' ends 6.23 s, 0.71 s pause, '1935,' 6.94–8.22, 'Hawaii.' 8.55–9.17 = 3 words in 6.2–9.7 s. Visual: 3-photo collage 4.5 s -> 'Iceland 1973' photo card 5.8–6.5 s -> globe from space + '1935' 7.2 s -> satellite 'Mauna Loa / HAWAII' 8.2–9.2 s (videos_A/frames/yR42PjbnqEo_drop_5-12s.jpg).",
+    "severity": "critical",
+    "confidence": "high",
+    "action": "After line 1, cut straight to action on the subject (bombers over the lava heading for the town). No meta-teaser, no year, no globe or map in 3–12 s."
+   },
+   {
+    "id": "V-volcano-2",
+    "claim": "Volcano's 8.4 s static scoreboard outro after the payoff loses 40 % of the viewers still watching.",
+    "evidence": "Payoff '…harbor even better.' ends 68.44 s; awr 0.444 @67 s -> 0.267 @76.8 s; motion 70–75 s = 0.91/0.56/0.29/0.65/0.52 (measure_yR42PjbnqEo.json); relative retention 0.640 @47.7 s -> 0.462 @75 s (per_video.json); frames/yR42PjbnqEo_end_66-76s.jpg (scoreboard + Atlas, 'And Hawaii? We don't talk about Hawaii').",
+    "severity": "high",
+    "confidence": "high",
+    "action": "End within ~1–2 s of the payoff and loop into frame 0, as Yellow Fleet does."
+   },
+   {
+    "id": "V-volcano-3",
+    "claim": "Volcano packs three stories with three dates and places into 77 s at 2.0 words/s; its feed test ended after ~2.5 days at 663 views.",
+    "evidence": "1935 Hawaii / 1992 Italy / 1973 Iceland (transcript in measure_yR42PjbnqEo.json); 2.01 w/s (whisper), 2.0 w/s (project words); daily PT views 53 (first ~11 h) / 276 / 324 / 9; Data API 663 at 2026-10-25 07:53 UTC (dataapi_recheck.json).",
+    "severity": "medium",
+    "confidence": "high",
+    "action": "One story per Short. The Hawaii bombing alone is a complete 30 s arc."
+   },
+   {
+    "id": "V-volcano-4",
+    "claim": "Volcano's line 1 plus the bomb/blast at 1–2 s is what worked: the best like rate of the three and a stable middle.",
+    "evidence": "13 likes = 1.96/100 views, 3.54/100 engaged (best of 3, summary.json); stayed 55.4 %; awr flat 0.55 -> 0.455 from 20 s to 57 s, relative retention rising to 0.64 in the Etna/Iceland section.",
+    "severity": "positive",
+    "confidence": "medium",
+    "action": "Keep lines like 'The US Army once bombed a volcano' and show the visual payoff on screen in second 1."
+   },
+   {
+    "id": "V-rabbits-1",
+    "claim": "Rabbits loses 60 % of its non-swiping audience between 5 s and 19.5 s while it explains rounds, a map, a statistic, a prize and Louis Pasteur.",
+    "evidence": "awr 1.047 @5 s -> 0.813 @10 s -> 0.615 @15 s -> 0.418 @19.5 s; relative retention min 0.242 @12.4 s, mean 0.257 over 10–30 % of the video. Steepest 2-s windows: 10–12 s -0.116 ('millions. Australia fought back' over a flat Australia map + '≈600 million by 1950 estimate (CSIRO)') and 17–19 s -0.111 ('entered. With chicken cholera' over a Pasteur photo + 'He sent his team to Sydney' -> 'Rodd Island lab Sydney'). Speech 1.6/1.8/1.4 w/s in 5–10/10–15/15–20 s (analysis.json pace_5s); 13 VO gaps ≥0.5 s totalling 7.2 s (vo_gaps_project_words.txt). Per 100 feed views, only 25.3 still playing at 20 s (basis_check.json). frames/w52iSlkYlOg_drop_4-20s.jpg.",
+    "severity": "critical",
+    "confidence": "high",
+    "action": "One arc: no 'Round one/two/three', no names, prize or lab labels. Cut from the twist straight to the visual consequence (rabbits everywhere)."
+   },
+   {
+    "id": "V-rabbits-2",
+    "claim": "Rabbits had the best opening of the three: the story's own animals are acting at frame 0, and line 1 is a riddle.",
+    "evidence": "stayed 61.4 % (Studio 62.6 %); frame 0 = 13 rabbits walking down the gangplank (frames/w52iSlkYlOg_sheet_0-3s.jpg); 'Thirteen rabbits got on a ship, family records say. Twenty-four got off.' with the twist at 3.83–5.39 s; 286 views in the first ~11 h vs Volcano's 53, despite motion in second 0–1 of only 1.9.",
+    "severity": "positive",
+    "confidence": "medium",
+    "action": "Keep 'subject doing the absurd thing at frame 0' + a riddle line, but add real motion and closer framing (1.9 is still 5× below the flop median)."
+   },
+   {
+    "id": "V-rabbits-3",
+    "claim": "Rabbits' 10 s scoreboard outro loses about half of the viewers who reached it; its AVP of 45 % is the worst of the three.",
+    "evidence": "awr 0.296 @51.7 s -> 0.153 @62 s (-48 %); motion 52–57 s = 0.11/0.92/0.84/0.87/0.45/1.17; relative retention 0.722 @44 s -> 0.498 @59.8 s (per_video.json, measure_w52iSlkYlOg.json, frames/w52iSlkYlOg_end_50-62s.jpg).",
+    "severity": "high",
+    "confidence": "high",
+    "action": "No scoreboard recap. Land the last line and loop."
+   },
+   {
+    "id": "V-rabbits-4",
+    "claim": "Rabbits reached mostly Philippine viewers, had a weak like rate and got no push after day 3.",
+    "evidence": "country rows: PH 347 (30 % of views) vs US 193 (17 %); AU 37 views at 37 % AVP; likes 1.04/100 views; 0 shares, subs and comments; PT days 286/409/455, then Data API 1154 vs Analytics 1150 -> +4 views on Oct 23–25 (summary.json, per_video.json, dataapi_recheck.json).",
+    "severity": "medium",
+    "confidence": "high",
+    "action": ""
+   },
+   {
+    "id": "V-yf-1",
+    "claim": "Yellow Fleet's first 5 seconds are a near-still image with no living being; 60 % of feed viewers swiped, the worst of the three.",
+    "evidence": "motion 0.72/0.73/0.56/0.85/0.87 in seconds 0–4 (measure_TD53YW6dqoY.json) = 14× below the flop median of 10.3 and 33× below viral 23.6; frame 0 = calm canal + ships + a static '1-DAY TRIP' card (frames/TD53YW6dqoY_sheet_0-3s.jpg); stayed 39.8 % (465/1168; Studio 42.8 %); per 100 feed views, 36.0 still playing at 10 s.",
+    "severity": "critical",
+    "confidence": "high",
+    "action": "Open outcome-first on the stranded yellow ships or sailors with something moving in frame. Never put a title card over a still scene."
+   },
+   {
+    "id": "V-yf-2",
+    "claim": "Yellow Fleet's body and loop are the best on the channel: 81 % viewed, a curve that ends in the top ~17 % of similar-length videos, and the only second push.",
+    "evidence": "AVP 81.3 %; relative retention 0.482 min @7.1 s rising to 0.826 at the end; replay proxy 0.43 (awr 1.43 at 1 %) vs 0.20 for Volcano and Rabbits; seamless loop (short_bf/STATUS.md: last frame = frame 0); 2.73 w/s with 1 VO gap (vo_gaps_project_words.txt); no dates in the opening (variant B). Views: 1101 in the first ~11 h, 67 on day 2, then +1144 between Oct 23 and Oct 25 07:45 UTC (Analytics 1168 vs Data API 2312).",
+    "severity": "positive",
+    "confidence": "high",
+    "action": "Make this the default template: 30–35 s, one arc, no dates, punchline then loop."
+   },
+   {
+    "id": "V-yf-3",
+    "claim": "Yellow Fleet has told its whole premise by 4.97 s. The next 3 s of war/Egypt context over a flat 2D diagram is where non-swipers leave, and the video has the lowest like rate.",
+    "evidence": "awr 1.148 @4.6 s -> 0.970 @7.6 s on '…eight years later. Halfway through, war broke out. Egypt sank…' (short_bf/data/words.json); flat 2D ship cross-section at 7.5–9.5 s (frames/TD53YW6dqoY_drop_3-10s.jpg); 18 likes / 2312 views = 0.78/100, 0 shares.",
+    "severity": "medium",
+    "confidence": "medium",
+    "action": "Keep one open question running past second 5 (what happened to them in there?) instead of giving backstory."
+   },
+   {
+    "id": "V-all-1",
+    "claim": "On every measured axis, all three are slower than even the flop medians: no hard cuts at all (dissolve-only rule), low motion, slow narration.",
+    "evidence": "cuts/10 s 0.0/0.0/0.0 vs flop 2.0, viral 3.6 (style rule 'Every shot cross-dissolves (XF = 0.4 s)' in volcano/short/STATUS.md v3); motion in seconds 1–6 4.08/2.62/1.03 vs refs 11–16; words/s 2.01/1.93/2.65 vs flop 2.91, viral 3.26 (measure_*.json).",
+    "severity": "high",
+    "confidence": "high",
+    "action": "Drop the dissolve-only rule for Shorts: hard cuts every 1.5–3 s and VO at ≥3 words/s."
+   },
+   {
+    "id": "V-all-2",
+    "claim": "All three stopped at the newcomer test ceiling: ~0.65–1.2K views in the first wave, 0 shares, 1 subscriber, 97–98 % Shorts feed, US only 17–28 % of views.",
+    "evidence": "first-wave views 653/1150/1168; shares 0/0/0; subs 1/0/0; SHORTS traffic 642/662, 1124/1150, 1139/1168; US 187/662, 193/1150, 322/1168 (per_video.json). Demographic rows are single 100 % buckets (below the privacy threshold, unusable).",
+    "severity": "high",
+    "confidence": "high",
+    "action": "These numbers are nowhere near a 1M trajectory yet. The fix is execution in seconds 0–20, not topic choice."
+   },
+   {
+    "id": "V-all-3",
+    "claim": "Hypothesis (N=3): reach followed completion and looping, not stayed%. Yellow Fleet had the worst stayed rate but the most views and the only second wave.",
+    "evidence": "stayed 39.8 vs 61.4 vs 55.4 %; AVP 81.3 vs 45.3 vs 53.1 %; views 2312 vs 1154 vs 663 (summary.json).",
+    "severity": "medium",
+    "confidence": "low",
+    "action": "Don't trade a strong body/loop for a hook. Fix the hook on top of the Yellow Fleet template."
+   },
+   {
+    "id": "V-all-4",
+    "claim": "Hypothesis: there is no sign that Atlas in frame 0 hurts. The two openings with Atlas out-stayed the one without.",
+    "evidence": "Volcano 55.4 % and Rabbits 61.4 % (Atlas in the lower ~40 % of frame 0) vs Yellow Fleet 39.8 % (no Atlas, no living being); confounded by motion and subject.",
+    "severity": "low",
+    "confidence": "low",
+    "action": "Not a priority lever. The story's subject in motion matters more."
+   }
+  ],
+  "verify": {
+   "verdicts": [
+    {
+     "id": "V-all-0",
+     "status": "corrected",
+     "corrected_claim": "The retention curve and AVP are on roughly the engaged-view basis, not exactly. Mean awr is 2–5 % above AVP (0.540/0.468/0.851 vs 0.531/0.453/0.813), and minutes×60/engagedViews is 3–10 % above AVD (42.0/29.4/28.7 s vs 40/28/26 s). The numerator also counts loop restarts: awr stays above 1 until about 5 s. Stayed×curve is an approximate funnel per 100 views from all sources (not 'feed views'). At the end that gives Volcano 14.8, Rabbits 9.4, Yellow Fleet 18.5 and Pig War also 18.5.",
+     "note": "Recomputed from data/2026-10-25/summary.json and per_video.json (verify/recompute.py, funnel.py). The direction is confirmed, but 'equals' is too strong. Pig War, left out by the analyst, ties Yellow Fleet at the end."
+    },
+    {
+     "id": "V-volcano-1",
+     "status": "corrected",
+     "corrected_claim": "Volcano's steepest single retention bucket of the four analysed videos is at 5.38→6.14 s (awr −0.131). It falls on the end of 'craziest way we fought lava' (5.71–6.23 s) plus the 'Iceland 1973' card, just before '1935, Hawaii'. awr goes 1.008→0.665 by 10 s. Relative retention was already sliding during the hook (0.47 at 1 s, 0.34 at 3 s, 0.26 at 5 s) and is cumulative, so the 0.255 minimum at 6.9 s does not pinpoint the meta line.",
+     "note": "per_video.json curve mapped to 76.8 s (verify/recompute.json, funnel.json rel_ret_at). Project words.json timings and frames/yR42PjbnqEo_drop_5-12s.jpg match the description."
+    },
+    {
+     "id": "V-volcano-2",
+     "status": "corrected",
+     "corrected_claim": "awr falls 0.444→0.267 over 67–76.8 s (−40 %), but the outro is not shown to be worse than peer videos. Relative retention is flat through it (0.49 at 68.4 s → 0.47 at the end); the slide from 0.64 to 0.49 came earlier, at 49–68 s. The scoreboard lines (68.9–72.7 s) cost only 0.441→0.39 (−12 %). Most of the loss falls on the closing joke 'And Hawaii? We don't talk about Hawaii' (73.2–75.7 s) and in the final bucket, the usual end-of-video exit. Yellow Fleet loses 27 % in its last 2 s with no scoreboard at all.",
+     "note": "Curve from per_video.json against words.json timings (68.88–75.65 s). Relative retention 0.53@65.3, 0.49@68.35, 0.46@74.5, 0.47@76.8 s."
+    },
+    {
+     "id": "V-volcano-3",
+     "status": "confirmed",
+     "corrected_claim": "Volcano packs three dated stories (1935 Hawaii, 1992 Italy, 1973 Iceland) into 77 s at about 2.0 words/s. PT-day views were 53/276/324/9 and Data API views are 663 (Analytics 662), so the feed test ended after about 2.5 days.",
+     "note": "remeasure_yR42PjbnqEo.json gives 2.01 w/s and the same transcript. Daily rows and dataapi_now.json (663 at 08:07 UTC) match."
+    },
+    {
+     "id": "V-volcano-4",
+     "status": "corrected",
+     "corrected_claim": "Volcano has the best like rate of videos 1–3: 1.96 per 100 views, 3.54 per 100 engaged. Pig War beats it (2.56 per 100 views on the Data API; 5.97 per 100 engaged). The middle of the curve is stable (awr 0.550 at 20 s → 0.452 at 57.6 s). Nothing shows that line 1 plus the bomb 'worked': relative retention fell from 0.47 to 0.26 during seconds 1–5, and the first PT day had the channel's lowest views (53).",
+     "note": "summary.json likes/engagedViews and funnel.json. A like cannot be attributed to the opening line."
+    },
+    {
+     "id": "V-rabbits-1",
+     "status": "confirmed",
+     "corrected_claim": "Rabbits' awr falls 1.047 (5 s) → 0.813 (10 s) → 0.615 (15 s) → 0.418 (19.5 s), roughly 57–60 % of the base, which includes about 0.05 loop restarts. The steepest windows are 10–12 s (−0.116) and 17–19 s (−0.111), over the Australia map with the CSIRO statistic and over Pasteur with the Rodd Island lab. Relative retention bottoms at 0.242 at 12.4 s. Blaming maps and dates is N=1: Pig War opens on a map with a 'Border, 1846' label and holds relative retention of 0.41–0.44 at 5–20 s.",
+     "note": "Curve values, project words (Australia 11.77 s, Pasteur 16.35–17.83 s) and frames/w52iSlkYlOg_drop_4-20s.jpg all match."
+    },
+    {
+     "id": "V-rabbits-2",
+     "status": "corrected",
+     "corrected_claim": "Rabbits has the channel's best stayed rate (61.4 %) and keeps the most viewers at 10 s (49.9 per 100 views). Its relative retention still fell to 0.30 by 5 s, the same as Volcano, and by 20 s it is the worst of the four (25.2 per 100). In frame 0 the rabbits are small and mid-frame while Atlas is the largest element. Our own videos contradict the 'subject acting at frame 0' explanation: farm girl opened on a close-up of a man (motion 13.47) and stayed 39.5 % (Studio); Pig War opened on a map (motion 1.08) and stayed 48.9 %. First-day views do not measure the hook either: Yellow Fleet, with the worst opening, got 1,101.",
+     "note": "Checked against funnel.json, w52iSlkYlOg_sheet_0-3s.jpg, the remeasure_*.json files, verify/sheet_*_0-3s.jpg and the owner's Studio stayed figures in memory/atlas-ape-retention.md."
+    },
+    {
+     "id": "V-rabbits-3",
+     "status": "corrected",
+     "corrected_claim": "Rabbits has the worst AVP of the four videos with Analytics (45.33 %). The scoreboard section (51.7–57.2 s) costs about 12 % (awr 0.296→~0.26), and relative retention drops 0.65→0.50 there. The outro is not static: seconds 58–59 have motion 4.52 and 4.70 (the callback 'They were winning before the ship even arrived', the ship arriving, 'Today ≈200 million'), and the video loops back to the frame-0 ship. Most of the −48 % is the final 1.2 s (0.221→0.153). Relative retention ends at 0.54.",
+     "note": "Checked against the motion_per_sec array, project words (57.69–61.0 s) and frames/w52iSlkYlOg_end_50-62s.jpg."
+    },
+    {
+     "id": "V-rabbits-4",
+     "status": "confirmed",
+     "corrected_claim": "Rabbits' top countries are PH 347 (30 %) and US 193 (17 %); AU has 37 views at 37.2 % AVP. Likes run 1.04 per 100 views, with 0 shares, subscribers and comments. PT days were 286/409/455, then +4 views by 25.10 (Data API 1,154 vs Analytics 1,150).",
+     "note": "per_video.json country and daily rows; dataapi_now.json."
+    },
+    {
+     "id": "V-yf-1",
+     "status": "corrected",
+     "corrected_claim": "Yellow Fleet's seconds 0–4 have motion 0.72/0.73/0.56/0.85/0.87, with a 3D canal, slow ships, a '1-DAY TRIP' card and no person. In its first wave, 60.2 % of views were not engaged (stayed 39.8 %, from 1,168 of today's 2,312 views). That is not the same as 60 % swiped: views now count loop restarts, and Yellow Fleet has the largest restart excess (0.43). Excluding those, about 52 % swiped on the first play; the ranking stays the same. The '14×/33× below flop/viral' ratios rest on reference medians that cannot be checked. Farm girl had a moving close-up (motion 13.47) and the same stayed rate (39.5 %), so the still opening is not proven to be the cause.",
+     "note": "remeasure_TD53YW6dqoY.json matches exactly. funnel.json computes first_play_stayed of 48.0 %. Reference medians appear only in memory/viral-moments-analysis.md, which says the per-video data was not kept."
+    },
+    {
+     "id": "V-yf-2",
+     "status": "corrected",
+     "corrected_claim": "Among viewers who stayed, Yellow Fleet's body is strong: AVP 81.3 %, relative retention 0.48 at minimum and 0.83 at the end. That group is a self-selected 40 %. Counted over all views, Yellow Fleet ties Volcano at 20 s (30.5 per 100) and ties Pig War at the end (18.5); Pig War leads at 20 s (33.6), and Yellow Fleet has the lowest watch-seconds per view (11.4 vs 15.0, 18.1 and 23.3). Loop restarts per viewer who reached the end are Rabbits 1.00, Yellow Fleet 0.93, Pig War 0.76 and Volcano 0.70, so its loop is not the best. The 0.43 vs 0.20 gap mostly reflects a 32-second video. It is the only one of videos 1–3 with a second push (Data API 2,312 vs Analytics 1,168), but the second wave's retention is unknown. For Pig War (+619 views after 22.10) and Conman this cannot be checked.",
+     "note": "funnel.json (per-100, watch_s_per_view, loop_excess_per_finisher), recompute.json, dataapi_now.json. Rabbits also loops back to frame 0 (end frames)."
+    },
+    {
+     "id": "V-yf-3",
+     "status": "corrected",
+     "corrected_claim": "Yellow Fleet states its whole premise by 4.97 s. awr then falls 1.148 (4.6 s) → 0.970 (7.6 s). awr stays above 1.0 until 6.4 s, so at least 0.148 of that 0.178 drop could be second-pass loopers leaving. The drop cannot be pinned on the war/Egypt context. Its like rate is the lowest per view (0.78 per 100 on the Data API) but not per engaged view: 1.94 vs Rabbits 1.70 (Analytics).",
+     "note": "Curve from per_video.json against short_bf/data/words.json; likes/engagedViews from summary.json."
+    },
+    {
+     "id": "V-all-1",
+     "status": "corrected",
+     "corrected_claim": "Our side is reproduced exactly: motion in s 0–1 is 4.04/1.90/0.72, motion in s 1–6 is 4.08/2.62/1.03, there are 0 hard cuts, and narration runs 2.01/1.93/2.65 words/s. The viral/flop reference medians exist only in a memory note (per-video data not kept), so the comparison cannot be verified. The frame-difference metric also favours live footage and on-screen overlays. Our own data do not support the levers. Farm girl (13.47 motion, 3.31 w/s, 0.92 cuts per 10 s) is dead at 132 views. Conman (19.61, 3.08, 0.92) roughly matched Yellow Fleet's first 10 hours. Pig War (1.08 motion) has the best like rate. Hard cuts every 1.5–3 s have never been tested on this channel (max 0.92 per 10 s).",
+     "note": "Re-ran measure.py on all 6 uploads (verify/remeasure_*.json). Across the 5 videos older than a day, motion in s 0–1 is inversely ranked with views (N=5, not causal)."
+    },
+    {
+     "id": "V-all-2",
+     "status": "corrected",
+     "corrected_claim": "The first waves were 653, 1,150 and 1,168 views, with 0 shares, 1 subscriber gained, 97.0–97.7 % from the Shorts feed and the US at 17–28 %. Demographic rows are below the privacy threshold (Volcano and Yellow Fleet have one bucket each, Rabbits two). These data do NOT show that execution rather than topic is the fix: N=3, the topic was never varied, and farm girl hit the execution targets and still flopped.",
+     "note": "per_video.json traffic, country, daily and demographics rows; sharing.json has no rows at all."
+    },
+    {
+     "id": "V-all-3",
+     "status": "unverifiable",
+     "corrected_claim": "Across the 4 videos with Analytics, stayed and views are inversely ranked (Rabbits 61.4 % → 1,154; Volcano 55.4 % → 663; Pig War 48.9 % → 1,407; Yellow Fleet 39.8 % → 2,312). Views now count loop restarts, which push views up and stayed% down at the same time on short looping videos, so this coupling is partly mechanical. Video ages also differ and the second wave's metrics are unknown. The causal direction cannot be determined.",
+     "note": "Checked against summary.json and funnel.json."
+    },
+    {
+     "id": "V-all-4",
+     "status": "confirmed",
+     "corrected_claim": "Weak hypothesis: there is no sign that Atlas in frame 0 hurts. The two openings with Atlas (Volcano 55.4 %, Rabbits 61.4 %) out-stayed all three without Atlas that have data (Yellow Fleet 39.8 %, Pig War 48.9 %, farm girl 39.5 % in Studio). This is confounded: the Atlas videos are the two longest and the first two uploads.",
+     "note": "Frame sheets for all 6 checked: Pig War, farm girl and Conman have no Atlas at frame 0."
+    }
+   ],
+   "missed": [
+    "Videos 4–6 contradict the execution thesis. Farm girl was built with the new hook rules (motion 13.47 in s 0–1, 3.31 words/s, a man at frame 0) and is dead at 132 views after 33 h, with stayed 39.5 % (Studio). Pig War opened on a map with a date label (motion 1.08) and has the best like rate (5.97 per 100 engaged) and AVP 70 %. Conman (motion 19.61) roughly matched Yellow Fleet's pace at 10 h. Sources: verify/remeasure_*.json, summary.json, dataapi_now.json.",
+    "Stayed % (engaged/views) follows video length across 5 videos (77/63 s → 55/61 %, 41 s → 49 %, 32–33 s → 40/39.5 %). Since 2025, loop restarts count as views, so stayed % is not a clean hook or swipe metric, and the analyst's top mistake leans on it.",
+    "Relative retention is cumulative and cannot localise a drop. For Volcano and Rabbits the slide starts at 1–3 s, inside the hooks the analyst calls 'what worked'.",
+    "Pig War, not Yellow Fleet, is the strongest audience signal: likes 2.56 per 100 views / 5.97 per 100 engaged, the best 20 s funnel (33.6 per 100 views), 1 subscriber, in the owner's preferred all-drawn style. Any 'default template' has to be benchmarked against it.",
+    "Analytics covers only Yellow Fleet's first wave (1,168 of 2,312 views) and only about 10 h of Pig War. The metrics behind the second wave are unknown, so the push cannot be credited to the loop.",
+    "Zero shares channel-wide (sharing.json has no rows). Getting past about 1K depends on reach beyond the test audience, and nothing in the audit gives viewers a reason to share.",
+    "The reference viral/flop medians (23.6/10.3 motion etc.) cannot be reproduced: the per-video data were not kept, and the frame-difference metric favours live footage and pop-up overlays. Decisions should rest on an own-channel A/B (same story, two hooks), not on those medians.",
+    "The channel statistic viewCount 5,239 lags. The per-video Data API counts sum to 6,842 at 08:07 UTC (verify/dataapi_now.json).",
+    "Analytics stayed (engaged/views) runs 1–5 points below Studio 'stayed to watch' (55.4 vs 57.6, 61.4 vs 62.6, 39.8 vs 42.8), so it is a proxy, not the same number.",
+    "The owner's saturation question is not answered by these data. 'The topics are not what failed' is an overreach from N=3 with no variation in topic.",
+    "Outside the stats: titles 1–3 carry ' · 11.ai', the free ElevenLabs licence, which is non-commercial (memory/elevenlabs-free-plan.md). That is a monetisation risk for those Shorts."
+   ]
+  }
+ },
+ {
+  "key": "videos-B",
+  "folder": "videos_B",
+  "summary": "Pig War, AI farm girl and Conman Russell all fail the same way. The story is clear, and viewers who get past the first seconds mostly stay. The problems are in the first 0–7 s and in the editing. Pig War is the only one of the three with an Analytics curve. Its first ~3 s are a map with no living being (motion 1.08; viral median 23.6). The premise is fully told by 3.9 s (\"over one pig\"). Then the backstory starts (\"A farmer caught it…\" with a \"Lyman Cutlar, June 1859\" label). Seconds 4–7 alone account for 27.8 % of the curve's total decline (a 7.5× faster loss than the body), and the end question \"Team farmer or team pig?\" loses another 14 %. Its body is exactly YouTube-median (relativeRetentionPerformance mean 0.50), and it had 0 shares. Views went ~80/h in the first hours, then ~4.7/h. The final 1,408 is the same as the 30+ other Pig War Shorts (0.1–2.4K). AI farm girl is the channel's worst: 130 views at 33 h, 39.5 % stayed (Studio), likes 1.5 %. Yet it has the best words/s (3.31) and decent pixel motion (13.5). So the meters can be fooled: the motion comes from overlaid SOLD stamps over a still, calm man. Nothing strange is said or shown until 14.9 s, and the twist at 20.3 s comes at about the average watch time (20 s). Across 5 Shorts, motion in the first second does not predict stayed (Spearman −0.10). Conman is the best of the three: a living being acting at frame 0, motion 19.6 in 0–1 s and 10.6 in 1–6 s, \"four times\" said by 3.0 s, a seamless loop and 115 views/h at 10 h. That is the channel's normal good pace (Yellow Fleet 124/h), not viral. It has no retention data yet, and the same Russell story already has 8 recent Shorts at a median of 1,242 views. All three use soft transitions with almost no hard cuts (0.73–0.92 per 10 s vs viral 3.6, flops 2.0). Verdict: the topics can reach 1M (each has one big hit), but our execution is median, so we get the median result for the 30th copy of a topic. Everything with N=1–5 below is marked as a hypothesis.",
+  "tables": "### Per-video metrics (published files, yt-dlp; Analytics = PT day 22.10 only)\n\n| metric | viral med. | flop med. | Pig War (Eoxim0DO2g4) | AI farm girl (06A_mm0ZkGw) | Conman (kP_YrKlOel8) |\n|---|---|---|---|---|---|\n| length s | | | 41.4 | 32.7 | 43.6 |\n| age h / Data API views | | | 58.7 / 1,408 | 33.3 / 130 | 10.2 / 1,174 |\n| views/h | | | ~80 first 10 h → ~4.7 now | 3.9 lifetime | 115 |\n| likes / view | | | 36 (2.56 %) | 2 (1.54 %) | 24 (2.04 %) |\n| comments / shares | | | 1 / 0 | 0 / – | 1 / – |\n| stayed (Studio) | | | 54.1 % (14 h) | 39.5 % (18 h) | n/a |\n| engagedViews/views (API) | | | 48.9 % | n/a | n/a |\n| AVP / AVD | | | 70.4 % / 29 s | ~61 % / 20 s (Studio) | n/a |\n| rel. retention mean (org.) | | | 0.50 (0.68) | n/a | n/a |\n| feed share | | | 96.3 % | 90.6 % (Studio) | n/a |\n| US / Anglo-4 / PH+ID+IN+MY+KH | | | 25.3 / 34.8 / 29.3 % | n/a | n/a |\n| motion 0–1 | 23.6 | 10.3 | 1.08 | 13.47 (stamps only) | 19.61 |\n| motion 1–6 | 11–16 (refs) | | 5.48 | 6.75 | 10.58 |\n| motion mean | | | 4.35 | 9.23 | 6.14 |\n| hard cuts / 10 s | 3.6 | 2.0 | 0.73 | 0.92 | 0.92 |\n| words / s | 3.26 | 2.91 | 2.34 | 3.31 | 3.08 |\n| dead seconds (motion <2) | | | 13/41 | 6/32 | 4/43 |\n| frame 0 | absurd act on a living being | maps / dates / cards | 3D map + pills, no being until 2.8 s | still AI man smiling at phone + SOLD stamps | drawn prisoner walks out, guard holds door |\n| anomaly spoken by | ≤3 s | | 3.9 s | 14.9 s | 3.0 s |\n| twist / payoff | | | 36.6 s (88 %) | 20.3 s (62 %) | 30.2 s (69 %) |\n| ending | no CTA | | CTA question, loops onto map | CJ meme + dissolve | seamless loop, no CTA |\n\n### Pig War retention mapped to words (pig_retention_per_second.json; awr = audienceWatchRatio)\n\n| seconds | awr | loss | share of total decline | spoken | on screen |\n|---|---|---|---|---|---|\n| 0–3 | 1.288→1.171 | 0.117 | 12.9 % | America and Britain almost went to war | 3D relief map, pills |\n| 3–4 | 1.171→1.151 | 0.020 | 2.2 % | over one pig | AI pig close-up |\n| **4–7** | **1.151→0.898** | **0.253** | **27.8 %** | A farmer caught it eating his potatoes, so he | Veo farmer + 'Lyman Cutlar, June 1859' |\n| 7–10 | 0.898→0.824 | 0.074 | 8.1 % | shot it. Problem: the farmer was American | white smoke wipe, US flag card |\n| 10–37 | 0.824→0.519 | 0.305 | 33.6 % (0.011/s) | body | VS, coin, owner, island, troops, ships, governor, admiral, sentries, Kaiser |\n| **38–41** | **0.508→0.379** | **0.129** | **14.2 %** | Team farmer, or team pig? | angel pig + Atlas + VS poll |\n\n### Motion 0–1 vs Studio stayed (N=5, Spearman −0.10)\n\n| Short | motion 0–1 | stayed |\n|---|---|---|\n| Rabbits | 1.90 | 62.6 % |\n| Volcano | 4.04 | 57.6 % |\n| Pig War | 1.08 | 54.1 % |\n| Yellow Fleet | 0.72 | 42.8 % |\n| AI farm girl | 13.47 | 39.5 % |",
+  "findings": [
+   {
+    "id": "X-1",
+    "claim": "Repeated mistake #1: after the hook the script switches to backstory/setup (names, dates, 'First:…') instead of raising the stakes. The premise is used up by ~4 s, and that is where people leave.",
+    "evidence": "Pig War: awr 1.151→0.898 in 4.0–7.0 s = 0.253 = 27.8 % of the curve's whole decline (1.288→0.379) in 7 % of the runtime; 0.084/s vs 0.011/s in the 10–37 s body (pig_retention_per_second.json). Words then: 'A farmer caught it eating his potatoes' 4.68–6.76 s (words_Eoxim0DO2g4.json) under a 'Lyman Cutlar, June 1859' label (frames/pw_dropzone.jpg). Farm girl: line 1 (0–3.2 s) has no anomaly; first mystery 'Nobody had ever seen her' at 14.9 s, twist 20.26 s (62 %) ≈ Studio AVD 0:20 (memory atlas-ape-retention). Conman: 25 s of 'First/Second/Third/Fourth' list before the twist at 30.24 s (69 %), retention unknown. Earlier Volcano/Rabbits curves show the same 4–10 s fall (memory).",
+    "severity": "critical",
+    "confidence": "high",
+    "action": "Line 2 (3–8 s) must raise the stakes or open a new question, not tell the backstory. No names, dates or place labels in 0–10 s. Put the first open question or mystery by 5 s and pull the twist earlier (≤50–55 %)."
+   },
+   {
+    "id": "X-2",
+    "claim": "Repeated mistake #2: frame 0–3 s does not show the absurd event happening to a living being (2 of 3 videos). Overlay motion (stamps, pills) is mistaken for a hook.",
+    "evidence": "Pig War frame 0–2.8 s = 3D relief map + 'Border, 1846'/USA/BRITISH pills; motion 0–1 1.08, 0–3 2.36 (measure_Eoxim0DO2g4.json; viral 23.6, flop 10.3); stayed 54.1 % (Studio 14 h), API engaged/views 48.9 %. Farm girl frame 0 = a still AI man smiling at his phone, same pose 0.0–2.0 s (frames/06A_mm0ZkGw_strip.jpg); motion 13.47 comes from SOLD stamps; stayed 39.5 % = channel worst. Across 5 Shorts, motion 0–1 vs Studio stayed: Rabbits 1.9/62.6, Volcano 4.04/57.6, Pig War 1.08/54.1, YF 0.72/42.8, farm 13.47/39.5 → Spearman −0.10 (measure_motiononly_*.json + memory). Conman (living prisoner walking out, guard holding the door) has the best early velocity of the three.",
+    "severity": "critical",
+    "confidence": "medium",
+    "action": "Pre-upload gate on content, not pixels: at 0.0 s a living being is doing the absurd thing (pig being shot, prisoner walked out by the guard). No maps, title cards or still portraits in 0–3 s. Overlay animation does not count toward the motion gate."
+   },
+   {
+    "id": "X-3",
+    "claim": "Repeated mistake #3: slideshow editing. Soft animated transitions (whip/circle/zoom-through/fade) replace hard cuts, and each sentence gets one held card. Seconds 1–6 are below the motion gate in 2 of 3 videos.",
+    "evidence": "Hard cuts per 10 s: Pig War 0.73, farm 0.92, Conman 0.92 vs viral 3.6, flops 2.0. Motion 1–6 s: 5.48 / 6.75 / 10.58 (refs 11–16, gate ≥10). Dead seconds (motion <2): 13/41, 6/32, 4/43 (measure_*.json). Pig War relativeRetentionPerformance stays below the median (0.405–0.416) across 7.5–19.5 s, exactly the flag card → VS → $10 coin → owner → island card run (seconds 9/11/12/16 motion 2.36/3.2/3.75/1.34). Farm girl holds the same woman image ~6 s (2–8 s; motion s3 1.97, s5 3.65).",
+    "severity": "high",
+    "confidence": "medium",
+    "action": "Use hard cuts on sentence or beat boundaries (target ≥2–3 per 10 s) and keep whips for 1–2 accents. Something in the subject must move every second. Re-measure 1–6 s ≥10 on the render before upload."
+   },
+   {
+    "id": "V-pig-1",
+    "claim": "Pig War's biggest single leak is 4–7 s, the backstory turn right after 'over one pig'.",
+    "evidence": "awr 1.151 (4 s) → 0.898 (7 s); top per-second losses s4 −0.102, s5 −0.092, s6 −0.058 (pig_retention_per_second.json). Visual: Veo farmer running/pointing at the pig eating potatoes, top label 'Lyman Cutlar, June 1859'. At 7.6 s the shot itself is hidden by a white smoke wipe (blank frame, frames/pw_dropzone.jpg). The title ('USA vs BRITISH EMPIRE… Over ONE Pig') repeats the premise, so nothing is left unanswered.",
+    "severity": "high",
+    "confidence": "high",
+    "action": "In a re-cut, go from 'over one pig' straight to escalation ('461 soldiers. 5 warships. 14 cannons.') and give the farmer/potato setup in one fast hard-cut line. Show the shot instead of hiding it with smoke."
+   },
+   {
+    "id": "V-pig-2",
+    "claim": "Pig War opens on a map and loops back onto the same map, so first-time and repeat viewers both start on the weakest image.",
+    "evidence": "0–2.8 s map, motion s0 1.08 / s1 1.19 (lowest of the 3 videos); first living being (AI pig) at ~2.8 s (frames/Eoxim0DO2g4_strip.jpg). The last frame at 41.3 s cuts back to the map (frames/pw_end.jpg). Loss in 0–3 s is 0.117 (12.9 % of total decline) on top of the ~46 % swiped before the curve starts (Studio stayed 54.1 %).",
+    "severity": "high",
+    "confidence": "medium",
+    "action": "Frame 0 = the pig being shot or the soldiers aiming at a pig. The map, if used at all, comes after 5 s for ≤1 s."
+   },
+   {
+    "id": "V-pig-3",
+    "claim": "Pig War's post-payoff question loses a quarter of the viewers who reached the punchline, and the curve does not rise at the end (no loop signal).",
+    "evidence": "'Total casualties: one pig' 36.6–38.6 s, then 'Team farmer, or team pig?' 38.8–41.0 s. awr 0.508 → 0.379 over 38–41 s = −0.129 (14.2 % of total decline, 2.9× the body rate). End value 0.379 < Yellow Fleet 0.465. Atlas sits bottom-left under the Shorts title overlay (pw_end.jpg).",
+    "severity": "medium",
+    "confidence": "high",
+    "action": "End on the punchline and hard-loop into frame 0 (as Conman does). Put the comment question in the pinned comment, not the VO."
+   },
+   {
+    "id": "V-pig-4",
+    "claim": "Viewers who stay do watch Pig War, but only at YouTube-median level, not hit level.",
+    "evidence": "AVP 70.38 %, AVD 29 s of 41.4 s. relativeRetentionPerformance start 0.62 / min 0.405 / end 0.61 / mean 0.50, organic mean 0.68 (per_video.json). Yellow Fleet mean 0.64, Volcano 0.47, Rabbits 0.46. Likes 2.92 % in the first PT day, 2.56 % lifetime.",
+    "severity": "medium",
+    "confidence": "high",
+    "action": "Treat ~0.50 relative retention as 'interesting but replaceable'. A 1M Short needs the hook (stayed ≥70 %) plus a share trigger, not a better body."
+   },
+   {
+    "id": "V-pig-5",
+    "claim": "Pig War got one test batch and no second wave: 0 shares and an audience mostly outside the core English markets. Final result = the crowd baseline for this topic.",
+    "evidence": "788 views in the first ~9.8 h (~80/h) → 1.2K at 14 h (Studio, memory) → 1,408 at 58.7 h (+208 in 44.7 h ≈ 4.7/h) (summary.json, data_api_now.json). Shares 0 (sharing.json empty), 1 comment, +1 sub. Feed 96.3 %, search 2.5 %. US 25.3 %, US+CA+GB+AU 34.8 %, PH+ID+IN+MY+KH 29.3 %, GB only 3.0 %; US AVP 66.9 % vs PH 79.7 %. pig-war/UPLOAD.md: 30+ same-story Shorts at 0.1–2.4K, two outliers 597K / 80K.",
+    "severity": "high",
+    "confidence": "high",
+    "action": "Judge each Short at 24 h. Without a second wave by 48 h the verdict is final, so spend effort on the next Short's first 7 s, not on re-promoting this one."
+   },
+   {
+    "id": "V-farm-1",
+    "claim": "AI farm girl is the channel's worst Short. The feed stopped after the first test batch.",
+    "evidence": "130 views at 33.3 h (3.9/h), 2 likes (1.54 %), 0 comments (data_api_now.json). Studio at 18 h: 85 views, stayed 39.5 % (worst of 5), engaged 30 (35.3 %), AVD 0:20 (~61 % of 32.7 s), feed 90.6 % (memory atlas-ape-retention). Analytics API still has no rows (repull/analytics_repull.json).",
+    "severity": "critical",
+    "confidence": "high",
+    "action": "Do not re-upload as is. If reused, re-cut with the anomaly in line 1 (e.g. open on 'Nobody in this city had ever seen her' over him showing the photo to strangers)."
+   },
+   {
+    "id": "V-farm-2",
+    "claim": "Farm girl passed the pace and motion meters and still flopped hardest, so words/s and pixel motion are not enough to judge a hook.",
+    "evidence": "words/s 3.31 (above viral 3.26), motion 0–1 13.47 (above flop 10.3), motion mean 9.23 = highest of all 6 (measure_06A_mm0ZkGw.json). The subject is still from 0.0 to 2.0 s, and the motion comes from SOLD stamps (frames/06A_mm0ZkGw_strip.jpg). Stayed 39.5 %.",
+    "severity": "high",
+    "confidence": "medium",
+    "action": "Add a 'subject moves / absurd act visible at 0.0 s' check to the QA gate. Do not count stamp, sticker or text animation as hook motion."
+   },
+   {
+    "id": "V-farm-3",
+    "claim": "Farm girl hides every anomaly until 14.9 s. The 'no spoiler' rule was applied as 'no anomaly'.",
+    "evidence": "0–3.2 s 'This man sold everything he owned to meet the woman of his dreams' (ordinary romance setup). 3–8 s the same AI woman image under 'She was a widow with a farm… promised the right man a home' (motion s3 1.97, s5 3.65, s7 3.97). 'Nobody had ever seen her' 14.9 s. 'She was never real' 20.26 s (words_06A_mm0ZkGw.json). The twist lands at the average view duration (20 s): hypothesis that most viewers never saw it.",
+    "severity": "high",
+    "confidence": "medium",
+    "action": "Line 1 must state a strange, unexplained fact that is not the twist (stakes or mystery), with the matching picture. Keep the twist at ≤55–60 %."
+   },
+   {
+    "id": "V-farm-4",
+    "claim": "Hypothesis: the all-AI Pixar look takes the surprise out of the 'she was made by AI' reveal, and the topic had already been served to the same feed days before.",
+    "evidence": "Every character and scene is Flow/Veo AI 3D (frames/06A_mm0ZkGw_sheet.jpg), so the reveal at 20–22 s looks like the rest of the video. ai-farm-girl/short/out/FINAL/YOUTUBE.md: John Casterline's same-story Short 2.85M in 5 days (8.5M subs), others 46K/176K. N=1, not isolable.",
+    "severity": "low",
+    "confidence": "low",
+    "action": "For 'it was fake/AI' stories, show the 'real' world in a different medium (archive/photo/real footage) so the reveal has visual contrast. Avoid news topics that a 5M+ channel has already served."
+   },
+   {
+    "id": "V-con-1",
+    "claim": "Conman Russell has the best-built opening of the three and the fastest early pace among them.",
+    "evidence": "Frame 0 = drawn prisoner walking out of an open cell door with a guard holding it. Motion 0–1 19.61, 0–3 14.91, 1–6 10.58 (gate ≥10). 'four times' spoken at 2.74–3.0 s with a hard cut at 2.67 s to four doors. Words/s 3.08 (measure_kP_YrKlOel8.json, words_kP_YrKlOel8.json). Seamless loop ('Because…' → frame 0, no CTA). 1,174 views at 10.2 h = 115/h vs Pig War ~80/h at the same age, Yellow Fleet 124/h at 9 h, farm girl 4.7/h. Likes 2.04 %.",
+    "severity": "positive",
+    "confidence": "high",
+    "action": "Keep this opening template (living being acting + paradox in the VO by 3 s + hard cut by 3 s + seamless loop) as the default."
+   },
+   {
+    "id": "V-con-2",
+    "claim": "Conman is not a breakout yet. Its pace is the channel's normal good pace, and the same story already has a crowd of ~1K copies. The 30 s list structure before the twist is the main untested risk.",
+    "evidence": "115/h ≈ Yellow Fleet's 124/h (that one reached 2.3K only through a delayed second wave). Benchmark (memory isaac-7day-experiment): a 79.6 %-stayed fresh-channel Short had 9.5K at 18 h. 02_Research/titles/conman-russell_shorts_2026-10-25.json: 8 Russell escape Shorts since 2026-09-01, median 1,242 views, max 97K. 06_Exports/conman-russell/YOUTUBE.md: one same-story Short 1.06M. Twist at 30.24 s (69 %), motion mean 6.14 (QA M3 WARN), 43.6 s long. No Analytics rows yet (API covers only up to 22.10).",
+    "severity": "medium",
+    "confidence": "medium",
+    "action": "Re-pull Analytics on ~28.10. Check where the curve breaks between 5 and 30 s (each 'First/Second/Third' start) and whether the start ratio is >1.3 (loop working). Get Studio 'stayed' at 24 h. If stayed is <60 %, the opening template is not enough and the 5–30 s structure needs fixing."
+   },
+   {
+    "id": "X-4",
+    "claim": "Packaging drifts from our own research. Titles that repeat the hook or ignore the tested pattern give viewers no reason to keep watching or to share.",
+    "evidence": "Pig War: uploaded 'USA vs BRITISH EMPIRE… Over ONE Pig'. UPLOAD.md recommended 'Britain Lost an Island Because of a PIG' and warned 'don't repeat the hook line'. Conman: uploaded 'He Escaped Prison Dressed as a Doctor' vs recommended 'He Escaped Prison 4 Times Without Breaking a Lock 😳' (YOUTUBE.md). Shares 0 on the whole channel (sharing.json).",
+    "severity": "low",
+    "confidence": "low",
+    "action": "Low priority (titles matter little in the Shorts feed). Still, use the researched title, and add a share trigger in the content (a 'send this to a friend who…' moment), not an end-question."
+   }
+  ],
+  "verify": {
+   "verdicts": [
+    {
+     "id": "X-1",
+     "status": "corrected",
+     "corrected_claim": "All four curves have their steepest stretch at 4–7 s (loss 0.14–0.25 awr, 4–8x the body rate). This is the generic swipe/loop-exit window: Volcano lost 0.253, the same as Pig War's 0.252. As a share of the audience present at 4 s, the two Shorts whose line 2 is setup or meta (Pig War farmer backstory 22.0 %, Volcano 'not even the craziest… 1935' 23.8 %) lose more than the two whose line 2 escalates (Rabbits 12.8 %, YF 16.2 %). That fits 'setup after the hook leaks', but it is a medium-confidence hypothesis (N=4, confounded with loops and length). Farm girl and Conman have no curve.",
+     "note": "Recomputed with verify/ret_check.py from per_video.json: loss_4_7 Pig 0.252 / Volcano 0.253 / YF 0.189 / Rabbits 0.139. Transcripts at 4–7 s taken from the videos_A/videos_B words files."
+    },
+    {
+     "id": "X-2",
+     "status": "corrected",
+     "corrected_claim": "Pig War opens on a map until 2.8 s. Farm girl opens on a still man; the measured motion comes from SOLD stamps plus a camera zoom-out in 0–0.5 s. The data do not show that this lowers 'stayed'. The 5-video stayed ranking equals the length ranking (Spearman +0.8). The motion–stayed rho of −0.10 depends on one point (+0.8 without farm girl). Conman, the only test case, has no retention data yet. Hypothesis, low-to-medium confidence.",
+     "note": "Viewed frames/06A_mm0ZkGw_strip.jpg and Eoxim0DO2g4_sheet.jpg. Recomputed Spearman variants in Python. Studio stayed values come from the memory file atlas-ape-retention.md."
+    },
+    {
+     "id": "X-3",
+     "status": "corrected",
+     "corrected_claim": "Hard cuts are near zero (and the analyst's counts double-count: 7.45/7.47, 20.67/20.70/21.03, 30.28/30.32). The shot-change rate is not low, though. Pig War has about 20 shots in 41.4 s (≈4.8 per 10 s) and farm girl about 17 in 32.7 s (≈5.2 per 10 s), both above the viral hard-cut median of 3.6. The animated transitions are invisible to ffmpeg scene>0.30, so '0.73 vs 3.6' compares edit styles, not pace. The real gap is low motion inside each shot (Pig: 13 of 41 s below 2). Pig War relative retention over 7.5–19.5 s is a flat 0.405–0.416 (organic 0.62–0.63), with no dips tied to the cards. On our 5 Shorts, motion in 1–6 s vs stayed is rho −0.4, so the ≥10 gate is not validated by our own data.",
+     "note": "Re-ran measure.py on Eoxim0DO2g4: identical output. ffmpeg scene at 0.15/0.10 still finds only 2–8 changes. Counted shots on the 1 fps sheets and the beat list in tools/pig_retention.py. Relative retention per 7.5–19.5 s computed from per_video.json."
+    },
+    {
+     "id": "V-pig-1",
+     "status": "corrected",
+     "corrected_claim": "Pig War's largest per-second losses are s4 −0.102, s5 −0.092 and s6 −0.058 (awr 1.151→0.898). The same window is the steepest on every curve (Volcano identical), and the visual there is the Short's most dynamic living-being clip (Veo farmer running, motion 7.8/9.8). So blaming 'the backstory turn' is an N=1 hypothesis, not a finding. The white smoke frame at 7 s is real, but second 7 loses only 0.031.",
+     "note": "pig_retention_per_second.json re-read. pw_dropzone.jpg viewed. Cross-video comparison from verify/ret_check.json."
+    },
+    {
+     "id": "V-pig-2",
+     "status": "confirmed",
+     "corrected_claim": "Pig War opens on a 3D map (0–2.8 s, motion 1.08/1.19), and its last frame returns to the map. The retention curve is normalized to engaged views (AVD ≈ watch time/engagedViews), so about half of the views (51.1 % not engaged in the same 9.8 h window; Studio 54.1 % stayed at 14 h) swiped away before the curve starts. That the map opening causes the loss is a hypothesis. Pig War's loop/start ratio of 1.288 is the 2nd highest of 4.",
+     "note": "Frames viewed. First-vs-last frame mean abs difference 4.8 (verify loopchk). AVD normalization: 197 min × 60 / 385 engaged = 30.7 s vs AVD 29 s; / 788 views = 15.0 s."
+    },
+    {
+     "id": "V-pig-3",
+     "status": "refuted",
+     "corrected_claim": "After the punchline, Pig War loses 25 % of the viewers still watching (0.508→0.379). The end exit is generic, though, so the CTA question is not shown to cost extra. Share lost in the last 3 s: Pig 23.9 %, Volcano 23.5 % (no question), Rabbits 36.0 % (no question), YF 29.7 % (question). awr never rises at the end; the loop signal is the start ratio (Pig 1.288, 2nd of 4). Comparing the end value with YF's mixes 41 s and 32 s videos.",
+     "note": "verify/ret_check.json loss_last3s. Transcript endings checked: Volcano and Rabbits have no question. The rate ratio over 3 s is 3.8x, not 2.9x."
+    },
+    {
+     "id": "V-pig-4",
+     "status": "corrected",
+     "corrected_claim": "Against the all-traffic benchmark, Pig War's relative retention is 0.62 at the start, 0.405 at minimum, 0.61 at the end and 0.497 on average. Against the organic benchmark the mean is 0.676. With 96 % of views from the feed, the organic benchmark is the like-for-like one, so the body is above median, not exactly median. All four curves are above median organically (0.61–0.78). AVP 70.4 % and AVD 29 s are per engaged view. The 'stayed ≥70 %' threshold for 1M has no source (Isaac's 79.6 % got ~21K).",
+     "note": "Recomputed from per_video.json retention and retention_organic (filter audienceType==ORGANIC; awr curves identical). Likes 23/788 = 2.92 % and 36/1408 = 2.56 % confirmed."
+    },
+    {
+     "id": "V-pig-5",
+     "status": "confirmed",
+     "corrected_claim": "Pig War got 788 views in its first 9.83 h (published 14:10 PDT, ~80/h), about 1.2K at 14 h (Studio, rounded), and 1,408 at 58.7 h (Data API; 3.6–5.8/h after that). 0 shares are recorded, but only for the first 9.8 h. 96.3 % of views came from the feed. The country mix (US 25.3 %, Anglo-4 34.8 %, SEA+IN 29.3 %, 35.9 % unlisted) is similar to other videos (Rabbits PH 30 %). A re-query found 63 same-story Shorts since 2026-09-01 (median 1,054; 59 of 63 ≤2.5K). Ours is around the 75th percentile, but one fresh breakout exists: PolySoldier at 66K (6 Oct, 66 s).",
+     "note": "summary.json, per_video traffic/country, repull/data_api_now.json, verify/pig_crowd.json (2 search.list)."
+    },
+    {
+     "id": "V-farm-1",
+     "status": "confirmed",
+     "corrected_claim": "AI farm girl is the channel's worst Short: 130 views at 33.3 h (Data API 07:49 UTC; the snapshot had 125 at 07:45), 2 likes, 0 comments. Studio at 18 h: 85 views, 39.5 % stayed, AVD 0:20, 90.6 % feed. It is worst on views by 5x regardless of the length/loop confounds in 'stayed'.",
+     "note": "repull/data_api_now.json, summary.json, memory atlas-ape-retention.md. No Analytics rows."
+    },
+    {
+     "id": "V-farm-2",
+     "status": "corrected",
+     "corrected_claim": "Farm girl measures words/s 3.31, motion 0–1 13.47 and motion mean 9.23 (highest of 6), but the subject is still. The motion comes from SOLD stamps plus a camera zoom-out in 0–0.5 s, so pixel meters can be fooled. The same applies to Conman: its 0–1 s motion of 19.61 is also mostly a crash-zoom with speed lines and light rays. Pixel motion cannot be discounted for one video and cited as evidence for the other.",
+     "note": "measure_06A_mm0ZkGw.json; frames/06A_mm0ZkGw_strip.jpg and kP_YrKlOel8_strip.jpg viewed."
+    },
+    {
+     "id": "V-farm-3",
+     "status": "confirmed",
+     "corrected_claim": "Farm girl timings: line 1 ends at 3.19 s, the widow/farm setup runs 4.0–7.0 s, '300,000 followed her' at 7.8 s, 'Nobody had ever seen her' at 14.90 s, and 'She was never real' at 20.26 s (61.9 %). AVD of 20 s is per engaged view and about 60 % swiped away, so 'most viewers never reached the twist' is plausible. It remains a hypothesis.",
+     "note": "words_06A_mm0ZkGw.json re-read. AVD normalization checked on the other videos."
+    },
+    {
+     "id": "V-farm-4",
+     "status": "confirmed",
+     "corrected_claim": "Casterline's 'Bro sold everything to meet AI girlfriend 😭' (38 s) has 3,098,724 views and went up 2026-10-19, 4 days before ours. Whether this, or the all-AI look, hurt our Short cannot be checked (N=1).",
+     "note": "verify/check_refs.json (1 search.list + videos.list)."
+    },
+    {
+     "id": "V-con-1",
+     "status": "corrected",
+     "corrected_claim": "Conman's opening has a living prisoner walking out at frame 0 while a guard holds the door, 'four times' at 2.74–3.02 s, a hard cut at 2.67 s, words/s 3.08 and a seamless loop. It has 1,174 views at 10.18 h, the best first ~10 h on the channel (YF 1,101 in 10.7 h per Analytics, i.e. 103/h, not 124/h; Pig 788 in 9.8 h; Rabbits 286; Volcano 53). Its 19.6 pixel motion is mostly camera and overlay. Whether the opening 'works' is untested: there is no retention yet.",
+     "note": "First-vs-last frame difference 0.8 confirms the loop. YF daily rows in per_video.json. The 124/h figure is from a Studio '~9 h' note in memory. The analyst mixed Data API (Conman) and Analytics (Pig, YF) counts."
+    },
+    {
+     "id": "V-con-2",
+     "status": "corrected",
+     "corrected_claim": "Conman is not a breakout yet, and its 43.6 s list structure with the twist at 69 % is untested. The same-story crowd claim needs fixing. The '8 Shorts since 09-01, median 1,242, max 97K' includes 10 s Spanish and Portuguese clips (97K, 59K). English narrated Russell Shorts since 09-01 sit at 0.1–1.4K. Across the research file (2024+), ≤15 s Russell clips have a median of 45.7K (n=9), while 16–180 s narrated ones have a median of 1,162 and a max of 4.9K (n=29). The real ceiling, missing from that file, is BigDanBabys at 1.06M (EN, 32 s) and Dan at 6.7M (ES, 34 s), both large 3D-story channels.",
+     "note": "Re-filtered 02_Research/titles/conman-russell_shorts_2026-10-25.json. verify/check_refs.json confirms 1,057,780 and 6,709,478. Isaac's 9.5K at 18 h confirmed in memory isaac-7day-experiment.md."
+    },
+    {
+     "id": "X-4",
+     "status": "confirmed",
+     "corrected_claim": "The uploaded titles differ from the researched first choices (Pig War used UPLOAD.md alternative 1; Conman did not use the 'Without Breaking a Lock' title). '0 shares' is known only through PT 22.10, i.e. 3,768 of 5,239 lifetime views. Nothing is known for farm girl, Conman or YF's second wave. Low priority.",
+     "note": "pig-war/UPLOAD.md lines 16–25; 06_Exports/conman-russell/YOUTUBE.md line 10; sharing.json, channel_daily.json, content_type.json."
+    },
+    {
+     "id": "S-1",
+     "status": "corrected",
+     "corrected_claim": "Across 5 Shorts, motion in second 0–1 vs Studio stayed gives Spearman −0.10, but the result hangs on one point: it is +0.8 without farm girl. With N=5 it supports no conclusion either way. Video length tracks stayed more closely (+0.8), and API engaged% falls as the loop ratio rises (−1.0, N=4).",
+     "note": "Recomputed in Python from the measure files and the memory Studio values."
+    },
+    {
+     "id": "S-2",
+     "status": "corrected",
+     "corrected_claim": "'Each topic has one big hit' needs correcting: Pig War's best is 597K (not 1M), plus a fresh 66K. Russell has 1.06M (EN) and 6.7M (ES). The AI girlfriend story has 3.1M. These hits sit on established channels, so channel size or seed audience is a confound next to execution. 'Our execution is median' is fair for Pig War: 1,407 vs a crowd median of 1,054.",
+     "note": "verify/pig_crowd.json, verify/check_refs.json."
+    }
+   ],
+   "missed": [
+    "AVD/AVP and the retention curve are normalized to engaged views, not all views. Watch time / engagedViews ≈ AVD (Pig 30.7 vs 29 s; Volcano 42.0 vs 40; Rabbits 29.4 vs 28; YF 28.6 vs 26), while watch time / views is only 15.0 / 23.3 / 18.1 / 11.4 s. 'AVP 70 %' flatters: per impression, people watch about half that.",
+    "The 4–7 s fall appears on all 4 curves (Volcano 0.253, identical to Pig War's 0.252). It is the generic swipe/loop-exit window, so any content attribution needs the cross-video comparison (setup lines 22–24 % vs escalation lines 13–16 %, N=4).",
+    "'Stayed' and engaged% are confounded by length and loops: stayed vs duration Spearman +0.8 (N=5); engaged% vs loop start ratio −1.0 (N=4). Shorts views count replays, so short, loopy Shorts (YF, farm girl) look worst partly by construction. This undercuts the use of stayed as the hook metric across 32–77 s videos (hypothesis).",
+    "Organic relativeRetentionPerformance, the like-for-like benchmark with 96 % feed traffic, is above median on all four curves (0.61–0.78). The channel's problem is the swipe gate and distribution, not the body.",
+    "The channel's own data contradict the pixel gates the analyst still recommends. Motion in 1–6 s vs stayed is rho −0.4: farm girl has the highest motion and the worst stayed. Pig War's biggest loss falls on its most dynamic living-being clip.",
+    "The hard-cut metric undercounts: our Shorts change shot about every 2 s (≈4.8–5.2 per 10 s) through animated transitions that ffmpeg scene>0.30 cannot detect. The 'slideshow, 0.73 vs 3.6' framing is a measurement artifact; the real difference is still images inside shots.",
+    "Pig War crowd, re-queried: 63 same-story Shorts since 1 Sept, median 1,054. Ours is around the 75th percentile. One fresh breakout exists (PolySoldier, 66K, 6 Oct, 66 s), so the topic is crowded but not closed, and that video's execution is worth a metadata look.",
+    "In the Russell topic, every narrated 16–180 s Short in the research file sits at ≤4.9K (median 1,162, n=29), while ≤15 s clips have a median of 45.7K (n=9). The 1M+ versions (BigDanBabys 1.06M EN, Dan 6.7M ES, Casterline 3.1M for the AI-girl story) are all on large established channels. Channel authority and seed audience are a confound the analyst does not mention when answering 'will we ever get 1M'.",
+    "Analytics covers only 3,768 of 5,239 lifetime views (through PT 22.10). Every retention, share and country statement applies only to the first 4 Shorts; farm girl and Conman have zero rows.",
+    "Inconsistent standard: farm girl's motion is dismissed as overlay, while Conman's 19.6 (also crash-zoom plus speed lines) is cited as the best early velocity.",
+    "Data API and Analytics counts are mixed in the pace comparisons (Conman Data API 1,174 vs Pig War Analytics 788 vs YF Studio 124/h). In Analytics, YF did 1,101 in its first 10.7 h (103/h)."
+   ]
+  }
+ },
+ {
+  "key": "trend-packaging",
+  "folder": "trend_packaging",
+  "summary": "The channel is flat, not rising. Views in the first ~10 h went 53 > 286 > 1,101 > 788 > <85 > 1,174, so it ramped over uploads 1-3 and then stopped at about 1.1K per Short. No Short has passed 2,312. In a sample of 188 brand-new niche channels, the 75th-percentile views stay at ~1.2-1.4K for every upload from #1 to #10. That looks like the default first test YouTube gives a new channel, and ATLAS APE reached it at upload #3 and has stayed there. ATLAS APE does better than most newcomers (78th-87th percentile), but only ~10 % of new channels get a single Short to 10K in their first 6 uploads (8.4 % in English), and ~1 in 80 gets a 1M in its first 10. Among 35 channels that looked like us after 6 Shorts, only 2 passed 10K in uploads 7-10. More uploads of the same thing is not the way out. The hook metric (Studio stayed %) has not improved: 57.6, 62.6, 42.8, 54.1, 39.5 %. In Isaac's benchmark, ~60 % stayed gave ~1.1K views at 24 h and 79.6 % gave 21K. Shortening clearly helped the body (AVP 53 to 81 %, end retention 15 to 47 %), and views of the 4 Shorts with Analytics rank by AVP and shortness. Only Yellow Fleet got a real second wave (+1,144 after day 2); Pig War's later views were the tail of its first wave. Farm girl was held back from the start (85 at 18 h vs ~1K for others with similar stayed %), so the owner should check Studio for a copyright claim on the meme clips. The big execution change in #5 and #6 (motion 0-1 s 13-20, 3.1-3.3 words/s) has not produced a better result yet: farm girl is the worst, and Russell is stuck on the same 1,174 first test. Viewers who watch like it at least as much as the owner's German channel (likes/1k 15.4 vs 11.7), but there are 0 shares and very few comments. That German channel's first 6 Shorts got 20-88K each (median 67K, 57 times ours) with 52-74 s videos, so the gap is distribution (market plus one fixed topic and format), not production quality. Packaging touches only ~3 % of current views (97 % come from the Shorts feed), so it cannot explain the plateau. Still, the channel page is broken: empty description, a GEOGRAPHY · MAPS · FACTS banner on a channel of absurd true stories, no playlists, four spellings of the name, and Atlas fading out of the videos. All 4 kit titles were changed at upload, with every emoji dropped. Missing data: N=6, Analytics only through PT 22.10, and Russell is only 10 h old, so every causal read is a hypothesis.",
+  "tables": "### A1. Trajectory (Data API views at 07:45-08:02 UTC on 25.10; Analytics through PT 22.10)\n| # | Short | len | age h | views now | views ~10 h | ~24 h | views after Analytics window | engaged % | stayed % (Studio) | AVD s | AVP % | end ret % | RRP 10-30 % | likes/1k | comments | shares | subs |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | Volcano | 77 | 131.6 | 663 | 53 | ~200 est | +1 | 55.4 | 57.6 | 40 | 53.1 | 26.7 | 0.29 | 19.6 | 0 | 0 | 1 |\n| 2 | Rabbits | 63 | 107.4 | 1,154 | 286 | ~510 est | +4 | 61.4 | 62.6 | 28 | 45.3 | 15.3 | 0.26 | 10.4 | 0 | 0 | 0 |\n| 3 | Yellow Fleet | 33 | 83.4 | 2,312 | 1,101 | ~1,140 | +1,144 (2nd wave) | 39.8 | 42.8 | 26 | 81.3 | 46.5 | 0.49 | 7.8 | 1 | 0 | 0 |\n| 4 | Pig War | 42 | 58.6 | 1,407 | 788 | ~1.25K est | +619 (tail, h 10-14) | 48.9 | 54.1 | 29 | 70.4 | 37.9 | 0.42 | 25.6 | 1 | 0 | 1 |\n| 5 | Farm girl | 33 | 33.3 | 125-132 | <85 (85 @ 18 h) | ~100 | - | - | 39.5 | (20) | - | - | - | 16.0 | 0 | - | - |\n| 6 | Russell | 44 | 10.1 | 1,174 (flat 07:45-08:02) | 1,174 | pending | - | - | - | - | - | - | - | 20.4 | 1 | - | - |\n\n### A2. What changed per upload (motion and words/s from videos_A/B measure.py files)\n| # | motion 0-1 | motion 1-6 | words/s | cuts/10 s | look | Atlas | kit emoji kept | 11.ai |\n|---|---|---|---|---|---|---|---|---|\n| 1 Volcano | 4.04 | 4.08 | 2.01 | 0 | real-DEM 3D + photos | host lip-sync | - | yes |\n| 2 Rabbits | 1.90 | 2.62 | 1.93 | 0 | toy 3D | hook/key/end | - | yes |\n| 3 Yellow Fleet | 0.72 | 1.03 | 2.65 | 0 | Blender toy 3D | friend lip-sync | no | yes |\n| 4 Pig War | 1.08 | 5.48 | 2.34 | 0.73 | drawn + Flow AI frames | ending only | no | no |\n| 5 Farm girl | 13.47 | 6.75 | 3.31 | 0.92 | Flow/Veo AI + memes | pop-ins | no | no |\n| 6 Russell | 19.61 | 10.58 | 3.08 | 0.92 | drawn in code | removed | no | no |\n\n### A3. Newcomer benchmark (new channels in the niche, Shorts at least 7 days old)\n| sample | channels | any of first 6 ≥10K | any of first 10 ≥10K | ≥100K | ≥1M | median Short | median best-of-6 | p90 best-of-6 | ATLAS percentile (median/best) |\n|---|---|---|---|---|---|---|---|---|---|\n| all languages | 188 | 10.1 % | 12.8 % | 5.3 % | 1.6 % | 266 | 1,251 | 10,454 | 78 / 84 |\n| English | 166 | 8.4 % | 10.8 % | 4.2 % | 1.2 % | 220 | 1,223 | 6,794 | 80 / 87 |\np75 views by upload index #1-#10 = 1.19-1.44K (flat). 2 of 35 'like-us' channels broke 10K in Shorts 7-10. Isaac: 7.0K / 35.5K / 15.1K / 13.4K.\n\n### A4. Sister channel 'Was Wäre Wenn' vs ATLAS APE\n| period | Shorts | median | min | max | mean len | likes/1k | comments/1k |\n|---|---|---|---|---|---|---|---|\n| WWW first 6 (May-Jun 2026) | 6 | 66,897 | 20,487 | 88,299 | 52 s | 18.2 | 0.65 |\n| WWW Aug-Sep | 2 | 4,693 | 3,640 | 5,745 | 48 s | 19.0 | 0.43 |\n| WWW 8-24.10 | 29 | 87,583 | 17,623 | 511,336 | 68 s | 11.7 | 1.19 |\n| ATLAS APE 19-24.10 | 6 | 1,164 | 125 | 2,312 | 49 s | 15.4 | 0.44 |\nWWW: 4,240 subs, 4.40M views, 40 videos, German, WW2 / maps / tanks, question titles, 2 uploads/day. Subs/1k views 0.96 vs ATLAS 0.76.\n\n### B. Packaging snapshot\nTraffic: Shorts feed 97.2 %, search 1.5 %, other 0.6 %, subscriber 0.3 %, channel page 0.3 %. Channel description empty, no keywords, 0 playlists, 0 sections. Banner: 'GEOGRAPHY · MAPS · FACTS'. Name in 4 variants. Localizations 'en' only. Custom cover 3/6. Auto-topics: Knowledge ×2, Video_game_culture (YF), Entertainment ×2, none. Uploads 13:08-15:28 PT daily. Titles: 0/6 emoji (all 4 kit emoji dropped), 3/6 ' · 11.ai'.",
+  "findings": [
+   {
+    "id": "T-1",
+    "severity": "high",
+    "confidence": "high",
+    "claim": "The trajectory is a ramp followed by a plateau, not a rise. Views in the first ~10 h went 53 > 286 > 1,101 > 788 > <85 > 1,174. No Short has passed 2,312. The channel reached the new-channel first-test ceiling at upload #3 and has stayed there.",
+    "evidence": "trajectory.json (per_video daily + summary.json + Studio points from memory atlas-ape-retention.md); newcomers_stats.json: p75 views by upload index 1-10 = 1,282/1,195/1,195/1,255/1,232/1,187/1,253/1,438/1,313/1,194 (144 new channels)",
+    "action": "Stop reading 'more views than last time' as progress. The only milestone that matters next is the first Short past ~10K. Judge each Short on its Studio stayed % at 24 h and on its views at 7 days."
+   },
+   {
+    "id": "T-2",
+    "severity": "critical",
+    "confidence": "medium",
+    "claim": "The hook is the bottleneck, and it is not improving across iterations. It sits well below the level that took a benchmark channel past its first test.",
+    "evidence": "Studio stayed %: 57.6 / 62.6 / 42.8 / 54.1 / 39.5 (memory atlas-ape-retention.md, atlas-ape-channel.md). Relative retention vs same-length Shorts at 10-30 % of the video: 0.29 / 0.26 / 0.49 / 0.42, i.e. below the median (trajectory.json from per_video.json). Isaac's benchmark: 60.1 % stayed > 1,080 views at 24 h, 59.1 % > 1,144, 79.6 % > 21.4K (memory isaac-7day-experiment.md; channel refreshed in raw/isaac_heisenberg.json: 7.0K/35.5K/15.1K/13.4K).",
+    "action": "Gate every upload on its first 3 s. Read stayed % at 24 h and treat <70 % as a hook fail. Run the planned A/B (same script, two openings) instead of changing the whole video."
+   },
+   {
+    "id": "T-3",
+    "severity": "positive",
+    "confidence": "medium",
+    "claim": "Shortening worked for the body and ending. For the 4 Shorts with Analytics, the views ranking follows AVP and shortness, not stayed %. Yellow Fleet has the lowest stayed and the most views.",
+    "evidence": "AVP 53.1 / 45.3 / 81.3 / 70.4. End retention 26.7 / 15.3 / 46.5 / 37.9 %. Relative retention in the last 20 %: 0.50 / 0.57 / 0.79 / 0.61. Views 663 / 1,154 / 2,312 / 1,407 (trajectory.json). N=4, so this is a hypothesis.",
+    "action": "Keep 30-45 s single-arc scripts with a short tail. Put the effort into the first 3 s, not the middle."
+   },
+   {
+    "id": "T-4",
+    "severity": "medium",
+    "confidence": "high",
+    "claim": "Only Yellow Fleet got a real delayed second wave. Pig War's 'extra' views were the first wave running past the PT-midnight cutoff of Analytics. Rabbits and Volcano have stopped.",
+    "evidence": "YF: 1,101 (PT day 1) + 67 (day 2) = 1,168, then 2,312 by 83 h (+1,144, +98 %). Pig War: 788 @ 9.8 h, 1.2K @ 14 h, 1,407 @ 58.6 h (~4.7/h tail). Rabbits: 286/409/455 per day, then +4 since 22.10. Volcano: +1 since 22.10. Sources: per_video.json, raw/fresh_counts_*.json.",
+    "action": "Check Studio traffic sources for YF on 23-25.10 to see which surface retested it. Do not delete or re-upload old Shorts."
+   },
+   {
+    "id": "T-5",
+    "severity": "high",
+    "confidence": "medium",
+    "claim": "Farm girl was held back from the start. It never got the ~1K first test, while Yellow Fleet, with a similar stayed %, did. Audience rejection alone does not explain this.",
+    "evidence": "Farm girl: 85 @ 18 h, 125-132 @ 33 h (raw/fresh_counts_*.json) and stayed 39.5 %. YF: 42.8 % stayed and 1,101 views in 10.7 h. API shows no regionRestriction (raw/videos_localizations.json). The video contains Confused Travolta / Stonks / CJ clips plus Flow/Veo AI frames (memory ai-farm-girl-short.md).",
+    "action": "Owner: open Studio > Content > Restrictions / Copyright for 06A_mm0ZkGw and report any claim or limited status. Until that is known, no copyrighted meme clips."
+   },
+   {
+    "id": "T-6",
+    "severity": "high",
+    "confidence": "low",
+    "claim": "Uploads #5 and #6 changed the execution numbers a lot, toward the viral medians. The results have not improved yet: farm girl is the worst, and Russell is on the same ~1.17K first test.",
+    "evidence": "Motion in second 0-1: 4.04 / 1.90 / 0.72 / 1.08 > 13.47 / 19.61. Words/s: 2.01 / 1.93 / 2.65 / 2.34 > 3.31 / 3.08. Russell's first cut at 2.67 s (../videos_A/measure_*.json, ../videos_B/measure_*.json). Russell: 1,174 views from 07:45 to 08:02 UTC, unchanged across 5 polls (raw/fresh_counts_*.json, ../videos_B/repull).",
+    "action": "Get Russell's Studio stayed % and swiped % at 24 h, and its views at 7 days, before calling the new rules a success or a failure. N=2."
+   },
+   {
+    "id": "T-7",
+    "severity": "positive",
+    "confidence": "medium",
+    "claim": "People who watch like it about as much as viewers of the owner's successful German channel like that channel. What is missing is sharing and comments.",
+    "evidence": "Likes/1k views: ATLAS 15.4 (Pig War 25.6, Russell 20.4) vs WWW Oct 11.7 and WWW first 6 Shorts 18.2. Subs per 1k views: 0.76 vs 0.96. Comments/1k: 0.44 vs 1.19. Shares: 0 on all 3,768 Analytics views (summary.json, sharing.json, raw/wwm_api.json).",
+    "action": "Build one share trigger into each script (a 'send this to…' absurd fact) and pin a question comment within the first hour."
+   },
+   {
+    "id": "T-8",
+    "severity": "high",
+    "confidence": "medium",
+    "claim": "Base rates for new channels in this niche: about 1 in 10 gets a 10K Short in its first 6 uploads, and about 1 in 80 gets a 1M in its first 10. ATLAS APE is above most newcomers but not in the group that breaks out. Breakouts mostly come early.",
+    "evidence": "188 new channels (first upload on or after 1.7.2026, search order=date, Shorts ≥7 d old): any of first 6 ≥10K = 10.1 % (English 8.4 %); any of first 10 ≥1M = 1.6 % (English 1.2 %); median Short 266 views. Ours: median 1,164 = 78th-80th percentile; best 2,312 = 84th-87th. Of 35 channels that looked like us after 6 Shorts, 2 (5.7 %) passed 10K in Shorts 7-10. First ≥10K came by Short #3 for 13 of 18 channels that broke out (newcomers_stats.json; ~1,490 quota units used). Caveats: search-sample bias, and our Shorts are younger.",
+    "action": "Set the next target to one Short ≥10K, not 1M. More uploads of the same thing has ~6 % odds over the next 4, so change the opening and format, not the volume alone."
+   },
+   {
+    "id": "T-9",
+    "severity": "high",
+    "confidence": "medium",
+    "claim": "The owner's own German channel shows what reach looks like with a format that fits its market. Its first 6 Shorts did 57 times better than ATLAS APE's, with longer videos. Viewers react similarly once they watch, so the gap is distribution: market plus one consistent topic and format.",
+    "evidence": "WWW first 6 Shorts (May 2026): 20.5K-88.3K, median 66,897, 52 s. 8-24.10: 29 Shorts, median 87,583, min 17,623, max 511,336, 68 s, 2 uploads/day. 4,240 subs, 4.40M views. German WW2 / tank / map what-ifs with question titles (raw/wwm_api.json). ATLAS APE median 1,164. WWW also dipped to 3.6K/5.7K in Aug-Sep.",
+    "action": "Run a controlled test: 2-3 ATLAS APE Shorts built on WWW's proven structure (question title, animated-map paradox, one topic family, same look) in English. That shows whether the English market or the format is the wall."
+   },
+   {
+    "id": "T-10",
+    "severity": "medium",
+    "confidence": "high",
+    "claim": "Each upload changed 4-6 variables at once, so the data cannot say what helped.",
+    "evidence": "Length 77 > 63 > 33 > 42 > 33 > 44 s. Look: real-DEM 3D > toy 3D > Blender toy > drawn + Flow AI > Flow/Veo + memes > drawn in code. Atlas role: host > hook/end > friend > ending > pop-ins > removed. VO went from the free key to the paid key, and the hook rules changed (RESULTS.md A2).",
+    "action": "Freeze the format for the next 6 uploads and change one variable per pair, using the owner's R2 A/B rule."
+   },
+   {
+    "id": "T-11",
+    "severity": "low",
+    "confidence": "high",
+    "claim": "Several key data points are still missing, so all causal reads are hypotheses.",
+    "evidence": "N=6. Analytics only covers PT days through 22.10: no rows for #5/#6, Pig War only 9.8 h. Stayed % comes from Studio screenshots only. The comments API is not in token scope. subscribedStatus returns a 500 error (subscribed_status.json). Russell is 10 h old.",
+    "action": "Re-run pull.py on 28.10. The owner should send Studio stayed/swiped % for Russell (24 h) and for farm girl and Russell at 7 days."
+   },
+   {
+    "id": "T-12",
+    "severity": "low",
+    "confidence": "high",
+    "claim": "The first-test audience is global and mostly Asian outside the US. It is adult men, all new viewers, almost all from the feed.",
+    "evidence": "Channel to 22.10: US 24.3 %, PH 15.3 %, IN 5.3 %, ID 4.6 %, MY 3.4 %. Male 75.1 %, age 25-44 60.6 %, 13-17 11.8 %. Mobile 80 %, tablet 13 % (country_channel.json, demographics.json, device.json). Rabbits' seed was 30 % PH.",
+    "action": "No action. This is the normal seed pool. Don't tailor content to PH/IN."
+   },
+   {
+    "id": "P-1",
+    "severity": "medium",
+    "confidence": "high",
+    "claim": "Packaging (title, description, channel page) touches at most ~3 % of current views. It cannot explain the plateau. The feed swipe happens on the first 1-2 s of video, before anyone reads a title.",
+    "evidence": "traffic_channel.json: Shorts feed 3,664 / 3,768 = 97.2 %, search 1.5 %, other page 0.6 %, subscriber 0.3 %, channel page 0.3 %.",
+    "action": "Fix the cheap packaging items once, in about 30 min total, then spend the time on frames 0-3 s. Packaging starts to matter after a breakout, when people land on the channel page."
+   },
+   {
+    "id": "P-2",
+    "severity": "medium",
+    "confidence": "high",
+    "claim": "In all 4 uploads that had a title kit, the uploaded title differed from the kit. Every emoji was dropped and 2 titles were replaced. Russell's uploaded title drops the proven same-story keyword and previews part of the twist.",
+    "evidence": "Kits: YF '…8 YEARS 🚢 · 11.ai', uploaded with a double space where the emoji was. Pig War 'Britain Lost an Island Because of a PIG 🐷🇬🇧', uploaded with alternative 1. Farm girl '… Her 💔'. Russell 'He Escaped Prison 4 Times Without Breaking a Lock 😳' (same-story Short 'He Escaped From Prison 4 Times 😧' = 1.06M), uploaded as 'He Escaped Prison Dressed as a Doctor', while the VO twist is 'Posing as a doctor…' (videos.json, yellow-fleet/UPLOAD.md, pig-war/UPLOAD.md, ai-farm-girl/short/out/FINAL/YOUTUBE.md, 06_Exports/conman-russell/YOUTUBE.md). Title sample, channels <1M subs: 42 % of ≥1M titles have an emoji vs 18 % of <100K titles; median 7 vs 10 words (titles_stats.py). This is a correlation.",
+    "action": "Upload kit titles as written, or say why not. Swap Russell to the kit title after 48 h, as the kit planned."
+   },
+   {
+    "id": "P-3",
+    "severity": "low",
+    "confidence": "high",
+    "claim": "The ' · 11.ai' suffix on titles 1-3 is required by the free ElevenLabs licence, so it cannot be removed without re-voicing. To viewers it reads as an AI-tool watermark. No winning title in the sample carries a tool credit.",
+    "evidence": "memory elevenlabs-free-plan.md. In the 482-Short sample, ' | ' / ' · ' separators in ≥1M titles are series or brand names ('| Prison Break S1E10'), never tool credits (titles_stats.py output). Uploads #4-#6 have no suffix (paid key since 22.10).",
+    "action": "Already fixed going forward. Never publish free-key VO again. Leave the 3 old titles; their distribution has ended."
+   },
+   {
+    "id": "P-4",
+    "severity": "high",
+    "confidence": "high",
+    "claim": "The channel page gives no reason to subscribe, and its promise contradicts the content.",
+    "evidence": "channel.json: description '' (flagged 21.10, draft ready in ~/shorts/orang-branding/out/channel_description_v2.txt), no keywords (brandingSettings has title+country only), 0 user playlists (raw/playlists_mine.json), 0 channel sections (raw/channel_sections.json). Banner (orang-branding/out/banner.png): 'The whole world on my shoulders — explained · GEOGRAPHY · MAPS · FACTS', but 6/6 videos are absurd true stories. Name used four ways: ATLAS APE / THE ATLAS APE / The Atlas Ape / @atlasape-s. 4 subs from 5,239 views.",
+    "action": "Today: paste the v2 description and keywords, change the banner tagline to the story promise ('Weird history and true stories so absurd they sound made up'), add one playlist, and use one spelling of the name."
+   },
+   {
+    "id": "P-5",
+    "severity": "medium",
+    "confidence": "medium",
+    "claim": "The mascot is not working as a brand. Atlas's screen role shrank with every upload and he was removed from Russell. The channel is named after a character viewers barely see. There is also no series name to promise a format.",
+    "evidence": "Volcano host lip-sync > Rabbits hook/key/end > YF friend lip-sync > Pig War ending only > farm girl pop-ins > Russell removed (project STATUS.md files, memory conman-russell-short.md). WWW's channel name is itself the format promise ('Was wäre wenn').",
+    "action": "Decide one of two: (a) Atlas becomes a fixed 1-2 s signature in every Short (same pose and spot, e.g. the final reaction that loops), or (b) the brand promise moves to the story format, not the ape."
+   },
+   {
+    "id": "P-6",
+    "severity": "medium",
+    "confidence": "low",
+    "claim": "YouTube classifies each Short differently. Yellow Fleet was tagged as video-game content, and its only demographic bucket above the reporting threshold is boys 13-17. That points to the toy-3D look being read as gaming.",
+    "evidence": "videos.json topicDetails: Volcano and Rabbits 'Knowledge', YF 'Video_game_culture', Pig War 'Entertainment/Film/Politics', farm girl 'Entertainment', Russell none yet. per_video.json YF demographics: male 13-17 = 100 % (thresholded). Category 27 on all.",
+    "action": "Use one look and one topic family for the next 10 Shorts so the algorithm can build an audience model. This is a hypothesis, N=1."
+   },
+   {
+    "id": "P-7",
+    "severity": "low",
+    "confidence": "high",
+    "claim": "The prepared title and description translations were never added. Every video has only 'en' localizations.",
+    "evidence": "raw/videos_localizations.json: localizations = ['en'] on all 6. Kits for Russell, Pig War and farm girl contain ES / PT-BR / FR / DE versions.",
+    "action": "Add them (about 5 min per video). The effect on reach is unproven."
+   },
+   {
+    "id": "P-8",
+    "severity": "low",
+    "confidence": "medium",
+    "claim": "Upload time is not a lever at 4 subscribers. Cadence is 1 per day vs 2 per day on WWW, and one finished Short is sitting unpublished.",
+    "evidence": "Uploads at 20:08-22:28 UTC = 13:08-15:28 PT = 16-18 ET, one per day 19-24.10 (summary.json). WWW uploads 2/day at 04:55-17:30 UTC (raw/wwm_api.json). ~/shorts/atlas-ape/football-222/short is built and not uploaded.",
+    "action": "Publish football-222 and keep at least 1 per day. Don't tune the clock."
+   },
+   {
+    "id": "P-9",
+    "severity": "positive",
+    "confidence": "high",
+    "claim": "Upload hygiene is correct.",
+    "evidence": "madeForKids false, defaultLanguage/defaultAudioLanguage 'en', captions true, category 27 consistent, sourced descriptions, no region restrictions (videos.json). Custom cover only on 3/6: Rabbits, Pig War, Russell.",
+    "action": "Set a cover frame on every upload. It is shown on search and channel-page shelves."
+   }
+  ],
+  "verify": {
+   "verdicts": [
+    {
+     "id": "T-1",
+     "status": "corrected",
+     "corrected_claim": "No Short has escaped the first test: lifetime views range from 125 to 2,312. But the '~10 h' series (53/286/1,101/788/<85/1,174) mixes Analytics PT-day-1, a Studio point at 18 h and the Data API, and it hides that #1 and #2 were spread over 3 days (Volcano 53/276/324, Rabbits 286/409/455). At about 34 h the series is 329 / 695 / 1,168 / ~1.3K / ~130, so views ramped through #4 and then #5 crashed. The 'plateau' rests on #3, #4 and #6 only (N=3). The newcomer p75 of ~1.2-1.4K is flat across uploads 1-10, but it is a cross-section, not a per-channel ceiling: p90 is 1.7-3.3K.",
+     "note": "Recomputed per_video.json daily rows and newcomers_stats.json p50/p75/p90 by upload index (144 channels). Re-polled the Data API at 08:08 UTC: Russell still 1,174 (flat for at least 23 min). YF also stalled on PT day 2 (67 views) before gaining +1,144, so Russell's stall proves nothing yet."
+    },
+    {
+     "id": "T-2",
+     "status": "corrected",
+     "corrected_claim": "Studio stayed % has not improved; it trends down (57.6/62.6/42.8/54.1/39.5, read at different ages). The data do not show it is the binding constraint: the Short with the worst stayed % (YF 42.8) has the most views. The other opening metric moves the opposite way: relative retention in the first 10 % of the video rose from 0.33 (Volcano) and 0.38 (Rabbits) to 0.58 (YF) and 0.54 (Pig War). The '<70 % = fail' gate is a hypothesis built on Isaac N=1.",
+     "note": "Recomputed RRP 0-10 % from per_video.json. Memory shows Volcano stayed was 63.3 % on 21.10 and 57.6 % later, so the values drift with age. Isaac's 24-h points (60.1 % gave 1,080 views, 59.1 % gave 1,144) match ours. His lifetime 7.0K/35.5K/15.1K/13.4K were boosted by his 229K-sub channel's long-form (621K), so they are not a clean benchmark."
+    },
+    {
+     "id": "T-3",
+     "status": "corrected",
+     "corrected_claim": "Relative retention in the body and ending is best on the short Shorts (last 20 %: YF 0.79, PW 0.61 vs 0.50/0.57). Views do not rank by AVP: views go YF > PW > Rabbits > Volcano, while AVP goes YF > PW > Volcano > Rabbits. Shortness matches the views order exactly, but it is fully confounded with upload order and channel age, and AVP is mechanically higher on short videos. N=4 hypothesis.",
+     "note": "Checked AVP 53.1/45.3/81.3/70.4 and end retention 26.7/15.3/46.5/37.9 from summary.json and per_video.json. The views mix Data API counts (YF includes its second wave) with ages of 58-132 h. Using Analytics-window views only: YF 1,168 ≈ Rabbits 1,150 > PW 788 (9.8 h of data) > Volcano 662."
+    },
+    {
+     "id": "T-4",
+     "status": "confirmed",
+     "corrected_claim": "Only Yellow Fleet got a real delayed second wave (1,168 in Analytics to 22.10, then 2,312 by 83 h, +98 %). Pig War's later views are the tail of its first wave (788 at 9.8 h, ~1.2K at 14 h, 1,407 at 59 h, about 4.6/h). Rabbits (+4) and Volcano (+1) have stopped.",
+     "note": "per_video.json daily rows, summary.json, fresh_counts_*.json, and my own videos.list at 08:08 UTC (verify/dataapi_verify_now.json)."
+    },
+    {
+     "id": "T-5",
+     "status": "corrected",
+     "corrected_claim": "Farm girl got a weak seed (85 at 18 h, 132 at 33.7 h). The cause is unknown. Its stayed % was close to YF's, but its AVD 0:20 of 33 s (≈61 %) was well below YF's 81 %, and Volcano also had only 53 views in its first 10.9 h. A Content ID claim on the Travolta/CJ clips, photoreal AI frames posted without the synthetic-content box, or a plain failed seed are all possible. Only Studio can tell.",
+     "note": "Data API at 08:08 UTC: 132 views, no regionRestriction, licensedContent false. Memory ai-farm-girl-short.md confirms the copyrighted meme clips and Flow/Veo frames. The recommended Studio check is correct."
+    },
+    {
+     "id": "T-6",
+     "status": "corrected",
+     "corrected_claim": "#5 and #6 moved the measured numbers toward the viral medians (motion 0-1: 13.47/19.61; words/s: 3.31/3.08). The results are split: #5 is the worst ever, and #6 has the best 10-h count of all six (1,174 vs YF 1,101 at 10.7 h and PW 788 at 9.8 h) but no breakout yet. #5 is not a valid motion test, because its motion score comes from SOLD stamps popping over one static AI image. N=2, undecidable before 7 days.",
+     "note": "videos_B/measure_*.json and videos_A/verify/remeasure_*.json give identical values (Russell first cut 2.67 s). Memory atlas-ape-retention.md documents the static frame plus stamps."
+    },
+    {
+     "id": "T-7",
+     "status": "corrected",
+     "corrected_claim": "Like rate is in the same range as the German channel's (ATLAS 15.4/1k vs WWW Oct 11.7 and WWW first-6 18.2). Comments (0.44 vs 1.19 per 1k) and shares (0 through 22.10) are much weaker. Like rates on ~1K-view seed audiences are not comparable with 20-500K broad audiences, and WWW's stayed % is unknown, so equal audience interest is not shown.",
+     "note": "Recomputed 105 likes / 6,835 Data API views = 15.4. WWW periods recomputed from raw/wwm_api.json. sharing.json rows are empty; summary.json shares are 0 on 4 videos."
+    },
+    {
+     "id": "T-8",
+     "status": "corrected",
+     "corrected_claim": "The arithmetic is right, but the base rates come from a contaminated sample. All 3 '1M' channels are off-niche: Hindi comedy that passed the English filter on romanized titles, a 2024 true-crime channel with 474K subs, and Hindi emotional stories. At least 7 'new' channels were created 2015-2025, and 1 of the 2 'like-us' breakers is a Hindi exam-prep channel. In-niche English newcomers with a 1M Short in their first 10: 0 of the sample. In-niche ≥100K: OneCriticalMoment 582K (animated-map 'Why Russia Is Impossible to Invade', Short #9 after eight 0.8-4.7K Shorts) and GeoFactGuy 141K (map 'why'). The closest twin of our format (Blueprinted: 3D absurd true stories, 😳 titles, 3-4 a day) sits at 1.0-5.4K with one 87K.",
+     "note": "Re-ran newcomers_stats.json and reproduced 10.1/8.4/1.6/1.2 %, median 266/220, percentiles 78/84 and 80/87, 13 of 18 by #3, 2 of 35. Then read titles and channel creation dates in raw/newcomers.json for every ≥10K channel. '1 in 80' rests on 3 events."
+    },
+    {
+     "id": "T-9",
+     "status": "corrected",
+     "corrected_claim": "WWW's first 6 Shorts got 20-88K (median 66,897). They were German WW2 weapon explainers, not question-title what-if maps; that format started 8.10. WWW (created 2025-08-26) also fell to 3.6K/5.7K in Aug-Sep after a 3-month pause. Ages differ hugely (≈5 months vs 10 h-5.5 d). The data do not show the gap is distribution rather than production, because WWW's stayed % is unknown and likes are not the distribution signal. The English map test is still worth running, and the newcomer sample supports it better than WWW does.",
+     "note": "Recomputed from raw/wwm_api.json (40 videos, 4,240 subs, 4.40M views), including titles and publish dates."
+    },
+    {
+     "id": "T-10",
+     "status": "confirmed",
+     "corrected_claim": "Each upload changed several variables at once (length, look, Atlas role, free→paid VO, hook rules), so the data cannot isolate a cause.",
+     "note": "Checked durations in summary.json, the ElevenLabs switch in memory elevenlabs-free-plan.md (paid since 22.10), and per-project memory files."
+    },
+    {
+     "id": "T-11",
+     "status": "confirmed",
+     "corrected_claim": "Key data are missing: N=6, Analytics only through PT 22.10, no rows for #5/#6, stayed % only from Studio screenshots, comments API not in token scope, subscribedStatus returns 500, Russell about 10 h old.",
+     "note": "subscribed_status.json shows HTTP 500. channel_daily.json has non-zero days only from 19.10 to 22.10."
+    },
+    {
+     "id": "T-12",
+     "status": "confirmed",
+     "corrected_claim": "As a share of all 3,768 views: US 24.3 %, PH 15.3 %, IN 5.3 %, ID 4.6 %, MY 3.4 %. Only 2,580 views carry a country; of those, US is 35.5 % and PH 22.4 %. Signed-in viewers are 75.1 % male and 60.6 % aged 25-44 (13-17: 11.8 %). Devices: mobile 80 %, tablet 13 %. Rabbits' seed was 30 % PH.",
+     "note": "Recomputed from country_channel.json, demographics.json, device.json and per_video.json (Rabbits PH 347/1,150)."
+    },
+    {
+     "id": "P-1",
+     "status": "corrected",
+     "corrected_claim": "Click packaging (cover, channel page, search) brings about 3 % of views (feed 97.2 %), so it cannot explain the plateau by itself. Title, description and tags still feed YouTube's topic classification, which chooses the seed audience, and the title shows in the feed overlay, so metadata is not proven irrelevant.",
+     "note": "traffic_channel.json: 3,664/3,768 feed, 58 search, 23 other page, 12 subscriber, 10 channel. This contradicts the analyst's own P-6, which says classification matters."
+    },
+    {
+     "id": "P-2",
+     "status": "corrected",
+     "corrected_claim": "Every kit title was changed at upload and every emoji was dropped. The title evidence is weak. The reported 42 % vs 18 % emoji split only reproduces with an unsaved subs<1M filter; the saved file says 34.3 % vs 16.6 %. The sample is a prison-escape search full of TV clips. 'Escaped Prison 4 Times' is not a proven keyword: 12+ same-story Shorts from 2026 with that title got 2-1,168 views, and the cited 1.06M Short is not in the cited JSON. Russell at 1,174 views after 10 h already beats them all. The doctor title reveals escape #3, not the twist.",
+     "note": "Re-ran titles_stats.py (verify/titles_stats.json). Ran 1 search.list for 'He Escaped From Prison 4 Times' (verify/search_prison4times.json, 101 units). Read all 4 kit files and the Russell transcript."
+    },
+    {
+     "id": "P-3",
+     "status": "confirmed",
+     "corrected_claim": "' · 11.ai' on titles 1-3 is required by the free ElevenLabs plan, and those videos cannot be monetized. Uploads #4-#6 use the paid key. The effect on viewers is unmeasured.",
+     "note": "Memory elevenlabs-free-plan.md and yellow-fleet/UPLOAD.md. In the title sample, every ' | ' / ' · ' suffix is a series or brand name."
+    },
+    {
+     "id": "P-4",
+     "status": "corrected",
+     "corrected_claim": "The channel page is unfinished: empty description, no keywords, 0 sections, a banner promising GEOGRAPHY · MAPS · FACTS, and 4 spellings of the name. The playlist count is ambiguous: the API reports totalResults 2 with an empty item list. The channel page brought 10 views (0.3 %), so this is cheap hygiene, not a 'high' cause of the plateau.",
+     "note": "channel.json, raw/channel_sections.json and raw/playlists_mine.json checked. Viewed orang-branding/out/banner.png; I did not compare it with the live banner URL."
+    },
+    {
+     "id": "P-5",
+     "status": "confirmed",
+     "corrected_claim": "Atlas's screen role shrank with each upload and he was removed from Russell. That this hurts reach is unproven: the 23.10 audit found the Rabbits opening with Atlas's face had the best stayed % (62.6).",
+     "note": "Memory conman-russell-short.md ('Atlas removed from THIS video') and atlas-ape-channel.md."
+    },
+    {
+     "id": "P-6",
+     "status": "refuted",
+     "corrected_claim": "YouTube assigned different auto-topics (YF: Video_game_culture). The toy-3D-reads-as-gaming explanation is contradicted, because Rabbits is also toy 3D and was classed Knowledge. YF's 'male 13-17 = 100 %' is the only bucket above the privacy threshold, just like Volcano's male 25-34 = 100 %, so it is noise.",
+     "note": "Checked topicDetails in videos.json and demographics rows in per_video.json for all 4 videos."
+    },
+    {
+     "id": "P-7",
+     "status": "confirmed",
+     "corrected_claim": "All 6 videos have only 'en' localizations; the translations prepared in the kits were never added. The effect on reach is unproven.",
+     "note": "raw/videos_localizations.json. The Russell export folder has ES/PT-BR/FR/DE SRTs."
+    },
+    {
+     "id": "P-8",
+     "status": "confirmed",
+     "corrected_claim": "Uploads went out 1 per day at 20:08-22:28 UTC (13:08-15:28 PDT); WWW posts 2 per day. Upload time is not a measurable lever at N=6, and football-222 is finished but unpublished.",
+     "note": "summary.json timestamps; PDT applies until 1.11.2026. WWW October times come from raw/wwm_api.json."
+    },
+    {
+     "id": "P-9",
+     "status": "corrected",
+     "corrected_claim": "Upload hygiene is correct: madeForKids false, en/en, captions on, category 27, no region restrictions. The 'custom cover 3/6' claim is unverifiable, because the API returns the same maxresdefault.jpg for all 6 and has no custom-thumbnail flag.",
+     "note": "Checked videos.json and my fresh videos.list (status and contentDetails)."
+    }
+   ],
+   "missed": [
+    "Answer to 'is the niche saturated?' from the cleaned sample: 0 English weird or absurd-history newcomers in 188 channels reached 1M. The only in-niche breakouts of 100K or more were animated-map 'why' Shorts (OneCriticalMoment 582K at Short #9 after eight 0.8-4.7K Shorts; GeoFactGuy 141K). The closest twin of our format (Blueprinted, 3D absurd true stories) gets 1-5K with one 87K. Absurd 3D/drawn history from a new English channel typically lands at 1-5K.",
+    "Saturation is measurable at the story level. 12+ same-story Russell clones posted in 2026 got 2-1,168 views (verify/search_prison4times.json), while big channels own the top of the same search (Zack D. Films' 'Escaped Prison With Soup' 20.1M, Law By Mike 114M). Our 1,174 at 10 h already beats every newcomer clone, so story choice alone will not create a breakout.",
+    "The two hook metrics disagree. Studio stayed % got worse over the uploads, while relative retention in the first 10 % improved from 0.33 to 0.58. The analyst rated the hook 'critical' from one metric while its own table shows the worst-stayed Short has the most views.",
+    "Isaac's lifetime numbers (7.0K/35.5K/15.1K/13.4K) are inflated by traffic from his 229K-sub channel's long-form. Only his 24-h points are a fair benchmark, and at ~60 % stayed (1,080 and 1,144 views) they equal ours exactly.",
+    "There is an age bias against us. Our Shorts are 10 h to 5.5 days old, against newcomer Shorts at least 7 days old and WWW Shorts about 5 months old, so the percentiles and the '57×' gap understate us. YF's +98 % on days 3-4 shows late waves happen. Verdicts should wait for 7 days.",
+    "Farm girl's motion score of 13.47 comes from stamps popping over one static AI frame. measure.py motion can be gamed, so any 'motion' gate must check that the subject itself moves.",
+    "Two reproducibility gaps. The saved titles_stats.json does not match the reported title numbers. The Russell kit's 1.06M same-story reference is not in the JSON it cites, and my search did not find it.",
+    "Several findings contradict each other: P-1 says packaging does not matter while P-6 says classification steers the audience; P-4 rates the channel page 'high' although it brought 0.3 % of views; T-2 calls the hook critical while T-3 shows views do not follow stayed %."
+   ]
+  }
+ },
+ {
+  "key": "niche-census",
+  "folder": "niche_census",
+  "summary": "The niche is not closed, but it is very crowded at the bottom, and a channel's fate in it shows up within the first handful of uploads. I ran 144 US Innertube searches (Shorts filter) and found 2,335 Shorts from 2,004 channels. I then pulled the full Shorts lists of 718 channels (136,602 Shorts) and exact dates via the Data API (about 600 units). Of the 500 new (created 2025+) English history-Shorts channels I found, 51 (10.2%) have hit 1M at least once. In the narrower story format (story niche plus Zack-type 3D), 14 of 177 have (7.9%). The other 85% never reached 100K, and the median channel's best Short is 1,700 views. The ATLAS cohort (created Aug–Oct 2026) has 248 channels with a median best of 1,200; 12 reached 100K and only 2 reached 1M. One of those two is PolySoldier: low-poly 3D nuclear and war oddities, 4.1M after 9 days and median 330K per Short. Winners break out fast: first 1M at median upload #10–12, about 2 weeks after the first Short. 27 of 32 channels with a 100K+ Short among their first 6 later hit 1M. Channels whose first 6 all stayed under 5K, which is ATLAS APE today (best 2,312), almost never get there: 0/42 by upload 50 in story format and 2/116 in broader history. My estimate, which is a hypothesis built on biased samples: continuing the current execution gives about a 1–3% chance of a first 1M within the next ~50 uploads. Rebuilding into a breakout format (mostly 3D animation, story-led, face-free) and treating it as a fresh launch gives roughly 5–10% by upload 30 and 8–12% by upload 50. Established players show mild fatigue (36 of 47 below their level of 12 months ago, median ratio 0.66), but the top still pulls millions: Zack D. Films' last-20 median is 13.5M, and it is now telling the same prison-escape and heist stories. All shares are upper bounds. Search discovery favours visible channels, and ATLAS APE itself appeared in none of the 2,335 results.",
+  "tables": "### New entrants (channels created ≥2025-01-01), English history Shorts\n| group | channels | ever ≥100K | ever ≥1M | ever ≥10M |\n|---|---|---|---|---|\n| A story niche | 172 | 19 | 9 (5.2%) | 0 |\n| A+G story format (incl. Zack-type 3D) | 177 | 24 | 14 (7.9%) | 5 |\n| A+B+G all history Shorts | 500 | 75 | 51 (10.2%) | 19 |\n| A+B+G, by first Short ≥2025 (incl. old accounts) | 521 | 96 | 71 (13.6%) | 31 |\n| ATLAS cohort, created Aug–Oct 2026 (A+B+G) | 248 | 12 | 2 (0.8%) | 0 |\n\n### P(first 1M by upload k | channel has ≥k Shorts), created 2025+ — upper bounds\n| k | A+B+G 1M | A+B+G 100K | eligible | A+G 1M | A+G 100K | eligible |\n|---|---|---|---|---|---|---|\n| 6 | 3.7% | 7.7% | 401 | 3.5% | 7.7% | 143 |\n| 10 | 6.3% | 11.1% | 351 | 6.5% | 10.6% | 123 |\n| 20 | 11.4% | 17.9% | 280 | 11.2% | 17.3% | 98 |\n| 30 | 15.9% | 20.2% | 233 | 14.0% | 18.6% | 86 |\n| 50 | 21.2% | 29.4% | 170 | 15.5% | 24.1% | 58 |\n| 100 | 30.1% | 36.6% | 93 | 22.2% | 33.3% | 27 |\n\n### Slow starters (first 6 Shorts all <5K today; ATLAS APE = 2,312 max) → reached 1M (100K)\n| group | by upload 30 | by 50 | by 100 |\n|---|---|---|---|\n| A+G | 0/63 (0) | 0/42 (2) | 1/19 (3) |\n| A+B+G | 1/166 (4) | 2/116 (10) | 2/59 (5) |\nFast starters (≥100K within the first 6 Shorts): 27/32 later reached 1M (A+G: 9/11).\n\n### Breakout examples (new channels)\n| channel | created / 1st Short | Shorts | ≥1M | first 1M at | max | median dur | format |\n|---|---|---|---|---|---|---|---|\n| Hoodie Guy youtube.com/@hoodieguystories | 2025-05-18 | 105 | 105 | #1, day 0 | 54M | 63.5 s | 2D cartoon weird history |\n| Low Poly Shorts youtube.com/@lowpolyshorts | 2025-06-19 / 08-06 | 91 | 88 | #1, day 0 | 53M | 41.5 s | low-poly 3D weird facts/history |\n| Zeck Felms youtube.com/@zeckfelms | 2025-02-07 | 307 | 296 | #1 | 97M | 19.5 s | Zack-style 3D |\n| studby youtube.com/@studby | 2026-02-06 / 04-04 | 232 | 147 | #2, day 1 | 20M | 130 s | blocky 3D weird stories |\n| Nolas Studio youtube.com/@nolasstudio | 2025-01-25 | 45 | 14 | #10, day 86 | 21M | 21 s | 3D «could X stop bullets» |\n| PolySoldier youtube.com/@polysoldiershorts | 2026-08-31 / 10-01 | 69 | 13 | #23, day 9 | 4.1M (median 330K) | 57 s | flat low-poly 3D war/nuke oddities |\n| War facts youtube.com/@differentwars | 2026-08-30 | 41 | 1 | #19, day 24 | 3.4M | 67 s | 3D renders, «3 war stories» |\n| History Simplified youtube.com/@historysimplified25 | 2025-09-06 | 66 | 17 | #7, day 6 | 7.7M | 42 s | archive photos + captions |\n| Past Diary youtube.com/@thepastdiary | 2025-04-08 | 438 | 150 | #5, day 4 | 38M | 26 s | paintings/archive, people stories |\n| Cosmopolite youtube.com/@cosmopolitanmapper | 2025-08-05 / 12-10 | 60 | 28 | #1 | 9.9M | 50 s | animated maps |\n| Holoo youtube.com/@holoo-holoooooo | 2026-04-24 | 46 | 4 | #5, day 16 | 3.4M | 56 s | film stills (re-uploads) |\n\n### Established players (active, created + first Short <2025): last-20 median vs 12 months ago\n| channel | last-20 median | 12 mo ago | ratio |\n|---|---|---|---|\n| Zack D. Films | 13.5M | 15.5M | 0.87 |\n| GeoGlobeTales | 3.4M | 11.0M | 0.31 |\n| How Much? | 2.4M | 4.2M | 0.57 |\n| Thomas Mulligan | 1.65M | 2.1M | 0.79 |\n| Extra History | 1.15M | 1.75M | 0.66 |\n| History by Mae | 1.1M | 1.9M | 0.58 |\n| Rom | 931K | 1.2M | 0.78 |\n| Absolute History | 117.5K | 363.5K | 0.32 |\n| Underground Bullets | 394K | 61K | 6.46 |\n| All 47 | — | — | median 0.66; 36/47 below, 15/47 below half |",
+  "findings": [
+   {
+    "id": "N-1",
+    "claim": "The niche is extremely crowded at the bottom. Most new history-Shorts channels never break 5K, and ATLAS APE's cohort is mostly stuck at about 1K. Many of these channels retell the same stories ATLAS uses (pig war, emu war, 38-minute war, Onoda) at 0–2K.",
+    "evidence": "From census_channels.json via summarize.py:\n- 500 new (created ≥2025) A+B+G channels: median best Short 1,700. 66.4% never beat 5K; 85% (425/500) never reached 100K.\n- Created Aug–Oct 2026: 248 channels, median best 1,200, median 10 Shorts; 12 reached ≥100K, 2 reached ≥1M.\n- ATLAS APE's best (2,312) beats 82% of new history channels at 5–12 Shorts (n=103).\n- Same-story clones at 0–2K: ThirtySecondsSmarter («They Almost Went to War Over a PIG», 4 subs), Oops Stories («Dumbest Wars Part 3»), Stickumentary/Gloamtold (emu war), Crazy Story/True Cutscenes (Onoda). Source: review of labels_small.json rows in channels_all.json.",
+    "severity": "high",
+    "confidence": "high",
+    "action": "Stop treating «absurd true story» as the edge. The story pool is shared by hundreds of fresh channels; only execution separates winners."
+   },
+   {
+    "id": "N-2",
+    "claim": "The niche is not closed. About 1 in 10 new history-Shorts channels found has reached 1M at least once, including 2 created in Aug–Oct 2026, the same cohort as ATLAS.",
+    "evidence": "census_summary.json, created 2025+:\n- A+B+G: 51/500 ever ≥1M (10.2%), 19 ever ≥10M.\n- A+G story format: 14/177 (7.9%). A only: 9/172.\n- Cumulative P(first 1M by upload k | ≥k Shorts), A+B+G: 6.3% by 10, 11.4% by 20, 15.9% by 30, 21.2% by 50, 30.1% by 100. A+G: 6.5%, 11.2%, 14.0%, 15.5%, 22.2%.\n- PolySoldier (created 2026-08-31, first Short 2026-10-01): 69 Shorts, 13 ≥1M, max 4.1M, median 330K; first 1M at upload #23, day 9.\n- War facts (created 2026-08-30): 3.4M at upload #19.\n(breakouts.json)",
+    "severity": "positive",
+    "confidence": "medium",
+    "action": "Treat 1M as reachable but rare. These shares are UPPER bounds (search-visibility and survivorship bias)."
+   },
+   {
+    "id": "N-3",
+    "claim": "Breakouts happen fast or not at all. Channels with a 100K+ Short in their first 6 usually reach 1M; channels whose first 6 Shorts all stay under 5K almost never do. ATLAS APE is in the slow-start group.",
+    "evidence": "census_summary.json:\n- Winners' first 1M at median upload #12 (IQR 5–27.5), median 15 days after the first Short (A+B+G). A+G: #10 (IQR 2.75–19), 14.5 days. 38 of 51 winners got there by upload #28.\n- Fast starters (a ≥100K Short in the first 6): 27/32 later reached 1M (A+G 9/11).\n- Slow starters (first 6 all <5K), reaching 1M:\n  - A+G: 0/63 by upload 30, 0/42 by 50, 1/19 by 100.\n  - A+B+G: 1/166, 2/116, 2/59.\n- Robust from 3K to 20K thresholds (A+G 0/38–0/45 by 50).\n- Late bloomers: 12/123 A+B+G channels with ≥60 Shorts and no 1M by #30 hit it later (History Theory #127, Echoes of Empire #128, POP Lore #79); A+G only 2/41.\n- ATLAS APE first 6: max 2,312 (data/2026-10-25/summary.json).",
+    "severity": "critical",
+    "confidence": "medium",
+    "action": "Do not expect volume alone to turn the current execution into a 1M hit. Judge any new format by its first ~6–10 uploads: if none beats ~100K, change execution again rather than grinding."
+   },
+   {
+    "id": "N-4",
+    "claim": "Estimated probability that ATLAS APE gets its first 1M Short: about 1–3% within the next ~50 uploads with the current execution, and roughly 5–10% by upload 30 (8–12% by upload 50) after rebuilding into a breakout format.",
+    "evidence": "Built from N-2 and N-3:\n- Current execution: slow-starter rates 0/42 (A+G) and 2/116 (A+B+G) by upload 50 → 1–3% (rule-of-three 95% upper bound for 0/42 ≈ 7%); 3–7% within ~150 uploads, mostly via the rare late-bloomer route.\n- Fresh launch in a breakout format: upper-bound base rates of 16% by upload 30 and 21% by 50 (A+B+G, created 2025+), discounted ×0.5. Reasons for the discount: ATLAS APE was found in 0 of 2,335 search results (raw_search.json), channels that quit are excluded, and deleted flops are invisible.\nAssumptions:\n(a) Shorts are judged per video, so the channel's history does not penalize a format switch. Not measured.\n(b) The searched sample generalizes once the discovery bias is discounted.\n(c) Rounded flat-list views are adequate for the 100K/1M thresholds.",
+    "severity": "high",
+    "confidence": "low",
+    "action": "Present this to the owner as a range with its assumptions, not a promise. If the goal stays 1M, the decision is to change execution, not to keep posting the same."
+   },
+   {
+    "id": "N-5",
+    "claim": "Most new breakouts use 3D animation (Zack D. Films–style, low-poly or blocky); others use archive photos, paintings, maps or memes. No new breakout is face-led, none uses a recurring animal-mascot host, and length (19–130 s) is not the blocker.",
+    "evidence": "breakouts.json + breakout_thumbs_sheet.jpg (thumbnails only, no videos downloaded):\n- Hoodie Guy: 2D cartoon. 105/105 ≥1M, first Short a hit, 63.5 s median.\n- Low Poly Shorts: low-poly 3D. 88/91 ≥1M, 41.5 s.\n- Zeck Felms: 3D. 296/307, 19.5 s.\n- studby: blocky 3D. 147/232, 130 s.\n- Nolas Studio: 3D. 14/45, 21 s.\n- PolySoldier: flat low-poly. 57 s.\n- History Simplified: archive photos and captions. 17/66, 42 s.\n- Past Diary: paintings. 150/438, 26 s.\n- Cosmopolite: maps. 28/60.\n- Holoo: film stills (copyright risk).\n- History Dude: recurring 3D human presenter, 14/24 ≥1M.",
+    "severity": "medium",
+    "confidence": "medium",
+    "action": "Compare our frames against these formats (motion, 3D characters acting out the event) rather than against topics. The mascot is not proven as the hook in this niche; test it as optional."
+   },
+   {
+    "id": "N-6",
+    "claim": "Established players show mild fatigue, but the top still pulls millions per Short, and Zack D. Films now covers our exact story types.",
+    "evidence": "census_summary.json (established), 47 active channels with a non-overlapping 12-month window:\n- 36 have last-20 median below the 12-months-ago median; 15 below half; median ratio 0.66. Partly an artifact: older Shorts have had longer to collect views.\n- Last-20 medians: Zack D. Films 13.5M, Loaded Dice 10M (15/17 ≥1M), GeoGlobeTales 3.4M (11M a year ago), How Much? 2.4M, Thomas Mulligan 1.65M, Extra History 1.15M, History by Mae 1.1M.\n- Zack D. Films: «He Used Kitchen Supplies To Escape Prison» 13.6M (2026-09-27); «The Man Who Stole Rare Museum Birds» 3.07M (2026-10-23) (videos_resolved.json).\n- Of 27 discovered 1M+ niche Shorts published since 2026-07-01, only 3 came from channels created 2025+.",
+    "severity": "medium",
+    "confidence": "medium",
+    "action": "Expect head-to-head competition with incumbents on the same story; a slow, static version of a story Zack has done will not surface."
+   },
+   {
+    "id": "N-7",
+    "claim": "Many «new» breakouts are old or repurposed accounts with hits from their first Short. This suggests experienced operators (hypothesis).",
+    "evidence": "census_channels.json, accounts created before 2025 with first surviving Short ≥2025:\n- The Art Of War: 2007 account, first Short 2025-01-27, 418/639 ≥1M, max 136M.\n- onca: 2021 account, 842K subs, first Short 2026-02-12, 179/200 ≥1M.\n- MORGAR: 68/169 ≥1M, first Short a 1M hit.\n- History Dude: 14/24.\n- Plip: 53/106.\nThe «first Short ≥2025» definition raises the 1M share from 51/500 to 71/521.",
+    "severity": "low",
+    "confidence": "low",
+    "action": "Do not benchmark ATLAS against these as if they were zero-audience starts."
+   },
+   {
+    "id": "N-8",
+    "claim": "Of the owner's reference channels, Pomegranate (2 Shorts) and Curiosity Engine (a failure case) are not models, MapSecrets could not be found, and BigDanBabys is outside the niche.",
+    "evidence": "census_channels.json:\n- Pomegranate: 2 Shorts total (4.5M rabbits, last 2025-11-19).\n- Curiosity Engine (@CuriosityEngine-b4p): 295 Shorts, max 21K, median 1.2K, inactive since 2025-11-09.\n- MapSecrets: no plausible channel (best match 22 subs).\n- BigDanBabys: 3D skits/life hacks (534 ≥1M) → off-niche.\n- Loaded Dice: 17 Shorts, 15 ≥1M, median 10M (quality over volume).\n- GeoGlobeTales: median 6M.",
+    "severity": "low",
+    "confidence": "high",
+    "action": "Use Low Poly Shorts, PolySoldier, History Simplified and Loaded Dice as execution references instead."
+   },
+   {
+    "id": "N-9",
+    "claim": "Method limits: every share is an upper bound, the story-niche vs adjacent-history split for small channels is rule-based (~88% precision), and upload indices ignore deleted Shorts.",
+    "evidence": "ATLAS APE appears in 0 of 2,335 discovered Shorts (raw_search.json). Spot check of 40 auto-labelled channels found ~4–5 off-niche (classify_small.py / labels_small.json). All 138 new ≥100K channels were relabelled by hand (labels_override.json). Flat-list views are rounded. first6 uses today's lifetime views.",
+    "severity": "low",
+    "confidence": "high",
+    "action": "Quote ranges, not point values; re-run census.py/summarize.py in 4–6 weeks to track the Aug–Oct 2026 cohort."
+   }
+  ],
+  "verify": {
+   "verdicts": [
+    {
+     "id": "N-1",
+     "status": "corrected",
+     "corrected_claim": "The bottom of the niche is crowded. Of 500 new (2025+) A+B+G channels, 66.4% never beat 5K, and 425/500 never reached 100K (median best 1,700). The Aug–Oct 2026 cohort (248 channels, 244 found via <100K search, median 10 Shorts) has a median best of 1,200. The same-story clones were observed only 1–2 days after upload (published 10-23/24, found via the 'this month' filter), so '0–2K' is an age snapshot, not an outcome. Flex Wars has a 28K channel maximum. ATLAS's best beating 81.6% of 103 channels at 5–12 Shorts (83 of them started <30 days ago) means beating the bottom of a young pool, not a positive signal.",
+     "note": "Re-ran from census_channels.json (verify/verify_census.py): 500 / 1,700 / 0.664 / 425; cohort 248 / 1,200 / 12 / 2; 0.816 of 103. Checked the clone rows in channels_all.json: publish dates 2026-10-23/24; Flex Wars census max 28,000."
+    },
+    {
+     "id": "N-2",
+     "status": "corrected",
+     "corrected_claim": "About 1 in 10 new history-Shorts channels found (51/500, upper bound) reached 1M at least once, including 2 of 248 created Aug–Oct 2026: PolySoldier (first ≥1M on day 9 at upload #23, now max 4.1M on day 24, and a fast starter whose first-6 best was 852K) and War facts (first-6 best 27K, 3.4M at #19). The A vs A+G vs A+B+G differences (5.2/7.9/10.2%) are not meaningful because the rule-based A label is unreliable.",
+     "note": "k-table reproduces exactly. Live videos.list: PolySoldier Ax6OHhrfcBo 2026-10-10 1,308,922; War facts 0NuGQ5F4Qcc 2026-09-23 3,445,910. The summary's '4.1M after 9 days' is wrong."
+    },
+    {
+     "id": "N-3",
+     "status": "corrected",
+     "corrected_claim": "Winners usually show an early signal, but the signal is ~5K–20K, not 100K. Among new A+B+G channels with ≥30 Shorts, by first-6 best: <5K → 5/166 later reached 1M (3.0%, CI 1.3–6.9%), 5–20K → 6/18, 20–100K → 12/20, 100K–1M → 11/14. 24 of 51 winners had no ≥100K Short in their first 6. 'Fast starters 27/32' is half tautological: 16 of the 32 already had a ≥1M Short in their first 6, and excluding them gives 11/16. These are lifetime views, so later success inflates early bands. ATLAS's first 6 were 0.4–5.5 days old when classified, so its 'slow starter' tag is provisional. The tag holds unless a Short passes ~20K (A+G 0/45 by upload 50 at that threshold).",
+     "note": "Recomputed the bands, fast-starter split and winners' first6_max from census_channels.json. The analyst's slow-starter tables (0/63, 0/42, 1/19; 1/166, 2/116, 2/59) reproduce exactly. Slow starters ever reaching 100K: 17/166."
+    },
+    {
+     "id": "N-4",
+     "status": "corrected",
+     "corrected_claim": "Current execution: observed first-1M rates for slow starters by upload 50 are 0/42 (A+G, 95% CI 0–8.4%) and 2/116 (A+B+G, 0.5–6.1%), so ~1–3% is a fair point estimate with a range up to ~8%. The '3–7% within ~150' is not supported: 1/38 (2.6%) for A+B+G and 0/13 for A+G by upload 150, 5/166 (3.0%) ever. The 'rebuild' figures (5–10% by 30, 8–12% by 50) are an unverifiable judgment: an arbitrary ×0.5 on unconditional rates that include 16 channels whose first-6 already contained a 1M Short. They also ignore that this owner's other channel already produces hits.",
+     "note": "Wilson intervals computed in verify_census.py. The by-150 slow-starter counts and ever-reached counts were recomputed. Scenario B cannot be checked with this data."
+    },
+    {
+     "id": "N-5",
+     "status": "corrected",
+     "corrected_claim": "The biggest new breakouts include several 3D channels (5 G-label channels, all ≥10M; the 'blocky 3D' ones are Roblox/Minecraft animations), but most of the 51 new 1M channels are B-label adjacent history (37 B / 9 A / 5 G). Their formats were not coded beyond 11 hand-picked examples. 'No face-led breakout' is untested because F channels were excluded by design and none of the 19 is new. 'No recurring mascot host' is unverifiable. Hoodie Guy (105/105 ≥1M) likely uses a recurring first-person cartoon persona (hypothesis). Length 20–131 s is confirmed.",
+     "note": "Label mix of winners from census_channels.json. Channel descriptions in channels_all.json: studby 'We make Roblox Animations', Grey 'Through Minecraft', Hoodie Guy 'I tell you random facts and stories'. Median durations re-derived from video_dates.json (63/42/20/131/21/57/67/41/26/50/54 s)."
+    },
+    {
+     "id": "N-6",
+     "status": "corrected",
+     "corrected_claim": "The top still pulls millions (Zack D. Films last-20 median 13.5M; 13.55M prison escape, 3.07M museum birds). 'Fatigue' is weak: 15 of the 47 'established' channels are face-led. Excluding them, 24/32 are below their 12-month level (median 0.67), and with the 6-month window only 18/35 are below (median 0.84), mostly an age artifact. Loaded Dice is not in the 47. Of the 27 recent 1M+ niche Shorts, 4 are face-led and 12 come from channels whose first Short is ≥2025, so new Shorts operations (often on old accounts) produce about half the recent hits. Zack has told prison stories since 2025-11, and onca's retelling of the same soup story got 13.0M, so story overlap with Zack does not block a well-executed retelling.",
+     "note": "census_summary.json established table re-aggregated; videos_resolved.json since 2026-07-01 re-filtered: 27 incl. 4 F, created2025+ 3, firstShort2025+ 12. Zack view counts match."
+    },
+    {
+     "id": "N-7",
+     "status": "confirmed",
+     "corrected_claim": "Many 'new' breakouts are old or repurposed accounts with hits from their first Shorts (The Art Of War 418/639, onca 179/200, MORGAR 68/169, History Dude 14/24, Plip 53/106). The 1M share rises from 51/500 to 71/521 under the first-Short definition. 'Experienced operators' is a hypothesis.",
+     "note": "All rows checked in census_channels.json. Additional fact: The Art Of War's last-20 median is now 181.5K vs 1.2M 12 months ago."
+    },
+    {
+     "id": "N-8",
+     "status": "confirmed",
+     "corrected_claim": "Pomegranate (2 Shorts, 4.5M, last 2025-11-19) and Curiosity Engine (295 Shorts, max 21K, median 1.2K, silent since 2025-11-09) are not models, and BigDanBabys is off-niche (534 ≥1M). Loaded Dice (17 Shorts, 15 ≥1M, median 10M) is a 2021 account inactive since 2026-07-08, a weak template for a daily channel. The MapSecrets 'not found' result was not re-checked.",
+     "note": "Rows verified in census_channels.json. MapSecrets not re-searched (search quota)."
+    },
+    {
+     "id": "N-9",
+     "status": "corrected",
+     "corrected_claim": "Shares are upper bounds (ATLAS appears in 0 of 2,335 discovered Shorts; 138 manual overrides confirmed). History-vs-off precision of the rule labels is ~77–87%, but the story-niche (A) vs adjacent (B) split for small channels is poor: ~5 of 11 auto-A channels in a random sample are story-led, because the A rule fires on any pronoun. The cited spot check is not recorded (census.md says 40 rows, classify_small.py says 60, and neither tally exists).",
+     "note": "Random sample of 30 auto-labelled small A/B channels (seed 20261025), titles read from shorts_lists/. labels_override.json has 138 entries. The ATLAS channel id is absent from videos_resolved.json and channels_all.json."
+    }
+   ],
+   "missed": [
+    "Concrete target not reported: the median of the first-6 medians is 20,000 for winners (p25 3,900), 537 for non-winners and 1,164 for ATLAS. The measurable bar for the next 6 uploads is a first-6 median above ~4K plus one Short above ~20K, not 100K (verify_output.txt).",
+    "The proposed kill rule ('no ≥100K in the first 6–10 → change again') would have killed 24 of the 51 eventual winners, including War facts (first-6 best 27K → 3.4M). The data's cliff is at ~5K.",
+    "Volume is not the lever: winners post a median 0.62 Shorts/day vs 0.95 for non-winners. ATLAS already posts about 1/day.",
+    "Age/timezone error: ATLAS's first 6 were 0.4–5.5 days old when labelled a 'slow starter' against other channels' lifetime views, and Yellow Fleet doubled after the Analytics cutoff. Re-evaluate around day 14.",
+    "Operator-level evidence ignored: the owner's 'Was Wäre Wenn' has 4,401,965 lifetime views, 4,250 subs and 40 videos (channels.list today) on animated maps. English animated-map channels are among the new 1M winners (Cosmopolite 28/60 ≥1M, first Short 4.7M; History on Maps 1.07M on 2026-10-12). 'Port the format that already works for this owner' was never evaluated.",
+    "The recommended 3D/breakout references are themselves decaying (last-20 vs 12-month median): Hoodie Guy 10M vs 17.5M, Zeck Felms 1.3M vs 2.95M, Past Diary 167.5K vs 469K, The Art Of War 181.5K vs 1.2M. They were excluded from the fatigue table by definition. A late Zack-style 3D copy is not a safe bet.",
+    "Demand at the top is not saturated for ATLAS's story type: 4 of 23 non-face-led 1M+ niche Shorts since 2026-07-01 are prison escapes (13.6M, 13.0M, 3.1M, 2.0M). The bottleneck is execution, not topic exhaustion.",
+    "The census cannot answer 'is the audience interested' and never links to the own funnel: engagedViews/views is 55% Volcano, 61% Rabbits, 40% Yellow Fleet, 49% Pig War, and shares are 0 on all four (data/2026-10-25/summary.json).",
+    "100K is omitted as a milestone: even slow starters reached 100K in 17/166 cases (10%), versus 5/166 for 1M.",
+    "Untested pivot question: the 5 slow starters that later hit 1M (Echoes of Empire #128, Untold History Files #40, The Secret Timeline #22, PastLens #170, POP Lore #79) were not examined for what changed. That is the only in-sample evidence on whether to pivot ATLAS in place or relaunch, and assumption (a) of N-4 rests on it."
+   ]
+  }
+ },
+ {
+  "key": "niche-saturation",
+  "folder": "niche_saturation",
+  "summary": "The core niche (absurd/weird true history in English) is crowded on supply but NOT saturated at the top.\n\n- **Supply:** at least 138 channels uploaded a matching Short in the last 48 h, and 83 % of fresh uploads come from channels under 10K subscribers.\n- **Ceiling:** 24 English core Shorts passed 1M views in the last 90 days, 7 of them from channels under a year old. The 2026 Data API top 50 for \"weird history\" holds 47 Shorts at ≥1M, against 43 in 2024.\n\nThe real obstacle is the newcomer base rate. A panel of 40 random active uploaders (picked because they uploaded, not because they were popular) gets a median of about 630 views per Short. 1.9 % of uploads reach ≥100K and 0.52 % reach ≥1M, which is roughly 1 in 190. Most of those 1M hits are 7–11 s clips, not 30–70 s narrated stories like ours.\n\nATLAS APE sits at the 68th percentile of that panel: an above-average newcomer, not a breakout.\n\nBreakout newcomers own one repeatable series promise. FGtheexplainer runs \"10 Weird Things You Didn't Know About X\" at a median of 1.0M per Short, and World Ji Ke's country lists reach 1.6M. Channels that had one 1M hit on mixed topics fall back to medians of 2–10K. Copying a title template alone flops: copycats get a median of 1,570 views.\n\nATLAS APE has no such signature yet. Atlas's screen-time fell from 31 % to 0 % across the 6 uploads, the 6 Shorts use 5+ visual styles, and the banner promises geography.\n\nWhat-if history maps give newcomers 9× more ≥100K hits per upload than the core niche (17 % vs 1.9 %), but fewer 1M slots. Mystery/unsolved is dead for newcomers.\n\nThe owner's German channel runs at the 95th–97th percentile of a German market whose newcomer baseline (median 1,175) matches the English one. Its edge is format and execution, not an easier market. German, however, has almost no 1M ceiling: 1 hit in 90 days in our sample.\n\nVerdict: 1M is possible in English, but not by adding topics to the current mixed format. The channel needs one series format, one visual system and a fixed role for Atlas. The best-evidenced candidate is the proven Was Wäre Wenn map-question execution, ported to English.\n\nCaveats:\n- The panels are only 29–37 channels per niche.\n- Subscriber counts are taken now, after any hit.\n- Search keyword matching is loose.\n- The 2025 change in Shorts view counting inflates 2026 numbers.\n\nThis analyst used 4,118 Data API units, including 27 search.list calls.",
+  "tables": "### A. Supply vs newcomer odds (uploader panel = honest baseline; raw/hit_rates.json, results.json)\n| Niche | Channels with a matching Short in 48 h (≥) | Fresh uploads/keyword/24 h (≥, median) | Fresh supply from channels <10K subs | Panel median views/Short (3–30 d) | Panel channel median | Per upload ≥10K | ≥100K | ≥1M (90 d) | 90-d ≥1M found (lang) | …from channels <1 y | …<10K subs now |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| core_absurd_history | 138 | 32 | 83 % | 632 | 471 | 15.4 % | 1.9 % | 0.52 % (5/4 ch) | 24 (20 ch) | 7 | 1 |\n| whatif_history_maps | 91 | 31 | 84 % | 944 | 715 | 35.9 % | 17.1 % | 0.99 % (7/3 ch) | 11 (8 ch) | 2 | 1 |\n| geo_maps | 93 | 35.5 | 81 % | 1,358 | 1,279 | 18.9 % | 5.1 % | 0.52 % (3/1 ch) | 23 (14 ch) | 10 | 1 |\n| animals | 81 | 23 | 70 % | 1,298 | 1,308 | 22.1 % | 6.1 % | 1.73 % (14/3 ch) | 47 (33 ch) | 16 | 3 |\n| science_space | 87 | 29.5 | 83 % | 1,330 | 1,197 | 24.0 % | 7.5 % | 1.03 % (7/3 ch) | 27 (24 ch) | 13 | 3 |\n| true_crime | 63 | 9.5 | 66 % | 746 | 652 | 8.8 % | 2.8 % | 1.29 % (12/2 ch) | 20 (15 ch) | 3 | 2 |\n| survival_disaster | 129 | 36.5 | 83 % | 1,168 | 1,042 | 28.5 % | 6.0 % | 0.28 % (2/2 ch) | 31 (27 ch) | 12 | 4 |\n| mystery_unsolved | 128 | 35 | 86 % | 127 | 104 | 1.2 % | 0.2 % | 0 % | 13 (10 ch) | 3 | 2 |\n| es_historias (MX) | 121 | 36 | 74 % | 1,333 | 1,114 | 27.8 % | 7.4 % | 1.28 % (11/5 ch) | 35 (20 ch) | 8 | 1 |\n| de_geschichte (DE) | 88 | 33.5 | 79 % | 1,175 | 1,184 | 25.5 % | 8.0 % | 0.49 % (4/3 ch) | 1* | 1 | 0 |\n\n*German count is Innertube only; English core with the same Innertube-only method = 9.\n\n### B. Ceiling 2024 vs 2026 (Data API search.list, same query, Jan 1–Oct 25; raw/dapi_search.json)\n| Niche (query) | 2024 top-10 median | 2026 top-10 median | ≥1M in top 50: 2024→2026 | ≥10M: 2024→2026 | last 90 d: top-10 median / ≥1M |\n|---|---|---|---|---|---|\n| core («weird history») | 24.3M | 16.7M | 43→47 | 18→10 | 6.2M / 20 |\n| what-if («what if history») | 5.8M | 4.6M | 17→23 | 2→1 | 1.8M / 10 |\n| geo («geography facts») | 31.1M | 6.9M | 50→38 | 25→3 | 3.4M / 28 |\n| animals («animal facts») | 108.3M | 51.4M | 48→48 | 46→35 | 20.3M / 47 |\n| science («space facts») | 43.8M | 10.9M | 50→30 | 24→5 | 3.9M / 22 |\n| true crime («true crime story») | 6.2M | 3.9M | 40→28 | 2→0 | 2.0M / 16 |\n| survival («survival story») | 50.5M | 16.6M | 44→47 | 23→11 | 5.3M / 35 |\n| mystery («unsolved mystery») | 4.8M | 2.3M | 8→16 | 2→0 | 1.7M / 11 |\n| es («historias reales») | 12.7M | 9.7M | 42→48 | 6→4 | 7.4M / 27 |\n\n### C. Search bias (search-sample vs panel median, 3–30 d)\n| Niche | Search | Panel | Factor |\n|---|---|---|---|\n| core | 10,576 | 632 | ×17 |\n| what-if | 45,286 | 944 | ×48 |\n| geo | 27,146 | 1,358 | ×20 |\n| survival | 44,502 | 1,168 | ×38 |\n| mystery | 16,578 | 127 | ×131 |\n| es | 8,769 | 1,333 | ×7 |\n| de | 10,789 | 1,175 | ×9 |\n\n### D. Our channels vs panel (raw/own_vs_panel.json, raw/wwW_shorts_dapi.json)\n| Channel | Shorts | Median | Min–max | Percentile in its market panel |\n|---|---|---|---|---|\n| ATLAS APE (EN core), 3 Shorts aged 3–5 d | 663 / 1,154 / 2,312 | 1,154 | 663–2,312 | uploads: 51 / 65 / 76th pct; channel median: 68th pct |\n| Was Wäre Wenn (DE), October 2026 | 29 | 87,587 | 17,653–511,363 (13 ≥100K, 0 ≥1M) | median Short: 95th pct; channel median: 97th pct |\n\n### E. Breakout signatures (raw/breakouts_summary.json; survivorship-biased)\n| Channel | Age (d) | Subs | Series/title stem | Median views/Short | ≥1M share |\n|---|---|---|---|---|---|\n| FGtheexplainer | 285 | 305K | «10 weird things…» 48/109 | 1,000,000 | 50 % |\n| Why Guy | 299 | 203K | same template | 1,100,000 | 57 % |\n| World Ji Ke | 168 | 83.7K | country-shape lists | 1,600,000 | 71 % |\n| Meridian Anatomy | 58 | 28K | «X in 1000 years» maps | 272,000 | 12 % |\n| History Explorer | 210 | 12.9K | mixed (one 10.5M hit) | 31,000 (newest 20: 1,850) | 1 % |\n| GeoGlobeFiles | 142 | 3.3K | mixed (one 1.7M hit) | 5,300 | 1 % |\n| Helivox | 65 | 4.8K | mixed (one 1.8M hit) | 2,800 | 3 % |\n| Copycats of «10 weird things» (16 uploads/12 ch, 30 d) | – | – | template only | 1,570 | 6 % ≥100K |\n\n### F. Atlas on screen (1-fps census; raw/own_atlas_screen_census.json)\n| Short | Seconds | Atlas seconds | Share | In frame 0 | Views |\n|---|---|---|---|---|---|\n| Volcano | 77 | 16 | 21 % | yes | 663 |\n| Rabbits | 63 | 19 | 31 % | yes | 1,154 |\n| Yellow Fleet | 33 | 6 | 19 % | no | 2,312 |\n| Pig War | 42 | 4 | 10 % | no | 1,407 |\n| AI farm girl | 33 | 2 (tiny icon) | 6 % | no | 125 |\n| Conman Russell | 44 | 0 | 0 % | no | 1,174 (10 h) |",
+  "findings": [
+   {
+    "id": "S-1",
+    "claim": "The core niche (absurd/weird true history, English) is crowded on supply but not closed at the top. A 1M view count is still being reached in 2026, including by channels less than a year old.",
+    "evidence": "Supply: at least 138 distinct channels uploaded a matching English Short in the last 48 h. The median keyword had at least 32 Data-API-verified uploads per 24 h. 83 % of fresh supply comes from channels <10K subs and 56 % from channels <1 y old (results.json, raw/panel.json). Ceiling: 24 English core Shorts reached ≥1M in the last 90 d, from 20 channels; 7 came from channels <1 y old (results.json ceiling_hits, raw/d90_1M_list.txt). The Data API top 50 for «weird history» has 47 Shorts ≥1M in 2026 YTD vs 43 in 2024 (raw/dapi_search.json).",
+    "severity": "high",
+    "confidence": "high",
+    "action": "Stop asking whether the niche allows 1M; it does. The question is whether execution reaches the top decile, because the median newcomer gets about 600 views."
+   },
+   {
+    "id": "S-2",
+    "claim": "The newcomer base rate in the core niche is brutal, and ATLAS APE sits inside the crowd: an above-average newcomer, not a breakout. At the panel rate, a 1M hit takes about 190 uploads, and the 1M hits that do appear in this niche are mostly 7–11 s clips, not narrated stories.",
+    "evidence": "Uploader panel (40 random channels that uploaded in the last 48 h, their own Shorts aged 3–30 d): median 632 views, channel median 471. Per upload in the last 90 d: ≥10K 15.4 %, ≥100K 1.9 %, ≥1M 0.52 % (5 of 955 uploads, 4 channels) (raw/hit_rates.json). Our 3 Shorts aged 3–5 d (663 / 1,154 / 2,312) sit at the 51st / 65th / 76th percentiles; our channel median sits at the 68th percentile (raw/own_vs_panel.json). P(≥1 hit at 1M) = 27 % in 60 uploads, 41 % in 100. 3 of the 4 core panel 1M hits are 7–11 s clips (History Snap92 7 s, VortexX 8 s, ARCHIV 11 s). The median length of panel ≥100K hits is 11 s vs 46 s for all panel Shorts.",
+    "severity": "critical",
+    "confidence": "medium",
+    "action": "Do not expect 1M from volume with the current narrated-story format. Its odds are likely below the 0.52 % average (hypothesis, N=5 hits). Execution must reach the top decile, where channel medians are ≥10K."
+   },
+   {
+    "id": "S-3",
+    "claim": "Among the adjacent niches, what-if history maps give newcomers the fattest middle tail: 9× more ≥100K hits per upload than the core niche. Its 1M ceiling is thinner. Mystery/unsolved is dead for newcomers.",
+    "evidence": "Per-upload rates for ≥10K / ≥100K / ≥1M (raw/hit_rates.json): what-if 35.9 % / 17.1 % / 0.99 %; core 15.4 % / 1.9 % / 0.52 %; science 24.0 % / 7.5 % / 1.03 %; animals 22.1 % / 6.1 % / 1.73 %; geo 18.9 % / 5.1 % / 0.52 %; survival 28.5 % / 6.0 % / 0.28 %; true crime 8.8 % / 2.8 % / 1.29 % (12 hits from 2 channels); mystery 1.2 % / 0.16 % / 0. Brand-new what-if channels: What If Bro (16 d, 1,070 subs) has 561K; Loco Brain Maps (15 d, 1,490 subs) has 425K. 90-d ≥1M found: what-if 11 vs core 24. The median length of what-if ≥100K hits is 14 s.",
+    "severity": "high",
+    "confidence": "medium",
+    "action": "For a fast floor of 10K–100K per Short, map what-if/why formats have the best measured newcomer odds. For 1M itself, core and animals/science have more slots. Avoid mystery/unsolved."
+   },
+   {
+    "id": "S-4",
+    "claim": "From 2024 to 2026 the 10M mega-tail thinned in fact niches, but the 1M tier held or grew in core, survival, animals and Spanish stories. The ceiling still exists.",
+    "evidence": "Data API search.list, same query, Jan 1–Oct 25 of each year, top 50 (raw/dapi_search.json, results.json year_compare). Count ≥1M, 2024 → 2026: core 43 → 47, survival 44 → 47, animals 48 → 48, es 42 → 48, what-if 17 → 23, mystery 8 → 16, geo 50 → 38, science 50 → 30, true crime 40 → 28. Count ≥10M: core 18 → 10, geo 25 → 3, science 24 → 5. Top-10 median: geo 31.1M → 6.9M, science 43.8M → 10.9M. 72 of 185 core all-time-popular results were published in 2026.",
+    "severity": "medium",
+    "confidence": "medium",
+    "action": "Treat 1M per Short as realistic in core English and 10M+ as rare. Caveats: 2024 videos had 12 extra months to collect views, and the view-count change of 31.03.2025 inflates 2026 numbers. Both make the decline conservative, not exaggerated."
+   },
+   {
+    "id": "S-5",
+    "claim": "Breakout newcomers own one repeatable series promise: title shape, look and role. Channels that got one 1M hit with mixed topics fall back to a median of 2K–10K. One hit is luck; a series is a system.",
+    "evidence": "raw/breakouts_summary.json (yt-dlp metadata). FGtheexplainer (285 d): 48/109 titles «10 Weird Things You Didn't Know About [person]», median 1.0M, 50 % ≥1M. Why Guy (299 d), same template: median 1.1M, 57 % ≥1M. World Ji Ke (168 d), country-shape lists: median 1.6M, 71 % ≥1M. Meridian Anatomy (58 d), «X in 1000 years» maps: median 272K. Mixed-topic channels with one 1M hit: History Explorer (210 d), newest-20 median 1,850; GeoGlobeFiles (142 d), 5,300; Helivox (65 d), 2,800; Nikhil Panwar (196 d), 18,500. Survivorship bias: all 28 were selected because they had a 1M hit.",
+    "severity": "high",
+    "confidence": "medium",
+    "action": "Give the channel one series promise that is recognisable in 1 s (fixed title shape, visual system and host role) before adding topics."
+   },
+   {
+    "id": "S-6",
+    "claim": "Copying a winning template alone does not win. A copied title formula flops; a copied visual/sound gimmick does better. What is on screen carries the promise.",
+    "evidence": "raw/copycats.json (last 30 d, originator excluded). «10 weird things you didn't know about» copycats: 16 uploads by 12 channels, median 1,570 views, 6 % ≥100K (the originator's median is 1.0M). «Countries that look the same»: 41 uploads, median 7,034, 17 % ≥100K. «If history had sound»: 61 uploads, median 25,224, 31 % ≥100K. This agrees with the 23.10 finding that the same words do not give the same result.",
+    "severity": "medium",
+    "confidence": "medium",
+    "action": "Define the series by its on-screen event per second and its frame 0, not only by the title wording. Check every cut with measure.py against the viral medians."
+   },
+   {
+    "id": "S-7",
+    "claim": "ATLAS APE has no recognisable signature. The orangutan is not used as a differentiator: he is an intro/outro host whose screen-time shrank to zero. Every Short uses a different visual language, and the banner promises another channel.",
+    "evidence": "sheets/*_1fps.jpg, raw/own_atlas_screen_census.json. Atlas share of seconds: Volcano 16/77 = 21 %, Rabbits 19/63 = 31 %, Yellow Fleet 6/33 = 19 %, Pig War 4/42 = 10 %, farm girl 2/33 = 6 % (tiny icon), Russell 0/44 = 0 %. In frame 0 only in the first two. 5+ visual systems in 6 Shorts (DEM + toy 3D, low-poly 3D, toy-3D ships, AI-photoreal + flat vector, AI Pixar-like, flat vector). Banner «GEOGRAPHY · MAPS · FACTS», description empty, 4 subs from 5,239 views (data/2026-10-25/channel.json, summary.json). N=6 shows no relation between Atlas screen-time and views (Yellow Fleet 2,312 views with 19 %; Russell 1,174 at 10 h with 0 %).",
+    "severity": "high",
+    "confidence": "high",
+    "action": "Decide once. Either Atlas becomes the recurring protagonist of the series (in the first 2 s, the same role every time) or he stays as the avatar only. Lock one visual system, and fix the banner and description to the real promise."
+   },
+   {
+    "id": "S-8",
+    "claim": "The owner's German channel shows his execution beats the market base rate by a wide margin. It does so in a fixed-promise format (one question per Short on an animated map), not in a softer market: the German newcomer baseline matches the English one.",
+    "evidence": "Was Wäre Wenn, October 2026: 29 Shorts, median 87,587, min 17,653, max 511,363, 13 ≥100K, 0 ≥1M, total 4.22M (raw/wwW_shorts_dapi.json). German panel median Short = 1,175 vs English core 632 and what-if 944 (results.json panel). WWW's median Short sits at the 95th percentile of German panel uploads; its channel median at the 97th (raw/own_vs_panel.json). Its worst October Short (17.6K) is 7.6× the best ATLAS Short (2.3K). Its October Shorts are 60–74 s long.",
+    "severity": "high",
+    "confidence": "high",
+    "action": "Port the proven WWW execution (one question per Short on an animated map, fixed title shape, one look) into English as the ATLAS series, or as a parallel A/B series. Language and format are confounded (N=1 channel), so test before betting the channel on it."
+   },
+   {
+    "id": "S-9",
+    "claim": "German has a high floor but almost no 1M ceiling for history Shorts. English has a lower floor for us but many more 1M slots. For the stated 1M goal, English is the right market.",
+    "evidence": "German-language history Shorts ≥1M in 90 d (Innertube popularity buckets, 4 keywords): 1, max 1.63M. English core with the same method: 9; with the Data API added: 24 (raw/innertube_ceiling_90d.json, results.json). German panel ≥1M per upload: 0.49 % (4 uploads, 3 channels, partly off-topic). WWW's maximum after 37 Shorts is 511K.",
+    "severity": "medium",
+    "confidence": "medium",
+    "action": "Keep German for reliable reach. Aim for 1M in English, using the format that already works in German."
+   },
+   {
+    "id": "S-10",
+    "claim": "Search-based samples of «fresh uploads» over-represent winners by 7–131×. Earlier search-based conclusions (e.g. «fresh uploads get 1–2K») need this correction.",
+    "evidence": "Search-sample median at 3–30 d vs panel median: core 10,576 vs 632 (×17), what-if 45,286 vs 944 (×48), survival ×38, true crime ×47, mystery ×131, es ×7, de ×9 (results.json). Panel N = 29–37 channels with qualifying Shorts per niche; subscriber counts are taken now, after any hit.",
+    "severity": "medium",
+    "confidence": "high",
+    "action": "Use scripts/panel.py + scripts/hit_rates.py (about 80 Data API units per niche) as the baseline for future niche and format decisions; do not use search-ranked samples."
+   }
+  ],
+  "verify": {
+   "verdicts": [
+    {
+     "id": "S-1",
+     "status": "corrected",
+     "corrected_claim": "The English core niche is crowded on supply but still has a 1M ceiling that new channels sometimes reach. The hits are highly concentrated:\n- In the last 90 days, 24 English ≥1M Shorts were found, from 20 channels.\n- The 7 hits from channels under 1 year old come from only 5 channels; 3 of them are FGtheexplainer.\n- 18 of the 24 come from channels that now have ≥100K subscribers.\n- About 8 of the 24 are not absurd-history stories: skits, a Tucker Carlson clip, baby names, rankings and geography.\n- In the 'weird history' top 50, 2024 vs 2026 is the same share at ≥1M (43 of 46 = 93 % vs 47 of 50 = 94 %). That is not growth.",
+     "note": "Recomputed results.json niches.core_absurd_history:\n- volume: median 32 verified per keyword per 24 h.\n- small_channels_lt10k_share 0.828; new_channels_lt365d_share 0.563.\n- ceiling_90d_ge1m_lang 24 from 20 channels.\n- ceiling_from_channels_lt365d 7, which by title are FG×3, History Explorer, History by Lina, History Snap92 and Why Guy.\n- ceiling_from_channels_lt100k_subs_now 6.\n- year_compare: y2024 n=46 with 43 ≥1M; y2026 n=50 with 47 ≥1M.\nI read the 2026 top-50 titles in raw/dapi_search_videos.json. They include LEGO, Smosh, a skit, and Indonesian and Hindi results. 17 of the 50 come from 3 channels with the same 'weird [person]' format (Hoodie Guy, FGtheexplainer, Why Guy)."
+    },
+    {
+     "id": "S-2",
+     "status": "corrected",
+     "corrected_claim": "ATLAS APE's 3 Shorts aged 3–5 days sit at the 51st, 65th and 76th percentiles of the core uploader panel (58th, 61st and 75th when the panel is age-matched to 3–6 d). Its channel median sits at the 68th percentile. That is above mass uploaders but 14× below the top-decile channel median of about 16.6K.\n\nThe per-upload 1M rate (5 of 955) is not a lottery that volume can win. All 5 hits came from the 4 channels whose own median is 16.6K–41K. 0 of the 805 uploads from channels with a median under 10K reached 1M, and only 3 reached 100K.\n\nThe 5 core 1M hits are all off-niche:\n- 3 are 7–11 s clips (a watch, an arranged marriage, a panda).\n- 2 are 161–172 s narrated simulation and conspiracy Shorts from 21-day-old Jim's Wormhole.\nThe length of ≥100K hits depends on the window and on the channel, so it gives no evidence that 30–70 s narrated stories are penalised.",
+     "note": "Re-ran these from raw/panel.json, raw/panel_videos.json and raw/hit_rates.json:\n- Panel median 632, channel median 471; ATLAS percentiles 51/65/76 and 68 reproduced exactly. Age-matched check on panel Shorts aged 3–6 d (N=137): 58/61/75.\n- 1M hits with their lengths: History Snap92 7 s, Jim's Wormhole 161 s and 172 s, ARCHIV 11 s, VortexX 8 s.\n- Median length of ≥100K hits vs all panel Shorts:\n  - all last-50 uploads: 11 vs 46 s (this is the only window that reproduces the analyst's figure)\n  - 3–90 d: 16.5 vs 47 s\n  - 3–30 d: 71 vs 51 s\n- Uploads from channels with a median under 10K: 805, of which 3 reached ≥100K and 0 reached ≥1M.\n- The arithmetic 1 − 0.9948^60 = 0.27 is correct, but the independence assumption is false."
+    },
+    {
+     "id": "S-3",
+     "status": "corrected",
+     "corrected_claim": "The what-if ≥100K advantage (17.1 % vs 1.9 % per upload) comes almost entirely from map-morph clips under 45 s:\n- What-if <45 s: 23.2 % (116 of 500).\n- What-if ≥45 s: 2.4 % (5 of 210), about the same as core ≥45 s at 1.4 %.\n- 89 of the 121 what-if ≥100K hits come from 3 channels (GeoHistories 41, Histoflex 28, UkraineMapping 20).\n- For channels with a median under 10K, the rate is 1.36 % vs 0.37 % in core, on small numbers.\n\nThe newcomer examples are country-pride titles aimed at India and Southeast Asia: What If Bro (561K, 'What If the British Never Left India?') and Loco Brain Maps (425K, 13 s clips).\n\n'Mystery is dead for newcomers' holds only for the 'unsolved mystery' keyword panel. Jim's Wormhole, a 21-day-old channel in the core panel, made 128–172 s mystery and conspiracy Shorts with 2.93M, 2.73M, 988K and 313K views.",
+     "note": "Re-cut raw/panel*.json by Short length (≥45 s vs <45 s) and by channel tier (channel median under 10K). The results are saved in verify/panel_recut.json.\n- I checked the What If Bro and Loco Brain Maps titles and durations in raw/panel_videos.json.\n- Jim's Wormhole was created on 2026-10-04 (channels_cache). It has 7 Shorts ≥100K, all 128–172 s.\n- The what-if 1M hits are GeoHistories ×5 (13 s 'Evolution of X in 500 years') and an off-topic Supafahh 'Void Sentry Edit'."
+    },
+    {
+     "id": "S-4",
+     "status": "corrected",
+     "corrected_claim": "The search.list numbers reproduce:\n- Core ≥10M: 18 → 10.\n- Core top-10 median: 24.3M → 16.7M.\n- Geo and science mega-tails fell sharply.\n\nThe interpretation does not hold, for three reasons:\n- '≥1M in a top-50 ranked by views' is a capped metric. Core is 93 % vs 94 %, the same share, so it shows the 1M tier held, not that it grew.\n- The two biases point in opposite directions. The 2024 videos' extra 12 months of views exaggerates the decline; the 2025 view-count change hides it. The analyst wrongly said both make the decline conservative.\n- Loose keyword matching adds off-topic and non-English videos in both years.\n\nA defensible reading: 1M-level Shorts still appear every year, and the 10M+ tail is thinner, by an amount that cannot be quantified from this data.",
+     "note": "Recomputed results.json year_compare.\n\nCore:\n- y2024: n=46, 43 ≥1M, 18 ≥10M.\n- y2026: n=50, 47 ≥1M, 10 ≥10M.\n\nThe 2026 core list includes TD BRICKS LEGO ×2, a Josiah Schneider skit, Smosh, Dot games, and Indonesian and Hindi items. The 2024 list includes Oreo, chips, Drake and Mario."
+    },
+    {
+     "id": "S-5",
+     "status": "corrected",
+     "corrected_claim": "The breakout newcomers in this space did not start from a title series. They were already strong from their first uploads with mixed topics in 40–70 s narrated Shorts, which is our format band.\n- FGtheexplainer: its first 10 Shorts (Jan–Feb 2026: a Japanese soldier, Paris tunnels, a Roman soldier, bagpipes, gulags) have a median of 290K and a minimum of 92K. It adopted the '10 Weird Things' template only on 2026-04-08.\n- Why Guy: first-10 median 133K, minimum 104K. Its titles copy Hoodie Guy's style.\n- Hoodie Guy: median 13.8M with only a 4 % title stem.\n- Among the breakout channels under 1 year old, title-stem share does not separate the winners: ≥20 % stem has a median of 70K (N=4) vs 77.75K (N=16).\n\nMixed-topic one-hit channels (History Explorer, GeoGlobeFiles, Helivox) do sit at 1.8–10K. But the separator looks like execution and a consistent presenter or look from upload 1, which is a hypothesis not verified visually, rather than series wording. Caveat: the early videos' lifetime views are inflated by the channels' later growth.",
+     "note": "Pulled the full upload histories with Data API playlistItems and videos.list, about 15 units, saved in verify/template_precedence.json:\n- Hoodie Guy: created 2025-05-18; first upload 2025-05-24 at 24M.\n- Why Guy: first upload 2026-01-27.\n- FGtheexplainer: first upload 2026-01-20; first 'weird'-titled Short on 2026-04-08.\n\nI recomputed Spearman for title-stem share vs median from raw/breakouts_summary.json: 0.29, N=20. The History Explorer, GeoGlobeFiles, Helivox and Nikhil Panwar medians match the file."
+    },
+    {
+     "id": "S-6",
+     "status": "refuted",
+     "corrected_claim": "The data do not show that copying a title formula flops or that copying a gimmick wins.\n- '10 weird things': 12 of the 16 copycat uploads were under 2 days old (median age 1.05 d), so the 1,570 median is an age artifact. The 4 copycats aged ≥3 d have a median of 42,200, including Zoomby Show at 1.99M in 7.6 d.\n- 'If history had sound': 20 of the 61 'copycats' are one channel, Inside The Surface. Excluding it, the median is 5,685 and only 1 of 41 reached ≥100K.\n- The originals' own successors (FGtheexplainer, Why Guy) copied Hoodie Guy's title style and reached medians of about 1M.",
+     "note": "Recomputed from raw/copycats.json, using the age_d and channel fields per row. I checked precedence with verify/template_precedence.json."
+    },
+    {
+     "id": "S-7",
+     "status": "confirmed",
+     "corrected_claim": "Atlas's screen-time across the 6 uploads is 21 %, 31 %, 19 %, 10 %, 6 % and 0 %. He appears in frame 0 only in Volcano and Rabbits. He is an intro/outro host, not the protagonist. The visual styles differ widely between Shorts. The channel description is empty. N=6 shows no link between Atlas screen-time and views.",
+     "note": "I re-counted 4 of the 6 sheets myself:\n- Yellow Fleet: Atlas in s26–31 = 6 s.\n- Pig War: s37–40 = 4 s.\n- Rabbits: s0–5, s7, s23–24 and s52–61 = 19 s.\n- Russell: 0 s, flat vector throughout.\n\nchannel.json confirms an empty description, 4 subs and 5,239 views. The banner text cannot be checked through the API; it was taken from the context."
+    },
+    {
+     "id": "S-8",
+     "status": "corrected",
+     "corrected_claim": "Was Wäre Wenn's October Shorts are at the 95th percentile of German panel uploads, and its channel median at the 97th. That is far above the market, so the edge is mostly execution and format.\n- N=29, median 87,587, minimum 17,653 (at about 21 h old), maximum 511,363, 13 Shorts ≥100K, total 4.22M, lengths 60–74 s.\n- But the German newcomer baseline does not match the English one. The German panel median is 1,175 vs 632 for English core (×1.9), the channel median is ×2.5, and the ≥100K rate per upload is 8.0 % vs 1.9 % (×4.2). German is a softer market for 100K.\n- Was Wäre Wenn is not a newcomer: created 2025-08-26, 4,240 subs. Its own Aug–Sep Shorts had 3.6–5.7K views before the October format change (about a 15–24× jump within the same channel, N=1, confounded with topic and posting twice a day).\n- English panel data do not support porting it: English what-if Shorts ≥45 s reach ≥100K at only 2.4 %, the same as core. Treat the port as an untested A/B test, not as the best-evidenced option.",
+     "note": "Recomputed from raw/wwW_shorts_dapi.json, which lists 37 Shorts including the pre-October ones. Percentiles from raw/panel.json de rows are 94.5 and 96.7. The panel medians come from results.json panel. The what-if length split is in verify/panel_recut.json."
+    },
+    {
+     "id": "S-9",
+     "status": "corrected",
+     "corrected_claim": "German history Shorts show fewer search-visible 1M hits than English: Innertube 90-day popularity buckets found 1 vs 9. But the uploader panel's per-upload ≥1M rate is equal: German 0.49 % (4 of 813) vs English core 0.52 % (5 of 955). All of these hits are off-topic (religious-death shock, police clips) on both sides, and German has a ×4 higher ≥100K rate. 'English has more 1M slots' is plausible but weakly evidenced. German is the easier market for 100K.",
+     "note": "Checked raw/innertube_ceiling_90d.json (de ge_1m 1, max 1.63M Herr Globus; core 9) and raw/hit_rates.json (de 4 of 813 with titles; core 5 of 955)."
+    },
+    {
+     "id": "S-10",
+     "status": "confirmed",
+     "corrected_claim": "Search-ranked samples of fresh uploads overstate typical views by 7–131× vs the uploader panel; for core it is 10,576 vs 632 (×17). One caveat: the panel itself over-samples prolific uploaders. Its hit rates are dominated by 1–3 channels per niche, so they should be read per channel tier, not as niche-wide lotteries.",
+     "note": "Recomputed results.json niches.*.views_age_3_30d.median against panel.*.median for all 10 niches, and all factors match. The channel concentration is in verify/panel_recut.json: top-3 channels hold 13 of 18 core, 89 of 121 what-if and 45 of 65 German ≥100K hits."
+    }
+   ],
+   "missed": [
+    "Hits are a property of channels, not of niches. In every niche, the top 3 channels hold 72–100 % of the ≥100K hits. Channels with a median under 10K reach ≥100K at 0–1.4 % per upload, and 0 of 805 core uploads from such channels hit 1M (verify/panel_recut.json). So niche choice is second-order: the decisive task is raising the channel median ×10 through execution.",
+    "The closest successful format to ATLAS already dominates the core niche: narrated 40–70 s 'weird history/animals' Shorts with mixed topics (Hoodie Guy, Why Guy, FGtheexplainer). Their first uploads were already at 92K–24M (lifetime views, inflated by later growth), so the gap to us looks like an execution gap of 100× or more. The analyst never measured their execution: frame 0, motion, presenter and VO pace. That is what the owner explicitly asks for (analyze execution, not topics). Doing it needs owner approval to download a few reference Shorts.",
+    "Long narrated Shorts on new channels do reach 1M in 2026, against the '1M hits are 7–11 s clips' claim. Jim's Wormhole (21 days old) has 161–172 s Shorts at 2.9M and 2.7M. Map Warden (132 days old) has 'The Falklands: A 300-Year Fight', 94 s, 5.9M (verify/ceiling_story_queries_d90.json), which is a Pig-War-type territorial absurdity.",
+    "Audience geography was ignored. ATLAS Analytics views come 35.5 % from the US, 22.4 % from PH, 7.7 % from IN, 6.7 % from ID and 5.0 % from MY; Anglo countries total about 46 % and South/Southeast Asia about 45 %. PH has the lowest average view % at 48. The newcomer what-if 'proof' channels win with India and Southeast Asia country-pride titles. Whose country a story is about is both a lever and a confound for any 'English market' comparison.",
+    "The owner's own interest signals are absent from the saturation verdict. Shares are 0 on all 4 Analytics-covered Shorts, and the channel has 4 subscribers from 5,239 views (summary.json, channel.json). For 'is the audience interested?' these matter more than percentile rank among mass uploaders.",
+    "The '68th percentile, above-average newcomer' framing flatters ATLAS. The panel is size-biased toward prolific, often mass-produced channels, and many have medians under 100. The meaningful bar is the top-decile core channel median of about 16.6K, which ATLAS (1,154) misses by about ×14.",
+    "Was Wäre Wenn's strongest evidence is within one channel and was not used. Its Aug–Sep 2026 Shorts got 5,745 and 3,640 views. After switching to 60–74 s what-if/why map Shorts at about 2 per day, the October median was 87.6K. A same-channel jump of about 15–24× after a format change is direct evidence for 'execution/format beats niche' (N=1, confounded with topic, frequency and channel history).",
+    "The analyst's own data contradict its action items. The recommended WWW port has no English support: what-if ≥45 s reaches ≥100K at 2.4 %, the same as core. The 'series title first' action is contradicted by the analyst's own title-stem data and by FGtheexplainer's history. The 'avoid mystery' action is contradicted by Jim's Wormhole in the analyst's own core panel."
+   ]
+  }
+ }
+]
